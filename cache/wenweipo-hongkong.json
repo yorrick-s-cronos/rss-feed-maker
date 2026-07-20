@@ -18,5 +18,6 @@
     "https://www.wenweipo.com/a/202607/20/AP6a5e03b0e4b0c1e500217d94.html",
     "https://www.wenweipo.com/a/202607/20/AP6a5df338e4b0b49ad1c427bd.html"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "2/3 links unreachable"
 }
