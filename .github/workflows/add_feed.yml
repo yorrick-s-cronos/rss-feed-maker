@@ -1,0 +1,231 @@
+name: Add Feed
+
+on:
+  issues:
+    # Use `labeled` (not `opened`) because issue-form templates can apply labels
+    # after the opened event fires, causing the label guard to skip silently.
+    # Listening to `labeled` avoids that race.
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+  models: read
+
+jobs:
+  add-feed:
+    if: github.event.label.name == 'new-feed' || github.event.label.name == 'retry-feed'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install
+
+      - name: Extract URL from issue
+        id: url
+        env:
+          # Pass via env, not shell interpolation — issue bodies are untrusted input.
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          URL=$(echo "$ISSUE_BODY" | grep -oP 'https?://\S+' | head -1)
+          echo "url=$URL" >> $GITHUB_OUTPUT
+          echo "Extracted URL: $URL"
+
+      - name: Add feed (smart detection)
+        id: add-feed
+        shell: bash
+        run: |
+          set -eo pipefail
+          # Snapshot the newest config BEFORE running (to detect whether a new one is created)
+          PREV=$(ls -t configs/*.json 2>/dev/null | head -1 || echo "")
+          echo "prev_config=$PREV" >> $GITHUB_OUTPUT
+          bun run src/add-smart.ts "$FEED_SOURCE_URL" 2>&1 | tee /tmp/add-smart.log
+          OUTPUT=$(cat /tmp/add-smart.log)
+          NATIVE_URL=$(echo "$OUTPUT" | grep '^native_feed_url=' | sed 's/^native_feed_url=//' || true)
+          if [ -n "$NATIVE_URL" ]; then
+            echo "native_url=$NATIVE_URL" >> $GITHUB_OUTPUT
+          fi
+          # Identify the config created by this run, only if it's actually new
+          NEW=$(ls -t configs/*.json 2>/dev/null | head -1 || echo "")
+          if [ -n "$NEW" ] && [ "$NEW" != "$PREV" ]; then
+            echo "config_name=$(basename "$NEW" .json)" >> $GITHUB_OUTPUT
+            echo "Config created: $NEW"
+          elif [ -z "$NATIVE_URL" ]; then
+            echo "❌ add-smart.ts did not create a new config and no native feed was detected"
+            exit 1
+          fi
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          FEED_SOURCE_URL: ${{ steps.url.outputs.url }}
+
+      - name: Verify feed URL
+        id: verify
+        shell: bash
+        env:
+          CONFIG_NAME: ${{ steps.add-feed.outputs.config_name }}
+          NATIVE_URL: ${{ steps.add-feed.outputs.native_url }}
+        run: |
+          VERIFIED=false
+          FEED_URL=""
+          if [ -n "$NATIVE_URL" ]; then
+            # Native feed: confirm the URL actually serves RSS/Atom XML
+            BODY_HEAD=$(curl -sL --max-time 20 "$NATIVE_URL" | head -c 2000 || true)
+            if [ -z "$BODY_HEAD" ]; then
+              # Some sites serve incomplete TLS chains (same fallback as tolerantFetch
+              # in src/fetcher.ts) — read-only content check, so verification-off is OK.
+              BODY_HEAD=$(curl -skL --max-time 20 "$NATIVE_URL" | head -c 2000 || true)
+            fi
+            if echo "$BODY_HEAD" | grep -qE '<\?xml|<rss|<feed'; then
+              VERIFIED=true
+              FEED_URL="$NATIVE_URL"
+            fi
+          elif [ -n "$CONFIG_NAME" ] && [ -f "feeds/${CONFIG_NAME}.xml" ] && grep -q "<item>" "feeds/${CONFIG_NAME}.xml"; then
+            # Generated feed: confirm the XML exists and contains articles
+            VERIFIED=true
+            FEED_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/feeds/${CONFIG_NAME}.xml"
+          fi
+          echo "verified=$VERIFIED" >> $GITHUB_OUTPUT
+          echo "feed_url=$FEED_URL" >> $GITHUB_OUTPUT
+          echo "Verified: $VERIFIED ($FEED_URL)"
+
+      - name: Update README
+        run: bun run readme
+
+      - name: Commit changes
+        env:
+          FEED_SOURCE_URL: ${{ steps.url.outputs.url }}
+        run: |
+          git config --global user.name "ai-rss-feeds[bot]"
+          git config --global user.email "ai-rss-feeds[bot]@users.noreply.github.com"
+          git add configs/ feeds/ cache/ README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "feat: add feed for $FEED_SOURCE_URL"
+            git push
+          fi
+
+      - name: Comment on issue
+        uses: actions/github-script@v8
+        env:
+          VERIFIED: ${{ steps.verify.outputs.verified }}
+          FEED_URL: ${{ steps.verify.outputs.feed_url }}
+          NATIVE_URL: ${{ steps.add-feed.outputs.native_url }}
+        with:
+          script: |
+            const verified = process.env.VERIFIED === 'true';
+            const feedUrl = process.env.FEED_URL || '';
+            const nativeUrl = process.env.NATIVE_URL || '';
+
+            let body = '';
+            if (verified && nativeUrl) {
+              body = `✅ Native RSS feed found — no copy needed.\n\n📖 Subscribe: \`${feedUrl}\``;
+            } else if (verified) {
+              body = `✅ Feed added successfully!\n\n📖 Subscribe: \`${feedUrl}\``;
+            } else {
+              body = `⚠️ A working feed URL could not be verified for this site. Leaving this issue open — check the workflow logs.`;
+            }
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
+
+            if (verified) {
+              // Only close the issue once a working feed URL has been confirmed.
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                state: 'closed',
+              });
+              for (const label of ['feed-failed', 'retry-feed']) {
+                try {
+                  await github.rest.issues.removeLabel({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: context.issue.number,
+                    name: label,
+                  });
+                } catch (err) {
+                  if (err.status !== 404) throw err;
+                }
+              }
+            } else {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                state: 'open',
+              });
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: ['feed-failed'],
+              });
+              try {
+                await github.rest.issues.removeLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  name: 'retry-feed',
+                });
+              } catch (err) {
+                if (err.status !== 404) throw err;
+              }
+            }
+
+      - name: Comment failure
+        if: failure()
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const fs = require('fs');
+            let errorHint = '';
+            try {
+              const logContent = fs.readFileSync('/tmp/add-smart.log', 'utf8');
+              if (logContent.includes('Cloudflare') || logContent.includes('cf-mitigated')) {
+                errorHint = '\n\n⚠️ This site is protected by Cloudflare bot detection. Static HTTP requests cannot access it.';
+              } else if (logContent.includes('Unknown pseudo-class')) {
+                errorHint = '\n\n⚠️ The generated CSS selector was invalid for Cheerio. Apply the `retry-feed` label after selector retry fixes are merged.';
+              } else if (logContent.includes('No articles found')) {
+                errorHint = '\n\n⚠️ The site structure could not be parsed. It may be a JavaScript-rendered SPA.';
+              } else if (logContent.includes('No releases found')) {
+                errorHint = '\n\n⚠️ No GitHub releases found for this repository.';
+              }
+            } catch (e) {}
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `❌ Failed to add feed.${errorHint}\n\nLeaving this issue open for retry or manual handling.`
+            });
+
+            // Keep the issue open — it is only closed after a verified feed URL exists.
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'open',
+            });
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['feed-failed'],
+            });
+            try {
+              await github.rest.issues.removeLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                name: 'retry-feed',
+              });
+            } catch (err) {
+              if (err.status !== 404) throw err;
+            }

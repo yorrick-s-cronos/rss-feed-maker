@@ -1,0 +1,22 @@
+{
+  "name": "aihero-dev",
+  "url": "https://www.aihero.dev/",
+  "feed": {
+    "title": "www.aihero.dev",
+    "description": "AI Hero - AI Engineering for Curious Professional Developers",
+    "language": "en",
+    "author": "www.aihero.dev"
+  },
+  "selectors": {
+    "articleList": "",
+    "title": "",
+    "link": {
+      "source": ""
+    }
+  },
+  "parserMode": "rss",
+  "rssExtraction": {
+    "feedUrl": "https://www.aihero.dev/rss.xml"
+  },
+  "createdAt": "2026-05-17T17:28:17.587Z"
+}

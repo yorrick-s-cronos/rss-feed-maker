@@ -1,0 +1,91 @@
+name: Update Feeds
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install
+      - id: run-all
+        run: bun run src/run-all.ts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - if: always()
+        run: bun run readme
+      - name: Commit changes
+        if: always()
+        run: |
+          git config --global user.name "ai-rss-feeds[bot]"
+          git config --global user.email "ai-rss-feeds[bot]@users.noreply.github.com"
+          # cache/ holds feed-health snapshots (consecutiveErrors) — must persist
+          # across runs so the auto-heal threshold below can ever be reached.
+          git add feeds/ cache/ README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update feeds"
+            git push
+          fi
+      - name: Check for failing feeds and auto-heal
+        if: always()
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const cacheDir = path.join(process.cwd(), 'cache');
+            
+            if (!fs.existsSync(cacheDir)) {
+              console.log('No cache directory, skipping auto-heal');
+              return;
+            }
+            
+            const files = fs.readdirSync(cacheDir);
+            const failingFeeds = [];
+            
+            for (const file of files) {
+              if (!file.endsWith('.json')) continue;
+              const snapshotPath = path.join(cacheDir, file);
+              const snapshot = JSON.parse(fs.readFileSync(snapshotPath, 'utf8'));
+              const feedName = file.replace('.json', '');
+              
+              if (snapshot.consecutiveErrors >= 3) {
+                console.log(`⚠️ Feed ${feedName} has ${snapshot.consecutiveErrors} consecutive errors`);
+                failingFeeds.push(feedName);
+              }
+            }
+            
+            if (failingFeeds.length === 0) {
+              console.log('✅ No feeds with >=3 consecutive errors');
+              return;
+            }
+            
+            console.log(`🚀 Triggering auto-heal for ${failingFeeds.length} feed(s)...`);
+            
+            for (const feedName of failingFeeds) {
+              console.log(`   Healing ${feedName}...`);
+              try {
+                await github.rest.actions.createWorkflowDispatch({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  workflow_id: 'heal_feed.yml',
+                  ref: 'main',
+                  inputs: {
+                    feed_name: feedName
+                  }
+                });
+                console.log(`   ✅ Heal workflow triggered for ${feedName}`);
+              } catch (err) {
+                console.log(`   ❌ Failed to trigger heal for ${feedName}:`, err.message);
+              }
+            }

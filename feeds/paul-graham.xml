@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Paul Graham Essays</title>
+        <link>https://www.paulgraham.com/articles.html</link>
+        <description>Essays by Paul Graham on startups, programming, and technology</description>
+        <lastBuildDate>Sun, 15 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
+        <language>en</language>
+        <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/paul-graham.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Do Great Work]]></title>
+            <link>https://www.paulgraham.com/greatwork.html</link>
+            <guid>https://www.paulgraham.com/greatwork.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Earn a Billion Dollars]]></title>
+            <link>https://www.paulgraham.com/earn.html</link>
+            <guid>https://www.paulgraham.com/earn.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Convert Between Wealth and Income Tax]]></title>
+            <link>https://www.paulgraham.com/winc.html</link>
+            <guid>https://www.paulgraham.com/winc.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Brand Age]]></title>
+            <link>https://www.paulgraham.com/brandage.html</link>
+            <guid>https://www.paulgraham.com/brandage.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Shape of the Essay Field]]></title>
+            <link>https://www.paulgraham.com/field.html</link>
+            <guid>https://www.paulgraham.com/field.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good Writing]]></title>
+            <link>https://www.paulgraham.com/goodwriting.html</link>
+            <guid>https://www.paulgraham.com/goodwriting.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Do]]></title>
+            <link>https://www.paulgraham.com/do.html</link>
+            <guid>https://www.paulgraham.com/do.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Origins of Wokeness]]></title>
+            <link>https://www.paulgraham.com/woke.html</link>
+            <guid>https://www.paulgraham.com/woke.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Writes and Write-Nots]]></title>
+            <link>https://www.paulgraham.com/writes.html</link>
+            <guid>https://www.paulgraham.com/writes.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When To Do What You Love]]></title>
+            <link>https://www.paulgraham.com/when.html</link>
+            <guid>https://www.paulgraham.com/when.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Founder Mode]]></title>
+            <link>https://www.paulgraham.com/foundermode.html</link>
+            <guid>https://www.paulgraham.com/foundermode.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Right Kind of Stubborn]]></title>
+            <link>https://www.paulgraham.com/persistence.html</link>
+            <guid>https://www.paulgraham.com/persistence.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Reddits]]></title>
+            <link>https://www.paulgraham.com/reddits.html</link>
+            <guid>https://www.paulgraham.com/reddits.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Start Google]]></title>
+            <link>https://www.paulgraham.com/google.html</link>
+            <guid>https://www.paulgraham.com/google.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best Essay]]></title>
+            <link>https://www.paulgraham.com/best.html</link>
+            <guid>https://www.paulgraham.com/best.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Superlinear Returns]]></title>
+            <link>https://www.paulgraham.com/superlinear.html</link>
+            <guid>https://www.paulgraham.com/superlinear.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Get New Ideas]]></title>
+            <link>https://www.paulgraham.com/getideas.html</link>
+            <guid>https://www.paulgraham.com/getideas.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Need to Read]]></title>
+            <link>https://www.paulgraham.com/read.html</link>
+            <guid>https://www.paulgraham.com/read.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What You (Want to)* Want]]></title>
+            <link>https://www.paulgraham.com/want.html</link>
+            <guid>https://www.paulgraham.com/want.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alien Truth]]></title>
+            <link>https://www.paulgraham.com/alien.html</link>
+            <guid>https://www.paulgraham.com/alien.html</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

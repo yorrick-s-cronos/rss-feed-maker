@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Cursor Blog</title>
+        <link>https://cursor.com/blog</link>
+        <description>Latest updates and insights from the Cursor team about AI-powered coding</description>
+        <lastBuildDate>Fri, 17 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
+        <language>en</language>
+        <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cursor-blog.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Improvements to Cursor in Slack]]></title>
+            <link>https://cursor.com/changelog/slack-improvements</link>
+            <guid>https://cursor.com/changelog/slack-improvements</guid>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Side Chats and Conversation Search]]></title>
+            <link>https://cursor.com/changelog/side-chat</link>
+            <guid>https://cursor.com/changelog/side-chat</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Grok 4.5]]></title>
+            <link>https://cursor.com/blog/grok-4-5</link>
+            <guid>https://cursor.com/blog/grok-4-5</guid>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our most intelligent model and the first we've built for more than software engineering.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MCPs and Organizations in Team Marketplaces]]></title>
+            <link>https://cursor.com/changelog/team-marketplace-updates</link>
+            <guid>https://cursor.com/changelog/team-marketplace-updates</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build from anywhere with Cursor for iOS]]></title>
+            <link>https://cursor.com/blog/ios-mobile-app</link>
+            <guid>https://cursor.com/blog/ios-mobile-app</guid>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cursor is available as a native iOS app on your phone, now in public beta.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cursor Mobile App for iOS]]></title>
+            <link>https://cursor.com/changelog/ios-mobile-app</link>
+            <guid>https://cursor.com/changelog/ios-mobile-app</guid>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase reduces time from idea to production by 90% with Cursor]]></title>
+            <link>https://cursor.com/blog/coinbase</link>
+            <guid>https://cursor.com/blog/coinbase</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Wayfair cut ML model costs by 90% (twice!) with Cursor]]></title>
+            <link>https://cursor.com/blog/wayfair</link>
+            <guid>https://cursor.com/blog/wayfair</guid>
+            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Direct agents with visual prompts in Design Mode]]></title>
+            <link>https://cursor.com/blog/design-mode</link>
+            <guid>https://cursor.com/blog/design-mode</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Point, draw, or narrate UI changes in the browser while agents edit the code underneath.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Faire doubles PR throughput with Cursor Cloud Agents]]></title>
+            <link>https://cursor.com/blog/faire</link>
+            <guid>https://cursor.com/blog/faire</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond efficiency: PayPal expands what's possible to build with AI]]></title>
+            <link>https://cursor.com/blog/paypal</link>
+            <guid>https://cursor.com/blog/paypal</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cursor built a fleet of security agents to solve a familiar frustration]]></title>
+            <link>https://thenewstack.io/cursor-open-sources-security-agents/</link>
+            <guid>https://thenewstack.io/cursor-open-sources-security-agents/</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cursor is rolling out a new kind of agentic coding tool]]></title>
+            <link>https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/</link>
+            <guid>https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cursor Recurring Revenue Doubles in Three Months to $2 Billion]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion</link>
+            <guid>https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cursor announces major update to AI agents as coding tool battle heats up]]></title>
+            <link>https://www.cnbc.com/2026/02/24/cursor-announces-major-update-as-ai-coding-agent-battle-heats-up.html</link>
+            <guid>https://www.cnbc.com/2026/02/24/cursor-announces-major-update-as-ai-coding-agent-battle-heats-up.html</guid>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cursor now shows you demos, not diffs]]></title>
+            <link>https://youtu.be/XbZvC4KTH68?si=sEDqt3JtV0PoqLei</link>
+            <guid>https://youtu.be/XbZvC4KTH68?si=sEDqt3JtV0PoqLei</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Schulman on dead ends, scaling RL, and building research institutions]]></title>
+            <link>https://youtu.be/29BYxvvF1iM?si=LRmoeWAwilHKmjGY</link>
+            <guid>https://youtu.be/29BYxvvF1iM?si=LRmoeWAwilHKmjGY</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our designer built an operating system with Cursor]]></title>
+            <link>https://youtu.be/TQhv6Wol6Ns?si=bb8_Jr5u7Kb8n6jk</link>
+            <guid>https://youtu.be/TQhv6Wol6Ns?si=bb8_Jr5u7Kb8n6jk</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Foundations: Introduction]]></title>
+            <link>https://youtu.be/IccjZDV93lw?si=f3mepO4Ptiqdg4F8</link>
+            <guid>https://youtu.be/IccjZDV93lw?si=f3mepO4Ptiqdg4F8</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

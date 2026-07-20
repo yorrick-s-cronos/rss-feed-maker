@@ -1,0 +1,22 @@
+name: "📡 Request New Feed"
+description: "Request an RSS feed for a blog or GitHub project"
+labels: ["new-feed"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Just paste the URL below and we'll handle the rest!
+
+        **Supported URL types:**
+        - 🌐 Blog index page → AI generates CSS selectors automatically
+        - 🐙 GitHub repo (e.g. `https://github.com/owner/repo`) → Uses GitHub Releases API
+        - 📝 GitHub CHANGELOG.md → Uses GitHub Releases API
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: "Blog URL or GitHub repo URL"
+      placeholder: "https://github.com/owner/repo or https://example.com/blog"
+    validations:
+      required: true

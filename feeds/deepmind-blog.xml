@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Google DeepMind Blog</title>
+        <link>https://deepmind.google/discover/blog/</link>
+        <description>Research and discoveries from Google DeepMind</description>
+        <lastBuildDate>Wed, 01 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
+        <language>en</language>
+        <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/deepmind-blog.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our approach to bioresilience]]></title>
+            <link>https://deepmind.google/blog/our-approach-to-bioresilience/</link>
+            <guid>https://deepmind.google/blog/our-approach-to-bioresilience/</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Empowering India’s next generation of innovators with ATL Saathi]]></title>
+            <link>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</link>
+            <guid>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Start building with Nano Banana 2 Lite and Gemini Omni Flash]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing computer use in Gemini 3.5 Flash]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google DeepMind and A24 announce first-of-its-kind research partnership]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Securing the future of AI agents]]></title>
+            <link>https://deepmind.google/blog/securing-the-future-of-ai-agents/</link>
+            <guid>https://deepmind.google/blog/securing-the-future-of-ai-agents/</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unlocking UK house-building with AI-accelerated planning]]></title>
+            <link>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</link>
+            <guid>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Investing in multi-agent AI safety research]]></title>
+            <link>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</link>
+            <guid>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DiffusionGemma: 4x faster text generation]]></title>
+            <link>https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</link>
+            <guid>https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fluid, natural voice translation with Gemini 3.5 Live Translate]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measuring the impact of learning with AI in Sierra Leone and beyond]]></title>
+            <link>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</link>
+            <guid>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Powering the future of robotics in Europe]]></title>
+            <link>https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</link>
+            <guid>https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Gemma 4 12B: a unified, encoder-free multimodal model]]></title>
+            <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</link>
+            <guid>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Gemini Omni]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strengthening Singapore’s AI Future: A New National Partnership]]></title>
+            <link>https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/</link>
+            <guid>https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gemini 3.5: frontier intelligence with action]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gemini for Science: AI experiments and tools for a new era of discovery]]></title>
+            <link>https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/</link>
+            <guid>https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Co-Scientist: A multi-agent AI partner to accelerate research]]></title>
+            <link>https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/</link>
+            <guid>https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Google Antigravity 2.0]]></title>
+            <link>https://antigravity.google/blog/introducing-google-antigravity-2-0</link>
+            <guid>https://antigravity.google/blog/introducing-google-antigravity-2-0</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making it easier to understand how content was created and edited]]></title>
+            <link>https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online</link>
+            <guid>https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica]]></title>
+            <link>https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/</link>
+            <guid>https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simulate real-world places with Project Genie and Street View]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accelerating discovery of liver disease mechanisms]]></title>
+            <link>https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/</link>
+            <guid>https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uniting biological toolkits for a new approach to ALS]]></title>
+            <link>https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/</link>
+            <guid>https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opening new paths in aging research]]></title>
+            <link>https://deepmind.google/blog/opening-new-paths-in-aging-research/</link>
+            <guid>https://deepmind.google/blog/opening-new-paths-in-aging-research/</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

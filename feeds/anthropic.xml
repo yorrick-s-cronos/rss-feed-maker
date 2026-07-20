@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Anthropic News</title>
+        <link>https://www.anthropic.com/news</link>
+        <description>News and announcements from Anthropic.</description>
+        <lastBuildDate>Tue, 14 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
+        <language>en</language>
+        <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing Claude for Teachers]]></title>
+            <link>https://www.anthropic.com/news/claude-for-teachers</link>
+            <guid>https://www.anthropic.com/news/claude-for-teachers</guid>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic commits $10 million to Canadian AI research]]></title>
+            <link>https://www.anthropic.com/news/canadian-ai-research</link>
+            <guid>https://www.anthropic.com/news/canadian-ai-research</guid>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UST is bringing Claude to physical AI]]></title>
+            <link>https://www.anthropic.com/news/ust-claude</link>
+            <guid>https://www.anthropic.com/news/ust-claude</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inviting hard questions]]></title>
+            <link>https://www.anthropic.com/news/hard-questions</link>
+            <guid>https://www.anthropic.com/news/hard-questions</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust]]></title>
+            <link>https://www.anthropic.com/news/ben-bernanke</link>
+            <guid>https://www.anthropic.com/news/ben-bernanke</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing a way to reflect on how you use Claude]]></title>
+            <link>https://www.anthropic.com/news/reflect-with-claude</link>
+            <guid>https://www.anthropic.com/news/reflect-with-claude</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems]]></title>
+            <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
+            <guid>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</guid>
+            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More details on Fable 5’s cyber safeguards and our jailbreak framework]]></title>
+            <link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>
+            <guid>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</guid>
+            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Claude Sonnet 5]]></title>
+            <link>https://www.anthropic.com/news/claude-sonnet-5</link>
+            <guid>https://www.anthropic.com/news/claude-sonnet-5</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redeploying Fable 5]]></title>
+            <link>https://www.anthropic.com/news/redeploying-fable-5</link>
+            <guid>https://www.anthropic.com/news/redeploying-fable-5</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

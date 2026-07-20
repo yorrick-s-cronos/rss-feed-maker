@@ -1,0 +1,25 @@
+{
+  "name": "hermes-agent-releases",
+  "url": "https://github.com/NousResearch/hermes-agent/releases",
+  "feed": {
+    "title": "hermes-agent Releases",
+    "description": "GitHub releases for NousResearch/hermes-agent",
+    "language": "en",
+    "author": "NousResearch"
+  },
+  "selectors": {
+    "articleList": "",
+    "title": "",
+    "link": {
+      "source": ""
+    }
+  },
+  "parserMode": "github-releases",
+  "githubReleasesExtraction": {
+    "owner": "NousResearch",
+    "repo": "hermes-agent",
+    "includePrerelease": false,
+    "limit": 50
+  },
+  "createdAt": "2026-05-27T08:54:36.289Z"
+}

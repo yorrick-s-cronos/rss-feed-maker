@@ -1,0 +1,22 @@
+{
+  "name": "booking-ai",
+  "url": "https://booking.ai/",
+  "feed": {
+    "title": "booking.ai",
+    "description": "External RSS: https://booking.ai/feed",
+    "language": "en",
+    "author": "booking.ai"
+  },
+  "selectors": {
+    "articleList": "",
+    "title": "",
+    "link": {
+      "source": ""
+    }
+  },
+  "parserMode": "external",
+  "rssExtraction": {
+    "feedUrl": "https://booking.ai/feed"
+  },
+  "createdAt": "2026-06-11T16:40:42.807Z"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "podcast",
+  "url": "https://finance.biggo.jp/podcast",
+  "feed": {
+    "title": "Podcast AI要約｜投資・金融番組のポイント整理 — BigGo ファイナンス",
+    "description": "人気の金融 Podcast を AI 要約で効率的にチェック。各エピソードの重要ポイント、市場分析、投資インサイトを素早く把握。",
+    "language": "ja",
+    "author": "BigGo"
+  },
+  "selectors": {
+    "articleList": ".PodcastList_episodesList__MZXIN .PodcastList_episodeCard__1sZNS",
+    "title": ".PodcastList_title__qSxrB",
+    "link": {
+      "source": "attr:href",
+      "prefix": "https://finance.biggo.jp"
+    }
+  },
+  "createdAt": "2026-05-20T17:27:51.797Z"
+}

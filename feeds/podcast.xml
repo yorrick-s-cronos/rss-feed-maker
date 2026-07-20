@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Podcast AI要約｜投資・金融番組のポイント整理 — BigGo ファイナンス</title>
+        <link>https://finance.biggo.jp/podcast</link>
+        <description>人気の金融 Podcast を AI 要約で効率的にチェック。各エピソードの重要ポイント、市場分析、投資インサイトを素早く把握。</description>
+        <lastBuildDate>Wed, 20 May 2026 17:27:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
+        <language>ja</language>
+        <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alex Hormozi: The #1 Mistake People Make Building A Business. Learn This Now!]]></title>
+            <link>https://finance.biggo.jp/podcast/26323be4dd6fb9aa</link>
+            <guid>https://finance.biggo.jp/podcast/26323be4dd6fb9aa</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントが自己矛盾する理由とその対策 - Diane Lin, Datadog]]></title>
+            <link>https://finance.biggo.jp/podcast/b254f3e05decdd53</link>
+            <guid>https://finance.biggo.jp/podcast/b254f3e05decdd53</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エンタープライズエージェントには構造上の問題がある - イシタ・ダガ、テスラ]]></title>
+            <link>https://finance.biggo.jp/podcast/72a25dc4bed1d615</link>
+            <guid>https://finance.biggo.jp/podcast/72a25dc4bed1d615</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントが物理データと出会うとき：エージェントハーネスのもう一つの物理法則 - Dmitry Petrov, DataChain]]></title>
+            <link>https://finance.biggo.jp/podcast/d3b84bc9fd2ae6d7</link>
+            <guid>https://finance.biggo.jp/podcast/d3b84bc9fd2ae6d7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[買い手を知るAI GTMエージェントを構築する - サジャン・カヌコラヌ博士、Position2（ポジション・スクエアード）]]></title>
+            <link>https://finance.biggo.jp/podcast/1d543bc3b113efa2</link>
+            <guid>https://finance.biggo.jp/podcast/1d543bc3b113efa2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントにはツール呼び出しではなく、領収書が必要 - Armanas Povilionis, Alithea Bio]]></title>
+            <link>https://finance.biggo.jp/podcast/0fb327c1b0f4c94b</link>
+            <guid>https://finance.biggo.jp/podcast/0fb327c1b0f4c94b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントの出力はUXではない：LLMパイプラインに欠けているレンダリングレイヤー - Bala Ramdoss（Amazon Lens）]]></title>
+            <link>https://finance.biggo.jp/podcast/1430b6d0750a36eb</link>
+            <guid>https://finance.biggo.jp/podcast/1430b6d0750a36eb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[割り込みを処理する音声エージェント - Chintan Agrawal と Daniel Wirjo（AWS）]]></title>
+            <link>https://finance.biggo.jp/podcast/ab33a93f4ba3f67b</link>
+            <guid>https://finance.biggo.jp/podcast/ab33a93f4ba3f67b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スキルは新しいSDKである - Elvin Aghammadzada（DataRobot）]]></title>
+            <link>https://finance.biggo.jp/podcast/8aafaa660435e03e</link>
+            <guid>https://finance.biggo.jp/podcast/8aafaa660435e03e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CervoMedのマット・ウィントン博士が語る後期開発と商業計画]]></title>
+            <link>https://finance.biggo.jp/podcast/0dc976fbe86a8494</link>
+            <guid>https://finance.biggo.jp/podcast/0dc976fbe86a8494</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[私はこの信じられないアプリのアイデアで月収10万ドルを稼いでいます]]></title>
+            <link>https://finance.biggo.jp/podcast/afe5741b54c2d24b</link>
+            <guid>https://finance.biggo.jp/podcast/afe5741b54c2d24b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[トレンドフォローはかつてない速さで変化している | Systematic Investor | Ep.409]]></title>
+            <link>https://finance.biggo.jp/podcast/6fb6a429f599196c</link>
+            <guid>https://finance.biggo.jp/podcast/6fb6a429f599196c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kimi K3がコストの1%でフロンティアAIを提供：Emad Mostaqueと語るAIスプートニク・モーメント | Ep. 272]]></title>
+            <link>https://finance.biggo.jp/podcast/4947767cedfe7274</link>
+            <guid>https://finance.biggo.jp/podcast/4947767cedfe7274</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[「AIの四季：OpenAI、Anthropic、SpaceX、Google」…AI最大の著名人による12のホットテイク]]></title>
+            <link>https://finance.biggo.jp/podcast/fc1faa1b144969f6</link>
+            <guid>https://finance.biggo.jp/podcast/fc1faa1b144969f6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIのスピードクラッシュ：構造的な強気相場は終わっていない]]></title>
+            <link>https://finance.biggo.jp/podcast/fce144d185fa0fc6</link>
+            <guid>https://finance.biggo.jp/podcast/fce144d185fa0fc6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NetflixがAI時代にスペシャリストではなくシステム思考家に賭ける理由 | エリザベス・ストーン（CPTO）]]></title>
+            <link>https://finance.biggo.jp/podcast/27bd0ef00fc6ae65</link>
+            <guid>https://finance.biggo.jp/podcast/27bd0ef00fc6ae65</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本当に意味のある評価を構築する — Nick Ung（Lyft）]]></title>
+            <link>https://finance.biggo.jp/podcast/9964d2cf12e70e8e</link>
+            <guid>https://finance.biggo.jp/podcast/9964d2cf12e70e8e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIVP084（動画）：拼多多（PDD）：PDDは中国で最もお買い得な銘柄か？ ダニエル・マーンケ＆ショーン・オマリーと共に]]></title>
+            <link>https://finance.biggo.jp/podcast/2f8f235af59013a2</link>
+            <guid>https://finance.biggo.jp/podcast/2f8f235af59013a2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[マーチャント・バンカーたち]]></title>
+            <link>https://finance.biggo.jp/podcast/37c6f9a70bd99bf4</link>
+            <guid>https://finance.biggo.jp/podcast/37c6f9a70bd99bf4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TWiV 1341: ファージの破壊とCOVIDの起源]]></title>
+            <link>https://finance.biggo.jp/podcast/45744a6ccae53222</link>
+            <guid>https://finance.biggo.jp/podcast/45744a6ccae53222</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

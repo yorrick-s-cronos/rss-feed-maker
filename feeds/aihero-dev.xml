@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>www.aihero.dev</title>
+        <link>https://www.aihero.dev/</link>
+        <description>AI Hero - AI Engineering for Curious Professional Developers</description>
+        <lastBuildDate>Wed, 08 Jul 2026 15:28:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
+        <language>en</language>
+        <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/aihero-dev.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The /grilling Skill]]></title>
+            <link>https://www.aihero.dev/skills-grilling</link>
+            <guid>https://www.aihero.dev/skills-grilling</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /domain-modeling Skill]]></title>
+            <link>https://www.aihero.dev/skills-domain-modeling</link>
+            <guid>https://www.aihero.dev/skills-domain-modeling</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /writing-great-skills Skill]]></title>
+            <link>https://www.aihero.dev/skills-writing-great-skills</link>
+            <guid>https://www.aihero.dev/skills-writing-great-skills</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /codebase-design Skill]]></title>
+            <link>https://www.aihero.dev/skills-codebase-design</link>
+            <guid>https://www.aihero.dev/skills-codebase-design</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /teach Skill]]></title>
+            <link>https://www.aihero.dev/skills-teach</link>
+            <guid>https://www.aihero.dev/skills-teach</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /triage Skill]]></title>
+            <link>https://www.aihero.dev/skills-triage</link>
+            <guid>https://www.aihero.dev/skills-triage</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /diagnosing-bugs Skill]]></title>
+            <link>https://www.aihero.dev/skills-diagnosing-bugs</link>
+            <guid>https://www.aihero.dev/skills-diagnosing-bugs</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /research Skill]]></title>
+            <link>https://www.aihero.dev/skills-research</link>
+            <guid>https://www.aihero.dev/skills-research</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /wayfinder Skill]]></title>
+            <link>https://www.aihero.dev/skills-wayfinder</link>
+            <guid>https://www.aihero.dev/skills-wayfinder</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /code-review Skill]]></title>
+            <link>https://www.aihero.dev/skills-code-review</link>
+            <guid>https://www.aihero.dev/skills-code-review</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /implement Skill]]></title>
+            <link>https://www.aihero.dev/skills-implement</link>
+            <guid>https://www.aihero.dev/skills-implement</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /setup-matt-pocock-skills Skill]]></title>
+            <link>https://www.aihero.dev/skills-setup-matt-pocock-skills</link>
+            <guid>https://www.aihero.dev/skills-setup-matt-pocock-skills</guid>
+            <pubDate>Wed, 08 Jul 2026 15:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /grill-with-docs Skill]]></title>
+            <link>https://www.aihero.dev/skills-grill-with-docs</link>
+            <guid>https://www.aihero.dev/skills-grill-with-docs</guid>
+            <pubDate>Wed, 08 Jul 2026 15:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /ask-matt Skill]]></title>
+            <link>https://www.aihero.dev/skills-ask-matt</link>
+            <guid>https://www.aihero.dev/skills-ask-matt</guid>
+            <pubDate>Wed, 08 Jul 2026 15:07:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[v1.1: /wayfinder, /to-spec, /to-tickets, /grilling improvements, and much more]]></title>
+            <link>https://www.aihero.dev/skills/skills-changelog-v1-1-wayfinder-to-spec-to-tickets-grilling-improvements</link>
+            <guid>https://www.aihero.dev/skills/skills-changelog-v1-1-wayfinder-to-spec-to-tickets-grilling-improvements</guid>
+            <pubDate>Wed, 08 Jul 2026 14:13:51 GMT</pubDate>
+            <description><![CDATA[Skills v1.1 released: Learn new agent skills for AI coding including Wayfinder for planning, spec improvements, and TDD refactoring.]]></description>
+            <content:encoded><![CDATA[Skills v1.1 released: Learn new agent skills for AI coding including Wayfinder for planning, spec improvements, and TDD refactoring.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /grill-me Skill]]></title>
+            <link>https://www.aihero.dev/skills-grill-me</link>
+            <guid>https://www.aihero.dev/skills-grill-me</guid>
+            <pubDate>Wed, 08 Jul 2026 11:13:02 GMT</pubDate>
+            <description><![CDATA[A guide to Matt Pocock's grill-me skill for resolving design decisions before implementation.]]></description>
+            <content:encoded><![CDATA[A guide to Matt Pocock's grill-me skill for resolving design decisions before implementation.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How To Kill The Bloat In Claude Code's System Prompt]]></title>
+            <link>https://www.aihero.dev/how-to-kill-the-bloat-in-claude-codes-system-prompt</link>
+            <guid>https://www.aihero.dev/how-to-kill-the-bloat-in-claude-codes-system-prompt</guid>
+            <pubDate>Tue, 07 Jul 2026 12:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Skills for Real Engineers]]></title>
+            <link>https://www.aihero.dev/skills-catalog</link>
+            <guid>https://www.aihero.dev/skills-catalog</guid>
+            <pubDate>Mon, 06 Jul 2026 16:04:48 GMT</pubDate>
+            <description><![CDATA[A practical skill system for engineers who want to use AI without giving up their standards.]]></description>
+            <content:encoded><![CDATA[A practical skill system for engineers who want to use AI without giving up their standards.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[triage: Turn Backlog Mess Into Agent-Ready Work]]></title>
+            <link>https://www.aihero.dev/burn-through-your-backlog-with-my-triage-skill</link>
+            <guid>https://www.aihero.dev/burn-through-your-backlog-with-my-triage-skill</guid>
+            <pubDate>Mon, 06 Jul 2026 15:19:17 GMT</pubDate>
+            <description><![CDATA[Learn how to use the Triage skill to organize GitHub issues, turn messy ideas into actionable tasks for AI agents, and manage backlogs efficiently.]]></description>
+            <content:encoded><![CDATA[Learn how to use the Triage skill to organize GitHub issues, turn messy ideas into actionable tasks for AI agents, and manage backlogs efficiently.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /improve-codebase-architecture Skill]]></title>
+            <link>https://www.aihero.dev/skills-improve-codebase-architecture</link>
+            <guid>https://www.aihero.dev/skills-improve-codebase-architecture</guid>
+            <pubDate>Mon, 06 Jul 2026 15:19:14 GMT</pubDate>
+            <description><![CDATA[A guide to the improve-codebase-architecture skill for finding refactors that make code easier to test, change, and navigate with agents.]]></description>
+            <content:encoded><![CDATA[A guide to the improve-codebase-architecture skill for finding refactors that make code easier to test, change, and navigate with agents.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /prototype Skill]]></title>
+            <link>https://www.aihero.dev/skills-prototype</link>
+            <guid>https://www.aihero.dev/skills-prototype</guid>
+            <pubDate>Mon, 06 Jul 2026 15:19:12 GMT</pubDate>
+            <description><![CDATA[A guide to the prototype skill for testing UI, state, and product decisions before committing to implementation.]]></description>
+            <content:encoded><![CDATA[A guide to the prototype skill for testing UI, state, and product decisions before committing to implementation.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /handoff Skill]]></title>
+            <link>https://www.aihero.dev/skills-handoff</link>
+            <guid>https://www.aihero.dev/skills-handoff</guid>
+            <pubDate>Mon, 06 Jul 2026 15:19:10 GMT</pubDate>
+            <description><![CDATA[A guide to the handoff skill for compacting context so another agent or session can continue cleanly.]]></description>
+            <content:encoded><![CDATA[A guide to the handoff skill for compacting context so another agent or session can continue cleanly.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /tdd Skill]]></title>
+            <link>https://www.aihero.dev/skills-tdd</link>
+            <guid>https://www.aihero.dev/skills-tdd</guid>
+            <pubDate>Mon, 06 Jul 2026 15:19:07 GMT</pubDate>
+            <description><![CDATA[A guide to Matt Pocock's tdd skill for implementing features one behavior at a time.]]></description>
+            <content:encoded><![CDATA[A guide to Matt Pocock's tdd skill for implementing features one behavior at a time.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /to-tickets Skill]]></title>
+            <link>https://www.aihero.dev/skills-to-tickets</link>
+            <guid>https://www.aihero.dev/skills-to-tickets</guid>
+            <pubDate>Mon, 06 Jul 2026 15:19:04 GMT</pubDate>
+            <description><![CDATA[A guide to the to-issues skill for turning plans and PRDs into tracer-bullet implementation issues.]]></description>
+            <content:encoded><![CDATA[A guide to the to-issues skill for turning plans and PRDs into tracer-bullet implementation issues.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /to-spec Skill]]></title>
+            <link>https://www.aihero.dev/skills-to-spec</link>
+            <guid>https://www.aihero.dev/skills-to-spec</guid>
+            <pubDate>Mon, 06 Jul 2026 15:19:01 GMT</pubDate>
+            <description><![CDATA[A guide to the to-prd skill for creating a PRD from current conversation and codebase context.]]></description>
+            <content:encoded><![CDATA[A guide to the to-prd skill for creating a PRD from current conversation and codebase context.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[grill-with-docs: Align Before You Build]]></title>
+            <link>https://www.aihero.dev/grill-with-docs</link>
+            <guid>https://www.aihero.dev/grill-with-docs</guid>
+            <pubDate>Mon, 06 Jul 2026 15:18:58 GMT</pubDate>
+            <description><![CDATA[Learn /grill-with-docs: combine AI interviewing with domain-driven design to build better codebases with shared language and less repetition.]]></description>
+            <content:encoded><![CDATA[Learn /grill-with-docs: combine AI interviewing with domain-driven design to build better codebases with shared language and less repetition.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[The vocabulary of AI coding, translated into plain English for engineers.]]></description>
+            <content:encoded><![CDATA[The vocabulary of AI coding, translated into plain English for engineers.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/ai</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/ai</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[A moving label, not a technology. Points at whatever computers can newly, impressively do — right now, large language models.]]></description>
+            <content:encoded><![CDATA[A moving label, not a technology. Points at whatever computers can newly, impressively do — right now, large language models.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Model | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/model</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/model</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[The parameters. Stateless — does next-token prediction and nothing else. Cannot do anything agentic on its own.]]></description>
+            <content:encoded><![CDATA[The parameters. Stateless — does next-token prediction and nothing else. Cannot do anything agentic on its own.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Parameters | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/parameters</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/parameters</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[The numbers inside a model — often billions — tuned during training. Everything the model knows lives in them. Also called weights.]]></description>
+            <content:encoded><![CDATA[The numbers inside a model — often billions — tuned during training. Everything the model knows lives in them. Also called weights.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Training | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/training</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/training</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[The process that sets a model's parameters by exposing it to vast amounts of text and adjusting to improve next-token prediction.]]></description>
+            <content:encoded><![CDATA[The process that sets a model's parameters by exposing it to vast amounts of text and adjusting to improve next-token prediction.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Inference | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/inference</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/inference</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[Running a trained model to generate output — what happens on every model provider request. Parameters stay fixed.]]></description>
+            <content:encoded><![CDATA[Running a trained model to generate output — what happens on every model provider request. Parameters stay fixed.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Effort | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/effort</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/effort</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[A dial for how much reasoning the model does before it answers. More effort spends more output tokens for a better shot at hard problems.]]></description>
+            <content:encoded><![CDATA[A dial for how much reasoning the model does before it answers. More effort spends more output tokens for a better shot at hard problems.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Token | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/token</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/token</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[The atomic unit a model reads and writes. Roughly word-sized but not exactly. Context window size, cost, and latency all count tokens.]]></description>
+            <content:encoded><![CDATA[The atomic unit a model reads and writes. Roughly word-sized but not exactly. Context window size, cost, and latency all count tokens.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Next-token prediction | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/next-token-prediction</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/next-token-prediction</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[What the model actually does. Samples one next token from the context, appends it, and runs again. Its only mode of operation.]]></description>
+            <content:encoded><![CDATA[What the model actually does. Samples one next token from the context, appends it, and runs again. Its only mode of operation.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Non-determinism | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/non-determinism</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/non-determinism</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[The same input can produce different output. A property of how models generate text and how providers serve requests.]]></description>
+            <content:encoded><![CDATA[The same input can produce different output. A property of how models generate text and how providers serve requests.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Model provider | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/model-provider</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/model-provider</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[Whatever serves a model for inference. Usually remote (Anthropic, OpenAI, Google), but can also be local (Ollama, llama.cpp).]]></description>
+            <content:encoded><![CDATA[Whatever serves a model for inference. Usually remote (Anthropic, OpenAI, Google), but can also be local (Ollama, llama.cpp).]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Harness | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/harness</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/harness</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[Everything around the model that turns it into an agent: tools, system prompt, context-window management, permissions, hooks.]]></description>
+            <content:encoded><![CDATA[Everything around the model that turns it into an agent: tools, system prompt, context-window management, permissions, hooks.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Model provider request | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/model-provider-request</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/model-provider-request</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[One round-trip from the harness to the model provider. The harness sends context; the provider returns one response.]]></description>
+            <content:encoded><![CDATA[One round-trip from the harness to the model provider. The harness sends context; the provider returns one response.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Input tokens | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/input-tokens</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/input-tokens</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[Tokens the harness sends on each model provider request. Billed at a lower rate than output tokens.]]></description>
+            <content:encoded><![CDATA[Tokens the harness sends on each model provider request. Billed at a lower rate than output tokens.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Output tokens | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/output-tokens</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/output-tokens</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens, since they cost more compute to produce.]]></description>
+            <content:encoded><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens, since they cost more compute to produce.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Prefix cache | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/prefix-cache</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/prefix-cache</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[The provider-side store that lets consecutive requests skip re-processing a shared prefix, billing those tokens at a lower rate.]]></description>
+            <content:encoded><![CDATA[The provider-side store that lets consecutive requests skip re-processing a shared prefix, billing those tokens at a lower rate.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cache tokens | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/cache-tokens</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/cache-tokens</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[Input tokens the provider has cached from a previous request via its prefix cache, billed at a much lower rate.]]></description>
+            <content:encoded><![CDATA[Input tokens the provider has cached from a previous request via its prefix cache, billed at a much lower rate.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Stateless | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/stateless</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/stateless</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[Carries no information forward. The model is stateless across requests; an agent is stateless across sessions by default.]]></description>
+            <content:encoded><![CDATA[Carries no information forward. The model is stateless across requests; an agent is stateless across sessions by default.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Context | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/context</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/context</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[The relevant information the agent has access to right now — what the agent knows that's pertinent to the task.]]></description>
+            <content:encoded><![CDATA[The relevant information the agent has access to right now — what the agent knows that's pertinent to the task.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Context window | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/context-window</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/context-window</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[Everything the model sees on each model provider request. Finite, model-specific, the only surface through which the model perceives.]]></description>
+            <content:encoded><![CDATA[Everything the model sees on each model provider request. Finite, model-specific, the only surface through which the model perceives.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Stateful | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/stateful</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/stateful</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[Carries information forward. Sessions are stateful across turns; agents can be made stateful across sessions via a memory system.]]></description>
+            <content:encoded><![CDATA[Carries information forward. Sessions are stateful across turns; agents can be made stateful across sessions via a memory system.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Agent | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/agent</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/agent</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[A model harnessed with tools, a system prompt, and a context window, that takes turns with a user. The model in motion.]]></description>
+            <content:encoded><![CDATA[A model harnessed with tools, a system prompt, and a context window, that takes turns with a user. The model in motion.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[System prompt | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/system-prompt</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/system-prompt</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[The instructions the harness prepends to every model provider request — the agent's standing brief. Usually stable across a session.]]></description>
+            <content:encoded><![CDATA[The instructions the harness prepends to every model provider request — the agent's standing brief. Usually stable across a session.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Session | AI Coding Dictionary]]></title>
+            <link>https://www.aihero.dev/ai-coding-dictionary/session</link>
+            <guid>https://www.aihero.dev/ai-coding-dictionary/session</guid>
+            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
+            <description><![CDATA[One bounded run of interaction with an agent. Starts empty, accumulates, ends when cleared, closed, or compacted into a fresh session.]]></description>
+            <content:encoded><![CDATA[One bounded run of interaction with an agent. Starts empty, accumulates, ends when cleared, closed, or compacted into a fresh session.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
