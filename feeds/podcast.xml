@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Alex Hormozi: The #1 Mistake People Make Building A Business. Learn This Now!]]></title>
+            <title><![CDATA[ルイス・ラボイ：なぜ今、すべての市場が新興市場なのか | ヒューレット財団]]></title>
+            <link>https://finance.biggo.jp/podcast/6de43b042c7c8376</link>
+            <guid>https://finance.biggo.jp/podcast/6de43b042c7c8376</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alex Hormoziの警告：AIを追いかけるのはやめろ、代わりにこれを作れ！]]></title>
             <link>https://finance.biggo.jp/podcast/26323be4dd6fb9aa</link>
             <guid>https://finance.biggo.jp/podcast/26323be4dd6fb9aa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[マーチャント・バンカーたち]]></title>
             <link>https://finance.biggo.jp/podcast/37c6f9a70bd99bf4</link>
             <guid>https://finance.biggo.jp/podcast/37c6f9a70bd99bf4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1341: ファージの破壊とCOVIDの起源]]></title>
-            <link>https://finance.biggo.jp/podcast/45744a6ccae53222</link>
-            <guid>https://finance.biggo.jp/podcast/45744a6ccae53222</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
