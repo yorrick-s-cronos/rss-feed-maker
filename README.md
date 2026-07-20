@@ -31,11 +31,12 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | [文匯香港](https://www.wenweipo.com/hongkong) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml) | ✅ 15 articles |
 | [Paul Graham Essays](https://www.paulgraham.com/articles.html) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/paul-graham.xml) | ✅ 20 articles |
 
-### External RSS (1)
+### External RSS (2)
 
 | Blog | Feed | Status |
 |------|------|--------|
 | [booking.ai](https://booking.ai/) | [Subscribe](https://booking.ai/feed) | ✅ native RSS |
+| [Hugging Face Blog](https://huggingface.co/blog) | [Subscribe](https://huggingface.co/blog/feed.xml) | ✅ native RSS |
 
 ### GitHub Releases (3)
 
