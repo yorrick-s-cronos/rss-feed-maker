@@ -1,5 +1,5 @@
 {
-  "lastSuccess": "2026-07-20T19:29:58.789Z",
+  "lastSuccess": "2026-07-20T22:48:44.488Z",
   "articleCount": 15,
   "knownLinks": [
     "https://www.wenweipo.com/a/202607/21/AP6a5e4ad2e4b0c1e5002183af.html",
@@ -18,6 +18,5 @@
     "https://www.wenweipo.com/a/202607/20/AP6a5e03b0e4b0c1e500217d94.html",
     "https://www.wenweipo.com/a/202607/20/AP6a5df338e4b0b49ad1c427bd.html"
   ],
-  "consecutiveErrors": 1,
-  "lastError": "2/3 links unreachable"
+  "consecutiveErrors": 0
 }
