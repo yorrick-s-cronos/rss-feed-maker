@@ -10,13 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[A brutally honest look at a blue-collar millionaire's business]]></title>
+            <title><![CDATA[A brutally honest review of a blue-collar millionaire's business]]></title>
             <link>https://finance.biggo.jp/podcast/aee7e59f9fe1abcc</link>
             <guid>https://finance.biggo.jp/podcast/aee7e59f9fe1abcc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[誰も予想していない2028年の天然ガス危機]]></title>
+            <title><![CDATA[Why Natural Gas Will Be AI’s Next Great Shortage]]></title>
             <link>https://finance.biggo.jp/podcast/79c92712d5766d83</link>
             <guid>https://finance.biggo.jp/podcast/79c92712d5766d83</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -124,9 +124,9 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[エージェンティックセキュリティ：権限、来歴、そしてエージェントサプライチェーン — Steve Yegge、Gas Town]]></title>
-            <link>https://finance.biggo.jp/podcast/864bace5c469ed2a</link>
-            <guid>https://finance.biggo.jp/podcast/864bace5c469ed2a</guid>
+            <title><![CDATA[エージェンティック開発セキュリティ — Ezra Tanzer（Snyk）]]></title>
+            <link>https://finance.biggo.jp/podcast/f6049208f4501cb4</link>
+            <guid>https://finance.biggo.jp/podcast/f6049208f4501cb4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
