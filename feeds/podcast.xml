@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[A brutally honest review of a blue-collar millionaire's business]]></title>
+            <title><![CDATA[「ナプキン計算」からTurbopufferへ]]></title>
+            <link>https://finance.biggo.jp/podcast/964f5aff63c4b190</link>
+            <guid>https://finance.biggo.jp/podcast/964f5aff63c4b190</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Cost is now a first-class engineering constraint." — Barr Yaron, Amplify Partners]]></title>
+            <link>https://finance.biggo.jp/podcast/108e1daab4c6f435</link>
+            <guid>https://finance.biggo.jp/podcast/108e1daab4c6f435</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[フィジカルAIが次のフロンティアである理由 | a16z Show]]></title>
+            <link>https://finance.biggo.jp/podcast/811629a879bae560</link>
+            <guid>https://finance.biggo.jp/podcast/811629a879bae560</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I asked a $1,000,000/yr NYC developer how he got so rich]]></title>
             <link>https://finance.biggo.jp/podcast/aee7e59f9fe1abcc</link>
             <guid>https://finance.biggo.jp/podcast/aee7e59f9fe1abcc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Natural Gas Will Be AI’s Next Great Shortage]]></title>
+            <title><![CDATA[AI Needs More Natural Gas Than America Has]]></title>
             <link>https://finance.biggo.jp/podcast/79c92712d5766d83</link>
             <guid>https://finance.biggo.jp/podcast/79c92712d5766d83</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,15 +52,15 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[46億ドル企業のCEO：卓越とは痛みに耐える能力である]]></title>
-            <link>https://finance.biggo.jp/podcast/c672c1419b12f643</link>
-            <guid>https://finance.biggo.jp/podcast/c672c1419b12f643</guid>
+            <title><![CDATA[Billion-Dollar CEO: How to Win When Everyone Expects You to Fail]]></title>
+            <link>https://finance.biggo.jp/podcast/9b1ae5dc7178e979</link>
+            <guid>https://finance.biggo.jp/podcast/9b1ae5dc7178e979</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[真の変革が暴力的に感じられるべき理由 | Opendoor CEO Kaz Nejatian]]></title>
-            <link>https://finance.biggo.jp/podcast/9b1ae5dc7178e979</link>
-            <guid>https://finance.biggo.jp/podcast/9b1ae5dc7178e979</guid>
+            <title><![CDATA[$4.6B CEO: Excellence Is the Capacity to Take Pain]]></title>
+            <link>https://finance.biggo.jp/podcast/c672c1419b12f643</link>
+            <guid>https://finance.biggo.jp/podcast/c672c1419b12f643</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -106,27 +124,9 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[午後10時です。あなたのエージェントはどこにいますか？ — Kim Maida, Keycard]]></title>
-            <link>https://finance.biggo.jp/podcast/f278c2aefcae8807</link>
-            <guid>https://finance.biggo.jp/podcast/f278c2aefcae8807</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIのジュラシック・パーク期 — Aaron Stanley、dbt Labs]]></title>
-            <link>https://finance.biggo.jp/podcast/6a1d068fec13c51a</link>
-            <guid>https://finance.biggo.jp/podcast/6a1d068fec13c51a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[あなたのLLMスタックは、マーケティングが上手くなった2008年のデータベース — Lovina Dmello（NVIDIA）]]></title>
-            <link>https://finance.biggo.jp/podcast/7667d456d16a6f46</link>
-            <guid>https://finance.biggo.jp/podcast/7667d456d16a6f46</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェンティック開発セキュリティ — Ezra Tanzer（Snyk）]]></title>
-            <link>https://finance.biggo.jp/podcast/f6049208f4501cb4</link>
-            <guid>https://finance.biggo.jp/podcast/f6049208f4501cb4</guid>
+            <title><![CDATA[プライバシー保護型インテリジェンス — Steve Korshakov氏、Bee（Amazon買収）]]></title>
+            <link>https://finance.biggo.jp/podcast/10085702374f013f</link>
+            <guid>https://finance.biggo.jp/podcast/10085702374f013f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
