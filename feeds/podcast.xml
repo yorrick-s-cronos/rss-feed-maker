@@ -10,6 +10,36 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[46億ドルのCEO：卓越性とは痛みに耐える能力である]]></title>
+            <link>https://finance.biggo.jp/podcast/9b1ae5dc7178e979</link>
+            <guid>https://finance.biggo.jp/podcast/9b1ae5dc7178e979</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opendoor CEO：倒産寸前の10億ドル企業をどう救ったか]]></title>
+            <link>https://finance.biggo.jp/podcast/c672c1419b12f643</link>
+            <guid>https://finance.biggo.jp/podcast/c672c1419b12f643</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FactoryのMatan Grinberg氏：ソフトウェアが自らを構築する「ダークファクトリー」の到来]]></title>
+            <link>https://finance.biggo.jp/podcast/e686b81311d4aa28</link>
+            <guid>https://finance.biggo.jp/podcast/e686b81311d4aa28</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国が世界的人気で米国を追い抜いた。その重要性とは。 | China Decode]]></title>
+            <link>https://finance.biggo.jp/podcast/41e97517b7406481</link>
+            <guid>https://finance.biggo.jp/podcast/41e97517b7406481</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[あらゆる遺伝子編集モダリティに同時に賭けるElevateBioの戦略]]></title>
+            <link>https://finance.biggo.jp/podcast/d54abd628aa25dbe</link>
+            <guid>https://finance.biggo.jp/podcast/d54abd628aa25dbe</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エージェントアーキテクチャの半減期は6ヶ月 — Inngest CTO Dan Farrelly]]></title>
             <link>https://finance.biggo.jp/podcast/6652cf69349a4497</link>
             <guid>https://finance.biggo.jp/podcast/6652cf69349a4497</guid>
@@ -52,6 +82,12 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[午後10時です。あなたのエージェントはどこにいますか？ — Kim Maida, Keycard]]></title>
+            <link>https://finance.biggo.jp/podcast/f278c2aefcae8807</link>
+            <guid>https://finance.biggo.jp/podcast/f278c2aefcae8807</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エージェンティックセキュリティ：権限、来歴、そしてエージェントサプライチェーン — Steve Yegge、Gas Town]]></title>
             <link>https://finance.biggo.jp/podcast/864bace5c469ed2a</link>
             <guid>https://finance.biggo.jp/podcast/864bace5c469ed2a</guid>
@@ -76,12 +112,6 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[午後10時です。あなたのエージェントはどこにいますか？ — Kim Maida, Keycard]]></title>
-            <link>https://finance.biggo.jp/podcast/f278c2aefcae8807</link>
-            <guid>https://finance.biggo.jp/podcast/f278c2aefcae8807</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[AIのジュラシック・パーク期 — Aaron Stanley、dbt Labs]]></title>
             <link>https://finance.biggo.jp/podcast/6a1d068fec13c51a</link>
             <guid>https://finance.biggo.jp/podcast/6a1d068fec13c51a</guid>
@@ -97,36 +127,6 @@
             <title><![CDATA[AI最大の課題はワシントンだ | Office Hours]]></title>
             <link>https://finance.biggo.jp/podcast/4b30255e3794f4e4</link>
             <guid>https://finance.biggo.jp/podcast/4b30255e3794f4e4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[故アレックス・ヤンガー卿への詳細なインタビュー：MI6最長在任トップ｜The Economist]]></title>
-            <link>https://finance.biggo.jp/podcast/3b5960aa5cb42cf1</link>
-            <guid>https://finance.biggo.jp/podcast/3b5960aa5cb42cf1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジェネリクス速報ポッドキャスト：夏季カンファレンス]]></title>
-            <link>https://finance.biggo.jp/podcast/7bc3fa38a5d1e1b0</link>
-            <guid>https://finance.biggo.jp/podcast/7bc3fa38a5d1e1b0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAIとAnthropicは過大評価されているのか？オープンソースAIの現実 - Fireworks AIのLin Qiaoと共に]]></title>
-            <link>https://finance.biggo.jp/podcast/ecacbbeace24abde</link>
-            <guid>https://finance.biggo.jp/podcast/ecacbbeace24abde</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ハイパースケーラーのキャパシティ不足？｜MongoDB CEO]]></title>
-            <link>https://finance.biggo.jp/podcast/3a07938d27ee60ec</link>
-            <guid>https://finance.biggo.jp/podcast/3a07938d27ee60ec</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[現代の臨床試験に求められるファイナンスファースト戦略（スポンサード）]]></title>
-            <link>https://finance.biggo.jp/podcast/bcf1d7fd0affb78b</link>
-            <guid>https://finance.biggo.jp/podcast/bcf1d7fd0affb78b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
