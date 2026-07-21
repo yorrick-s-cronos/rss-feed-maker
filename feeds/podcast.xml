@@ -10,13 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[46億ドルのCEO：卓越性とは痛みに耐える能力である]]></title>
+            <title><![CDATA[FactoryのMatan Grinberg氏：ソフトウェアが自らを構築する「ダークファクトリー」の到来]]></title>
+            <link>https://finance.biggo.jp/podcast/5be84fe394283726</link>
+            <guid>https://finance.biggo.jp/podcast/5be84fe394283726</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kimi K3:モデルモートの終焉？ S3E12]]></title>
+            <link>https://finance.biggo.jp/podcast/8b75966e420ad68b</link>
+            <guid>https://finance.biggo.jp/podcast/8b75966e420ad68b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Real Change Must Feel Violent | Opendoor CEO Kaz Nejatian]]></title>
             <link>https://finance.biggo.jp/podcast/9b1ae5dc7178e979</link>
             <guid>https://finance.biggo.jp/podcast/9b1ae5dc7178e979</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Opendoor CEO：倒産寸前の10億ドル企業をどう救ったか]]></title>
+            <title><![CDATA[$4.6B CEO: Excellence Is the Capacity to Take Pain]]></title>
             <link>https://finance.biggo.jp/podcast/c672c1419b12f643</link>
             <guid>https://finance.biggo.jp/podcast/c672c1419b12f643</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -82,24 +94,6 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[午後10時です。あなたのエージェントはどこにいますか？ — Kim Maida, Keycard]]></title>
-            <link>https://finance.biggo.jp/podcast/f278c2aefcae8807</link>
-            <guid>https://finance.biggo.jp/podcast/f278c2aefcae8807</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェンティックセキュリティ：権限、来歴、そしてエージェントサプライチェーン — Steve Yegge、Gas Town]]></title>
-            <link>https://finance.biggo.jp/podcast/864bace5c469ed2a</link>
-            <guid>https://finance.biggo.jp/podcast/864bace5c469ed2a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェンティック開発セキュリティ — Ezra Tanzer（Snyk）]]></title>
-            <link>https://finance.biggo.jp/podcast/f6049208f4501cb4</link>
-            <guid>https://finance.biggo.jp/podcast/f6049208f4501cb4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[エージェントに本番コードへのアクセス権を与えて、それから眠ろうとした話 — Moritz Johner, Form3]]></title>
             <link>https://finance.biggo.jp/podcast/428065e9c74d14b7</link>
             <guid>https://finance.biggo.jp/podcast/428065e9c74d14b7</guid>
@@ -109,6 +103,12 @@
             <title><![CDATA[プライバシー保護型インテリジェンス — Steve Korshakov氏、Bee（Amazon買収）]]></title>
             <link>https://finance.biggo.jp/podcast/10085702374f013f</link>
             <guid>https://finance.biggo.jp/podcast/10085702374f013f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[午後10時です。あなたのエージェントはどこにいますか？ — Kim Maida, Keycard]]></title>
+            <link>https://finance.biggo.jp/podcast/f278c2aefcae8807</link>
+            <guid>https://finance.biggo.jp/podcast/f278c2aefcae8807</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -124,9 +124,9 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI最大の課題はワシントンだ | Office Hours]]></title>
-            <link>https://finance.biggo.jp/podcast/4b30255e3794f4e4</link>
-            <guid>https://finance.biggo.jp/podcast/4b30255e3794f4e4</guid>
+            <title><![CDATA[エージェンティックセキュリティ：権限、来歴、そしてエージェントサプライチェーン — Steve Yegge、Gas Town]]></title>
+            <link>https://finance.biggo.jp/podcast/864bace5c469ed2a</link>
+            <guid>https://finance.biggo.jp/podcast/864bace5c469ed2a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
