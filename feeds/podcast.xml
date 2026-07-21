@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TSMC/ASML/AEHRの決算、AI半導体の現状]]></title>
+            <link>https://finance.biggo.jp/podcast/5a1c4584fd0e3613</link>
+            <guid>https://finance.biggo.jp/podcast/5a1c4584fd0e3613</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[米国はAIでリードを失いつつある｜The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/4496d2ea679e4cce</link>
             <guid>https://finance.biggo.jp/podcast/4496d2ea679e4cce</guid>
@@ -28,24 +34,6 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[午後10時です。あなたのエージェントはどこにいますか？ — Kim Maida, Keycard]]></title>
-            <link>https://finance.biggo.jp/podcast/f278c2aefcae8807</link>
-            <guid>https://finance.biggo.jp/podcast/f278c2aefcae8807</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIのジュラシック・パーク期 — Aaron Stanley、dbt Labs]]></title>
-            <link>https://finance.biggo.jp/podcast/6a1d068fec13c51a</link>
-            <guid>https://finance.biggo.jp/podcast/6a1d068fec13c51a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[あなたのLLMスタックは、マーケティングが上手くなった2008年のデータベース — Lovina Dmello（NVIDIA）]]></title>
-            <link>https://finance.biggo.jp/podcast/7667d456d16a6f46</link>
-            <guid>https://finance.biggo.jp/podcast/7667d456d16a6f46</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[エージェンティックセキュリティ：権限、来歴、そしてエージェントサプライチェーン — Steve Yegge、Gas Town]]></title>
             <link>https://finance.biggo.jp/podcast/864bace5c469ed2a</link>
             <guid>https://finance.biggo.jp/podcast/864bace5c469ed2a</guid>
@@ -61,6 +49,24 @@
             <title><![CDATA[エージェントに本番コードへのアクセス権を与えて、それから眠ろうとした話 — Moritz Johner, Form3]]></title>
             <link>https://finance.biggo.jp/podcast/428065e9c74d14b7</link>
             <guid>https://finance.biggo.jp/podcast/428065e9c74d14b7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[午後10時です。あなたのエージェントはどこにいますか？ — Kim Maida, Keycard]]></title>
+            <link>https://finance.biggo.jp/podcast/f278c2aefcae8807</link>
+            <guid>https://finance.biggo.jp/podcast/f278c2aefcae8807</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIのジュラシック・パーク期 — Aaron Stanley、dbt Labs]]></title>
+            <link>https://finance.biggo.jp/podcast/6a1d068fec13c51a</link>
+            <guid>https://finance.biggo.jp/podcast/6a1d068fec13c51a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[あなたのLLMスタックは、マーケティングが上手くなった2008年のデータベース — Lovina Dmello（NVIDIA）]]></title>
+            <link>https://finance.biggo.jp/podcast/7667d456d16a6f46</link>
+            <guid>https://finance.biggo.jp/podcast/7667d456d16a6f46</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -100,7 +106,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[これがビットコインの次の大ブレイクアウトか？]]></title>
+            <title><![CDATA[ビットコイン、12兆ドル市場に参入へ]]></title>
             <link>https://finance.biggo.jp/podcast/5d6832fbd43fe84e</link>
             <guid>https://finance.biggo.jp/podcast/5d6832fbd43fe84e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[エージェントが自己矛盾する理由とその対策 - Diane Lin, Datadog]]></title>
             <link>https://finance.biggo.jp/podcast/b254f3e05decdd53</link>
             <guid>https://finance.biggo.jp/podcast/b254f3e05decdd53</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エンタープライズエージェントには構造上の問題がある - イシタ・ダガ、テスラ]]></title>
-            <link>https://finance.biggo.jp/podcast/72a25dc4bed1d615</link>
-            <guid>https://finance.biggo.jp/podcast/72a25dc4bed1d615</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
