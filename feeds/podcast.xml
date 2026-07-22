@@ -10,9 +10,27 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ステルスで会社を築く | トラビス・カラニック × a16z]]></title>
+            <title><![CDATA[あなたの堀はデータモデルである — Gates Foundation の Mike Phipps]]></title>
+            <link>https://finance.biggo.jp/podcast/c9534f6ed8b1fa78</link>
+            <guid>https://finance.biggo.jp/podcast/c9534f6ed8b1fa78</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PoolsideのModel Factory、Laguna S、オープンモデル、そしてAGIへの競争 — Eiso Kant、Poolside AI]]></title>
+            <link>https://finance.biggo.jp/podcast/c6edff8e6e319751</link>
+            <guid>https://finance.biggo.jp/podcast/c6edff8e6e319751</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Atoms: The Company Travis Kalanick Built in Stealth | a16z]]></title>
             <link>https://finance.biggo.jp/podcast/c8bd745f1b05a123</link>
             <guid>https://finance.biggo.jp/podcast/c8bd745f1b05a123</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米国科学サミット：エリアス・ザーホウニ博士が語る、数十年前に米国を医学研究で強くした源泉と、それを今日も支え続けるために何が危機に瀕しているか]]></title>
+            <link>https://finance.biggo.jp/podcast/c6a442d882bdbebb</link>
+            <guid>https://finance.biggo.jp/podcast/c6a442d882bdbebb</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -88,7 +106,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[あなたは十分なコードを生成していない]]></title>
+            <title><![CDATA[コードを読む量を減らすべきだ（聞いてほしい）]]></title>
             <link>https://finance.biggo.jp/podcast/eea9b09e4c1a567a</link>
             <guid>https://finance.biggo.jp/podcast/eea9b09e4c1a567a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[あなたが聞いたことのない世界記録のスカイダイビング]]></title>
             <link>https://finance.biggo.jp/podcast/f82dacce4ff41168</link>
             <guid>https://finance.biggo.jp/podcast/f82dacce4ff41168</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIVP085（動画）：フェアファックス・ファイナンシャル（FFO.TO）：北のバークシャー（カイル・グリーブ＆ショーン・オマリー）]]></title>
-            <link>https://finance.biggo.jp/podcast/faf7eb52be2f861e</link>
-            <guid>https://finance.biggo.jp/podcast/faf7eb52be2f861e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ミニタンパク質で主要標的に挑む]]></title>
-            <link>https://finance.biggo.jp/podcast/f3bddb2f853d7d1e</link>
-            <guid>https://finance.biggo.jp/podcast/f3bddb2f853d7d1e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ヴェンキ・ラマクリシュナン：長生きの科学と誇大広告 | ポッドキャスト | In Good Company]]></title>
-            <link>https://finance.biggo.jp/podcast/1f47a64dd211533e</link>
-            <guid>https://finance.biggo.jp/podcast/1f47a64dd211533e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
