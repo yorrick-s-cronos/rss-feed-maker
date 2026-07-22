@@ -10,25 +10,49 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[CrabRAG：自動化アシスタントに必要なのはグラフメモリであって、トークン数ではない — Stephen Chin, Neo4j]]></title>
+            <link>https://finance.biggo.jp/podcast/8c336fa399f04b45</link>
+            <guid>https://finance.biggo.jp/podcast/8c336fa399f04b45</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戦争の未来は自律型へ]]></title>
+            <link>https://finance.biggo.jp/podcast/31f7a026536257c6</link>
+            <guid>https://finance.biggo.jp/podcast/31f7a026536257c6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[よりスマートな基盤上の薄いエージェント：オントロジーベースのセマンティックレイヤー — Emil Eifrem（Neo4j）]]></title>
+            <link>https://finance.biggo.jp/podcast/d08203aa59cea9c6</link>
+            <guid>https://finance.biggo.jp/podcast/d08203aa59cea9c6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[長期間タスク向けClaude — Lance Martin, Anthropic]]></title>
+            <link>https://finance.biggo.jp/podcast/637e7f40a131b78b</link>
+            <guid>https://finance.biggo.jp/podcast/637e7f40a131b78b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[欧州バイオテク、岐路に立つ：競争力を維持するには？ビデオポッドキャスト]]></title>
             <link>https://finance.biggo.jp/podcast/5d18de3a7b96a9e2</link>
             <guid>https://finance.biggo.jp/podcast/5d18de3a7b96a9e2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elon Musk’s Space Centers Are a “Fever Dream” | Office Hours]]></title>
+            <title><![CDATA[イーロン・マスクの宇宙センターは「熱狂の夢」｜オフィスアワー]]></title>
             <link>https://finance.biggo.jp/podcast/0b06decc07feffff</link>
             <guid>https://finance.biggo.jp/podcast/0b06decc07feffff</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Samsung's next-generation foldables are here | The Vergecast Livestream]]></title>
+            <title><![CDATA[サムスンの次世代折りたたみスマホが登場｜The Vergecast ライブ配信]]></title>
             <link>https://finance.biggo.jp/podcast/465a0cb43d704483</link>
             <guid>https://finance.biggo.jp/podcast/465a0cb43d704483</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EveryのチームがAIを活用して最大のローンチを成功させた方法]]></title>
+            <title><![CDATA[すべてのオールアクセスの舞台裏：最大のローンチをどう実現したか]]></title>
             <link>https://finance.biggo.jp/podcast/f73c567d335f128c</link>
             <guid>https://finance.biggo.jp/podcast/f73c567d335f128c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -70,12 +94,6 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[がん領域バイオシミラーの次なる時代]]></title>
-            <link>https://finance.biggo.jp/podcast/6bcaefb359938f44</link>
-            <guid>https://finance.biggo.jp/podcast/6bcaefb359938f44</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[TIVP085（動画）：フェアファックス・ファイナンシャル（FFO.TO）：北のバークシャー（カイル・グリーブ＆ショーン・オマリー）]]></title>
             <link>https://finance.biggo.jp/podcast/faf7eb52be2f861e</link>
             <guid>https://finance.biggo.jp/podcast/faf7eb52be2f861e</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[シュワブ、第2四半期予想を上回る決算—個人投資家の市場参加が拡大]]></title>
             <link>https://finance.biggo.jp/podcast/4e4cc9d61166ee8c</link>
             <guid>https://finance.biggo.jp/podcast/4e4cc9d61166ee8c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[すべてのハーネスはクローになる — Sam Bhagwat, Mastra]]></title>
-            <link>https://finance.biggo.jp/podcast/8787d434acdd526c</link>
-            <guid>https://finance.biggo.jp/podcast/8787d434acdd526c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAIのCodexワークフローによるナレッジワークの自動化]]></title>
-            <link>https://finance.biggo.jp/podcast/e28dfc8e57e15bd9</link>
-            <guid>https://finance.biggo.jp/podcast/e28dfc8e57e15bd9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EUと半導体：ゆっくり動いて、（何も）壊さない]]></title>
-            <link>https://finance.biggo.jp/podcast/c0c9ab5b7a558219</link>
-            <guid>https://finance.biggo.jp/podcast/c0c9ab5b7a558219</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
