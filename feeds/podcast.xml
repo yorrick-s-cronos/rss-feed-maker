@@ -10,7 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[すべてのコード行を読むのをやめよう]]></title>
+            <title><![CDATA[EveryのチームがAIを活用して最大のローンチを成功させた方法]]></title>
+            <link>https://finance.biggo.jp/podcast/f73c567d335f128c</link>
+            <guid>https://finance.biggo.jp/podcast/f73c567d335f128c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スパロウ・ファーマシューティカルズCEOロバート・ジャックス | 精密医療、バイオテク戦略、リーダーシップ]]></title>
+            <link>https://finance.biggo.jp/podcast/949b47413c4379a9</link>
+            <guid>https://finance.biggo.jp/podcast/949b47413c4379a9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[なぜ野心的なスタートアップのアイデアの方が実は売りやすいのか]]></title>
+            <link>https://finance.biggo.jp/podcast/69043afe1727fc2b</link>
+            <guid>https://finance.biggo.jp/podcast/69043afe1727fc2b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You're Not Generating Enough Code]]></title>
             <link>https://finance.biggo.jp/podcast/eea9b09e4c1a567a</link>
             <guid>https://finance.biggo.jp/podcast/eea9b09e4c1a567a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -22,13 +40,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[デイビッド・フリードバーグ：アメリカは危機に気づかず眠っている]]></title>
+            <title><![CDATA[David Friedberg Explains America's Economic Crisis in 60 Minutes]]></title>
             <link>https://finance.biggo.jp/podcast/82bc932118e040fb</link>
             <guid>https://finance.biggo.jp/podcast/82bc932118e040fb</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Google Engineer Who Set The Skydiving Record At 58]]></title>
+            <title><![CDATA[The World Record Skydive You've Never Heard Of]]></title>
             <link>https://finance.biggo.jp/podcast/f82dacce4ff41168</link>
             <guid>https://finance.biggo.jp/podcast/f82dacce4ff41168</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[HTMLこそがエージェントに必要なすべて — James Russo, HeyGen]]></title>
             <link>https://finance.biggo.jp/podcast/6f40b5880049a469</link>
             <guid>https://finance.biggo.jp/podcast/6f40b5880049a469</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国中間年見通し：地政学的ショック、新たなFRB時代、そして成長]]></title>
-            <link>https://finance.biggo.jp/podcast/4d7c824ce440237c</link>
-            <guid>https://finance.biggo.jp/podcast/4d7c824ce440237c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[マーク・キューバンが語るAIバブル：実際に打撃を受けるのは誰か？]]></title>
-            <link>https://finance.biggo.jp/podcast/ad875bb7d9246a01</link>
-            <guid>https://finance.biggo.jp/podcast/ad875bb7d9246a01</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2528 - キャシー・カッパースミス]]></title>
-            <link>https://finance.biggo.jp/podcast/6e37bf22df49c041</link>
-            <guid>https://finance.biggo.jp/podcast/6e37bf22df49c041</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

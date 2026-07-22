@@ -216,16 +216,16 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/parameters</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/parameters</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[The numbers inside a model — often billions of them — tuned during training. Everything the model "knows" lives in them. Training sets them; inference uses them unchanged. Also...]]></description>
-            <content:encoded><![CDATA[The numbers inside a model — often billions of them — tuned during training. Everything the model "knows" lives in them. Training sets them; inference uses them unchanged. Also...]]></content:encoded>
+            <description><![CDATA[The numbers inside a model — often billions — tuned during training. Everything the model knows lives in them. Also called weights.]]></description>
+            <content:encoded><![CDATA[The numbers inside a model — often billions — tuned during training. Everything the model knows lives in them. Also called weights.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Training | AI Coding Dictionary]]></title>
             <link>https://www.aihero.dev/ai-coding-dictionary/training</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/training</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[The process that sets a model's parameters, by exposing it to vast amounts of text and adjusting parameters to improve next-token prediction. A one-time, expensive process done...]]></description>
-            <content:encoded><![CDATA[The process that sets a model's parameters, by exposing it to vast amounts of text and adjusting parameters to improve next-token prediction. A one-time, expensive process done...]]></content:encoded>
+            <description><![CDATA[The process that sets a model's parameters by exposing it to vast amounts of text and adjusting to improve next-token prediction.]]></description>
+            <content:encoded><![CDATA[The process that sets a model's parameters by exposing it to vast amounts of text and adjusting to improve next-token prediction.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Inference | AI Coding Dictionary]]></title>
@@ -248,8 +248,8 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/token</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/token</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[The atomic unit a model reads and writes. Roughly word-sized but not exactly — common words are one token, rare or long ones split into several. Context window size, cost, and l...]]></description>
-            <content:encoded><![CDATA[The atomic unit a model reads and writes. Roughly word-sized but not exactly — common words are one token, rare or long ones split into several. Context window size, cost, and l...]]></content:encoded>
+            <description><![CDATA[The atomic unit a model reads and writes. Roughly word-sized but not exactly. Context window size, cost, and latency all count tokens.]]></description>
+            <content:encoded><![CDATA[The atomic unit a model reads and writes. Roughly word-sized but not exactly. Context window size, cost, and latency all count tokens.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Next-token prediction | AI Coding Dictionary]]></title>
@@ -264,8 +264,8 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/non-determinism</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/non-determinism</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[The same input can produce different output. Run a model twice with identical context and you may get two different answers — sometimes a word, sometimes a completely different...]]></description>
-            <content:encoded><![CDATA[The same input can produce different output. Run a model twice with identical context and you may get two different answers — sometimes a word, sometimes a completely different...]]></content:encoded>
+            <description><![CDATA[The same input can produce different output. A property of how models generate text and how providers serve requests.]]></description>
+            <content:encoded><![CDATA[The same input can produce different output. A property of how models generate text and how providers serve requests.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Model provider | AI Coding Dictionary]]></title>
@@ -304,16 +304,16 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/output-tokens</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/output-tokens</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens — commonly around five times the rate — since they cost more compute to produce.]]></description>
-            <content:encoded><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens — commonly around five times the rate — since they cost more compute to produce.]]></content:encoded>
+            <description><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens, since they cost more compute to produce.]]></description>
+            <content:encoded><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens, since they cost more compute to produce.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Prefix cache | AI Coding Dictionary]]></title>
             <link>https://www.aihero.dev/ai-coding-dictionary/prefix-cache</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/prefix-cache</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[The provider-side store that lets consecutive model provider requests skip re-processing a shared prefix. When the start of a request matches the start of a recent one — same sy...]]></description>
-            <content:encoded><![CDATA[The provider-side store that lets consecutive model provider requests skip re-processing a shared prefix. When the start of a request matches the start of a recent one — same sy...]]></content:encoded>
+            <description><![CDATA[The provider-side store that lets consecutive requests skip re-processing a shared prefix, billing those tokens at a lower rate.]]></description>
+            <content:encoded><![CDATA[The provider-side store that lets consecutive requests skip re-processing a shared prefix, billing those tokens at a lower rate.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cache tokens | AI Coding Dictionary]]></title>
@@ -328,8 +328,8 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/stateless</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/stateless</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[Carries no information forward. The model is stateless across model provider requests — each request resends the full context window, because the model has no way to see anythin...]]></description>
-            <content:encoded><![CDATA[Carries no information forward. The model is stateless across model provider requests — each request resends the full context window, because the model has no way to see anythin...]]></content:encoded>
+            <description><![CDATA[Carries no information forward. The model is stateless across requests; an agent is stateless across sessions by default.]]></description>
+            <content:encoded><![CDATA[Carries no information forward. The model is stateless across requests; an agent is stateless across sessions by default.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Context | AI Coding Dictionary]]></title>
@@ -352,8 +352,8 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/stateful</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/stateful</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[Carries information forward. A session is stateful across turns — context accumulates as the session runs, which is why long sessions drift into the dumb zone. An agent can be m...]]></description>
-            <content:encoded><![CDATA[Carries information forward. A session is stateful across turns — context accumulates as the session runs, which is why long sessions drift into the dumb zone. An agent can be m...]]></content:encoded>
+            <description><![CDATA[Carries information forward. Sessions are stateful across turns; agents can be made stateful across sessions via a memory system.]]></description>
+            <content:encoded><![CDATA[Carries information forward. Sessions are stateful across turns; agents can be made stateful across sessions via a memory system.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Agent | AI Coding Dictionary]]></title>
@@ -368,16 +368,16 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/system-prompt</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/system-prompt</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[The instructions the harness prepends to every model provider request — the agent's standing brief: who it is, how to behave, which tools it can call, what conventions to follow...]]></description>
-            <content:encoded><![CDATA[The instructions the harness prepends to every model provider request — the agent's standing brief: who it is, how to behave, which tools it can call, what conventions to follow...]]></content:encoded>
+            <description><![CDATA[The instructions the harness prepends to every model provider request — the agent's standing brief. Usually stable across a session.]]></description>
+            <content:encoded><![CDATA[The instructions the harness prepends to every model provider request — the agent's standing brief. Usually stable across a session.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Session | AI Coding Dictionary]]></title>
             <link>https://www.aihero.dev/ai-coding-dictionary/session</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/session</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[One bounded run of interaction with an agent. Starts empty, accumulates messages, tool results, and files read, and ends when cleared, closed, or compacted into a fresh session....]]></description>
-            <content:encoded><![CDATA[One bounded run of interaction with an agent. Starts empty, accumulates messages, tool results, and files read, and ends when cleared, closed, or compacted into a fresh session....]]></content:encoded>
+            <description><![CDATA[One bounded run of interaction with an agent. Starts empty, accumulates, ends when cleared, closed, or compacted into a fresh session.]]></description>
+            <content:encoded><![CDATA[One bounded run of interaction with an agent. Starts empty, accumulates, ends when cleared, closed, or compacted into a fresh session.]]></content:encoded>
         </item>
     </channel>
 </rss>
