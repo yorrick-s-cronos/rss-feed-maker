@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ステルスで会社を築く | トラビス・カラニック × a16z]]></title>
+            <link>https://finance.biggo.jp/podcast/c8bd745f1b05a123</link>
+            <guid>https://finance.biggo.jp/podcast/c8bd745f1b05a123</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[アクティブグラフエージェントランタイム（BabyAGI 4）— 中嶋洋平、Untapped Capital]]></title>
+            <link>https://finance.biggo.jp/podcast/91622a53421758ce</link>
+            <guid>https://finance.biggo.jp/podcast/91622a53421758ce</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CrabRAG：自動化アシスタントに必要なのはグラフメモリであって、トークン数ではない — Stephen Chin, Neo4j]]></title>
             <link>https://finance.biggo.jp/podcast/8c336fa399f04b45</link>
             <guid>https://finance.biggo.jp/podcast/8c336fa399f04b45</guid>
@@ -31,6 +43,12 @@
             <title><![CDATA[長期間タスク向けClaude — Lance Martin, Anthropic]]></title>
             <link>https://finance.biggo.jp/podcast/637e7f40a131b78b</link>
             <guid>https://finance.biggo.jp/podcast/637e7f40a131b78b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2529 - ザック・ブッシュ]]></title>
+            <link>https://finance.biggo.jp/podcast/5ad2e48340aecf9d</link>
+            <guid>https://finance.biggo.jp/podcast/5ad2e48340aecf9d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -109,24 +127,6 @@
             <title><![CDATA[ヴェンキ・ラマクリシュナン：長生きの科学と誇大広告 | ポッドキャスト | In Good Company]]></title>
             <link>https://finance.biggo.jp/podcast/1f47a64dd211533e</link>
             <guid>https://finance.biggo.jp/podcast/1f47a64dd211533e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[147. アリ霊波の沈宇軍氏と語る：ロボットネイティブ基盤モデル、脳と身体の関係、事前学習とデータスケールアップ、師である湯曉鷗氏]]></title>
-            <link>https://finance.biggo.jp/podcast/daae5c70586092a7</link>
-            <guid>https://finance.biggo.jp/podcast/daae5c70586092a7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[フルワークショップ: Better Auth — Paola Estefania, Better Auth]]></title>
-            <link>https://finance.biggo.jp/podcast/c88f4874e857a6ea</link>
-            <guid>https://finance.biggo.jp/podcast/c88f4874e857a6ea</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[シュワブ、第2四半期予想を上回る決算—個人投資家の市場参加が拡大]]></title>
-            <link>https://finance.biggo.jp/podcast/4e4cc9d61166ee8c</link>
-            <guid>https://finance.biggo.jp/podcast/4e4cc9d61166ee8c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
