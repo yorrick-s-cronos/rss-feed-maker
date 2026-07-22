@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[すべてのコード行を読むのをやめよう]]></title>
+            <link>https://finance.biggo.jp/podcast/eea9b09e4c1a567a</link>
+            <guid>https://finance.biggo.jp/podcast/eea9b09e4c1a567a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[がん領域バイオシミラーの次なる時代]]></title>
+            <link>https://finance.biggo.jp/podcast/ab686bcfe27dbb7f</link>
+            <guid>https://finance.biggo.jp/podcast/ab686bcfe27dbb7f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[デイビッド・フリードバーグ：アメリカは危機に気づかず眠っている]]></title>
+            <link>https://finance.biggo.jp/podcast/82bc932118e040fb</link>
+            <guid>https://finance.biggo.jp/podcast/82bc932118e040fb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Google Engineer Who Set The Skydiving Record At 58]]></title>
+            <link>https://finance.biggo.jp/podcast/f82dacce4ff41168</link>
+            <guid>https://finance.biggo.jp/podcast/f82dacce4ff41168</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[がん領域バイオシミラーの次なる時代]]></title>
             <link>https://finance.biggo.jp/podcast/6bcaefb359938f44</link>
             <guid>https://finance.biggo.jp/podcast/6bcaefb359938f44</guid>
@@ -103,30 +127,6 @@
             <title><![CDATA[ジョー・ローガン・エクスペリエンス #2528 - キャシー・カッパースミス]]></title>
             <link>https://finance.biggo.jp/podcast/6e37bf22df49c041</link>
             <guid>https://finance.biggo.jp/podcast/6e37bf22df49c041</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[「ナプキン計算」からturbopufferへ]]></title>
-            <link>https://finance.biggo.jp/podcast/964f5aff63c4b190</link>
-            <guid>https://finance.biggo.jp/podcast/964f5aff63c4b190</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[「スタックの最大の課題？Evals、Evals、Evals」 - 2026年AIエンジニアリングの現状結果]]></title>
-            <link>https://finance.biggo.jp/podcast/108e1daab4c6f435</link>
-            <guid>https://finance.biggo.jp/podcast/108e1daab4c6f435</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[「2030年までに自動運転がデフォルトになる」| a16z と Applied Intuition]]></title>
-            <link>https://finance.biggo.jp/podcast/811629a879bae560</link>
-            <guid>https://finance.biggo.jp/podcast/811629a879bae560</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ブルーカラーのミリオネアに実際の収入を聞いてみた]]></title>
-            <link>https://finance.biggo.jp/podcast/aee7e59f9fe1abcc</link>
-            <guid>https://finance.biggo.jp/podcast/aee7e59f9fe1abcc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
