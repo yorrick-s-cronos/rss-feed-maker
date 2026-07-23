@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[エージェントシステムにオントロジーが必要な理由 — Frank Coyle, UC Berkeley]]></title>
+            <link>https://finance.biggo.jp/podcast/90b45a514ce2c438</link>
+            <guid>https://finance.biggo.jp/podcast/90b45a514ce2c438</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[APIの異常検知とドリフトのための学習実行グラフ — Ritvik Pandya, JP Morgan Chase]]></title>
+            <link>https://finance.biggo.jp/podcast/79bab0c79935b159</link>
+            <guid>https://finance.biggo.jp/podcast/79bab0c79935b159</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米国科学サミット：バイオテクノロジー革新の最前線を3人のCEOが語る——激化する国際競争の中で米国が優位性を維持する方法]]></title>
+            <link>https://finance.biggo.jp/podcast/36c80fa0269a7be9</link>
+            <guid>https://finance.biggo.jp/podcast/36c80fa0269a7be9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[記録のシステムからコンテキストのシステムへ — monday.com Omri Bruchim氏]]></title>
+            <link>https://finance.biggo.jp/podcast/0cb28b1d4da1523e</link>
+            <guid>https://finance.biggo.jp/podcast/0cb28b1d4da1523e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[あなたの堀はデータモデルである — Gates Foundation の Mike Phipps]]></title>
             <link>https://finance.biggo.jp/podcast/c9534f6ed8b1fa78</link>
             <guid>https://finance.biggo.jp/podcast/c9534f6ed8b1fa78</guid>
@@ -22,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inside Atoms: The Company Travis Kalanick Built in Stealth | a16z]]></title>
+            <title><![CDATA[Uberから原子まで：Travis Kalanickが語る物理世界のデジタル化]]></title>
             <link>https://finance.biggo.jp/podcast/c8bd745f1b05a123</link>
             <guid>https://finance.biggo.jp/podcast/c8bd745f1b05a123</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -43,6 +67,12 @@
             <title><![CDATA[CrabRAG：自動化アシスタントに必要なのはグラフメモリであって、トークン数ではない — Stephen Chin, Neo4j]]></title>
             <link>https://finance.biggo.jp/podcast/8c336fa399f04b45</link>
             <guid>https://finance.biggo.jp/podcast/8c336fa399f04b45</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[複合エンジニアリングがマルチモデル時代にさらに効果的に]]></title>
+            <link>https://finance.biggo.jp/podcast/2ce6d9f2e18e352f</link>
+            <guid>https://finance.biggo.jp/podcast/2ce6d9f2e18e352f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -97,36 +127,6 @@
             <title><![CDATA[スパロウ・ファーマシューティカルズCEOロバート・ジャックス | 精密医療、バイオテク戦略、リーダーシップ]]></title>
             <link>https://finance.biggo.jp/podcast/949b47413c4379a9</link>
             <guid>https://finance.biggo.jp/podcast/949b47413c4379a9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜ野心的なスタートアップのアイデアの方が実は売りやすいのか]]></title>
-            <link>https://finance.biggo.jp/podcast/69043afe1727fc2b</link>
-            <guid>https://finance.biggo.jp/podcast/69043afe1727fc2b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[コードを読む量を減らすべきだ（聞いてほしい）]]></title>
-            <link>https://finance.biggo.jp/podcast/eea9b09e4c1a567a</link>
-            <guid>https://finance.biggo.jp/podcast/eea9b09e4c1a567a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[がん領域バイオシミラーの次なる時代]]></title>
-            <link>https://finance.biggo.jp/podcast/ab686bcfe27dbb7f</link>
-            <guid>https://finance.biggo.jp/podcast/ab686bcfe27dbb7f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[デビッド・フリードバーグが60分でアメリカの経済危機を解説]]></title>
-            <link>https://finance.biggo.jp/podcast/82bc932118e040fb</link>
-            <guid>https://finance.biggo.jp/podcast/82bc932118e040fb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[あなたが聞いたことのない世界記録のスカイダイビング]]></title>
-            <link>https://finance.biggo.jp/podcast/f82dacce4ff41168</link>
-            <guid>https://finance.biggo.jp/podcast/f82dacce4ff41168</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
