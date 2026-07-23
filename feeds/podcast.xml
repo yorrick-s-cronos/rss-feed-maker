@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Perception Agents — Antje Barth, Amazon AGI Lab]]></title>
+            <link>https://finance.biggo.jp/podcast/12fccc7290a18160</link>
+            <guid>https://finance.biggo.jp/podcast/12fccc7290a18160</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[イーロン・マスクが語るAI：10年後には人間は制御不能に | The Economist]]></title>
             <link>https://finance.biggo.jp/podcast/98e4128a2554c01f</link>
             <guid>https://finance.biggo.jp/podcast/98e4128a2554c01f</guid>
@@ -28,33 +34,33 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frontier Labs Threatened by Kimi? Should the US Ban Chinese Open-Source Models & Stripe Buys PayPal]]></title>
+            <title><![CDATA[フロンティアラボがKimiに脅かされている？米国は中国のオープンソースモデルを禁止すべきか]]></title>
             <link>https://finance.biggo.jp/podcast/6b3add33f4c4a624</link>
             <guid>https://finance.biggo.jp/podcast/6b3add33f4c4a624</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How one family secretly controls 25% of America’s food]]></title>
+            <title><![CDATA[アメリカのすべてのファストフードチェーンが利用するたった一つの秘密のサプライヤー]]></title>
             <link>https://finance.biggo.jp/podcast/6924b125612702fd</link>
             <guid>https://finance.biggo.jp/podcast/6924b125612702fd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普總統先生，是怎麼賺到這麼多錢的?]]></title>
+            <title><![CDATA[トランプ収入暴露、一年でXX億ドルを荒稼ぎ、なんとその方法は…]]></title>
             <link>https://finance.biggo.jp/podcast/7f1fa10a3d506faf</link>
             <guid>https://finance.biggo.jp/podcast/7f1fa10a3d506faf</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[哲学者CEO | Clay共同創業者カリーム・アミン]]></title>
-            <link>https://finance.biggo.jp/podcast/73fc57c4c49e1192</link>
-            <guid>https://finance.biggo.jp/podcast/73fc57c4c49e1192</guid>
+            <link>https://finance.biggo.jp/podcast/c8a08dc3debce100</link>
+            <guid>https://finance.biggo.jp/podcast/c8a08dc3debce100</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[哲学者CEO | Clay共同創業者カリーム・アミン]]></title>
-            <link>https://finance.biggo.jp/podcast/c8a08dc3debce100</link>
-            <guid>https://finance.biggo.jp/podcast/c8a08dc3debce100</guid>
+            <link>https://finance.biggo.jp/podcast/73fc57c4c49e1192</link>
+            <guid>https://finance.biggo.jp/podcast/73fc57c4c49e1192</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -76,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Securitize Just Went Public. Is Wall Street Next?]]></title>
+            <title><![CDATA[ウォール街の兆ドル級オンチェーン競争が始まった]]></title>
             <link>https://finance.biggo.jp/podcast/76df83b2a4a95c88</link>
             <guid>https://finance.biggo.jp/podcast/76df83b2a4a95c88</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[米国科学サミット：3人の科学コミュニケーションのスーパースターが、幅広い聴衆に響く科学のストーリーを伝える方法について、自身の経験とアドバイスを語る]]></title>
             <link>https://finance.biggo.jp/podcast/32d3dc08edd48561</link>
             <guid>https://finance.biggo.jp/podcast/32d3dc08edd48561</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[モバイルゲームのためのローカルエージェンティック理論 — Shafik Quoraishee & Joanne Song, The New York Times]]></title>
-            <link>https://finance.biggo.jp/podcast/4fc74bfff1133fa3</link>
-            <guid>https://finance.biggo.jp/podcast/4fc74bfff1133fa3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
