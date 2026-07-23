@@ -10,9 +10,15 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[URGENT UPDATE - Iran War Expert: A Mass Casualty Attack Is Coming! | Robert Pape]]></title>
+            <title><![CDATA[緊急更新 - イラン戦争専門家: 大量死傷者攻撃が迫っています！ | Robert Pape]]></title>
             <link>https://finance.biggo.jp/podcast/5deee6aaf97232fc</link>
             <guid>https://finance.biggo.jp/podcast/5deee6aaf97232fc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI on Your Lakehouse: Context Comes in Shapes, Not Queries — Zach Blumenfeld, Neo4j]]></title>
+            <link>https://finance.biggo.jp/podcast/3f73b9d836ff8c0d</link>
+            <guid>https://finance.biggo.jp/podcast/3f73b9d836ff8c0d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From Systems of Record to Systems of Context — Omri Bruchim & Tomer Ast, monday.com]]></title>
+            <title><![CDATA[記録のシステムからコンテキストのシステムへ — Omri Bruchim & Tomer Ast, monday.com]]></title>
             <link>https://finance.biggo.jp/podcast/0cb28b1d4da1523e</link>
             <guid>https://finance.biggo.jp/podcast/0cb28b1d4da1523e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[戦争の未来は自律型へ]]></title>
             <link>https://finance.biggo.jp/podcast/31f7a026536257c6</link>
             <guid>https://finance.biggo.jp/podcast/31f7a026536257c6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[よりスマートな基盤上の薄いエージェント：オントロジーベースのセマンティックレイヤー — Emil Eifrem（Neo4j）]]></title>
-            <link>https://finance.biggo.jp/podcast/d08203aa59cea9c6</link>
-            <guid>https://finance.biggo.jp/podcast/d08203aa59cea9c6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
