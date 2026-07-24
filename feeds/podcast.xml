@@ -10,6 +10,36 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[モデル・ウィスパラー：評価とプロンプトがエージェントの振る舞いをどう形作るか — Preetika Bhateja & Daniel Bump, Google]]></title>
+            <link>https://finance.biggo.jp/podcast/462b6cc89b94f990</link>
+            <guid>https://finance.biggo.jp/podcast/462b6cc89b94f990</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[シグナルからPRへ：自己改善エージェントの解剖学 — Jason Lopatecki（Arize）]]></title>
+            <link>https://finance.biggo.jp/podcast/3672521bf7e37f22</link>
+            <guid>https://finance.biggo.jp/podcast/3672521bf7e37f22</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ニューヨークの2人のフランス人エンジニアが、クラウド全体を監視する企業をどのように築いたか]]></title>
+            <link>https://finance.biggo.jp/podcast/ec3227976a39dd27</link>
+            <guid>https://finance.biggo.jp/podcast/ec3227976a39dd27</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hugging Face Breach, Kimi K3 vs. US Frontier Labs, and The White House Bets $5B on AI | EP #273]]></title>
+            <link>https://finance.biggo.jp/podcast/409ddd2100883bc9</link>
+            <guid>https://finance.biggo.jp/podcast/409ddd2100883bc9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here We Go Again]]></title>
+            <link>https://finance.biggo.jp/podcast/6d3bf6712ebe47bf</link>
+            <guid>https://finance.biggo.jp/podcast/6d3bf6712ebe47bf</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[もう「Google Zero」を無視できない | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/0c663983f44318b4</link>
             <guid>https://finance.biggo.jp/podcast/0c663983f44318b4</guid>
@@ -22,7 +52,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Everything Is a Rollout — Alex Shaw + Ryan Marten, Terminal-Bench, Harbor, Laude Institute]]></title>
+            <title><![CDATA[すべてはロールアウト — Alex Shaw + Ryan Marten, Terminal-Bench, Harbor, Laude Institute]]></title>
             <link>https://finance.biggo.jp/podcast/f6bd3f772b9a0575</link>
             <guid>https://finance.biggo.jp/podcast/f6bd3f772b9a0575</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -52,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Open Source AI Harness for the World]]></title>
+            <title><![CDATA[世界のオープンソースAIハーネス]]></title>
             <link>https://finance.biggo.jp/podcast/7fc5cff0028428b7</link>
             <guid>https://finance.biggo.jp/podcast/7fc5cff0028428b7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -64,7 +94,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ブラックロックのトニー・キムが考えるAI革命への投資とは]]></title>
+            <title><![CDATA[BlackRockのTony Kim: $10兆ドルのAIインフラブームが始まった]]></title>
             <link>https://finance.biggo.jp/podcast/f935cb5b44053397</link>
             <guid>https://finance.biggo.jp/podcast/f935cb5b44053397</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[フロンティアモデルにハッカーを出し抜く思考力を — ArithmeticのUri Rolls氏とHugging FaceのThom Wolf氏]]></title>
             <link>https://finance.biggo.jp/podcast/6fa8925552688a4d</link>
             <guid>https://finance.biggo.jp/podcast/6fa8925552688a4d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photoroomが自らを大きく夢見るように訓練した方法]]></title>
-            <link>https://finance.biggo.jp/podcast/f4561f531fa1239d</link>
-            <guid>https://finance.biggo.jp/podcast/f4561f531fa1239d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ベンキ・ラマクリシュナン: 長寿の科学とその誇大宣伝 | ポッドキャスト | In Good Company | (日本語)]]></title>
-            <link>https://finance.biggo.jp/podcast/569f2ebf652b5045</link>
-            <guid>https://finance.biggo.jp/podcast/569f2ebf652b5045</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIが全てを計算し始める中、なぜサッカーはまだ人間のものなのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/7e5edb6cc9327247</link>
-            <guid>https://finance.biggo.jp/podcast/7e5edb6cc9327247</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E245｜大規模言語モデルの背後に潜むジャーナリスト：GPTたちの回答はこうして書かれている]]></title>
-            <link>https://finance.biggo.jp/podcast/825c1b4e6e0d175c</link>
-            <guid>https://finance.biggo.jp/podcast/825c1b4e6e0d175c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[もう読書は必要ないのか？ | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/8290a5e91de23c1c</link>
-            <guid>https://finance.biggo.jp/podcast/8290a5e91de23c1c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
