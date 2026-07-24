@@ -10,9 +10,21 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[モデル・ウィスパラー：評価とプロンプトがエージェントの振る舞いをどう形作るか — Preetika Bhateja & Daniel Bump, Google]]></title>
+            <title><![CDATA[オープンソースAIをめぐる攻防、Anthropicの15億ドル和解、NYC社会主義者：立ち退き＝暴力？]]></title>
+            <link>https://finance.biggo.jp/podcast/827b5e2af3019978</link>
+            <guid>https://finance.biggo.jp/podcast/827b5e2af3019978</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[評価とプロンプトがエージェントの振る舞いを形成する方法 — Preetika Bhateja と Daniel Bump、YouTube Ads]]></title>
             <link>https://finance.biggo.jp/podcast/462b6cc89b94f990</link>
             <guid>https://finance.biggo.jp/podcast/462b6cc89b94f990</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エピソード190 - 2026年7月24日]]></title>
+            <link>https://finance.biggo.jp/podcast/948565420885abda</link>
+            <guid>https://finance.biggo.jp/podcast/948565420885abda</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -22,19 +34,19 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ニューヨークの2人のフランス人エンジニアが、クラウド全体を監視する企業をどのように築いたか]]></title>
+            <title><![CDATA[トップAIラボがオブザーバビリティで実際にやっていること]]></title>
             <link>https://finance.biggo.jp/podcast/ec3227976a39dd27</link>
             <guid>https://finance.biggo.jp/podcast/ec3227976a39dd27</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hugging Face Breach, Kimi K3 vs. US Frontier Labs, and The White House Bets $5B on AI | EP #273]]></title>
+            <title><![CDATA[Hugging Face のセキュリティ侵害、Kimi K3 対 US Frontier Labs、そしてホワイトハウスがAIに50億ドルを賭ける | EP #273]]></title>
             <link>https://finance.biggo.jp/podcast/409ddd2100883bc9</link>
             <guid>https://finance.biggo.jp/podcast/409ddd2100883bc9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Here We Go Again]]></title>
+            <title><![CDATA[またしても]]></title>
             <link>https://finance.biggo.jp/podcast/6d3bf6712ebe47bf</link>
             <guid>https://finance.biggo.jp/podcast/6d3bf6712ebe47bf</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[『X-メン』『ハロウィン』俳優タイラー・メインが語る男性乳がん]]></title>
             <link>https://finance.biggo.jp/podcast/112ce352917bd32d</link>
             <guid>https://finance.biggo.jp/podcast/112ce352917bd32d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[この非営利団体は表皮水疱症を治すエコシステムを構築している]]></title>
-            <link>https://finance.biggo.jp/podcast/607de8dfc26028d1</link>
-            <guid>https://finance.biggo.jp/podcast/607de8dfc26028d1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[フロンティアモデルにハッカーを出し抜く思考力を — ArithmeticのUri Rolls氏とHugging FaceのThom Wolf氏]]></title>
-            <link>https://finance.biggo.jp/podcast/6fa8925552688a4d</link>
-            <guid>https://finance.biggo.jp/podcast/6fa8925552688a4d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
