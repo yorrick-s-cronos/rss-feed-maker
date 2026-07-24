@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[『X-メン』『ハロウィン』俳優タイラー・メインが語る男性乳がん]]></title>
+            <link>https://finance.biggo.jp/podcast/112ce352917bd32d</link>
+            <guid>https://finance.biggo.jp/podcast/112ce352917bd32d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[この非営利団体は表皮水疱症を治すエコシステムを構築している]]></title>
             <link>https://finance.biggo.jp/podcast/607de8dfc26028d1</link>
             <guid>https://finance.biggo.jp/podcast/607de8dfc26028d1</guid>
@@ -34,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI搞不定足球：資料黑箱、“長不大的獨角獸”與“最後的堡壘”]]></title>
+            <title><![CDATA[AIが全てを計算し始める中、なぜサッカーはまだ人間のものなのか？]]></title>
             <link>https://finance.biggo.jp/podcast/7e5edb6cc9327247</link>
             <guid>https://finance.biggo.jp/podcast/7e5edb6cc9327247</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[「単一の研究所が勝つことはない」と考えるモデル非依存型AIプラットフォーム]]></title>
             <link>https://finance.biggo.jp/podcast/a7f1f0aead8e06a0</link>
             <guid>https://finance.biggo.jp/podcast/a7f1f0aead8e06a0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[フロンティアラボがKimiに脅かされている？米国は中国のオープンソースモデルを禁止すべきか]]></title>
-            <link>https://finance.biggo.jp/podcast/6b3add33f4c4a624</link>
-            <guid>https://finance.biggo.jp/podcast/6b3add33f4c4a624</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
