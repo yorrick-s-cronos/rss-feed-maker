@@ -10,13 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[E245｜大規模言語モデルの背後に潜むジャーナリスト：GPTたちの回答はこうして書かれている]]></title>
+            <link>https://finance.biggo.jp/podcast/825c1b4e6e0d175c</link>
+            <guid>https://finance.biggo.jp/podcast/825c1b4e6e0d175c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[もう読書は必要ないのか？ | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/8290a5e91de23c1c</link>
             <guid>https://finance.biggo.jp/podcast/8290a5e91de23c1c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[デートすらできない男性のための3つのルール]]></title>
+            <title><![CDATA[若い男性が孤独を選ぶ理由]]></title>
             <link>https://finance.biggo.jp/podcast/63c3ee3d71ea263f</link>
             <guid>https://finance.biggo.jp/podcast/63c3ee3d71ea263f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -106,27 +112,21 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哲学者CEO | Clay共同創業者カリーム・アミン]]></title>
-            <link>https://finance.biggo.jp/podcast/73fc57c4c49e1192</link>
-            <guid>https://finance.biggo.jp/podcast/73fc57c4c49e1192</guid>
+            <title><![CDATA[Clay共同創業者Kareem Aminの逆張りCEOプレイブック: 規律より献身]]></title>
+            <link>https://finance.biggo.jp/podcast/c8a08dc3debce100</link>
+            <guid>https://finance.biggo.jp/podcast/c8a08dc3debce100</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clay Co-Founder Kareem Amin's Contrarian CEO Playbook: Devotion Over Discipline]]></title>
-            <link>https://finance.biggo.jp/podcast/c8a08dc3debce100</link>
-            <guid>https://finance.biggo.jp/podcast/c8a08dc3debce100</guid>
+            <title><![CDATA[規律より献身: Clay共同創業者Kareem Aminの逆張りCEOプレイブック]]></title>
+            <link>https://finance.biggo.jp/podcast/73fc57c4c49e1192</link>
+            <guid>https://finance.biggo.jp/podcast/73fc57c4c49e1192</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[リサーチに従い、群衆に従うな]]></title>
             <link>https://finance.biggo.jp/podcast/e0ca0cdf4b4c6979</link>
             <guid>https://finance.biggo.jp/podcast/e0ca0cdf4b4c6979</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HC9が考える、オペレーター出身者がベンチャー投資家として優れている理由]]></title>
-            <link>https://finance.biggo.jp/podcast/07077af06425cca4</link>
-            <guid>https://finance.biggo.jp/podcast/07077af06425cca4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
