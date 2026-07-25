@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[エージェントトレースからエージェントシミュレーションへ — Rustem Feyzkhanov（Snorkel AI）]]></title>
+            <link>https://finance.biggo.jp/podcast/1ad22afe5f5c6d79</link>
+            <guid>https://finance.biggo.jp/podcast/1ad22afe5f5c6d79</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ビデオスロップの評価 — Maor Bril, Character.ai]]></title>
+            <link>https://finance.biggo.jp/podcast/b39d7918a04da4d4</link>
+            <guid>https://finance.biggo.jp/podcast/b39d7918a04da4d4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[大規模マルチモーダルエージェント向けクローズドループ評価の構築 — Soumya Gupta & Jai Chopra, Uber]]></title>
             <link>https://finance.biggo.jp/podcast/1da0e64a80041c10</link>
             <guid>https://finance.biggo.jp/podcast/1da0e64a80041c10</guid>
@@ -22,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The YouTube Ads Model Whisperers on how Evals and Prompts Shape Agent Behavior]]></title>
+            <title><![CDATA[YouTube's Model Whisperers: How Evals & Prompts Shape Behavior  — Preetika Bhateja & Daniel Bump]]></title>
             <link>https://finance.biggo.jp/podcast/462b6cc89b94f990</link>
             <guid>https://finance.biggo.jp/podcast/462b6cc89b94f990</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -46,7 +58,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kimi K3 vs. U.S. Frontier Labs, Hugging Face Breach, and Elon Feeds SpaceX Into Grok | EP #273]]></title>
+            <title><![CDATA[Kimi K3 vs. U.S. Frontier Labs、Hugging Faceの侵害、そしてElonがGrokにSpaceXを統合 | EP #273]]></title>
             <link>https://finance.biggo.jp/podcast/409ddd2100883bc9</link>
             <guid>https://finance.biggo.jp/podcast/409ddd2100883bc9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[BlackRockのTony Kim: $10兆ドルのAIインフラブームが始まった]]></title>
             <link>https://finance.biggo.jp/podcast/f935cb5b44053397</link>
             <guid>https://finance.biggo.jp/podcast/f935cb5b44053397</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ヘッジファンドはまだAI株に強気か？]]></title>
-            <link>https://finance.biggo.jp/podcast/c5b99b7d093c6cd4</link>
-            <guid>https://finance.biggo.jp/podcast/c5b99b7d093c6cd4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[弱気市場の売り手が枯渇…次に何が起こるか？]]></title>
-            <link>https://finance.biggo.jp/podcast/644761bda219726f</link>
-            <guid>https://finance.biggo.jp/podcast/644761bda219726f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

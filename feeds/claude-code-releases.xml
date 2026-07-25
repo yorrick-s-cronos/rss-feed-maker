@@ -4,11 +4,27 @@
         <title>claude-code Releases</title>
         <link>https://github.com/anthropics/claude-code/releases</link>
         <description>GitHub releases for anthropics/claude-code</description>
-        <lastBuildDate>Fri, 24 Jul 2026 17:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 01:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v2.1.220]]></title>
+            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.220</link>
+            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.220</guid>
+            <pubDate>Sat, 25 Jul 2026 01:35:55 GMT</pubDate>
+            <description><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Bug fixes and reliability improvements</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Bug fixes and reliability improvements</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.1.219]]></title>
             <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.219</link>
@@ -2596,74 +2612,6 @@
 <li>Improved terminal rendering performance by stabilizing the layout engine&#39;s JIT compilation profile</li>
 <li>Improved rendering performance for large file writes</li>
 <li>[VSCode] Added a tip suggesting disabling terminal GPU acceleration (or running <code>/terminal-setup</code>) to fix garbled glyphs</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[v2.1.160]]></title>
-            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.160</link>
-            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.160</guid>
-            <pubDate>Tue, 02 Jun 2026 02:10:25 GMT</pubDate>
-            <description><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Added a prompt before writing to shell startup files (<code>.zshenv</code>, <code>.zlogin</code>, <code>.bash_login</code>) and <code>~/.config/git/</code>, which could otherwise lead to unintended command execution</li>
-<li><code>acceptEdits</code> mode now prompts before writing build-tool config files that grant code execution (<code>.npmrc</code>, <code>.yarnrc*</code>, <code>bunfig.toml</code>, <code>.bazelrc</code>, <code>.pre-commit-config.yaml</code>, <code>.devcontainer/</code>, etc.)</li>
-<li>Edit no longer requires a separate Read after viewing a file with <code>grep</code>: single-file <code>grep</code>/<code>egrep</code>/<code>fgrep</code> commands now satisfy the read-before-edit check</li>
-<li>Fixed copy-on-select not writing to the Windows clipboard on WSL — now uses PowerShell interop instead of OSC 52, which terminals like MobaXterm don&#39;t support</li>
-<li>Fixed restoring a completed session from <code>claude agents</code> dropping chat history and re-running the original prompt</li>
-<li>Fixed background sessions re-attached after overnight retire losing their conversation and re-running the original prompt</li>
-<li>Fixed <code>claude --bg</code> occasionally failing with &quot;socket missing&quot; when the background daemon was cold-starting on a loaded machine</li>
-<li>Fixed an issue on Windows where the directory a background session was started in could not be deleted after <code>claude rm</code> until the background daemon exited</li>
-<li>Fixed background agents that resumed work being shown under Completed in the agents list</li>
-<li>Fixed <code>claude agents</code> freezing for several seconds when returning to the session list due to the auto-updater re-checking on every exit</li>
-<li>Fixed Esc, arrow keys, and typing becoming unresponsive on Windows when attached to a background session or in the agent view while the host is under heavy CPU load</li>
-<li>Fixed background agents emitting terminal sync-output markers to terminals that don&#39;t support them (Apple Terminal, tmux), causing render artifacts when entering a running agent</li>
-<li>Fixed mouse wheel scrolling prompt history instead of the transcript right after opening a session from the agents list</li>
-<li>Fixed CJK IME composition appearing at the bottom-left of the screen instead of at the input caret in the <code>claude agents</code> view</li>
-<li>Fixed valid <code>file:///C:/...</code> links being rewritten to a broken path on Windows terminals with hyperlink support</li>
-<li>Fixed voice mode failing to connect when the project directory or branch name contains non-ASCII or special characters</li>
-<li>Fixed the auto mode unavailability message on third-party providers (Bedrock/Vertex/Foundry) to point to the <code>CLAUDE_CODE_ENABLE_AUTO_MODE</code> opt-in instead of incorrectly blaming the model</li>
-<li>Fixed <code>/effort ultracode</code> incorrectly blaming the dynamic workflows setting when the model cannot run xhigh; ultracode is no longer offered on models that do not support it</li>
-<li>Fixed model-not-found errors suggesting <code>--model</code> when running via the SDK or other hosts where the CLI flag doesn&#39;t apply</li>
-<li>Fixed Claude&#39;s past replies disappearing from scrollback when resuming a brief mode session with brief mode turned off</li>
-<li>Fixed vim mode <code>p</code> pasting on the line below instead of at the cursor when the register was yanked with <code>v$</code></li>
-<li>Improved performance of opening recently-inactive background agent sessions in <code>claude agents</code></li>
-<li>Improved auto mode classifier latency by reducing reasoning on routine actions, lowering the chance of &quot;could not evaluate this action&quot; blocks</li>
-<li>Improved background-session teardown (<code>claude rm</code>/<code>stop</code>, idle reap) to send SIGTERM to running shell subprocesses before SIGKILL, so cleanup handlers run</li>
-<li>Removed <code>CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE</code>; the environment variable is now a no-op</li>
-<li>Removed the JetBrains plugin install suggestion from startup</li>
-<li>Renamed the dynamic-workflow trigger keyword from <code>workflow</code> to <code>ultracode</code>. The word &quot;workflow&quot; no longer triggers a run; asking for one in your own words still works. The trigger keyword is highlighted in violet in the prompt input</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Added a prompt before writing to shell startup files (<code>.zshenv</code>, <code>.zlogin</code>, <code>.bash_login</code>) and <code>~/.config/git/</code>, which could otherwise lead to unintended command execution</li>
-<li><code>acceptEdits</code> mode now prompts before writing build-tool config files that grant code execution (<code>.npmrc</code>, <code>.yarnrc*</code>, <code>bunfig.toml</code>, <code>.bazelrc</code>, <code>.pre-commit-config.yaml</code>, <code>.devcontainer/</code>, etc.)</li>
-<li>Edit no longer requires a separate Read after viewing a file with <code>grep</code>: single-file <code>grep</code>/<code>egrep</code>/<code>fgrep</code> commands now satisfy the read-before-edit check</li>
-<li>Fixed copy-on-select not writing to the Windows clipboard on WSL — now uses PowerShell interop instead of OSC 52, which terminals like MobaXterm don&#39;t support</li>
-<li>Fixed restoring a completed session from <code>claude agents</code> dropping chat history and re-running the original prompt</li>
-<li>Fixed background sessions re-attached after overnight retire losing their conversation and re-running the original prompt</li>
-<li>Fixed <code>claude --bg</code> occasionally failing with &quot;socket missing&quot; when the background daemon was cold-starting on a loaded machine</li>
-<li>Fixed an issue on Windows where the directory a background session was started in could not be deleted after <code>claude rm</code> until the background daemon exited</li>
-<li>Fixed background agents that resumed work being shown under Completed in the agents list</li>
-<li>Fixed <code>claude agents</code> freezing for several seconds when returning to the session list due to the auto-updater re-checking on every exit</li>
-<li>Fixed Esc, arrow keys, and typing becoming unresponsive on Windows when attached to a background session or in the agent view while the host is under heavy CPU load</li>
-<li>Fixed background agents emitting terminal sync-output markers to terminals that don&#39;t support them (Apple Terminal, tmux), causing render artifacts when entering a running agent</li>
-<li>Fixed mouse wheel scrolling prompt history instead of the transcript right after opening a session from the agents list</li>
-<li>Fixed CJK IME composition appearing at the bottom-left of the screen instead of at the input caret in the <code>claude agents</code> view</li>
-<li>Fixed valid <code>file:///C:/...</code> links being rewritten to a broken path on Windows terminals with hyperlink support</li>
-<li>Fixed voice mode failing to connect when the project directory or branch name contains non-ASCII or special characters</li>
-<li>Fixed the auto mode unavailability message on third-party providers (Bedrock/Vertex/Foundry) to point to the <code>CLAUDE_CODE_ENABLE_AUTO_MODE</code> opt-in instead of incorrectly blaming the model</li>
-<li>Fixed <code>/effort ultracode</code> incorrectly blaming the dynamic workflows setting when the model cannot run xhigh; ultracode is no longer offered on models that do not support it</li>
-<li>Fixed model-not-found errors suggesting <code>--model</code> when running via the SDK or other hosts where the CLI flag doesn&#39;t apply</li>
-<li>Fixed Claude&#39;s past replies disappearing from scrollback when resuming a brief mode session with brief mode turned off</li>
-<li>Fixed vim mode <code>p</code> pasting on the line below instead of at the cursor when the register was yanked with <code>v$</code></li>
-<li>Improved performance of opening recently-inactive background agent sessions in <code>claude agents</code></li>
-<li>Improved auto mode classifier latency by reducing reasoning on routine actions, lowering the chance of &quot;could not evaluate this action&quot; blocks</li>
-<li>Improved background-session teardown (<code>claude rm</code>/<code>stop</code>, idle reap) to send SIGTERM to running shell subprocesses before SIGKILL, so cleanup handlers run</li>
-<li>Removed <code>CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE</code>; the environment variable is now a no-op</li>
-<li>Removed the JetBrains plugin install suggestion from startup</li>
-<li>Renamed the dynamic-workflow trigger keyword from <code>workflow</code> to <code>ultracode</code>. The word &quot;workflow&quot; no longer triggers a run; asking for one in your own words still works. The trigger keyword is highlighted in violet in the prompt input</li>
 </ul>
 ]]></content:encoded>
         </item>
