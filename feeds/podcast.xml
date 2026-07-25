@@ -10,7 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[TWiV 1342: Clinical update with Dr. Daniel Griffin]]></title>
+            <title><![CDATA[ビッグテックが見逃したもの、そしてスタートアップがまだ勝つ方法]]></title>
+            <link>https://finance.biggo.jp/podcast/432bb892fdad93ad</link>
+            <guid>https://finance.biggo.jp/podcast/432bb892fdad93ad</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[フィジカルAIが次なるプラットフォームシフトである理由]]></title>
+            <link>https://finance.biggo.jp/podcast/f338cca5263a755c</link>
+            <guid>https://finance.biggo.jp/podcast/f338cca5263a755c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TWiV 1342: ダニエル・グリフィン博士との臨床アップデート]]></title>
             <link>https://finance.biggo.jp/podcast/1f72023f45b2f11d</link>
             <guid>https://finance.biggo.jp/podcast/1f72023f45b2f11d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[テスラ、フロリダでロボタクシー拡大——アマゾン傘下のZooxは遅れをとる]]></title>
             <link>https://finance.biggo.jp/podcast/1ce09a810662325e</link>
             <guid>https://finance.biggo.jp/podcast/1ce09a810662325e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界のオープンソースAIハーネス]]></title>
-            <link>https://finance.biggo.jp/podcast/7fc5cff0028428b7</link>
-            <guid>https://finance.biggo.jp/podcast/7fc5cff0028428b7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GSK初の肺がん承認、新たなIPO経路など]]></title>
-            <link>https://finance.biggo.jp/podcast/454776077ed4c575</link>
-            <guid>https://finance.biggo.jp/podcast/454776077ed4c575</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
