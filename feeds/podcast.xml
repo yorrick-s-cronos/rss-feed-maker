@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[テスラのロボタクシー量産化はたった一つの数字にかかっている]]></title>
+            <link>https://finance.biggo.jp/podcast/720d673a41f83c67</link>
+            <guid>https://finance.biggo.jp/podcast/720d673a41f83c67</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mercor CPO、フロンティアラボからの収益集中について語る]]></title>
+            <link>https://finance.biggo.jp/podcast/4f54ab307efc4e73</link>
+            <guid>https://finance.biggo.jp/podcast/4f54ab307efc4e73</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スタートアップを持続可能にする本当の要素]]></title>
+            <link>https://finance.biggo.jp/podcast/538ae0e88ff44bac</link>
+            <guid>https://finance.biggo.jp/podcast/538ae0e88ff44bac</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Opus 5が私の新しいお気に入りモデルに]]></title>
             <link>https://finance.biggo.jp/podcast/107e8c7a3bc7007c</link>
             <guid>https://finance.biggo.jp/podcast/107e8c7a3bc7007c</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[すべてはロールアウト — Alex Shaw + Ryan Marten, Terminal-Bench, Harbor, Laude Institute]]></title>
             <link>https://finance.biggo.jp/podcast/f6bd3f772b9a0575</link>
             <guid>https://finance.biggo.jp/podcast/f6bd3f772b9a0575</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[マルチエージェントレビュースウォームの構築方法]]></title>
-            <link>https://finance.biggo.jp/podcast/e7575c869e4b02fa</link>
-            <guid>https://finance.biggo.jp/podcast/e7575c869e4b02fa</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vending-Bench: 長期エージェント評価 — Lukas Petersson, Andon Labs]]></title>
-            <link>https://finance.biggo.jp/podcast/a0d8e67d80db9ffb</link>
-            <guid>https://finance.biggo.jp/podcast/a0d8e67d80db9ffb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[フルワークショップ：成功への準備 — Jason Liu（OpenAI Codex）]]></title>
-            <link>https://finance.biggo.jp/podcast/2dc67b731aa382aa</link>
-            <guid>https://finance.biggo.jp/podcast/2dc67b731aa382aa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[颱風紅霞 │ 九號波殺到！天文台預告凌晨1時10分將發出九號風球！]]></title>
+            <link>https://www.wenweipo.com/a/202607/25/AP6a64dc64e4b0c1e500223ac7.html</link>
+            <guid>https://www.wenweipo.com/a/202607/25/AP6a64dc64e4b0c1e500223ac7.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[天文台表示，按照現時預測路徑，紅霞會在星期日早上（7月26日）於惠州至汕尾一帶登陸，在香港東北100公里左右掠過，本地風力未來數小時會顯著上升，天文台會在凌晨1時10分發出九號烈風或暴風風力增強信號。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[(有片) 颱風紅霞 │ 杏花邨岸邊深夜見湧浪 康文署提醒市民應遠離岸邊]]></title>
+            <link>https://www.wenweipo.com/a/202607/25/AP6a64d588e4b0c1e500223a1b.html</link>
+            <guid>https://www.wenweipo.com/a/202607/25/AP6a64d588e4b0c1e500223a1b.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[8號西北烈風或暴風信號正生效，平均風速每小時63公里或以上。今晚11時，颱風紅霞集結在香港之東南偏東約150公里，即在北緯21.9度，東經115.6度附近，預料向西北移動，時速約18公里，移向廣東東部沿岸。在過去一小時，大老山及橫瀾島分別錄得的最高持續風速為每小時62及61公里，最高陣風分別超過每小時77及74公里。]]></description>
+        </item>
+        <item>
             <title><![CDATA[（多圖）天文台晚上10時10分改發八號風球]]></title>
             <link>https://www.wenweipo.com/a/202607/25/AP6a64c9dde4b0c1e500223920.html</link>
             <guid>https://www.wenweipo.com/a/202607/25/AP6a64c9dde4b0c1e500223920.html</guid>
@@ -29,13 +43,6 @@
             <guid>https://www.wenweipo.com/a/202607/25/AP6a64c5b0e4b0c1e5002238a4.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[區全國人大代表召集人、民建聯副主席、立法會議員陳勇表示非常歡迎深圳市羅湖區境外人士服務中心昨日（24日）正式揭牌啟用，為經常往返深港兩地的港澳台居民及外籍人士提供一站式綜合服務。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[颱風紅霞│天文台改發八號西北烈風或暴風信號]]></title>
-            <link>https://www.wenweipo.com/a/202607/25/AP6a64c4c8e4b0c1e500223891.html</link>
-            <guid>https://www.wenweipo.com/a/202607/25/AP6a64c4c8e4b0c1e500223891.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[天文台已於晚上10時10分，改發八號西北烈風或暴風信號。]]></description>
         </item>
         <item>
             <title><![CDATA[颱風紅霞│天文台：考慮明日凌晨1時至2時發出九號烈風或暴風風力增強信號]]></title>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202607/25/AP6a64a43de4b0c1e500223499.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[城巴今日（25日）表示，因應天文台將於晚上10時10分發出八號熱帶氣旋警告信號，城巴大部分日間路線，將於凌晨零時30分起陸續暫停服務。周日（7月26日）各通宵路線將不提供服務。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港各界援助廣西南寧橫州水災籌款行動完滿結束]]></title>
-            <link>https://www.wenweipo.com/a/202607/25/AP6a64a0dde4b0c1e50022332a.html</link>
-            <guid>https://www.wenweipo.com/a/202607/25/AP6a64a0dde4b0c1e50022332a.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[由匯蝶公益有限公司聯同國際公益法律服務協會有限公司（皆為香港《稅務條例》第88條認可慈善團體）發起《一方水難 八方支援》一人100港元起募捐支援廣西洪澇災民行動，從發起當天2026年7月12日至7月20日截止，共收集民間各界人士捐款共港幣1571000元（壹佰伍拾柒萬壹仟港元正）。]]></description>
         </item>
     </channel>
 </rss>
