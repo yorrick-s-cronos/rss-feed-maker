@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TWiV 1342: Clinical update with Dr. Daniel Griffin]]></title>
+            <link>https://finance.biggo.jp/podcast/1f72023f45b2f11d</link>
+            <guid>https://finance.biggo.jp/podcast/1f72023f45b2f11d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エージェントトレースからエージェントシミュレーションへ — Rustem Feyzkhanov（Snorkel AI）]]></title>
             <link>https://finance.biggo.jp/podcast/1ad22afe5f5c6d79</link>
             <guid>https://finance.biggo.jp/podcast/1ad22afe5f5c6d79</guid>
@@ -34,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[YouTube's Model Whisperers: How Evals & Prompts Shape Behavior  — Preetika Bhateja & Daniel Bump]]></title>
+            <title><![CDATA[YouTubeのモデル・ウィスパラー：評価とプロンプトが行動を形成する方法 — Preetika Bhateja & Daniel Bump]]></title>
             <link>https://finance.biggo.jp/podcast/462b6cc89b94f990</link>
             <guid>https://finance.biggo.jp/podcast/462b6cc89b94f990</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[GSK初の肺がん承認、新たなIPO経路など]]></title>
             <link>https://finance.biggo.jp/podcast/454776077ed4c575</link>
             <guid>https://finance.biggo.jp/podcast/454776077ed4c575</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BlackRockのTony Kim: $10兆ドルのAIインフラブームが始まった]]></title>
-            <link>https://finance.biggo.jp/podcast/f935cb5b44053397</link>
-            <guid>https://finance.biggo.jp/podcast/f935cb5b44053397</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
