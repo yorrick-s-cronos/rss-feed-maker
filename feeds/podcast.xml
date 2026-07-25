@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[第一原理から考えるループエンジニアリング — Kyle Mistele, HumanLayer]]></title>
+            <link>https://finance.biggo.jp/podcast/ec6260bcbc261129</link>
+            <guid>https://finance.biggo.jp/podcast/ec6260bcbc261129</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dropboxの栄枯盛衰]]></title>
+            <link>https://finance.biggo.jp/podcast/0bfe8f0bb9f599c3</link>
+            <guid>https://finance.biggo.jp/podcast/0bfe8f0bb9f599c3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[なぜ大規模なのか？小型LMとエッジ/ロボティクスのエージェント — Cormac Brick, Google]]></title>
             <link>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</link>
             <guid>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[またしても]]></title>
             <link>https://finance.biggo.jp/podcast/6d3bf6712ebe47bf</link>
             <guid>https://finance.biggo.jp/podcast/6d3bf6712ebe47bf</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[もう「Google Zero」を無視できない | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/0c663983f44318b4</link>
-            <guid>https://finance.biggo.jp/podcast/0c663983f44318b4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今週の注目：中国がアメリカのAIブームを切り崩す]]></title>
-            <link>https://finance.biggo.jp/podcast/6b212343086f797d</link>
-            <guid>https://finance.biggo.jp/podcast/6b212343086f797d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
