@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[なぜ小さいのか？エッジ/ロボティクス上の小型LMとエージェント — Cormac Brick, Google 2026-07-26 01:03]]></title>
+            <link>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</link>
+            <guid>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[テスラのロボタクシー量産化はたった一つの数字にかかっている]]></title>
             <link>https://finance.biggo.jp/podcast/720d673a41f83c67</link>
             <guid>https://finance.biggo.jp/podcast/720d673a41f83c67</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[今週の注目：中国がアメリカのAIブームを切り崩す]]></title>
             <link>https://finance.biggo.jp/podcast/6b212343086f797d</link>
             <guid>https://finance.biggo.jp/podcast/6b212343086f797d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[すべてはロールアウト — Alex Shaw + Ryan Marten, Terminal-Bench, Harbor, Laude Institute]]></title>
-            <link>https://finance.biggo.jp/podcast/f6bd3f772b9a0575</link>
-            <guid>https://finance.biggo.jp/podcast/f6bd3f772b9a0575</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
