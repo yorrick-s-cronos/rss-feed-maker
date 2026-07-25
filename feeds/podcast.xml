@@ -10,13 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[大規模マルチモーダルエージェント向けクローズドループ評価の構築 — Soumya Gupta & Jai Chopra, Uber]]></title>
+            <link>https://finance.biggo.jp/podcast/1da0e64a80041c10</link>
+            <guid>https://finance.biggo.jp/podcast/1da0e64a80041c10</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[オープンソースAIをめぐる攻防、Anthropicの15億ドル和解、NYC社会主義者：立ち退き＝暴力？]]></title>
             <link>https://finance.biggo.jp/podcast/827b5e2af3019978</link>
             <guid>https://finance.biggo.jp/podcast/827b5e2af3019978</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[評価とプロンプトがエージェントの振る舞いを形成する方法 — Preetika Bhateja と Daniel Bump、YouTube Ads]]></title>
+            <title><![CDATA[The YouTube Ads Model Whisperers on how Evals and Prompts Shape Agent Behavior]]></title>
             <link>https://finance.biggo.jp/podcast/462b6cc89b94f990</link>
             <guid>https://finance.biggo.jp/podcast/462b6cc89b94f990</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -40,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hugging Face のセキュリティ侵害、Kimi K3 対 US Frontier Labs、そしてホワイトハウスがAIに50億ドルを賭ける | EP #273]]></title>
+            <title><![CDATA[Kimi K3 vs. U.S. Frontier Labs, Hugging Face Breach, and Elon Feeds SpaceX Into Grok | EP #273]]></title>
             <link>https://finance.biggo.jp/podcast/409ddd2100883bc9</link>
             <guid>https://finance.biggo.jp/podcast/409ddd2100883bc9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[弱気市場の売り手が枯渇…次に何が起こるか？]]></title>
             <link>https://finance.biggo.jp/podcast/644761bda219726f</link>
             <guid>https://finance.biggo.jp/podcast/644761bda219726f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[『X-メン』『ハロウィン』俳優タイラー・メインが語る男性乳がん]]></title>
-            <link>https://finance.biggo.jp/podcast/112ce352917bd32d</link>
-            <guid>https://finance.biggo.jp/podcast/112ce352917bd32d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

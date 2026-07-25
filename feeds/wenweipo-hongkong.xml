@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[夏寶龍與研修班座談　寄語加強團結提升治理效能]]></title>
+            <link>https://www.wenweipo.com/a/202607/25/AP6a63f43ce4b0c1e500221bad.html</link>
+            <guid>https://www.wenweipo.com/a/202607/25/AP6a63f43ce4b0c1e500221bad.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[據中共中央港澳工作辦公室、國務院港澳事務辦公室網訊，7月24日下午，中央港澳工作辦公室主任、國務院港澳事務辦公室主任夏寶龍在北京與香港特區立法會議員國家事務研修班全體學員座談交流。中央港澳工作辦公室、國務院港澳事務辦公室分管日常工作的副主任徐啟方，中央港澳工作辦公室副主任、中央政府駐港聯絡辦主任周霽，中央港澳工作辦公室、國務院港澳事務辦公室副主任章冬梅、農融參加。]]></description>
+        </item>
+        <item>
             <title><![CDATA[夏寶龍與香港立法會議員在京座談　強調「一國兩制」方針不變]]></title>
             <link>https://www.wenweipo.com/a/202607/25/AP6a639189e4b0c1e500221751.html</link>
             <guid>https://www.wenweipo.com/a/202607/25/AP6a639189e4b0c1e500221751.html</guid>
@@ -108,13 +115,6 @@
             <guid>https://www.wenweipo.com/a/202607/24/AP6a6346d9e4b0c1e500221029.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[昨日（23日）下午約2時半，西區警區接獲一名29歲的本地女乘客報案，她表示在皇后大道西登乘一輛7號路線、前往石排灣方向的雙層城巴。當她坐於巴士上層中排座位時，被藏於巴士座位椅背的一支長約3厘米縫紉針刺傷，其後由救護車送往瑪麗醫院治療。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科大招捷達團隊憑「逆向水波」管網診斷技術　奪第12屆PSIPW創意獎]]></title>
-            <link>https://www.wenweipo.com/a/202607/24/AP6a633f46e4b0c1e500220ef0.html</link>
-            <guid>https://www.wenweipo.com/a/202607/24/AP6a633f46e4b0c1e500220ef0.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港科技大學（科大）華人置業工程學教授、土木及環境工程學系講座教授招捷達聯同國際合作團隊與學生，憑「逆向水波」前沿研究並成功轉化為承壓管道網絡的新型診斷技術，榮獲第12屆Prince Sultan Bin Abdulaziz國際水資源獎（PSIPW）「創意獎」，獎金達266,000美元，為全球水利工程與科學界公認的重要殊榮之一。聯合國維也納總部今年六月於聯合國和平利用外層空間委員會（COPUOS）第69屆會議水資源專題會議上公布得獎名單，頒獎典禮將於本年度下半年在同地舉行。]]></description>
         </item>
     </channel>
 </rss>
