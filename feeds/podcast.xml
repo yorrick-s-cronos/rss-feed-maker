@@ -10,13 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[評価駆動開発によるメンタルヘルスAIコーチの構築 — Akele Reed & Dave Revere, SonderMind]]></title>
+            <link>https://finance.biggo.jp/podcast/52d5f5fbe28b3370</link>
+            <guid>https://finance.biggo.jp/podcast/52d5f5fbe28b3370</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[第一原理から考えるループエンジニアリング — Kyle Mistele, HumanLayer]]></title>
             <link>https://finance.biggo.jp/podcast/ec6260bcbc261129</link>
             <guid>https://finance.biggo.jp/podcast/ec6260bcbc261129</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dropboxの栄枯盛衰]]></title>
+            <title><![CDATA[What Happened to Dropbox?]]></title>
             <link>https://finance.biggo.jp/podcast/0bfe8f0bb9f599c3</link>
             <guid>https://finance.biggo.jp/podcast/0bfe8f0bb9f599c3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mercor、資金を使い切るのが追いつかない & 大企業がフロンティアラボとの提携を恐れる理由]]></title>
+            <title><![CDATA[Mercor プロダクト責任者、フロンティアラボからの収益集中について]]></title>
             <link>https://finance.biggo.jp/podcast/4f54ab307efc4e73</link>
             <guid>https://finance.biggo.jp/podcast/4f54ab307efc4e73</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[Kimi K3 vs. U.S. Frontier Labs、Hugging Faceの侵害、そしてElonがGrokにSpaceXを統合 | EP #273]]></title>
             <link>https://finance.biggo.jp/podcast/409ddd2100883bc9</link>
             <guid>https://finance.biggo.jp/podcast/409ddd2100883bc9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[またしても]]></title>
-            <link>https://finance.biggo.jp/podcast/6d3bf6712ebe47bf</link>
-            <guid>https://finance.biggo.jp/podcast/6d3bf6712ebe47bf</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
