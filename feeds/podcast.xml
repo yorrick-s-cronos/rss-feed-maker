@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Opus 5が私の新しいお気に入りモデルに]]></title>
+            <link>https://finance.biggo.jp/podcast/107e8c7a3bc7007c</link>
+            <guid>https://finance.biggo.jp/podcast/107e8c7a3bc7007c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ビッグテックが見逃したもの、そしてスタートアップがまだ勝つ方法]]></title>
             <link>https://finance.biggo.jp/podcast/432bb892fdad93ad</link>
             <guid>https://finance.biggo.jp/podcast/432bb892fdad93ad</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[フルワークショップ：成功への準備 — Jason Liu（OpenAI Codex）]]></title>
             <link>https://finance.biggo.jp/podcast/2dc67b731aa382aa</link>
             <guid>https://finance.biggo.jp/podcast/2dc67b731aa382aa</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[テスラ、フロリダでロボタクシー拡大——アマゾン傘下のZooxは遅れをとる]]></title>
-            <link>https://finance.biggo.jp/podcast/1ce09a810662325e</link>
-            <guid>https://finance.biggo.jp/podcast/1ce09a810662325e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
