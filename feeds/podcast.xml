@@ -10,7 +10,7 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Why Large? Tiny LMs & Agents on Edge/Robotics — Cormac Brick, Google]]></title>
+            <title><![CDATA[なぜ大規模なのか？小型LMとエッジ/ロボティクスのエージェント — Cormac Brick, Google]]></title>
             <link>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</link>
             <guid>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -22,7 +22,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Large Enterprise is Scared to Partner with Frontier Labs | Mercor Head of Product]]></title>
+            <title><![CDATA[Mercor、資金を使い切るのが追いつかない & 大企業がフロンティアラボとの提携を恐れる理由]]></title>
             <link>https://finance.biggo.jp/podcast/4f54ab307efc4e73</link>
             <guid>https://finance.biggo.jp/podcast/4f54ab307efc4e73</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
