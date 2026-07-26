@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[颱風紅霞│風暴遠離及減弱 天文台晚上7時10分取消所有風球]]></title>
+            <link>https://www.wenweipo.com/a/202607/26/AP6a65ed68e4b0c1e5002259b9.html</link>
+            <guid>https://www.wenweipo.com/a/202607/26/AP6a65ed68e4b0c1e5002259b9.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[隨着颱風「紅霞」遠離及減弱，本地風力進一步緩和。天文台於今日（26日）晚上7時10分取消所有熱帶氣旋警告信號，預料本港今晚及明日（27日）初時仍有驟雨及狂風雷暴，雨勢有時頗大。初時離岸及高地間中吹強風。海面仍有湧浪。]]></description>
+        </item>
+        <item>
             <title><![CDATA[颱風紅霞│漁護署巡查各公園進行清理檢查 盡快重開受影響路段及設施]]></title>
             <link>https://www.wenweipo.com/a/202607/26/AP6a65e10fe4b0c1e500225896.html</link>
             <guid>https://www.wenweipo.com/a/202607/26/AP6a65e10fe4b0c1e500225896.html</guid>
@@ -45,7 +52,7 @@
             <description><![CDATA[天文台提醒，雖然紅霞逐漸遠離香港，但受相關外圍強雨帶影響。]]></description>
         </item>
         <item>
-            <title><![CDATA[颱風紅霞│驚濤駭浪貨船擱淺 水警驚險勇救3名被困船員]]></title>
+            <title><![CDATA[(有片) 颱風紅霞│驚濤駭浪貨船擱淺 水警驚險勇救3名被困船員]]></title>
             <link>https://www.wenweipo.com/a/202607/26/AP6a65d4dde4b0c1e500225781.html</link>
             <guid>https://www.wenweipo.com/a/202607/26/AP6a65d4dde4b0c1e500225781.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202607/26/AP6a65c5eee4b0c1e50022556f.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[颱風過後，為加快社區復原步伐，民青團隊即時總動員支援各區開展善後及清理工作。各區民政處正積極協調其他部門及機構，並聯同地區治理「三駕馬車」，包括區議員、關愛隊以及地區「三會」委員，主動了解社區的情況，提供適切支援，讓善後工作更有序、更有效率。務求盡快讓市面復常，便利市民出行。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[颱風紅霞│房屋署團隊全力恢復屋邨正常運作 守護居民安全]]></title>
-            <link>https://www.wenweipo.com/a/202607/26/AP6a65c578e4b0c1e50022556e.html</link>
-            <guid>https://www.wenweipo.com/a/202607/26/AP6a65c578e4b0c1e50022556e.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[房屋局表示，颱風紅霞襲港期間，有不少樹木被強風吹倒或折枝，幸好沒有阻塞通道，邨管理團隊及承辦商無懼風雨，迅速展開清理工作，並即時移除倒塌樹枝，盡力減低對居民的影響。]]></description>
         </item>
     </channel>
 </rss>
