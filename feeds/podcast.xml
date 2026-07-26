@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[データの現状 — 独立アナリスト ショーン・カイ / State of Data 2026-07-27 01:01]]></title>
+            <link>https://finance.biggo.jp/podcast/5f2c2710176dad54</link>
+            <guid>https://finance.biggo.jp/podcast/5f2c2710176dad54</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[この驚くほどシンプルなアプリのアイデアで月収18,000ドル]]></title>
+            <link>https://finance.biggo.jp/podcast/d62c695862a154ca</link>
+            <guid>https://finance.biggo.jp/podcast/d62c695862a154ca</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[トレンドフォローイングの次なる進化 ft. ニック・バルタス | Systematic Investor | 第410回]]></title>
             <link>https://finance.biggo.jp/podcast/99f3f934d15d61e7</link>
             <guid>https://finance.biggo.jp/podcast/99f3f934d15d61e7</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[フィジカルAIが次なるプラットフォームシフトである理由]]></title>
             <link>https://finance.biggo.jp/podcast/f338cca5263a755c</link>
             <guid>https://finance.biggo.jp/podcast/f338cca5263a755c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1342: ダニエル・グリフィン博士との臨床アップデート]]></title>
-            <link>https://finance.biggo.jp/podcast/1f72023f45b2f11d</link>
-            <guid>https://finance.biggo.jp/podcast/1f72023f45b2f11d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントトレースからエージェントシミュレーションへ — Rustem Feyzkhanov（Snorkel AI）]]></title>
-            <link>https://finance.biggo.jp/podcast/1ad22afe5f5c6d79</link>
-            <guid>https://finance.biggo.jp/podcast/1ad22afe5f5c6d79</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
