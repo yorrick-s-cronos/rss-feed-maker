@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[(有片) 香港推遊艇訪港便利措施滿月 已有賬戶登記 經濟收益可期]]></title>
+            <link>https://www.wenweipo.com/a/202607/27/AP6a64bcdde4b0c1e500223747.html</link>
+            <guid>https://www.wenweipo.com/a/202607/27/AP6a64bcdde4b0c1e500223747.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[香港擁有1,180公里海岸線和263座島嶼，海上旅遊資源豐富。為配合本港遊艇經濟發展，海事處上月底推出3項促進遊艇訪港的便利措施，包括提升電子業務系統、放寬對訪港遊艇的泊位要求、便利內地訪港遊艇船長取得所需資歷。海事處處長王世發近日表示，新措施涵蓋三大「拆牆鬆綁」亮點，包括於內地應考減少時間與金錢成本、自行網上登記無需依賴中介、靈活轉換停泊地以實現多元聯遊體驗。相關便利措施實行不到一個月，已有9個個人賬戶完成電子業務系統登記。隨着日後更多遊艇訪港，他相信未來將會衍生更多配套服務，促進整個產業鏈發展。]]></description>
+        </item>
+        <item>
             <title><![CDATA[颱風紅霞│醫療輔助隊逾200人謹守崗位 共處理60多名傷者]]></title>
             <link>https://www.wenweipo.com/a/202607/26/AP6a66297ae4b0c1e500225e48.html</link>
             <guid>https://www.wenweipo.com/a/202607/26/AP6a66297ae4b0c1e500225e48.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202607/26/AP6a65dd7fe4b0c1e500225820.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（26日）網上流傳一條約12秒片段，顯示海洋公園登山纜車在強風中，其中一部纜車廂在半空擺動幅度頗大，如同盪鞦韆般來回左右搖擺，怵目驚心。有網民直言「好恐怖」、「求心理陰影面積」，亦有網民戲稱「坐纜車又玩埋海盜船 抵哂」、「幾好玩，刺激」、「仲好玩過海盜船！」另有網民質疑「明知打風都仲開」、「咁大風仲開嘅咩?」、「咁攪笑，你呢架Fing 得特別勁。」又指「其他都冇乜fing，證明係嗰一架車坐得唔好或者裏便啲人自己喺度fing」。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尖沙咀樓上吧男子遇襲昏迷 反黑組拘一男兩人在逃]]></title>
-            <link>https://www.wenweipo.com/a/202607/26/AP6a65dc4fe4b0c1e5002257fb.html</link>
-            <guid>https://www.wenweipo.com/a/202607/26/AP6a65dc4fe4b0c1e5002257fb.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[昨晚（25日）約9時半，一名姓楊（32歲）男子與約40名會員，在尖沙咀金馬倫道一樓上酒吧開私人派對。至晚上10時半，酒吧開放予其他公眾人士進入，期間，包括4男2女進入酒吧，並坐在楊男身旁，當中3名男子其後突然襲擊楊男，得逞後逃去。]]></description>
         </item>
     </channel>
 </rss>
