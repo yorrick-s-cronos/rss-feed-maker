@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Anthropic初のテクニカルPMが語る、トークン最大化、ぎざぎざのエッジ、そして未来に生きること]]></title>
+            <title><![CDATA[トレンドフォローイングの次なる進化 ft. ニック・バルタス | Systematic Investor | 第410回]]></title>
+            <link>https://finance.biggo.jp/podcast/99f3f934d15d61e7</link>
+            <guid>https://finance.biggo.jp/podcast/99f3f934d15d61e7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic's first technical PM: Building at the edge, sweating the tokens, and living in the future]]></title>
             <link>https://finance.biggo.jp/podcast/c7fbb618ff47fcea</link>
             <guid>https://finance.biggo.jp/podcast/c7fbb618ff47fcea</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[エージェントトレースからエージェントシミュレーションへ — Rustem Feyzkhanov（Snorkel AI）]]></title>
             <link>https://finance.biggo.jp/podcast/1ad22afe5f5c6d79</link>
             <guid>https://finance.biggo.jp/podcast/1ad22afe5f5c6d79</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ビデオスロップの評価 — Maor Bril, Character.ai]]></title>
-            <link>https://finance.biggo.jp/podcast/b39d7918a04da4d4</link>
-            <guid>https://finance.biggo.jp/podcast/b39d7918a04da4d4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
