@@ -10,7 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[State of Data — Sean Cai, Independent / State of Data]]></title>
+            <title><![CDATA[ジェンセン・フアン：NVIDIAを築いたマインドセット]]></title>
+            <link>https://finance.biggo.jp/podcast/c3bc0c0e27a145e1</link>
+            <guid>https://finance.biggo.jp/podcast/c3bc0c0e27a145e1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[143 ✪ 🚗「蔚小理」の高級化への探求]]></title>
+            <link>https://finance.biggo.jp/podcast/c5c97e5f141499fb</link>
+            <guid>https://finance.biggo.jp/podcast/c5c97e5f141499fb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DeepSWE：耐汚染型コーディングベンチマーク — James Shi（Datacurve）]]></title>
+            <link>https://finance.biggo.jp/podcast/49f6f036fb186e21</link>
+            <guid>https://finance.biggo.jp/podcast/49f6f036fb186e21</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[データの状態 — Sean Cai（独立系）/ データの状態]]></title>
             <link>https://finance.biggo.jp/podcast/5f2c2710176dad54</link>
             <guid>https://finance.biggo.jp/podcast/5f2c2710176dad54</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -28,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AnthropicがAIモデルが完成する前にClaude Codeのような製品をどのように構築しているか | Dianne Penn]]></title>
+            <title><![CDATA[Token budgets, building at the edge, and the future of product | Dianne Penn]]></title>
             <link>https://finance.biggo.jp/podcast/c7fbb618ff47fcea</link>
             <guid>https://finance.biggo.jp/podcast/c7fbb618ff47fcea</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[スタートアップを持続可能にする本当の要素]]></title>
             <link>https://finance.biggo.jp/podcast/538ae0e88ff44bac</link>
             <guid>https://finance.biggo.jp/podcast/538ae0e88ff44bac</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opus 5が私の新しいお気に入りモデルに]]></title>
-            <link>https://finance.biggo.jp/podcast/107e8c7a3bc7007c</link>
-            <guid>https://finance.biggo.jp/podcast/107e8c7a3bc7007c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ビッグテックが見逃したもの、そしてスタートアップがまだ勝つ方法]]></title>
-            <link>https://finance.biggo.jp/podcast/432bb892fdad93ad</link>
-            <guid>https://finance.biggo.jp/podcast/432bb892fdad93ad</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[フィジカルAIが次なるプラットフォームシフトである理由]]></title>
-            <link>https://finance.biggo.jp/podcast/f338cca5263a755c</link>
-            <guid>https://finance.biggo.jp/podcast/f338cca5263a755c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
