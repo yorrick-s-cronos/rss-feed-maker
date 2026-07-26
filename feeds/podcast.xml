@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TIVP086（動画）：Perimeter Solutions（PRM）：ニッチな独占企業、買収を重ねて成長 w/ Kyle Grieve と Shawn O'Malley]]></title>
+            <link>https://finance.biggo.jp/podcast/43abf20eddd9ad10</link>
+            <guid>https://finance.biggo.jp/podcast/43abf20eddd9ad10</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWiV 1343: 打率と盗塁]]></title>
             <link>https://finance.biggo.jp/podcast/5690bcb9a27f0a13</link>
             <guid>https://finance.biggo.jp/podcast/5690bcb9a27f0a13</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[オープンソースAIをめぐる攻防、Anthropicの15億ドル和解、NYC社会主義者：立ち退き＝暴力？]]></title>
             <link>https://finance.biggo.jp/podcast/827b5e2af3019978</link>
             <guid>https://finance.biggo.jp/podcast/827b5e2af3019978</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YouTubeのモデル・ウィスパラー：評価とプロンプトが行動を形成する方法 — Preetika Bhateja & Daniel Bump]]></title>
-            <link>https://finance.biggo.jp/podcast/462b6cc89b94f990</link>
-            <guid>https://finance.biggo.jp/podcast/462b6cc89b94f990</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
