@@ -10,6 +10,12 @@
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Our position on open-weights models]]></title>
+            <link>https://www.anthropic.com/news/position-open-weights-models</link>
+            <guid>https://www.anthropic.com/news/position-open-weights-models</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients]]></title>
             <link>https://www.anthropic.com/news/cognizant-anthropic</link>
             <guid>https://www.anthropic.com/news/cognizant-anthropic</guid>
@@ -61,12 +67,6 @@
             <title><![CDATA[UST is bringing Claude to physical AI]]></title>
             <link>https://www.anthropic.com/news/ust-claude</link>
             <guid>https://www.anthropic.com/news/ust-claude</guid>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inviting hard questions]]></title>
-            <link>https://www.anthropic.com/news/hard-questions</link>
-            <guid>https://www.anthropic.com/news/hard-questions</guid>
             <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

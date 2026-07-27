@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-07-27T21:56:48.369Z",
+  "lastSuccess": "2026-07-27T22:56:00.243Z",
   "articleCount": 10,
   "knownLinks": [
+    "https://www.anthropic.com/news/position-open-weights-models",
     "https://www.anthropic.com/news/cognizant-anthropic",
     "https://www.anthropic.com/news/claude-opus-5",
     "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
@@ -10,8 +11,7 @@
     "https://www.anthropic.com/news/rare-disease-research-grants",
     "https://www.anthropic.com/news/claude-for-teachers",
     "https://www.anthropic.com/news/canadian-ai-research",
-    "https://www.anthropic.com/news/ust-claude",
-    "https://www.anthropic.com/news/hard-questions"
+    "https://www.anthropic.com/news/ust-claude"
   ],
   "consecutiveErrors": 0
 }
