@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[この医師は辞めて警告します：遅くまで働くなら、これを知るべき！]]></title>
+            <link>https://finance.biggo.jp/podcast/d5d4561111a6fb4e</link>
+            <guid>https://finance.biggo.jp/podcast/d5d4561111a6fb4e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[遺伝学を活用した新治療法の発見：Regeneron Genetics CenterのAris Baras博士]]></title>
             <link>https://finance.biggo.jp/podcast/2ce877aa7996df21</link>
             <guid>https://finance.biggo.jp/podcast/2ce877aa7996df21</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[なぜ大規模なのか？小型LMとエッジ/ロボティクスのエージェント — Cormac Brick, Google]]></title>
             <link>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</link>
             <guid>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[テスラのロボタクシー量産化はたった一つの数字にかかっている]]></title>
-            <link>https://finance.biggo.jp/podcast/720d673a41f83c67</link>
-            <guid>https://finance.biggo.jp/podcast/720d673a41f83c67</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
