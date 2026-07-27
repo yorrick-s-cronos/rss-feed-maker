@@ -10,6 +10,36 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AI最急成長カテゴリーの内幕：260億ドル企業Cognition CEO Scott Wu]]></title>
+            <link>https://finance.biggo.jp/podcast/f3b5480d5467a592</link>
+            <guid>https://finance.biggo.jp/podcast/f3b5480d5467a592</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[常に効果を発揮するキラーマーケティングの秘訣（オグルヴィ副会長と共に）]]></title>
+            <link>https://finance.biggo.jp/podcast/140ea38b14fb6b69</link>
+            <guid>https://finance.biggo.jp/podcast/140ea38b14fb6b69</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米国科学サミット：Flagship Pioneering創業者兼CEOヌバー・アフェヤン、ケンブリッジでの初期の日々とそこでの機会、科学コミュニケーション、移民などについて語る]]></title>
+            <link>https://finance.biggo.jp/podcast/303a7caa041882a3</link>
+            <guid>https://finance.biggo.jp/podcast/303a7caa041882a3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[18歳でハーバード大学に入学、そしてLighterを創り上げるまで]]></title>
+            <link>https://finance.biggo.jp/podcast/a2c4357acfd8f968</link>
+            <guid>https://finance.biggo.jp/podcast/a2c4357acfd8f968</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ミシェル・クヌーセン：NYUの80億ドル基金を2年で再構築した方法]]></title>
+            <link>https://finance.biggo.jp/podcast/b1bf68b8a69d5f73</link>
+            <guid>https://finance.biggo.jp/podcast/b1bf68b8a69d5f73</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[この医師は辞めて警告します：遅くまで働くなら、これを知るべき！]]></title>
             <link>https://finance.biggo.jp/podcast/d5d4561111a6fb4e</link>
             <guid>https://finance.biggo.jp/podcast/d5d4561111a6fb4e</guid>
@@ -97,36 +127,6 @@
             <title><![CDATA[ReHacQプロデューサー高橋弘樹さんが語る「ヒット番組の作り方」そして「テレビ東京を辞めたワケ」]]></title>
             <link>https://finance.biggo.jp/podcast/21ab30b82850d5dd</link>
             <guid>https://finance.biggo.jp/podcast/21ab30b82850d5dd</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[執念がクリストファー・ノーランを築いた方法]]></title>
-            <link>https://finance.biggo.jp/podcast/1ce017e7174b4b88</link>
-            <guid>https://finance.biggo.jp/podcast/1ce017e7174b4b88</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[評価駆動開発によるメンタルヘルスAIコーチの構築 — Akele Reed & Dave Revere, SonderMind]]></title>
-            <link>https://finance.biggo.jp/podcast/52d5f5fbe28b3370</link>
-            <guid>https://finance.biggo.jp/podcast/52d5f5fbe28b3370</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第一原理から考えるループエンジニアリング — Kyle Mistele, HumanLayer]]></title>
-            <link>https://finance.biggo.jp/podcast/ec6260bcbc261129</link>
-            <guid>https://finance.biggo.jp/podcast/ec6260bcbc261129</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ドロップボックスはどうなったのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/0bfe8f0bb9f599c3</link>
-            <guid>https://finance.biggo.jp/podcast/0bfe8f0bb9f599c3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜ大規模なのか？小型LMとエッジ/ロボティクスのエージェント — Cormac Brick, Google]]></title>
-            <link>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</link>
-            <guid>https://finance.biggo.jp/podcast/d90c6eaaac5effe8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
