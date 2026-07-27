@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-07-27T13:32:49.430Z",
+  "lastSuccess": "2026-07-27T16:09:57.708Z",
   "articleCount": 10,
   "knownLinks": [
+    "https://www.anthropic.com/news/cognizant-anthropic",
     "https://www.anthropic.com/news/claude-opus-5",
     "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
     "https://www.anthropic.com/news/anthropic-economic-index-connector",
@@ -10,8 +11,7 @@
     "https://www.anthropic.com/news/claude-for-teachers",
     "https://www.anthropic.com/news/canadian-ai-research",
     "https://www.anthropic.com/news/ust-claude",
-    "https://www.anthropic.com/news/hard-questions",
-    "https://www.anthropic.com/news/ben-bernanke"
+    "https://www.anthropic.com/news/hard-questions"
   ],
   "consecutiveErrors": 0
 }

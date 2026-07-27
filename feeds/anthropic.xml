@@ -4,11 +4,17 @@
         <title>Anthropic News</title>
         <link>https://www.anthropic.com/news</link>
         <description>News and announcements from Anthropic.</description>
-        <lastBuildDate>Fri, 24 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients]]></title>
+            <link>https://www.anthropic.com/news/cognizant-anthropic</link>
+            <guid>https://www.anthropic.com/news/cognizant-anthropic</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing Claude Opus 5]]></title>
             <link>https://www.anthropic.com/news/claude-opus-5</link>
@@ -61,12 +67,6 @@
             <title><![CDATA[Inviting hard questions]]></title>
             <link>https://www.anthropic.com/news/hard-questions</link>
             <guid>https://www.anthropic.com/news/hard-questions</guid>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust]]></title>
-            <link>https://www.anthropic.com/news/ben-bernanke</link>
-            <guid>https://www.anthropic.com/news/ben-bernanke</guid>
             <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
