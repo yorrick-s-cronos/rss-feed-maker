@@ -10,15 +10,69 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[AI最急成長カテゴリーの内幕：260億ドル企業Cognition CEO Scott Wu]]></title>
+            <title><![CDATA[アメリカは本当に億万長者に課税できるのか？｜トランプノミクス]]></title>
+            <link>https://finance.biggo.jp/podcast/bc98caece6e58718</link>
+            <guid>https://finance.biggo.jp/podcast/bc98caece6e58718</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scott Galloway: Hoarding Wealth Is a Virus | Office Hours]]></title>
+            <link>https://finance.biggo.jp/podcast/15ddbab3bf918db0</link>
+            <guid>https://finance.biggo.jp/podcast/15ddbab3bf918db0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ネイサン、中国へ行く – パート1：テックとエージェント設定、中国のAI UX、WAIC、そしてAIに対する姿勢]]></title>
+            <link>https://finance.biggo.jp/podcast/80b479ad34530891</link>
+            <guid>https://finance.biggo.jp/podcast/80b479ad34530891</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NASA’s Jared Isaacman: the truth about UAPs, Moon Base by 2028 and the Path to Mars | Ep #274]]></title>
+            <link>https://finance.biggo.jp/podcast/ca72f4ca20c1e155</link>
+            <guid>https://finance.biggo.jp/podcast/ca72f4ca20c1e155</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anthropicのシードラウンドを主導 | AIにおける利益率の重要性とシリーズAが難しい理由 | Matt Murphy]]></title>
+            <link>https://finance.biggo.jp/podcast/0f0f8199a2858cfd</link>
+            <guid>https://finance.biggo.jp/podcast/0f0f8199a2858cfd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米国科学サミット：バイオテックのベテラン、ハーベイ・バーガーがケンダル・スクエアの歴史とライフサイエンスのリーダーシップ維持の課題を概観]]></title>
+            <link>https://finance.biggo.jp/podcast/f384a3fc8ca20509</link>
+            <guid>https://finance.biggo.jp/podcast/f384a3fc8ca20509</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cognition CEO Scott Wu: 「Devinが当社のコードの95%を書いています」]]></title>
             <link>https://finance.biggo.jp/podcast/f3b5480d5467a592</link>
             <guid>https://finance.biggo.jp/podcast/f3b5480d5467a592</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[常に効果を発揮するキラーマーケティングの秘訣（オグルヴィ副会長と共に）]]></title>
+            <title><![CDATA[米国科学サミット：鎌状赤血球症患者支援者ジミ・オラゲア氏と嚢胞性線維症支援者ボブ・コーリン氏による患者の視点]]></title>
+            <link>https://finance.biggo.jp/podcast/5b0af69a5ca260a1</link>
+            <guid>https://finance.biggo.jp/podcast/5b0af69a5ca260a1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ad expert spills the ultimate marketing moves that built Uber, Apple & Amex]]></title>
             <link>https://finance.biggo.jp/podcast/140ea38b14fb6b69</link>
             <guid>https://finance.biggo.jp/podcast/140ea38b14fb6b69</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米国科学サミット：Curie.Bio会長Alexis Borisy氏とParabilis Medicines CEO Mathai Mammen氏がバイオテクの資金調達環境と一般向け情報発信について語る]]></title>
+            <link>https://finance.biggo.jp/podcast/b4a28e6bcd1ae3ef</link>
+            <guid>https://finance.biggo.jp/podcast/b4a28e6bcd1ae3ef</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エピソード44：ベインキャピタルのアダム・コッペル]]></title>
+            <link>https://finance.biggo.jp/podcast/20a6c3c7ac8d5eb7</link>
+            <guid>https://finance.biggo.jp/podcast/20a6c3c7ac8d5eb7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -34,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ミシェル・クヌーセン：NYUの80億ドル基金を2年で再構築した方法]]></title>
+            <title><![CDATA[Michelle Knudsen: NYUのすべてのアロケーションが公募株式と競合する理由]]></title>
             <link>https://finance.biggo.jp/podcast/b1bf68b8a69d5f73</link>
             <guid>https://finance.biggo.jp/podcast/b1bf68b8a69d5f73</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -73,60 +127,6 @@
             <title><![CDATA[DeepSWE：耐汚染型コーディングベンチマーク — James Shi（Datacurve）]]></title>
             <link>https://finance.biggo.jp/podcast/49f6f036fb186e21</link>
             <guid>https://finance.biggo.jp/podcast/49f6f036fb186e21</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[データの状態 — Sean Cai（独立系）/ データの状態]]></title>
-            <link>https://finance.biggo.jp/podcast/5f2c2710176dad54</link>
-            <guid>https://finance.biggo.jp/podcast/5f2c2710176dad54</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[この驚くほどシンプルなアプリのアイデアで月収18,000ドル]]></title>
-            <link>https://finance.biggo.jp/podcast/d62c695862a154ca</link>
-            <guid>https://finance.biggo.jp/podcast/d62c695862a154ca</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[トレンドフォローイングの次なる進化 ft. ニック・バルタス | Systematic Investor | 第410回]]></title>
-            <link>https://finance.biggo.jp/podcast/99f3f934d15d61e7</link>
-            <guid>https://finance.biggo.jp/podcast/99f3f934d15d61e7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜ最高のプロダクトリーダーは2028年に向けて構築しているのか | Dianne Penn (Anthropic)]]></title>
-            <link>https://finance.biggo.jp/podcast/c7fbb618ff47fcea</link>
-            <guid>https://finance.biggo.jp/podcast/c7fbb618ff47fcea</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[短期的なAIへの懸念、長期的な計算リソース不足]]></title>
-            <link>https://finance.biggo.jp/podcast/12c9957b4621a2d4</link>
-            <guid>https://finance.biggo.jp/podcast/12c9957b4621a2d4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIVP086（動画）：Perimeter Solutions（PRM）：ニッチな独占企業、買収を重ねて成長 w/ Kyle Grieve と Shawn O'Malley]]></title>
-            <link>https://finance.biggo.jp/podcast/43abf20eddd9ad10</link>
-            <guid>https://finance.biggo.jp/podcast/43abf20eddd9ad10</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1343: 打率と盗塁]]></title>
-            <link>https://finance.biggo.jp/podcast/5690bcb9a27f0a13</link>
-            <guid>https://finance.biggo.jp/podcast/5690bcb9a27f0a13</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[スケールの厳しい現実：合成データと事前学習 — Marah Abdin & Robert McHardy, poolside]]></title>
-            <link>https://finance.biggo.jp/podcast/1e7f1dd70c11e5bd</link>
-            <guid>https://finance.biggo.jp/podcast/1e7f1dd70c11e5bd</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ReHacQプロデューサー高橋弘樹さんが語る「ヒット番組の作り方」そして「テレビ東京を辞めたワケ」]]></title>
-            <link>https://finance.biggo.jp/podcast/21ab30b82850d5dd</link>
-            <guid>https://finance.biggo.jp/podcast/21ab30b82850d5dd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

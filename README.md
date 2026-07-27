@@ -27,7 +27,7 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | [文匯香港](https://www.wenweipo.com/hongkong) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml) | ✅ 15 articles |
 | [Cursor Blog](https://cursor.com/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cursor-blog.xml) | ✅ 19 articles |
 | [Windsurf Blog](https://windsurf.com/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/windsurf.xml) | ✅ 50 articles |
-| [El Fintualist](https://fintualist.com/chile/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml) | ✅ 20 articles |
+| [El Fintualist](https://fintualist.com/chile/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml) | ✅ 16 articles |
 | [blog.cloudflare.com](https://blog.cloudflare.com/tag/ai/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cloudflare-com.xml) | ✅ 20 articles |
 | [Stability AI News](https://stability.ai/news) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/stability-ai.xml) | ✅ 20 articles |
 
