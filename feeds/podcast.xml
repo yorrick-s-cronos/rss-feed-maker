@@ -10,13 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[トレーダーに新たなツール、米国大型株に賭ける]]></title>
+            <link>https://finance.biggo.jp/podcast/a07da59427f302bd</link>
+            <guid>https://finance.biggo.jp/podcast/a07da59427f302bd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boris Cherny: Claude Codeの構築]]></title>
+            <link>https://finance.biggo.jp/podcast/7df48019614f68c0</link>
+            <guid>https://finance.biggo.jp/podcast/7df48019614f68c0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[アメリカは本当に億万長者に課税できるのか？｜トランプノミクス]]></title>
             <link>https://finance.biggo.jp/podcast/bc98caece6e58718</link>
             <guid>https://finance.biggo.jp/podcast/bc98caece6e58718</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scott Galloway: Hoarding Wealth Is a Virus | Office Hours]]></title>
+            <title><![CDATA[スコット・ギャロウェイ：富の貯め込みはウイルス | Office Hours]]></title>
             <link>https://finance.biggo.jp/podcast/15ddbab3bf918db0</link>
             <guid>https://finance.biggo.jp/podcast/15ddbab3bf918db0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -28,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NASA’s Jared Isaacman: the truth about UAPs, Moon Base by 2028 and the Path to Mars | Ep #274]]></title>
+            <title><![CDATA[NASAのジャレッド・アイザックマン：UAPの真実、2028年までの月面基地、そして火星への道 | エピソード#274]]></title>
             <link>https://finance.biggo.jp/podcast/ca72f4ca20c1e155</link>
             <guid>https://finance.biggo.jp/podcast/ca72f4ca20c1e155</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -46,7 +58,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cognition CEO Scott Wu: 「Devinが当社のコードの95%を書いています」]]></title>
+            <title><![CDATA[この会社の95%はAIで作られている：Cognitionの内部]]></title>
             <link>https://finance.biggo.jp/podcast/f3b5480d5467a592</link>
             <guid>https://finance.biggo.jp/podcast/f3b5480d5467a592</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ad expert spills the ultimate marketing moves that built Uber, Apple & Amex]]></title>
+            <title><![CDATA[Killer marketing tricks Amex, Apple and Domino's use on you - Rory Sutherland]]></title>
             <link>https://finance.biggo.jp/podcast/140ea38b14fb6b69</link>
             <guid>https://finance.biggo.jp/podcast/140ea38b14fb6b69</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[ジェンセン・フアン：NVIDIAを築いたマインドセット]]></title>
             <link>https://finance.biggo.jp/podcast/c3bc0c0e27a145e1</link>
             <guid>https://finance.biggo.jp/podcast/c3bc0c0e27a145e1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[143 ✪ 🚗「蔚小理」の高級化への探求]]></title>
-            <link>https://finance.biggo.jp/podcast/c5c97e5f141499fb</link>
-            <guid>https://finance.biggo.jp/podcast/c5c97e5f141499fb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DeepSWE：耐汚染型コーディングベンチマーク — James Shi（Datacurve）]]></title>
-            <link>https://finance.biggo.jp/podcast/49f6f036fb186e21</link>
-            <guid>https://finance.biggo.jp/podcast/49f6f036fb186e21</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
