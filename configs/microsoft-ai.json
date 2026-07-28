@@ -2,21 +2,17 @@
   "name": "microsoft-ai",
   "url": "https://microsoft.ai/blog/",
   "feed": {
-    "title": "microsoft.ai",
-    "description": "External RSS: https://microsoft.ai/blog/feed/",
+    "title": "Microsoft AI Blog",
+    "description": "We make responsible AI to empower people's lives.",
     "language": "en",
-    "author": "microsoft.ai"
+    "author": "Microsoft AI"
   },
   "selectors": {
-    "articleList": "",
-    "title": "",
+    "articleList": "scroll-object",
+    "title": "h2",
     "link": {
-      "source": ""
+      "source": "attr:href"
     }
-  },
-  "parserMode": "external",
-  "rssExtraction": {
-    "feedUrl": "https://microsoft.ai/blog/feed/"
   },
   "createdAt": "2026-07-28T13:28:58.513Z"
 }

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Microsoft AI Blog</title>
+        <link>https://microsoft.ai/blog/</link>
+        <description>We make responsible AI to empower people's lives.</description>
+        <lastBuildDate>Mon, 27 Jul 2026 16:30:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
+        <language>en</language>
+        <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/microsoft-ai.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing MAI-Cyber-1-Flash inside MDASH]]></title>
+            <link>https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/</link>
+            <guid>https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/</guid>
+            <pubDate>Mon, 27 Jul 2026 16:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hill-climbing MAI models for GitHub Copilot and Excel]]></title>
+            <link>https://microsoft.ai/news/hill-climbing-mai-models-for-github-copilot-and-excel/</link>
+            <guid>https://microsoft.ai/news/hill-climbing-mai-models-for-github-copilot-and-excel/</guid>
+            <pubDate>Thu, 23 Jul 2026 16:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing MAI-Image-2.5-Pro and MAI-Voice-2-Flash]]></title>
+            <link>https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/</link>
+            <guid>https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/</guid>
+            <pubDate>Thu, 23 Jul 2026 16:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bringing Ode Poetry to life with MAI’s audio models]]></title>
+            <link>https://microsoft.ai/news/ode-poetry-mai/</link>
+            <guid>https://microsoft.ai/news/ode-poetry-mai/</guid>
+            <pubDate>Thu, 09 Jul 2026 07:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing MAI-Voice-2]]></title>
+            <link>https://microsoft.ai/news/mai-voice-2/</link>
+            <guid>https://microsoft.ai/news/mai-voice-2/</guid>
+            <pubDate>Tue, 02 Jun 2026 16:47:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAI-Image-2.5 launches at No. 2 for image editing on Arena]]></title>
+            <link>https://microsoft.ai/news/introducing-mai-image-2-5/</link>
+            <guid>https://microsoft.ai/news/introducing-mai-image-2-5/</guid>
+            <pubDate>Tue, 02 Jun 2026 15:41:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our values in operation: Health]]></title>
+            <link>https://microsoft.ai/news/our-values-in-operation-health/</link>
+            <guid>https://microsoft.ai/news/our-values-in-operation-health/</guid>
+            <pubDate>Tue, 02 Jun 2026 14:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Build 2026: MAI keynote transcript]]></title>
+            <link>https://microsoft.ai/news/microsoft-build-2026-mai-keynote-transcript/</link>
+            <guid>https://microsoft.ai/news/microsoft-build-2026-mai-keynote-transcript/</guid>
+            <pubDate>Tue, 02 Jun 2026 12:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing MAI-Transcribe-1.5]]></title>
+            <link>https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/</link>
+            <guid>https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/</guid>
+            <pubDate>Tue, 02 Jun 2026 09:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a hill-climbing machine: Launching seven new MAI models]]></title>
+            <link>https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/</link>
+            <guid>https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/</guid>
+            <pubDate>Tue, 02 Jun 2026 09:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing MAI-Thinking-1]]></title>
+            <link>https://microsoft.ai/news/introducing-mai-thinking-1/</link>
+            <guid>https://microsoft.ai/news/introducing-mai-thinking-1/</guid>
+            <pubDate>Tue, 02 Jun 2026 06:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing MAI-Code-1-Flash]]></title>
+            <link>https://microsoft.ai/news/introducingmai-code-1-flash/</link>
+            <guid>https://microsoft.ai/news/introducingmai-code-1-flash/</guid>
+            <pubDate>Tue, 02 Jun 2026 05:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAI-Image-2-Efficient: Flagship Quality, 41% Lower Cost]]></title>
+            <link>https://microsoft.ai/news/mai-image-2-efficient/</link>
+            <guid>https://microsoft.ai/news/mai-image-2-efficient/</guid>
+            <pubDate>Tue, 14 Apr 2026 15:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing 3 new world class MAI models, available in Foundry]]></title>
+            <link>https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/</link>
+            <guid>https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/</guid>
+            <pubDate>Thu, 02 Apr 2026 13:52:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State of the Art Speech Recognition with MAI-Transcribe-1]]></title>
+            <link>https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/</link>
+            <guid>https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/</guid>
+            <pubDate>Thu, 02 Apr 2026 13:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing MAI-Image-2: for limitless creativity]]></title>
+            <link>https://microsoft.ai/news/introducing-mai-image-2/</link>
+            <guid>https://microsoft.ai/news/introducing-mai-image-2/</guid>
+            <pubDate>Thu, 19 Mar 2026 16:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Copilot Health]]></title>
+            <link>https://microsoft.ai/news/introducing-copilot-health/</link>
+            <guid>https://microsoft.ai/news/introducing-copilot-health/</guid>
+            <pubDate>Thu, 12 Mar 2026 12:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Health Check: How People Use Copilot for Health]]></title>
+            <link>https://microsoft.ai/news/health-check-how-people-use-copilot-for-health/</link>
+            <guid>https://microsoft.ai/news/health-check-how-people-use-copilot-for-health/</guid>
+            <pubDate>Tue, 10 Mar 2026 12:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s About Time: The Copilot Usage Report 2025]]></title>
+            <link>https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/</link>
+            <guid>https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/</guid>
+            <pubDate>Wed, 10 Dec 2025 14:18:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Towards Humanist Superintelligence]]></title>
+            <link>https://microsoft.ai/news/towards-humanist-superintelligence/</link>
+            <guid>https://microsoft.ai/news/towards-humanist-superintelligence/</guid>
+            <pubDate>Thu, 06 Nov 2025 13:30:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
