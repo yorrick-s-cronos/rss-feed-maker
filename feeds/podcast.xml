@@ -10,7 +10,49 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[サム・アルトマン、AGI、コンピュート、人間の主体性について語る]]></title>
+            <title><![CDATA[百度の香港ロボタクシー拡大が示すもの]]></title>
+            <link>https://finance.biggo.jp/podcast/e99f0c68b1a42fb4</link>
+            <guid>https://finance.biggo.jp/podcast/e99f0c68b1a42fb4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keplerにおけるフォワードデプロイドエンジニアリングの実践 — Vinoo Ganesh]]></title>
+            <link>https://finance.biggo.jp/podcast/d1fe34283781100d</link>
+            <guid>https://finance.biggo.jp/podcast/d1fe34283781100d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forward Deployed Engineering入門 — ケビン・バイ、Anthropic、元Palantir、Rippling創業FDE]]></title>
+            <link>https://finance.biggo.jp/podcast/cb47ec147e982d4d</link>
+            <guid>https://finance.biggo.jp/podcast/cb47ec147e982d4d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solving the Hardest Problem in Robotics | World Labs with a16z]]></title>
+            <link>https://finance.biggo.jp/podcast/b88c2ac7c3eb1310</link>
+            <guid>https://finance.biggo.jp/podcast/b88c2ac7c3eb1310</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blake Scholl：「未来はもっと速いはずだった」]]></title>
+            <link>https://finance.biggo.jp/podcast/06dcab4ecad74061</link>
+            <guid>https://finance.biggo.jp/podcast/06dcab4ecad74061</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[トニー・スーが語る、AI消費、アトムとビット、そして1%改善のマインドセット | エピソード55]]></title>
+            <link>https://finance.biggo.jp/podcast/a8f1ffa8c292be3a</link>
+            <guid>https://finance.biggo.jp/podcast/a8f1ffa8c292be3a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[200万モデルを溶かさずに運用：Hugging Face Hubのスケーリング — Arek Borucki, Hugging Face]]></title>
+            <link>https://finance.biggo.jp/podcast/b9a225fedaa082d5</link>
+            <guid>https://finance.biggo.jp/podcast/b9a225fedaa082d5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAIを運営する重みと賭け | サム・アルトマン]]></title>
             <link>https://finance.biggo.jp/podcast/d5107b1c85bab6de</link>
             <guid>https://finance.biggo.jp/podcast/d5107b1c85bab6de</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -85,48 +127,6 @@
             <title><![CDATA[十分裕福になった時を知らせる簡単な計算 | オフィスアワー]]></title>
             <link>https://finance.biggo.jp/podcast/15ddbab3bf918db0</link>
             <guid>https://finance.biggo.jp/podcast/15ddbab3bf918db0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ネイサン、中国へ行く – パート1：テックとエージェント設定、中国のAI UX、WAIC、そしてAIに対する姿勢]]></title>
-            <link>https://finance.biggo.jp/podcast/80b479ad34530891</link>
-            <guid>https://finance.biggo.jp/podcast/80b479ad34530891</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジャレッド・アイザックマン：NASAの月面基地2028年完成、月面のオプティマスロボット、UFOの真実 | エピソード274]]></title>
-            <link>https://finance.biggo.jp/podcast/ca72f4ca20c1e155</link>
-            <guid>https://finance.biggo.jp/podcast/ca72f4ca20c1e155</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthropicのシードラウンドを主導 | AIにおける利益率の重要性とシリーズAが難しい理由 | Matt Murphy]]></title>
-            <link>https://finance.biggo.jp/podcast/0f0f8199a2858cfd</link>
-            <guid>https://finance.biggo.jp/podcast/0f0f8199a2858cfd</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国科学サミット：バイオテックのベテラン、ハーベイ・バーガーがケンダル・スクエアの歴史とライフサイエンスのリーダーシップ維持の課題を概観]]></title>
-            <link>https://finance.biggo.jp/podcast/f384a3fc8ca20509</link>
-            <guid>https://finance.biggo.jp/podcast/f384a3fc8ca20509</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[この会社の95%はAIで作られている：Cognitionの内部]]></title>
-            <link>https://finance.biggo.jp/podcast/f3b5480d5467a592</link>
-            <guid>https://finance.biggo.jp/podcast/f3b5480d5467a592</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国科学サミット：鎌状赤血球症患者支援者ジミ・オラゲア氏と嚢胞性線維症支援者ボブ・コーリン氏による患者の視点]]></title>
-            <link>https://finance.biggo.jp/podcast/5b0af69a5ca260a1</link>
-            <guid>https://finance.biggo.jp/podcast/5b0af69a5ca260a1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[アメックス、アップル、ドミノが使っている殺し屋マーケティングのトリック - ロリー・サザーランド]]></title>
-            <link>https://finance.biggo.jp/podcast/140ea38b14fb6b69</link>
-            <guid>https://finance.biggo.jp/podcast/140ea38b14fb6b69</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

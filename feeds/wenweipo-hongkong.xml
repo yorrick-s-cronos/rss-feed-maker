@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[(有片) 民航處航空教育徑累計逾14.5萬人次參觀 免費導賞推廣航空知識]]></title>
+            <link>https://www.wenweipo.com/a/202607/29/AP6a68b41be4b0c1e50022a372.html</link>
+            <guid>https://www.wenweipo.com/a/202607/29/AP6a68b41be4b0c1e50022a372.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[民航處於總部大樓設立「航空教育徑」，旨在向公眾推廣航空知識和興趣。民航處處長廖志勇在接受香港文匯報專訪時表示，航空教育徑自2012年啟用以來提供免費導賞，至上月底累計吸引逾14.5萬人次參觀。他透露，民航處為慶祝成立80周年的一系列活動中，其中一個重點為今年9月中舉辦一連兩天開放日，屆時除教育徑導賞團外，並會安排航空專題講座、空管塔台模擬器示範等活動，讓公眾特別是年輕一代更全面了解香港民航業發展。]]></description>
+        </item>
+        <item>
             <title><![CDATA[機場海關兩日破三宗航空旅客販毒案 拘3男女檢1300萬元貨]]></title>
             <link>https://www.wenweipo.com/a/202607/28/AP6a68caa1e4b0c1e50022a564.html</link>
             <guid>https://www.wenweipo.com/a/202607/28/AP6a68caa1e4b0c1e50022a564.html</guid>
@@ -108,13 +115,6 @@
             <guid>https://www.wenweipo.com/a/202607/28/AP6a68a15ae4b0c1e50022a16b.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Sun Life永明將於2026年7月31日（星期五）舉辦「天星小輪免費乘搭日」]]></description>
-        </item>
-        <item>
-            <title><![CDATA[百度倫敦夥Lyft及Uber展開道路測試]]></title>
-            <link>https://www.wenweipo.com/a/202607/28/AP6a689faee4b0c1e50022a13e.html</link>
-            <guid>https://www.wenweipo.com/a/202607/28/AP6a689faee4b0c1e50022a13e.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[百度倫敦夥Lyft及Uber展開道路測試]]></description>
         </item>
     </channel>
 </rss>

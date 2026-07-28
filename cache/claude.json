@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-07-28T16:00:48.163Z",
+  "lastSuccess": "2026-07-28T17:28:14.076Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
     "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
     "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
     "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/working-at-the-frontier-cursor",
     "https://claude.com/blog/ciso-guide-to-agentic-ai",
     "https://claude.com/blog/ai-code-migration",
-    "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-    "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work"
+    "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork"
   ],
   "consecutiveErrors": 0
 }
