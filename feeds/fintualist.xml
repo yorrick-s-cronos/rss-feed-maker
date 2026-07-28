@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Mon, 27 Jul 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 15:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artista de la semana | Winsor McCay]]></title>
+            <link>https://fintualist.com/chile/cultura/artista-de-la-semana-winsor-mccay/</link>
+            <guid>https://fintualist.com/chile/cultura/artista-de-la-semana-winsor-mccay/</guid>
+            <pubDate>Mon, 27 Jul 2026 15:55:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[📍 Mercados en vivo - Megacaps en foco]]></title>
             <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
@@ -28,10 +34,10 @@
             <pubDate>Wed, 22 Jul 2026 15:10:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Matemático usa IA para refutar la conjetura jacobiana: un problema de 87 años]]></title>
-            <link>https://fintualist.com/chile/ciencia/matematico-usa-ia-para-refutar-la-conjetura-jacobiana-un-problema-de-87-anos/</link>
-            <guid>https://fintualist.com/chile/ciencia/matematico-usa-ia-para-refutar-la-conjetura-jacobiana-un-problema-de-87-anos/</guid>
-            <pubDate>Tue, 21 Jul 2026 22:48:59 GMT</pubDate>
+            <title><![CDATA[Las tecnológicas norteamericanas y el nuevo paradigma de cómo escalar]]></title>
+            <link>https://fintualist.com/mexico/educacion-financiera/las-tecnologicas-norteamericanas-y-el-nuevo-paradigma-de-como-escalar-mx/</link>
+            <guid>https://fintualist.com/mexico/educacion-financiera/las-tecnologicas-norteamericanas-y-el-nuevo-paradigma-de-como-escalar-mx/</guid>
+            <pubDate>Wed, 22 Jul 2026 14:38:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Las tecnológicas norteamericanas y el nuevo paradigma de cómo escalar]]></title>
@@ -56,12 +62,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla/</guid>
             <pubDate>Mon, 20 Jul 2026 20:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[¿Cómo elegimos renta fija en Fintual? El detrás de escena]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/como-elegimos-renta-fija-en-fintual-el-detras-de-escena/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/como-elegimos-renta-fija-en-fintual-el-detras-de-escena/</guid>
-            <pubDate>Mon, 20 Jul 2026 20:45:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Se cierra Ormuz, nuevamente - mercados al 17 de julio]]></title>
