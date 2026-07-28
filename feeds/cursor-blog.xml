@@ -4,11 +4,17 @@
         <title>Cursor Blog</title>
         <link>https://cursor.com/blog</link>
         <description>Latest updates and insights from the Cursor team about AI-powered coding</description>
-        <lastBuildDate>Wed, 22 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cursor-blog.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cursor Start]]></title>
+            <link>https://cursor.com/changelog/cursor-start</link>
+            <guid>https://cursor.com/changelog/cursor-start</guid>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cursor Router]]></title>
             <link>https://cursor.com/changelog/router</link>
@@ -33,12 +39,6 @@
             <guid>https://cursor.com/blog/grok-4-5</guid>
             <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Our most intelligent model and the first we've built for more than software engineering.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MCPs and Organizations in Team Marketplaces]]></title>
-            <link>https://cursor.com/changelog/team-marketplace-updates</link>
-            <guid>https://cursor.com/changelog/team-marketplace-updates</guid>
-            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Build from anywhere with Cursor for iOS]]></title>
