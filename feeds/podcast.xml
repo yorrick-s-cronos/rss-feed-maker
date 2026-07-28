@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[サム・アルトマン、AGI、コンピュート、人間の主体性について語る]]></title>
+            <link>https://finance.biggo.jp/podcast/d5107b1c85bab6de</link>
+            <guid>https://finance.biggo.jp/podcast/d5107b1c85bab6de</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エンタープライズAIポリシーの策定 | S3E13]]></title>
+            <link>https://finance.biggo.jp/podcast/7efe0a1b65bb5984</link>
+            <guid>https://finance.biggo.jp/podcast/7efe0a1b65bb5984</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[「中国のオープンソースモデルがSOTAに達した」：月之暗面の投資家と語るKimi前史、そして中国AIの十年リレー]]></title>
+            <link>https://finance.biggo.jp/podcast/ce9b89ad76df68b3</link>
+            <guid>https://finance.biggo.jp/podcast/ce9b89ad76df68b3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[習主席の新AI連合、米国を標的に | China Decode]]></title>
+            <link>https://finance.biggo.jp/podcast/05a8c37f15dbbbac</link>
+            <guid>https://finance.biggo.jp/podcast/05a8c37f15dbbbac</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[パフォーマンス向上のためのAIエージェント：より速くリリースし、コストを削減 — Netflix ラジャット・シャー]]></title>
             <link>https://finance.biggo.jp/podcast/39860b3647a56cd8</link>
             <guid>https://finance.biggo.jp/podcast/39860b3647a56cd8</guid>
@@ -103,30 +127,6 @@
             <title><![CDATA[アメックス、アップル、ドミノが使っている殺し屋マーケティングのトリック - ロリー・サザーランド]]></title>
             <link>https://finance.biggo.jp/podcast/140ea38b14fb6b69</link>
             <guid>https://finance.biggo.jp/podcast/140ea38b14fb6b69</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国科学サミット：Curie.Bio会長Alexis Borisy氏とParabilis Medicines CEO Mathai Mammen氏がバイオテクの資金調達環境と一般向け情報発信について語る]]></title>
-            <link>https://finance.biggo.jp/podcast/b4a28e6bcd1ae3ef</link>
-            <guid>https://finance.biggo.jp/podcast/b4a28e6bcd1ae3ef</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エピソード44：ベインキャピタルのアダム・コッペル]]></title>
-            <link>https://finance.biggo.jp/podcast/20a6c3c7ac8d5eb7</link>
-            <guid>https://finance.biggo.jp/podcast/20a6c3c7ac8d5eb7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国科学サミット：Flagship Pioneering創業者兼CEOヌバー・アフェヤン、ケンブリッジでの初期の日々とそこでの機会、科学コミュニケーション、移民などについて語る]]></title>
-            <link>https://finance.biggo.jp/podcast/303a7caa041882a3</link>
-            <guid>https://finance.biggo.jp/podcast/303a7caa041882a3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18歳でハーバード大学に入学、そしてLighterを創り上げるまで]]></title>
-            <link>https://finance.biggo.jp/podcast/a2c4357acfd8f968</link>
-            <guid>https://finance.biggo.jp/podcast/a2c4357acfd8f968</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
