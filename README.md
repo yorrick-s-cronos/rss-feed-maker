@@ -31,11 +31,12 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | [blog.cloudflare.com](https://blog.cloudflare.com/tag/ai/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cloudflare-com.xml) | ✅ 20 articles |
 | [Stability AI News](https://stability.ai/news) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/stability-ai.xml) | ✅ 20 articles |
 
-### External RSS (2)
+### External RSS (3)
 
 | Blog | Feed | Status |
 |------|------|--------|
 | [Hugging Face Blog](https://huggingface.co/blog) | [Subscribe](https://huggingface.co/blog/feed.xml) | ✅ native RSS |
+| [microsoft.ai](https://microsoft.ai/blog/) | [Subscribe](https://microsoft.ai/blog/feed/) | ✅ native RSS |
 | [booking.ai](https://booking.ai/) | [Subscribe](https://booking.ai/feed) | ✅ native RSS |
 
 ### GitHub Releases (3)
