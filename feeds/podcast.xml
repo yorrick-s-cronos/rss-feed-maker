@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[フォワードデプロイドエンジニアリングのためのAIツール — Vasuman Moza, Varick Agents]]></title>
+            <link>https://finance.biggo.jp/podcast/9d9547e7e089702d</link>
+            <guid>https://finance.biggo.jp/podcast/9d9547e7e089702d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[宇宙産業には経済インフラが必要、Nebex CEOが指摘]]></title>
+            <link>https://finance.biggo.jp/podcast/a3f26b2bc0336bbe</link>
+            <guid>https://finance.biggo.jp/podcast/a3f26b2bc0336bbe</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cognitionにおけるフォワードデプロイドエンジニアリングの実践 — Jia Wu]]></title>
             <link>https://finance.biggo.jp/podcast/a5f316b781abb2dc</link>
             <guid>https://finance.biggo.jp/podcast/a5f316b781abb2dc</guid>
@@ -19,6 +31,12 @@
             <title><![CDATA[How Forward Deployed Engineering is done at Ramp — Leo Mehr]]></title>
             <link>https://finance.biggo.jp/podcast/d8eb62ee5e9cf59d</link>
             <guid>https://finance.biggo.jp/podcast/d8eb62ee5e9cf59d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[折りたたみケータイが大復活 | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/20dd94059f0d247a</link>
+            <guid>https://finance.biggo.jp/podcast/20dd94059f0d247a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -109,24 +127,6 @@
             <title><![CDATA[習主席の新AI連合、米国を標的に | China Decode]]></title>
             <link>https://finance.biggo.jp/podcast/05a8c37f15dbbbac</link>
             <guid>https://finance.biggo.jp/podcast/05a8c37f15dbbbac</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[パフォーマンス向上のためのAIエージェント：より速くリリースし、コストを削減 — Netflix ラジャット・シャー]]></title>
-            <link>https://finance.biggo.jp/podcast/39860b3647a56cd8</link>
-            <guid>https://finance.biggo.jp/podcast/39860b3647a56cd8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[148. 対遊凱超3時間インタビュー：オープンソースインフラ、モデルとのコデザイン、「もしvLLMが失敗したら、一生後悔するだろう」]]></title>
-            <link>https://finance.biggo.jp/podcast/c9e084089065be11</link>
-            <guid>https://finance.biggo.jp/podcast/c9e084089065be11</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[サム・アルトマン：「スタートアップを始めるのにこれほど良い時代はない」]]></title>
-            <link>https://finance.biggo.jp/podcast/dbb930f92f5946f2</link>
-            <guid>https://finance.biggo.jp/podcast/dbb930f92f5946f2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

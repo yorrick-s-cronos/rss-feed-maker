@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 19:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 19:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La advertencia viral del CEO de Microsoft sobre el costo de la IA]]></title>
+            <link>https://fintualist.com/chile/tecnologia/la-advertencia-viral-del-ceo-de-microsoft-sobre-el-costo-de-la-ia/</link>
+            <guid>https://fintualist.com/chile/tecnologia/la-advertencia-viral-del-ceo-de-microsoft-sobre-el-costo-de-la-ia/</guid>
+            <pubDate>Tue, 28 Jul 2026 19:28:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AppleTV: ¿por qué les da lo mismo que nadie los vea?]]></title>
             <link>https://fintualist.com/chile/cultura/cine-series/appletv-por-que-no-les-importa-que-nadie-los-vea/</link>
@@ -28,10 +34,10 @@
             <pubDate>Mon, 27 Jul 2026 15:55:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[📍 Mercados en vivo - Megacaps en foco]]></title>
-            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
-            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+            <title><![CDATA[¿Tu PPR actual te cobra penalizaciones si te mueves a Fintual? Analiza si te conviene]]></title>
+            <link>https://fintualist.com/mexico/educacion-financiera/tu-ppr-actual-te-cobra-penalizaciones-si-te-mueves-a-fintual-analiza-si-te-conviene/</link>
+            <guid>https://fintualist.com/mexico/educacion-financiera/tu-ppr-actual-te-cobra-penalizaciones-si-te-mueves-a-fintual-analiza-si-te-conviene/</guid>
+            <pubDate>Wed, 22 Jul 2026 22:40:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Las tecnológicas norteamericanas y el nuevo paradigma de cómo escalar]]></title>
@@ -122,12 +128,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/hombres-y-mujeres-invierten-distinto-a-la-larga-da-casi-lo-mismo/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/hombres-y-mujeres-invierten-distinto-a-la-larga-da-casi-lo-mismo/</guid>
             <pubDate>Tue, 30 Jun 2026 17:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Se filtraron los resultados financieros de OpenAI: ¿es rentable el negocio?]]></title>
-            <link>https://fintualist.com/mexico/educacion-financiera/se-filtraron-los-resultados-financieros-de-openai-es-rentable-el-negocio-mx/</link>
-            <guid>https://fintualist.com/mexico/educacion-financiera/se-filtraron-los-resultados-financieros-de-openai-es-rentable-el-negocio-mx/</guid>
-            <pubDate>Tue, 23 Jun 2026 19:50:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
