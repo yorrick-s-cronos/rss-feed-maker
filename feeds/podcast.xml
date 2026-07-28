@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[パフォーマンス向上のためのAIエージェント：より速くリリースし、コストを削減 — Netflix ラジャット・シャー]]></title>
+            <link>https://finance.biggo.jp/podcast/39860b3647a56cd8</link>
+            <guid>https://finance.biggo.jp/podcast/39860b3647a56cd8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[148. 對遊凱超3小時訪談：開源Infra、和模型Co-design 、“如果vLLM失敗，我們會後悔一輩子”]]></title>
+            <link>https://finance.biggo.jp/podcast/c9e084089065be11</link>
+            <guid>https://finance.biggo.jp/podcast/c9e084089065be11</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[サム・アルトマン：「スタートアップを始めるのにこれほど良い時代はない」]]></title>
+            <link>https://finance.biggo.jp/podcast/dbb930f92f5946f2</link>
+            <guid>https://finance.biggo.jp/podcast/dbb930f92f5946f2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep. 379 - ArgenxのM&A、AI大手とバイオ医薬、触媒スコアカード]]></title>
+            <link>https://finance.biggo.jp/podcast/94ea3cfb1c3da776</link>
+            <guid>https://finance.biggo.jp/podcast/94ea3cfb1c3da776</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIファーストのスマホはどんな姿になるのか | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/0e1615816990360e</link>
             <guid>https://finance.biggo.jp/podcast/0e1615816990360e</guid>
@@ -34,7 +58,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[スコット・ギャロウェイ：富の貯め込みはウイルス | Office Hours]]></title>
+            <title><![CDATA[十分裕福になった時を知らせる簡単な計算 | オフィスアワー]]></title>
             <link>https://finance.biggo.jp/podcast/15ddbab3bf918db0</link>
             <guid>https://finance.biggo.jp/podcast/15ddbab3bf918db0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -46,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NASAのジャレッド・アイザックマン：UAPの真実、2028年までの月面基地、そして火星への道 | エピソード#274]]></title>
+            <title><![CDATA[ジャレッド・アイザックマン：NASAの月面基地2028年完成、月面のオプティマスロボット、UFOの真実 | エピソード274]]></title>
             <link>https://finance.biggo.jp/podcast/ca72f4ca20c1e155</link>
             <guid>https://finance.biggo.jp/podcast/ca72f4ca20c1e155</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[18歳でハーバード大学に入学、そしてLighterを創り上げるまで]]></title>
             <link>https://finance.biggo.jp/podcast/a2c4357acfd8f968</link>
             <guid>https://finance.biggo.jp/podcast/a2c4357acfd8f968</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michelle Knudsen: NYUのすべてのアロケーションが公募株式と競合する理由]]></title>
-            <link>https://finance.biggo.jp/podcast/b1bf68b8a69d5f73</link>
-            <guid>https://finance.biggo.jp/podcast/b1bf68b8a69d5f73</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[この医師は辞めて警告します：遅くまで働くなら、これを知るべき！]]></title>
-            <link>https://finance.biggo.jp/podcast/d5d4561111a6fb4e</link>
-            <guid>https://finance.biggo.jp/podcast/d5d4561111a6fb4e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[遺伝学を活用した新治療法の発見：Regeneron Genetics CenterのAris Baras博士]]></title>
-            <link>https://finance.biggo.jp/podcast/2ce877aa7996df21</link>
-            <guid>https://finance.biggo.jp/podcast/2ce877aa7996df21</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AnthropicとOpenAIがKimiに震え上がっている]]></title>
-            <link>https://finance.biggo.jp/podcast/a48d6aa0dd460833</link>
-            <guid>https://finance.biggo.jp/podcast/a48d6aa0dd460833</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
