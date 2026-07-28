@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Factoryにおけるフォワードデプロイドエンジニアリングの実践 — Eno Reyes]]></title>
+            <link>https://finance.biggo.jp/podcast/a9ec1414be2ad8d9</link>
+            <guid>https://finance.biggo.jp/podcast/a9ec1414be2ad8d9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD Advancing AI、Intel決算とWFE需要]]></title>
+            <link>https://finance.biggo.jp/podcast/5e49211434bc623b</link>
+            <guid>https://finance.biggo.jp/podcast/5e49211434bc623b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本気で言ってるのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/19180516b763524a</link>
+            <guid>https://finance.biggo.jp/podcast/19180516b763524a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[フォワードデプロイドエンジニアリングのためのAIツール — Vasuman Moza, Varick Agents]]></title>
             <link>https://finance.biggo.jp/podcast/9d9547e7e089702d</link>
             <guid>https://finance.biggo.jp/podcast/9d9547e7e089702d</guid>
@@ -28,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Forward Deployed Engineering is done at Ramp — Leo Mehr]]></title>
+            <title><![CDATA[Rampでのフォワードデプロイドエンジニアリングの実際 — Leo Mehr]]></title>
             <link>https://finance.biggo.jp/podcast/d8eb62ee5e9cf59d</link>
             <guid>https://finance.biggo.jp/podcast/d8eb62ee5e9cf59d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -70,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Future of Work: AI Generalists, Ideas, and Taste — Akshay Nathan, OpenAI]]></title>
+            <title><![CDATA[仕事の未来：AIジェネラリスト、アイデア、そしてセンス — Akshay Nathan, OpenAI]]></title>
             <link>https://finance.biggo.jp/podcast/f795e1679d1e202d</link>
             <guid>https://finance.biggo.jp/podcast/f795e1679d1e202d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -88,7 +106,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ブレイク・スコール：超音速ジェットをゼロから作る]]></title>
+            <title><![CDATA[Blake Scholl: Breaking the Supersonic Ban]]></title>
             <link>https://finance.biggo.jp/podcast/06dcab4ecad74061</link>
             <guid>https://finance.biggo.jp/podcast/06dcab4ecad74061</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[OpenAIを運営する重みと賭け | サム・アルトマン]]></title>
             <link>https://finance.biggo.jp/podcast/d5107b1c85bab6de</link>
             <guid>https://finance.biggo.jp/podcast/d5107b1c85bab6de</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エンタープライズAIポリシーの策定 | S3E13]]></title>
-            <link>https://finance.biggo.jp/podcast/7efe0a1b65bb5984</link>
-            <guid>https://finance.biggo.jp/podcast/7efe0a1b65bb5984</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[「中国のオープンソースモデルがSOTAに達した」：月之暗面の投資家と語るKimi前史、そして中国AIの十年リレー]]></title>
-            <link>https://finance.biggo.jp/podcast/ce9b89ad76df68b3</link>
-            <guid>https://finance.biggo.jp/podcast/ce9b89ad76df68b3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[習主席の新AI連合、米国を標的に | China Decode]]></title>
-            <link>https://finance.biggo.jp/podcast/05a8c37f15dbbbac</link>
-            <guid>https://finance.biggo.jp/podcast/05a8c37f15dbbbac</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

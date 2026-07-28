@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[與議員首次舉行對談交流會　李家超：同是「香港隊」 為市民解決問題]]></title>
+            <link>https://www.wenweipo.com/a/202607/29/AP6a693ff0e4b0c1e50022ac67.html</link>
+            <guid>https://www.wenweipo.com/a/202607/29/AP6a693ff0e4b0c1e50022ac67.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[行政立法互動模式再有創新舉措。香港特區行政長官李家超昨晨在立法會宴會廳舉行首次行政長官與立法會議員對談交流會，共有67位立法會議員出席，當中15名議員發言。]]></description>
+        </item>
+        <item>
             <title><![CDATA[(有片) 民航處航空教育徑累計逾14.5萬人次參觀 免費導賞推廣航空知識]]></title>
             <link>https://www.wenweipo.com/a/202607/29/AP6a68b41be4b0c1e50022a372.html</link>
             <guid>https://www.wenweipo.com/a/202607/29/AP6a68b41be4b0c1e50022a372.html</guid>
@@ -108,13 +115,6 @@
             <guid>https://www.wenweipo.com/a/202607/28/AP6a68a2c5e4b0c1e50022a18c.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[當地時間7月28日，世界劍擊錦標賽2026總決賽，男花港隊惜敗意大利，比分44:45，獲得銀牌。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[永明邀請全港市民周五免費搭天星小輪]]></title>
-            <link>https://www.wenweipo.com/a/202607/28/AP6a68a15ae4b0c1e50022a16b.html</link>
-            <guid>https://www.wenweipo.com/a/202607/28/AP6a68a15ae4b0c1e50022a16b.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sun Life永明將於2026年7月31日（星期五）舉辦「天星小輪免費乘搭日」]]></description>
         </item>
     </channel>
 </rss>
