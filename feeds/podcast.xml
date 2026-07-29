@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[モルガン・スタンレーのALPHALAB：最適化領域を横断するマルチエージェント研究 — Brendan Rappazzo]]></title>
+            <link>https://finance.biggo.jp/podcast/637938861bed69f4</link>
+            <guid>https://finance.biggo.jp/podcast/637938861bed69f4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ヒレル・ウェインと形式手法]]></title>
+            <link>https://finance.biggo.jp/podcast/6846c9e3b815ce6f</link>
+            <guid>https://finance.biggo.jp/podcast/6846c9e3b815ce6f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ivy League: Geniuses or Just Rich Kids? | Office Hours]]></title>
             <link>https://finance.biggo.jp/podcast/bbfb406a216320d3</link>
             <guid>https://finance.biggo.jp/podcast/bbfb406a216320d3</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[宇宙産業には経済インフラが必要、Nebex CEOが指摘]]></title>
             <link>https://finance.biggo.jp/podcast/a3f26b2bc0336bbe</link>
             <guid>https://finance.biggo.jp/podcast/a3f26b2bc0336bbe</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ゲイリー・ギャラガー：南北戦争、奴隷制、リンカーン、グラント、リー | Lex Fridman ポッドキャスト #499]]></title>
-            <link>https://finance.biggo.jp/podcast/48911221fe14ffcb</link>
-            <guid>https://finance.biggo.jp/podcast/48911221fe14ffcb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cognitionにおけるフォワードデプロイドエンジニアリングの実践 — Jia Wu]]></title>
-            <link>https://finance.biggo.jp/podcast/a5f316b781abb2dc</link>
-            <guid>https://finance.biggo.jp/podcast/a5f316b781abb2dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
