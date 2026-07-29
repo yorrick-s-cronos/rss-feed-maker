@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 19:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 21:08:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¿Por qué los ETF están de moda?]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/por-que-los-etf-estan-de-moda/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/por-que-los-etf-estan-de-moda/</guid>
+            <pubDate>Tue, 28 Jul 2026 21:08:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[La advertencia viral del CEO de Microsoft sobre el costo de la IA]]></title>
             <link>https://fintualist.com/chile/tecnologia/la-advertencia-viral-del-ceo-de-microsoft-sobre-el-costo-de-la-ia/</link>
@@ -26,12 +32,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/como-elegimos-renta-fija-en-fintual-el-detras-de-escena/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/como-elegimos-renta-fija-en-fintual-el-detras-de-escena/</guid>
             <pubDate>Tue, 28 Jul 2026 13:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artista de la semana | Winsor McCay]]></title>
-            <link>https://fintualist.com/chile/cultura/artista-de-la-semana-winsor-mccay/</link>
-            <guid>https://fintualist.com/chile/cultura/artista-de-la-semana-winsor-mccay/</guid>
-            <pubDate>Mon, 27 Jul 2026 15:55:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Petróleo a 100 - Mercados al 24 de julio]]></title>

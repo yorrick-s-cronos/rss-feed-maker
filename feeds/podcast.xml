@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[エージェントを纏う：グループチャットからメガネへ — Sai Krishna Rallabandi, Fidelity Investments]]></title>
+            <link>https://finance.biggo.jp/podcast/dc6fe67d6083fa74</link>
+            <guid>https://finance.biggo.jp/podcast/dc6fe67d6083fa74</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[開発者に届く前に2000のAIスキルを審査——NubankのLucas Palma]]></title>
             <link>https://finance.biggo.jp/podcast/3bed315724a170ee</link>
             <guid>https://finance.biggo.jp/podcast/3bed315724a170ee</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[自動化AGI研究所の構築：Core AutomationのJerry TworekとRohan Anil]]></title>
             <link>https://finance.biggo.jp/podcast/869ad8b3abca5f36</link>
             <guid>https://finance.biggo.jp/podcast/869ad8b3abca5f36</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[たった一行のコードの背後に数十億が待ち構えている]]></title>
-            <link>https://finance.biggo.jp/podcast/b542424c0a333f7d</link>
-            <guid>https://finance.biggo.jp/podcast/b542424c0a333f7d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
