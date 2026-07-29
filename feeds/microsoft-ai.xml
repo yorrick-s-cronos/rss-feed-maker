@@ -4,11 +4,17 @@
         <title>Microsoft AI Blog</title>
         <link>https://microsoft.ai/blog/</link>
         <description>We make responsible AI to empower people's lives.</description>
-        <lastBuildDate>Mon, 27 Jul 2026 16:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 22:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/microsoft-ai.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Optimizing the frontier performance curve]]></title>
+            <link>https://microsoft.ai/news/optimizing-the-frontier-performance-curve/</link>
+            <guid>https://microsoft.ai/news/optimizing-the-frontier-performance-curve/</guid>
+            <pubDate>Wed, 29 Jul 2026 22:30:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing MAI-Cyber-1-Flash inside MDASH]]></title>
             <link>https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/</link>
@@ -122,12 +128,6 @@
             <link>https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/</link>
             <guid>https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/</guid>
             <pubDate>Wed, 10 Dec 2025 14:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Towards Humanist Superintelligence]]></title>
-            <link>https://microsoft.ai/news/towards-humanist-superintelligence/</link>
-            <guid>https://microsoft.ai/news/towards-humanist-superintelligence/</guid>
-            <pubDate>Thu, 06 Nov 2025 13:30:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

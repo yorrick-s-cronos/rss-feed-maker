@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[開発者に届く前に2000のAIスキルを審査——NubankのLucas Palma]]></title>
+            <link>https://finance.biggo.jp/podcast/3bed315724a170ee</link>
+            <guid>https://finance.biggo.jp/podcast/3bed315724a170ee</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Keplerが金融サービス向けに検証可能なAIを構築した方法 — Vinoo Ganesh]]></title>
             <link>https://finance.biggo.jp/podcast/0ac9e48a7a97c636</link>
             <guid>https://finance.biggo.jp/podcast/0ac9e48a7a97c636</guid>
@@ -28,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ダリオ対ジェンセン：オープンウェイト、OpenAIとAnthropicのワシントン工作、習近平のAI輸出戦略 | EP #275]]></title>
+            <title><![CDATA[77社がジェンセンのAIアライアンスに参加、OpenAIとAnthropicが合同ロビー活動、Kimi K3がグローバル展開]]></title>
             <link>https://finance.biggo.jp/podcast/6015f63b35f4f920</link>
             <guid>https://finance.biggo.jp/podcast/6015f63b35f4f920</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -40,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”]]></title>
+            <title><![CDATA[アレクサンダー・ワン: フロンティアラボをゼロから構築する方法]]></title>
             <link>https://finance.biggo.jp/podcast/71899ddb1c0e1baf</link>
             <guid>https://finance.biggo.jp/podcast/71899ddb1c0e1baf</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +64,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Morgan Stanley's AlphaLab: Open Source Multi-Agent Quant Research — Brendan Rappazzo]]></title>
+            <title><![CDATA[モルガン・スタンレーのAlphaLab: オープンソースのマルチエージェント定量リサーチ — ブレンダン・ラッパッツォ]]></title>
             <link>https://finance.biggo.jp/podcast/637938861bed69f4</link>
             <guid>https://finance.biggo.jp/podcast/637938861bed69f4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -94,7 +100,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The simple investing strategy I used to go from $20K to $80M]]></title>
+            <title><![CDATA[20Kドルから80Mドルにしたシンプルな投資戦略]]></title>
             <link>https://finance.biggo.jp/podcast/d7d0aa5d1619e25f</link>
             <guid>https://finance.biggo.jp/podcast/d7d0aa5d1619e25f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[たった一行のコードの背後に数十億が待ち構えている]]></title>
             <link>https://finance.biggo.jp/podcast/b542424c0a333f7d</link>
             <guid>https://finance.biggo.jp/podcast/b542424c0a333f7d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[イーロン・マスク独占インタビュー完全版 | The Economist]]></title>
-            <link>https://finance.biggo.jp/podcast/9abc0dfc55dda2c8</link>
-            <guid>https://finance.biggo.jp/podcast/9abc0dfc55dda2c8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

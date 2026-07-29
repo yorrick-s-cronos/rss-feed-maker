@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-07-29T21:50:45.667Z",
+  "lastSuccess": "2026-07-29T22:52:12.972Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://microsoft.ai/news/optimizing-the-frontier-performance-curve/",
     "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
     "https://microsoft.ai/news/hill-climbing-mai-models-for-github-copilot-and-excel/",
     "https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/",
@@ -20,8 +21,7 @@
     "https://microsoft.ai/news/introducing-mai-image-2/",
     "https://microsoft.ai/news/introducing-copilot-health/",
     "https://microsoft.ai/news/health-check-how-people-use-copilot-for-health/",
-    "https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/",
-    "https://microsoft.ai/news/towards-humanist-superintelligence/"
+    "https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/"
   ],
   "consecutiveErrors": 0
 }
