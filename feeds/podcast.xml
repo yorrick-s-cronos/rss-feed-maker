@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[自動化AGI研究所の構築：Core AutomationのJerry TworekとRohan Anil]]></title>
+            <link>https://finance.biggo.jp/podcast/ece44874c47924b1</link>
+            <guid>https://finance.biggo.jp/podcast/ece44874c47924b1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[胸腺を1型糖尿病およびその他の疾患における免疫寛容のエンジンに変える]]></title>
             <link>https://finance.biggo.jp/podcast/d6059836125c0b26</link>
             <guid>https://finance.biggo.jp/podcast/d6059836125c0b26</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[仕事の未来：AIジェネラリスト、アイデア、そしてセンス — Akshay Nathan, OpenAI]]></title>
             <link>https://finance.biggo.jp/podcast/f795e1679d1e202d</link>
             <guid>https://finance.biggo.jp/podcast/f795e1679d1e202d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ロボティクスにおける最も難しい問題を解決する | a16zのWorld Labs]]></title>
-            <link>https://finance.biggo.jp/podcast/b88c2ac7c3eb1310</link>
-            <guid>https://finance.biggo.jp/podcast/b88c2ac7c3eb1310</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
