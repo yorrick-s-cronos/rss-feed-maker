@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[胸腺を1型糖尿病およびその他の疾患における免疫寛容のエンジンに変える]]></title>
+            <link>https://finance.biggo.jp/podcast/d6059836125c0b26</link>
+            <guid>https://finance.biggo.jp/podcast/d6059836125c0b26</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[キャメロン・イングリッシュ：慣行農業と有機農業の論争]]></title>
             <link>https://finance.biggo.jp/podcast/40bcb5fac3806c57</link>
             <guid>https://finance.biggo.jp/podcast/40bcb5fac3806c57</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[ロボティクスにおける最も難しい問題を解決する | a16zのWorld Labs]]></title>
             <link>https://finance.biggo.jp/podcast/b88c2ac7c3eb1310</link>
             <guid>https://finance.biggo.jp/podcast/b88c2ac7c3eb1310</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ep206: リン・バラノウスキー氏が語る、重症肺疾患向け吸入薬の可能性]]></title>
-            <link>https://finance.biggo.jp/podcast/a7ca3e8a264dfdc3</link>
-            <guid>https://finance.biggo.jp/podcast/a7ca3e8a264dfdc3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
