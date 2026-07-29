@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[キャメロン・イングリッシュ：慣行農業と有機農業の論争]]></title>
+            <link>https://finance.biggo.jp/podcast/40bcb5fac3806c57</link>
+            <guid>https://finance.biggo.jp/podcast/40bcb5fac3806c57</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Kaichao: vLLM、オープンソースインフラ、モデル共同設計、そしてコミュニティからスタートアップへの道のり]]></title>
+            <link>https://finance.biggo.jp/podcast/01ffbda77868676d</link>
+            <guid>https://finance.biggo.jp/podcast/01ffbda77868676d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Factoryにおけるフォワードデプロイドエンジニアリングの実践 — Eno Reyes]]></title>
             <link>https://finance.biggo.jp/podcast/a9ec1414be2ad8d9</link>
             <guid>https://finance.biggo.jp/podcast/a9ec1414be2ad8d9</guid>
@@ -22,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[本気で言ってるのか？]]></title>
+            <title><![CDATA[Codeberg、マジで！？]]></title>
             <link>https://finance.biggo.jp/podcast/19180516b763524a</link>
             <guid>https://finance.biggo.jp/podcast/19180516b763524a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -40,9 +52,21 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ゲイリー・ギャラガー：南北戦争、奴隷制、リンカーン、グラント、リー | Lex Fridman ポッドキャスト #499]]></title>
+            <link>https://finance.biggo.jp/podcast/48911221fe14ffcb</link>
+            <guid>https://finance.biggo.jp/podcast/48911221fe14ffcb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cognitionにおけるフォワードデプロイドエンジニアリングの実践 — Jia Wu]]></title>
             <link>https://finance.biggo.jp/podcast/a5f316b781abb2dc</link>
             <guid>https://finance.biggo.jp/podcast/a5f316b781abb2dc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ハードウェアは難しい]]></title>
+            <link>https://finance.biggo.jp/podcast/8deaff23baf9b8a5</link>
+            <guid>https://finance.biggo.jp/podcast/8deaff23baf9b8a5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -103,30 +127,6 @@
             <title><![CDATA[Ep206: リン・バラノウスキー氏が語る、重症肺疾患向け吸入薬の可能性]]></title>
             <link>https://finance.biggo.jp/podcast/a7ca3e8a264dfdc3</link>
             <guid>https://finance.biggo.jp/podcast/a7ca3e8a264dfdc3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blake Scholl: 超音速飛行禁止を打破する]]></title>
-            <link>https://finance.biggo.jp/podcast/06dcab4ecad74061</link>
-            <guid>https://finance.biggo.jp/podcast/06dcab4ecad74061</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[トニー・スーが語る、AI消費、アトムとビット、そして1%改善のマインドセット | エピソード55]]></title>
-            <link>https://finance.biggo.jp/podcast/a8f1ffa8c292be3a</link>
-            <guid>https://finance.biggo.jp/podcast/a8f1ffa8c292be3a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[200万モデルを溶かさずに運用：Hugging Face Hubのスケーリング — Arek Borucki, Hugging Face]]></title>
-            <link>https://finance.biggo.jp/podcast/b9a225fedaa082d5</link>
-            <guid>https://finance.biggo.jp/podcast/b9a225fedaa082d5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAIを運営する重みと賭け | サム・アルトマン]]></title>
-            <link>https://finance.biggo.jp/podcast/d5107b1c85bab6de</link>
-            <guid>https://finance.biggo.jp/podcast/d5107b1c85bab6de</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
