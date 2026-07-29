@@ -10,6 +10,42 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[私はポートフォリオの70％をこの一銘柄に投じた - Chris Camillo]]></title>
+            <link>https://finance.biggo.jp/podcast/d7d0aa5d1619e25f</link>
+            <guid>https://finance.biggo.jp/podcast/d7d0aa5d1619e25f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ルーメンタムCEO：レーザーがAIデータセンターをどう変革するか]]></title>
+            <link>https://finance.biggo.jp/podcast/759bd32999f00905</link>
+            <guid>https://finance.biggo.jp/podcast/759bd32999f00905</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1時間1ドルのロボットがやってくる：業界リーダー4人が次を語る]]></title>
+            <link>https://finance.biggo.jp/podcast/87f55b755a904fab</link>
+            <guid>https://finance.biggo.jp/podcast/87f55b755a904fab</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自動化AGI研究所の構築：Core AutomationのJerry TworekとRohan Anil]]></title>
+            <link>https://finance.biggo.jp/podcast/869ad8b3abca5f36</link>
+            <guid>https://finance.biggo.jp/podcast/869ad8b3abca5f36</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[たった一行のコードの背後に数十億が待ち構えている]]></title>
+            <link>https://finance.biggo.jp/podcast/b542424c0a333f7d</link>
+            <guid>https://finance.biggo.jp/podcast/b542424c0a333f7d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[イーロン・マスク独占インタビュー完全版 | The Economist]]></title>
+            <link>https://finance.biggo.jp/podcast/9abc0dfc55dda2c8</link>
+            <guid>https://finance.biggo.jp/podcast/9abc0dfc55dda2c8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[自動化AGI研究所の構築：Core AutomationのJerry TworekとRohan Anil]]></title>
             <link>https://finance.biggo.jp/podcast/ece44874c47924b1</link>
             <guid>https://finance.biggo.jp/podcast/ece44874c47924b1</guid>
@@ -91,42 +127,6 @@
             <title><![CDATA[折りたたみケータイが大復活 | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/20dd94059f0d247a</link>
             <guid>https://finance.biggo.jp/podcast/20dd94059f0d247a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[フォワードデプロイドエンジニアリングの隠された真実 — Natalie Meurer, Sierra]]></title>
-            <link>https://finance.biggo.jp/podcast/ebcbba11dbdf53f8</link>
-            <guid>https://finance.biggo.jp/podcast/ebcbba11dbdf53f8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decagonにおけるフォワードデプロイドエンジニアリングの実践方法 — Sunny Rekhi]]></title>
-            <link>https://finance.biggo.jp/podcast/25bf3c9c39d661d1</link>
-            <guid>https://finance.biggo.jp/podcast/25bf3c9c39d661d1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度の香港ロボタクシー拡大が示すもの]]></title>
-            <link>https://finance.biggo.jp/podcast/e99f0c68b1a42fb4</link>
-            <guid>https://finance.biggo.jp/podcast/e99f0c68b1a42fb4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keplerにおけるフォワードデプロイドエンジニアリングの実践 — Vinoo Ganesh]]></title>
-            <link>https://finance.biggo.jp/podcast/d1fe34283781100d</link>
-            <guid>https://finance.biggo.jp/podcast/d1fe34283781100d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forward Deployed Engineering入門 — ケビン・バイ、Anthropic、元Palantir、Rippling創業FDE]]></title>
-            <link>https://finance.biggo.jp/podcast/cb47ec147e982d4d</link>
-            <guid>https://finance.biggo.jp/podcast/cb47ec147e982d4d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[仕事の未来：AIジェネラリスト、アイデア、そしてセンス — Akshay Nathan, OpenAI]]></title>
-            <link>https://finance.biggo.jp/podcast/f795e1679d1e202d</link>
-            <guid>https://finance.biggo.jp/podcast/f795e1679d1e202d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
