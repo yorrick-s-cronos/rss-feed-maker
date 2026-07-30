@@ -28,6 +28,13 @@
             <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Agent swarms and the new model economics]]></title>
+            <link>https://cursor.com/blog/agent-swarm-model-economics</link>
+            <guid>https://cursor.com/blog/agent-swarm-model-economics</guid>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We compared old and new agent swarms building SQLite from scratch and found that better coordination delivers similar quality at a fraction of the cost.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Improvements to Cursor in Slack]]></title>
             <link>https://cursor.com/changelog/slack-improvements</link>
             <guid>https://cursor.com/changelog/slack-improvements</guid>
@@ -58,13 +65,6 @@
             <link>https://cursor.com/blog/wayfair</link>
             <guid>https://cursor.com/blog/wayfair</guid>
             <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Direct agents with visual prompts in Design Mode]]></title>
-            <link>https://cursor.com/blog/design-mode</link>
-            <guid>https://cursor.com/blog/design-mode</guid>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Point, draw, or narrate UI changes in the browser while agents edit the code underneath.]]></description>
         </item>
         <item>
             <title><![CDATA[Faire doubles PR throughput with Cursor Cloud Agents]]></title>

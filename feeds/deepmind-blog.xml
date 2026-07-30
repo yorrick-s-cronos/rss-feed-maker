@@ -10,9 +10,15 @@
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/deepmind-blog.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Introducing Gemini 3.5 Flash Cyber]]></title>
-            <link>https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</link>
-            <guid>https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</guid>
+            <title><![CDATA[Gemini Robotics 2 brings whole body intelligence to robots]]></title>
+            <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
+            <guid>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</guid>
             <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -25,6 +31,12 @@
             <title><![CDATA[Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission]]></title>
             <link>https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission</link>
             <guid>https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Gemini 3.5 Flash Cyber]]></title>
+            <link>https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</link>
+            <guid>https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</guid>
             <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -145,18 +157,6 @@
             <title><![CDATA[Introducing Google Antigravity 2.0]]></title>
             <link>https://antigravity.google/blog/introducing-google-antigravity-2-0</link>
             <guid>https://antigravity.google/blog/introducing-google-antigravity-2-0</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making it easier to understand how content was created and edited]]></title>
-            <link>https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online</link>
-            <guid>https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica]]></title>
-            <link>https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/</link>
-            <guid>https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/</guid>
             <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
