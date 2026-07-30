@@ -10,6 +10,42 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[SaaSのMRRを4ヶ月で$17Kから$143Kに成長させた方法]]></title>
+            <link>https://finance.biggo.jp/podcast/d5f21f4d038fdb45</link>
+            <guid>https://finance.biggo.jp/podcast/d5f21f4d038fdb45</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自動化されたAI研究への第一歩 — Recursive AI CEO リチャード・ソーチャー]]></title>
+            <link>https://finance.biggo.jp/podcast/e54d435ccfb08ea7</link>
+            <guid>https://finance.biggo.jp/podcast/e54d435ccfb08ea7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ほとんどの経済学者は不況を誤解している feat. タイラー・グッドスピード | アイデアラボ | 第51回]]></title>
+            <link>https://finance.biggo.jp/podcast/651a82a22fa7bc03</link>
+            <guid>https://finance.biggo.jp/podcast/651a82a22fa7bc03</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ChatGPTを使ったライブ執筆プロセスをご覧ください]]></title>
+            <link>https://finance.biggo.jp/podcast/67a9fc2c13e71049</link>
+            <guid>https://finance.biggo.jp/podcast/67a9fc2c13e71049</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lassieが医療事務を自動化する方法]]></title>
+            <link>https://finance.biggo.jp/podcast/0713b820b6c145e1</link>
+            <guid>https://finance.biggo.jp/podcast/0713b820b6c145e1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jensen's Open-Weights Letter | Google Cloud Grows 82% But The Market Tanks]]></title>
+            <link>https://finance.biggo.jp/podcast/c1570c9d3f896cd3</link>
+            <guid>https://finance.biggo.jp/podcast/c1570c9d3f896cd3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[全員がこの書簡に署名した（…Anthropicを除く）]]></title>
             <link>https://finance.biggo.jp/podcast/bcbbd6d3a8ab0ddb</link>
             <guid>https://finance.biggo.jp/podcast/bcbbd6d3a8ab0ddb</guid>
@@ -22,7 +58,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lauren Hochfelder: Building Durable Real Estate at Morgan Stanley]]></title>
+            <title><![CDATA[Lauren Hochfelder：モルガン・スタンレーで耐久性のある不動産を築く]]></title>
             <link>https://finance.biggo.jp/podcast/c53eca323cc52324</link>
             <guid>https://finance.biggo.jp/podcast/c53eca323cc52324</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -91,42 +127,6 @@
             <title><![CDATA[Keplerが金融サービス向けに検証可能なAIを構築した方法 — Vinoo Ganesh]]></title>
             <link>https://finance.biggo.jp/podcast/0ac9e48a7a97c636</link>
             <guid>https://finance.biggo.jp/podcast/0ac9e48a7a97c636</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Z Fold 8が折りたたみスマホの新たな基準に | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/c2fbb6c9b3fc820a</link>
-            <guid>https://finance.biggo.jp/podcast/c2fbb6c9b3fc820a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ペルソナエンジニアリング：AI合成ペルソナのフィールドガイド — Ishan Anand、InsightSciences.ai]]></title>
-            <link>https://finance.biggo.jp/podcast/1ab1183dba0960a9</link>
-            <guid>https://finance.biggo.jp/podcast/1ab1183dba0960a9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jensen HuangがオープンAIアライアンスを立ち上げ、AnthropicとOpenAIがDCで提携、Kimi K3がグローバル展開]]></title>
-            <link>https://finance.biggo.jp/podcast/6015f63b35f4f920</link>
-            <guid>https://finance.biggo.jp/podcast/6015f63b35f4f920</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[既製のAIがお金を理解できない理由 — Udi Menkes, Intuit]]></title>
-            <link>https://finance.biggo.jp/podcast/aa4d2b1257dfa429</link>
-            <guid>https://finance.biggo.jp/podcast/aa4d2b1257dfa429</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[アレクサンダー・ワン: フロンティアラボをゼロから構築する方法]]></title>
-            <link>https://finance.biggo.jp/podcast/71899ddb1c0e1baf</link>
-            <guid>https://finance.biggo.jp/podcast/71899ddb1c0e1baf</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SimulationMaxxing：エージェントを20倍速くリリースする方法 — Aman Gupta (Nubank) + Shreya Rajpal (Snowglobe)]]></title>
-            <link>https://finance.biggo.jp/podcast/97d11e91d9e977a5</link>
-            <guid>https://finance.biggo.jp/podcast/97d11e91d9e977a5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
