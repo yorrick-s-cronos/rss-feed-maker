@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[金融エージェントのボトルネックはあなた自身 — Ramana Siddanth Emani（Auditoria AI）]]></title>
+            <link>https://finance.biggo.jp/podcast/7634510966edbf2a</link>
+            <guid>https://finance.biggo.jp/podcast/7634510966edbf2a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TWiN 74: プラスチックアストロサイトネットワークとMelissa Cooper]]></title>
+            <link>https://finance.biggo.jp/podcast/f05b37c62449e34e</link>
+            <guid>https://finance.biggo.jp/podcast/f05b37c62449e34e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[「デモ」ではなく「メモ」のために作る — チャン・ショーン、華潤集団]]></title>
+            <link>https://finance.biggo.jp/podcast/4d96a78a70808c85</link>
+            <guid>https://finance.biggo.jp/podcast/4d96a78a70808c85</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIエージェントをイベントソーシングシステムに統合しよう — Divakar Kumar, FlyersSoft]]></title>
             <link>https://finance.biggo.jp/podcast/cc7584b5613d0da5</link>
             <guid>https://finance.biggo.jp/podcast/cc7584b5613d0da5</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[失敗したのはエージェントではない。ハーネスだ。— ヴィノス・ゴビンダラジャン（OpenAI）]]></title>
             <link>https://finance.biggo.jp/podcast/d3cb9bb4abcc8ece</link>
             <guid>https://finance.biggo.jp/podcast/d3cb9bb4abcc8ece</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wired共同創業者ケビン・ケリーが語る、AIが50年かけて一夜にして成功した理由（ポッドキャストベスト）]]></title>
-            <link>https://finance.biggo.jp/podcast/e3206c7e762ae1b7</link>
-            <guid>https://finance.biggo.jp/podcast/e3206c7e762ae1b7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20Kドルから80Mドルにしたシンプルな投資戦略]]></title>
-            <link>https://finance.biggo.jp/podcast/d7d0aa5d1619e25f</link>
-            <guid>https://finance.biggo.jp/podcast/d7d0aa5d1619e25f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1000%上昇した株 | Lumentum CEO]]></title>
-            <link>https://finance.biggo.jp/podcast/759bd32999f00905</link>
-            <guid>https://finance.biggo.jp/podcast/759bd32999f00905</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
