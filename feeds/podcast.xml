@@ -10,7 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[貯蓄しすぎていませんか？ | Conversations]]></title>
+            <title><![CDATA[ジェフ・ディーン：AI構築における1%ルール]]></title>
+            <link>https://finance.biggo.jp/podcast/8d2088ca2c5e7244</link>
+            <guid>https://finance.biggo.jp/podcast/8d2088ca2c5e7244</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[攻撃と防御、どちらが優勢か？FAR.AIのアダム・グリーブ氏が語るAIセキュリティリーダーボード]]></title>
+            <link>https://finance.biggo.jp/podcast/a18af41fded94cee</link>
+            <guid>https://finance.biggo.jp/podcast/a18af41fded94cee</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[業界の追い風が弱まる中、Aonがマージン優位性を維持]]></title>
+            <link>https://finance.biggo.jp/podcast/379acc79bdfb52bd</link>
+            <guid>https://finance.biggo.jp/podcast/379acc79bdfb52bd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your 401(k)? Don’t Max It Out in Your 20s | Conversations]]></title>
             <link>https://finance.biggo.jp/podcast/2cfb0c3795c798d5</link>
             <guid>https://finance.biggo.jp/podcast/2cfb0c3795c798d5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Dentists are Adopting AI Before Anyone Else | Lassie with a16z]]></title>
+            <title><![CDATA[なぜ歯科医は他の誰よりも早くAIを採用しているのか | Lassie × a16z]]></title>
             <link>https://finance.biggo.jp/podcast/0713b820b6c145e1</link>
             <guid>https://finance.biggo.jp/podcast/0713b820b6c145e1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[金融エージェントのボトルネックはあなた自身 — Ramana Siddanth Emani（Auditoria AI）]]></title>
             <link>https://finance.biggo.jp/podcast/7634510966edbf2a</link>
             <guid>https://finance.biggo.jp/podcast/7634510966edbf2a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiN 74: プラスチックアストロサイトネットワークとMelissa Cooper]]></title>
-            <link>https://finance.biggo.jp/podcast/f05b37c62449e34e</link>
-            <guid>https://finance.biggo.jp/podcast/f05b37c62449e34e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[「デモ」ではなく「メモ」のために作る — チャン・ショーン、華潤集団]]></title>
-            <link>https://finance.biggo.jp/podcast/4d96a78a70808c85</link>
-            <guid>https://finance.biggo.jp/podcast/4d96a78a70808c85</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIエージェントをイベントソーシングシステムに統合しよう — Divakar Kumar, FlyersSoft]]></title>
-            <link>https://finance.biggo.jp/podcast/cc7584b5613d0da5</link>
-            <guid>https://finance.biggo.jp/podcast/cc7584b5613d0da5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

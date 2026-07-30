@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-07-30T22:09:14.209Z",
+  "lastSuccess": "2026-07-30T23:54:16.422Z",
   "articleCount": 10,
   "knownLinks": [
+    "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
     "https://www.anthropic.com/news/position-open-weights-models",
     "https://www.anthropic.com/news/cognizant-anthropic",
     "https://www.anthropic.com/news/claude-opus-5",
@@ -10,8 +11,7 @@
     "https://www.anthropic.com/news/donation-public-first-action",
     "https://www.anthropic.com/news/rare-disease-research-grants",
     "https://www.anthropic.com/news/claude-for-teachers",
-    "https://www.anthropic.com/news/canadian-ai-research",
-    "https://www.anthropic.com/news/ust-claude"
+    "https://www.anthropic.com/news/canadian-ai-research"
   ],
   "consecutiveErrors": 0
 }

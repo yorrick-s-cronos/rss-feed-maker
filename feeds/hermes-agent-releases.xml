@@ -4,11 +4,49 @@
         <title>hermes-agent Releases</title>
         <link>https://github.com/NousResearch/hermes-agent/releases</link>
         <description>GitHub releases for NousResearch/hermes-agent</description>
-        <lastBuildDate>Mon, 20 Jul 2026 18:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 23:45:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/hermes-agent-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hermes Agent v0.19.1 (v2026.7.30)]]></title>
+            <link>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.7.30</link>
+            <guid>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.7.30</guid>
+            <pubDate>Thu, 30 Jul 2026 23:45:37 GMT</pubDate>
+            <description><![CDATA[<h1>Hermes Agent v0.19.1 (v2026.7.30)</h1>
+<p><strong>Release Date:</strong> July 30, 2026</p>
+<blockquote>
+<p>Patch release. This tag rolls up the ~1,000+ PRs merged since v0.19.0 into a stable tagged release for downstream consumers (Docker images, hosted deployments, fresh installs).</p>
+</blockquote>
+<hr>
+<h2>About this release</h2>
+<p>Since v2026.7.20 (v0.19.0, July 20): <strong>~2,789 commits · ~4,748 files changed · ~442,000 insertions · ~392,300 deletions</strong> on <code>main</code>. This window is dominated by bug-fix and salvage waves across the gateway, voice subsystem, desktop app, and installer, plus continued platform work (Buzz/Nostr channel, FLUX3 video generation and delivery, Telegram media reliability, voice-mode regressions).</p>
+<p><strong>Full curated release notes for this window will ship with v0.20.0</strong>, which will document everything from v0.19.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.</p>
+<h2>Updating</h2>
+<pre><code class="language-bash">hermes update
+# or fresh install:
+curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash
+</code></pre>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/NousResearch/hermes-agent/compare/v2026.7.20...v2026.7.30">v2026.7.20...v2026.7.30</a></p>
+]]></description>
+            <content:encoded><![CDATA[<h1>Hermes Agent v0.19.1 (v2026.7.30)</h1>
+<p><strong>Release Date:</strong> July 30, 2026</p>
+<blockquote>
+<p>Patch release. This tag rolls up the ~1,000+ PRs merged since v0.19.0 into a stable tagged release for downstream consumers (Docker images, hosted deployments, fresh installs).</p>
+</blockquote>
+<hr>
+<h2>About this release</h2>
+<p>Since v2026.7.20 (v0.19.0, July 20): <strong>~2,789 commits · ~4,748 files changed · ~442,000 insertions · ~392,300 deletions</strong> on <code>main</code>. This window is dominated by bug-fix and salvage waves across the gateway, voice subsystem, desktop app, and installer, plus continued platform work (Buzz/Nostr channel, FLUX3 video generation and delivery, Telegram media reliability, voice-mode regressions).</p>
+<p><strong>Full curated release notes for this window will ship with v0.20.0</strong>, which will document everything from v0.19.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.</p>
+<h2>Updating</h2>
+<pre><code class="language-bash">hermes update
+# or fresh install:
+curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash
+</code></pre>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/NousResearch/hermes-agent/compare/v2026.7.20...v2026.7.30">v2026.7.20...v2026.7.30</a></p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hermes Agent v0.19.0 (2026.7.20) — The Quicksilver Release]]></title>
             <link>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.7.20</link>
