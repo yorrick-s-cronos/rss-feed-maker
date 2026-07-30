@@ -10,7 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[エージェントを纏う：グループチャットからメガネへ — Sai Krishna Rallabandi, Fidelity Investments]]></title>
+            <title><![CDATA[AIエージェントをイベントソーシングシステムに統合しよう — Divakar Kumar, FlyersSoft]]></title>
+            <link>https://finance.biggo.jp/podcast/cc7584b5613d0da5</link>
+            <guid>https://finance.biggo.jp/podcast/cc7584b5613d0da5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[マルチGPUカーネル、ワットあたりの知能、ヘテロジニアス推論など | YC Paper Club]]></title>
+            <link>https://finance.biggo.jp/podcast/c8a821eb467abe73</link>
+            <guid>https://finance.biggo.jp/podcast/c8a821eb467abe73</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントを装着する：グループチャットからメガネへ — Sai Krishna Rallabandi]]></title>
             <link>https://finance.biggo.jp/podcast/dc6fe67d6083fa74</link>
             <guid>https://finance.biggo.jp/podcast/dc6fe67d6083fa74</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SimulationMaxxing：Nubankがシミュレーションでエージェントの出荷を20倍高速化する方法 — Shreya Rajpal, Snowglobe]]></title>
+            <title><![CDATA[SimulationMaxxing：エージェントを20倍速くリリースする方法 — Aman Gupta (Nubank) + Shreya Rajpal (Snowglobe)]]></title>
             <link>https://finance.biggo.jp/podcast/97d11e91d9e977a5</link>
             <guid>https://finance.biggo.jp/podcast/97d11e91d9e977a5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[1000%上昇した株 | Lumentum CEO]]></title>
             <link>https://finance.biggo.jp/podcast/759bd32999f00905</link>
             <guid>https://finance.biggo.jp/podcast/759bd32999f00905</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1時間1ドルのロボットがやってくる：業界リーダー4人が次を語る]]></title>
-            <link>https://finance.biggo.jp/podcast/87f55b755a904fab</link>
-            <guid>https://finance.biggo.jp/podcast/87f55b755a904fab</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自動化AGI研究所の構築：Core AutomationのJerry TworekとRohan Anil]]></title>
-            <link>https://finance.biggo.jp/podcast/869ad8b3abca5f36</link>
-            <guid>https://finance.biggo.jp/podcast/869ad8b3abca5f36</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
