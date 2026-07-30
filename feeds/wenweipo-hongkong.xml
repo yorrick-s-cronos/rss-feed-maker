@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[全港聯會員企業齊展創新實力 匯聚政商力量共謀發展]]></title>
+            <link>https://www.wenweipo.com/a/202607/31/AP6a6b878ee4b0c1e50022edc6.html</link>
+            <guid>https://www.wenweipo.com/a/202607/31/AP6a6b878ee4b0c1e50022edc6.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[日前，全港各區工商聯（全港聯）於觀塘香江國際大廈舉行「全港聯半年度刊發布暨下半年工作報告會」，會議由全港聯會長楊凱山親自主持，首席會長盧錦欽、秘書長黃瓊靜、常務副秘書長余敏、永遠榮譽會長馮翠屏及多位永遠名譽會長、副會長等商界領袖齊聚一堂，凝聚工商界共識，共商發展藍圖。]]></description>
+        </item>
+        <item>
             <title><![CDATA[中區警區無人機巡邏計劃進入第二階段 8.1起拓展至蘇豪區]]></title>
             <link>https://www.wenweipo.com/a/202607/30/AP6a6b6fcfe4b0c1e50022ecde.html</link>
             <guid>https://www.wenweipo.com/a/202607/30/AP6a6b6fcfe4b0c1e50022ecde.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202607/30/AP6a6b5038e4b0c1e50022ea14.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[由警隊「傳承計劃（Project Legacy）」推動的Legacy x STEAM順豐實習體驗活動，今日（30日）圓滿結束。一連三日來自11間中學的同學走入物流業龍頭順豐的大本營，由轉運中心、倉庫，到前線順豐站，親身體驗物流運作實況，更了解到「十五五」規劃，以及低空經濟的新發展。同學們發現，物流業絕不是「送貨」這麼簡單，背後牽涉精密工程、智能系統、大數據和供應鏈管理等專業領域。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港大接待「東區青藤」逾30名成員　校園深度導賞兼升學交流啟發青年規劃未來]]></title>
-            <link>https://www.wenweipo.com/a/202607/30/AP6a6b4ca4e4b0c1e50022e99f.html</link>
-            <guid>https://www.wenweipo.com/a/202607/30/AP6a6b4ca4e4b0c1e50022e99f.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港大學應邀於7月23日接待約30位來自東區民政事務處「東區青藤計劃2026-2027」的學員、青年事務顧問及計劃畢業生，安排港大校園深度參觀及升學交流活動，透過導賞校園、分享入學資訊及校園生活，冀啟發青年及早規劃未來，訂立升學志向。]]></description>
         </item>
     </channel>
 </rss>
