@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[貯蓄しすぎていませんか？ | Conversations]]></title>
+            <link>https://finance.biggo.jp/podcast/2cfb0c3795c798d5</link>
+            <guid>https://finance.biggo.jp/podcast/2cfb0c3795c798d5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[411：カプリコールのデータ衝突と逃亡中の経営幹部]]></title>
+            <link>https://finance.biggo.jp/podcast/ed4059ed1376a946</link>
+            <guid>https://finance.biggo.jp/podcast/ed4059ed1376a946</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Metaの監視委員会がChatGPTとClaudeに迫る | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/c44c093a753e7b95</link>
+            <guid>https://finance.biggo.jp/podcast/c44c093a753e7b95</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SaaSのMRRを4ヶ月で$17Kから$143Kに成長させた方法]]></title>
             <link>https://finance.biggo.jp/podcast/d5f21f4d038fdb45</link>
             <guid>https://finance.biggo.jp/podcast/d5f21f4d038fdb45</guid>
@@ -40,13 +58,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“Every small business should run itself” | Lassie with a16z]]></title>
+            <title><![CDATA[Why Dentists are Adopting AI Before Anyone Else | Lassie with a16z]]></title>
             <link>https://finance.biggo.jp/podcast/0713b820b6c145e1</link>
             <guid>https://finance.biggo.jp/podcast/0713b820b6c145e1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jensen's Open-Weights Letter | Google Cloud Grows 82% But The Market Tanks]]></title>
+            <title><![CDATA[Jensenのオープンウェイトに関するレター | Google Cloudは82%成長も市場は下落]]></title>
             <link>https://finance.biggo.jp/podcast/c1570c9d3f896cd3</link>
             <guid>https://finance.biggo.jp/podcast/c1570c9d3f896cd3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -70,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Crypto Is Rebuilding a Trillion-Dollar Market]]></title>
+            <title><![CDATA[暗号資産が1兆ドル市場を再構築している]]></title>
             <link>https://finance.biggo.jp/podcast/5cba702ac352a724</link>
             <guid>https://finance.biggo.jp/podcast/5cba702ac352a724</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[AIエージェントをイベントソーシングシステムに統合しよう — Divakar Kumar, FlyersSoft]]></title>
             <link>https://finance.biggo.jp/podcast/cc7584b5613d0da5</link>
             <guid>https://finance.biggo.jp/podcast/cc7584b5613d0da5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[マルチGPUカーネル、ワットあたりの知能、ヘテロジニアス推論など | YC Paper Club]]></title>
-            <link>https://finance.biggo.jp/podcast/c8a821eb467abe73</link>
-            <guid>https://finance.biggo.jp/podcast/c8a821eb467abe73</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントを装着する：グループチャットからメガネへ — Sai Krishna Rallabandi]]></title>
-            <link>https://finance.biggo.jp/podcast/dc6fe67d6083fa74</link>
-            <guid>https://finance.biggo.jp/podcast/dc6fe67d6083fa74</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[開発者に届く前に2000のAIスキルを審査——NubankのLucas Palma]]></title>
-            <link>https://finance.biggo.jp/podcast/3bed315724a170ee</link>
-            <guid>https://finance.biggo.jp/podcast/3bed315724a170ee</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
