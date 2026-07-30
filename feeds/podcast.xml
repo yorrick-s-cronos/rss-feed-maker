@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Man Warning The World: The Great Financial Collapse Is Here | Ray Dalio]]></title>
+            <link>https://finance.biggo.jp/podcast/7d76500b8cb9cf98</link>
+            <guid>https://finance.biggo.jp/podcast/7d76500b8cb9cf98</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[金融エージェントのボトルネックはあなた自身 — Ramana Siddanth Emani（Auditoria AI）]]></title>
             <link>https://finance.biggo.jp/podcast/7634510966edbf2a</link>
             <guid>https://finance.biggo.jp/podcast/7634510966edbf2a</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[「ハーバードのBプレイヤーはただのBプレイヤーだ」| Office Hours]]></title>
             <link>https://finance.biggo.jp/podcast/bbfb406a216320d3</link>
             <guid>https://finance.biggo.jp/podcast/bbfb406a216320d3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[失敗したのはエージェントではない。ハーネスだ。— ヴィノス・ゴビンダラジャン（OpenAI）]]></title>
-            <link>https://finance.biggo.jp/podcast/d3cb9bb4abcc8ece</link>
-            <guid>https://finance.biggo.jp/podcast/d3cb9bb4abcc8ece</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Thu, 30 Jul 2026 02:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 08:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Quốc hội khóa XVI cần kiến tạo một phương thức giám sát mới]]></title>
+            <link>https://mekongasean.vn/quoc-hoi-khoa-xvi-can-kien-tao-mot-phuong-thuc-giam-sat-moi-57894.html</link>
+            <guid>https://mekongasean.vn/quoc-hoi-khoa-xvi-can-kien-tao-mot-phuong-thuc-giam-sat-moi-57894.html</guid>
+            <pubDate>Thu, 30 Jul 2026 08:09:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tái định vị TKV thành tập đoàn công nghiệp năng lượng, vật liệu hiện đại]]></title>
             <link>https://mekongasean.vn/tai-dinh-vi-tkv-thanh-tap-doan-cong-nghiep-nang-luong-vat-lieu-hien-dai-57875.html</link>
             <guid>https://mekongasean.vn/tai-dinh-vi-tkv-thanh-tap-doan-cong-nghiep-nang-luong-vat-lieu-hien-dai-57875.html</guid>
             <pubDate>Thu, 30 Jul 2026 02:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chủ tịch Quốc hội: Kỳ họp không thường lệ sẽ xem xét khối lượng công việc rất lớn]]></title>
-            <link>https://mekongasean.vn/chu-tich-quoc-hoi-ky-hop-khong-thuong-le-se-xem-xet-khoi-luong-cong-viec-rat-lon-57870.html</link>
-            <guid>https://mekongasean.vn/chu-tich-quoc-hoi-ky-hop-khong-thuong-le-se-xem-xet-khoi-luong-cong-viec-rat-lon-57870.html</guid>
-            <pubDate>Wed, 29 Jul 2026 16:07:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
