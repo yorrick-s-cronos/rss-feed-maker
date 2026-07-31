@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Patrick Collison: “The Risk of the Status Quo Is Extremely High”]]></title>
+            <link>https://finance.biggo.jp/podcast/8d73fdbde39bebd4</link>
+            <guid>https://finance.biggo.jp/podcast/8d73fdbde39bebd4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[今週：AIブームの背後に隠された負債]]></title>
             <link>https://finance.biggo.jp/podcast/1ad21369b8345d05</link>
             <guid>https://finance.biggo.jp/podcast/1ad21369b8345d05</guid>
@@ -58,7 +64,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How this one minor change turned Nutella into a generational brand]]></title>
+            <title><![CDATA[What happened when I accidentally sat next to...]]></title>
             <link>https://finance.biggo.jp/podcast/0d950054f0ffb711</link>
             <guid>https://finance.biggo.jp/podcast/0d950054f0ffb711</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[攻撃と防御、どちらが優勢か？FAR.AIのアダム・グリーブ氏が語るAIセキュリティリーダーボード]]></title>
             <link>https://finance.biggo.jp/podcast/a18af41fded94cee</link>
             <guid>https://finance.biggo.jp/podcast/a18af41fded94cee</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[業界の追い風が弱まる中、Aonがマージン優位性を維持]]></title>
-            <link>https://finance.biggo.jp/podcast/379acc79bdfb52bd</link>
-            <guid>https://finance.biggo.jp/podcast/379acc79bdfb52bd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
