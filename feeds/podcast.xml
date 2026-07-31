@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Data and Environment Curation for Post-Training LLMs — Mahesh Sathiamoorthy, Bespoke Labs]]></title>
+            <link>https://finance.biggo.jp/podcast/ddf548f8d87ca7c3</link>
+            <guid>https://finance.biggo.jp/podcast/ddf548f8d87ca7c3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[長い地平線へのスケーリング — Ross Taylor & Chengxi Taylor, General Reasoning]]></title>
+            <link>https://finance.biggo.jp/podcast/302ad0e322927143</link>
+            <guid>https://finance.biggo.jp/podcast/302ad0e322927143</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emulated：完全自律型ソフトウェアエンジニアと企業のためのデータ — Joseph Wang]]></title>
+            <link>https://finance.biggo.jp/podcast/680d97046d0baaba</link>
+            <guid>https://finance.biggo.jp/podcast/680d97046d0baaba</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ベースモデルは死んだ — Varun Singh（Arcee AI）]]></title>
+            <link>https://finance.biggo.jp/podcast/42783ef853a3757e</link>
+            <guid>https://finance.biggo.jp/podcast/42783ef853a3757e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[生物学におけるAIの検証可能な環境 — Kenny Workman, LatchBio]]></title>
             <link>https://finance.biggo.jp/podcast/6149bfa4f565dda1</link>
             <guid>https://finance.biggo.jp/podcast/6149bfa4f565dda1</guid>
@@ -22,9 +46,15 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Patrick Collison：「現状維持のリスクは極めて高い」]]></title>
+            <title><![CDATA[Patrick Collison: AIはリーン・スタートアップの手法を壊すのか？]]></title>
             <link>https://finance.biggo.jp/podcast/8d73fdbde39bebd4</link>
             <guid>https://finance.biggo.jp/podcast/8d73fdbde39bebd4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2534 - アニー・ジェイコブセン]]></title>
+            <link>https://finance.biggo.jp/podcast/4c24b4879c5b6278</link>
+            <guid>https://finance.biggo.jp/podcast/4c24b4879c5b6278</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -76,7 +106,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[誤って隣に座ってしまったときに起こったこと...]]></title>
+            <title><![CDATA[ある見知らぬ人に度肝を抜かれた。それから、彼が誰なのか気づいた！]]></title>
             <link>https://finance.biggo.jp/podcast/0d950054f0ffb711</link>
             <guid>https://finance.biggo.jp/podcast/0d950054f0ffb711</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[保険が遺伝子検査を拒否する理由と、適用範囲を乗り切る方法]]></title>
             <link>https://finance.biggo.jp/podcast/ae40a849e2d1d94c</link>
             <guid>https://finance.biggo.jp/podcast/ae40a849e2d1d94c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gain Therapeutics：パーキンソン病に対するファースト・イン・クラスの疾患修飾療法]]></title>
-            <link>https://finance.biggo.jp/podcast/ea31b4f35cd15bf7</link>
-            <guid>https://finance.biggo.jp/podcast/ea31b4f35cd15bf7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[零跑汽車 朱江明×羅永浩！零跑汽車十年：ストーリーを語るのが苦手な人、どうやって販売台数トップになったのか｜羅永浩の十字路]]></title>
-            <link>https://finance.biggo.jp/podcast/506c81da7926e36d</link>
-            <guid>https://finance.biggo.jp/podcast/506c81da7926e36d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[スケールするエージェント：MiniMaxのモデルとその背後にあるインフラストラクチャの内部 — Olive Song]]></title>
-            <link>https://finance.biggo.jp/podcast/d3476a9a9ddffd6b</link>
-            <guid>https://finance.biggo.jp/podcast/d3476a9a9ddffd6b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[スロップでスロップと戦う — Vaibhav Gupta, Boundary]]></title>
-            <link>https://finance.biggo.jp/podcast/882ad026d58ca37f</link>
-            <guid>https://finance.biggo.jp/podcast/882ad026d58ca37f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[149. 中美ネオラボ資本狂騒を経験して、清華の劉子鳴と語る：AI for AI、メカニズム解釈可能性、Max Tegmark]]></title>
-            <link>https://finance.biggo.jp/podcast/2225ccfa40cdde54</link>
-            <guid>https://finance.biggo.jp/podcast/2225ccfa40cdde54</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

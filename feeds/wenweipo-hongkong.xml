@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[（有片）國際母乳哺育周今起展開　專家指母乳促進幼兒身心發展]]></title>
+            <link>https://www.wenweipo.com/a/202608/01/AP6a6b1c2de4b0c1e50022e289.html</link>
+            <guid>https://www.wenweipo.com/a/202608/01/AP6a6b1c2de4b0c1e50022e289.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[一年一度的國際母乳哺育周由今日（8月1日）起至8月7日舉行。]]></description>
+        </item>
+        <item>
             <title><![CDATA[（有片）香港足球盛會｜曼城新帥馬列斯卡：不會模擬照搬哥迪奧拿　明日比賽將展現新戰術]]></title>
             <link>https://www.wenweipo.com/a/202607/31/AP6a6cb6b3e4b0c1e500230e20.html</link>
             <guid>https://www.wenweipo.com/a/202607/31/AP6a6cb6b3e4b0c1e500230e20.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202607/31/AP6a6c8f92e4b0c1e500230b2f.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港站以「共鳴未來」為主題，由來自15個國家和地區的65名青年樂手組成IWAF國際管樂團，在藝術總監孫赫指揮下演繹多首作品，為本屆巡演畫上句號。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[資深保險從業員墮網戀投資騙局 半年損失逾2600萬元]]></title>
-            <link>https://www.wenweipo.com/a/202607/31/AP6a6c8e59e4b0c1e500230b1c.html</link>
-            <guid>https://www.wenweipo.com/a/202607/31/AP6a6c8e59e4b0c1e500230b1c.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[在過去一周（7月24至30日），警方共接獲25宗涉及網戀的投資騙案，總損失金額近 7000 萬港元。其中一宗為一名五旬保險從業員，去年經朋友介紹一名女子表示想與事主商談保險事宜，對方以不熟悉保險為由，介紹女事主予一名自稱從事汽車買賣的「Uncle」跟進，同時以WhatsApp聯絡。]]></description>
         </item>
     </channel>
 </rss>
