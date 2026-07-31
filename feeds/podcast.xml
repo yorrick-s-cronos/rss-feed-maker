@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[149. 中美ネオラボ資本狂騒を経験して、清華の劉子鳴と語る：AI for AI、メカニズム解釈可能性、Max Tegmark]]></title>
+            <link>https://finance.biggo.jp/podcast/2225ccfa40cdde54</link>
+            <guid>https://finance.biggo.jp/podcast/2225ccfa40cdde54</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ジェフ・ディーン：AI構築における1%ルール]]></title>
             <link>https://finance.biggo.jp/podcast/8d2088ca2c5e7244</link>
             <guid>https://finance.biggo.jp/podcast/8d2088ca2c5e7244</guid>
@@ -28,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Your 401(k)? Don’t Max It Out in Your 20s | Conversations]]></title>
+            <title><![CDATA[あなたの401(k)？20代で上限まで入れるな | 対談]]></title>
             <link>https://finance.biggo.jp/podcast/2cfb0c3795c798d5</link>
             <guid>https://finance.biggo.jp/podcast/2cfb0c3795c798d5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[Ray Dalio: 2008年の暴落を予測した、次に何が来るか分かっている！]]></title>
             <link>https://finance.biggo.jp/podcast/7d76500b8cb9cf98</link>
             <guid>https://finance.biggo.jp/podcast/7d76500b8cb9cf98</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金融エージェントのボトルネックはあなた自身 — Ramana Siddanth Emani（Auditoria AI）]]></title>
-            <link>https://finance.biggo.jp/podcast/7634510966edbf2a</link>
-            <guid>https://finance.biggo.jp/podcast/7634510966edbf2a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
