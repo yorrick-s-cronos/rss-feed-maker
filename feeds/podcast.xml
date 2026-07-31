@@ -10,7 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Patrick Collison: “The Risk of the Status Quo Is Extremely High”]]></title>
+            <title><![CDATA[生物学におけるAIの検証可能な環境 — Kenny Workman, LatchBio]]></title>
+            <link>https://finance.biggo.jp/podcast/6149bfa4f565dda1</link>
+            <guid>https://finance.biggo.jp/podcast/6149bfa4f565dda1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIスロップを終わらせる — Thais Castello Branco、Taste Labs]]></title>
+            <link>https://finance.biggo.jp/podcast/6ef0a302e29893a9</link>
+            <guid>https://finance.biggo.jp/podcast/6ef0a302e29893a9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Patrick Collison：「現状維持のリスクは極めて高い」]]></title>
             <link>https://finance.biggo.jp/podcast/8d73fdbde39bebd4</link>
             <guid>https://finance.biggo.jp/podcast/8d73fdbde39bebd4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Decagon's Founders Don't Believe the Labs Are the Last Startups]]></title>
+            <title><![CDATA[なぜDecagonの創業者たちは、ラボが最後のスタートアップだと信じないのか]]></title>
             <link>https://finance.biggo.jp/podcast/662ee80041cdfca6</link>
             <guid>https://finance.biggo.jp/podcast/662ee80041cdfca6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -64,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What happened when I accidentally sat next to...]]></title>
+            <title><![CDATA[誤って隣に座ってしまったときに起こったこと...]]></title>
             <link>https://finance.biggo.jp/podcast/0d950054f0ffb711</link>
             <guid>https://finance.biggo.jp/podcast/0d950054f0ffb711</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[149. 中美ネオラボ資本狂騒を経験して、清華の劉子鳴と語る：AI for AI、メカニズム解釈可能性、Max Tegmark]]></title>
             <link>https://finance.biggo.jp/podcast/2225ccfa40cdde54</link>
             <guid>https://finance.biggo.jp/podcast/2225ccfa40cdde54</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジェフ・ディーン：AI構築における1%ルール]]></title>
-            <link>https://finance.biggo.jp/podcast/8d2088ca2c5e7244</link>
-            <guid>https://finance.biggo.jp/podcast/8d2088ca2c5e7244</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[攻撃と防御、どちらが優勢か？FAR.AIのアダム・グリーブ氏が語るAIセキュリティリーダーボード]]></title>
-            <link>https://finance.biggo.jp/podcast/a18af41fded94cee</link>
-            <guid>https://finance.biggo.jp/podcast/a18af41fded94cee</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
