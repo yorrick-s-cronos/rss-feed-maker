@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Fri, 31 Jul 2026 02:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 04:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA['Việt Nam sẽ tiếp tục đồng hành cùng ASEAN trên chặng đường phát triển phía trước']]></title>
+            <link>https://mekongasean.vn/viet-nam-se-tiep-tuc-dong-hanh-cung-asean-tren-chang-duong-phat-trien-phia-truoc-57936.html</link>
+            <guid>https://mekongasean.vn/viet-nam-se-tiep-tuc-dong-hanh-cung-asean-tren-chang-duong-phat-trien-phia-truoc-57936.html</guid>
+            <pubDate>Fri, 31 Jul 2026 04:28:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lao động sáng tạo phải trở thành nguồn lực quan trọng nhất của quốc gia trong tương lai]]></title>
             <link>https://mekongasean.vn/lao-dong-sang-tao-phai-tro-thanh-nguon-luc-quan-trong-nhat-cua-quoc-gia-trong-tuong-lai-57928.html</link>
             <guid>https://mekongasean.vn/lao-dong-sang-tao-phai-tro-thanh-nguon-luc-quan-trong-nhat-cua-quoc-gia-trong-tuong-lai-57928.html</guid>
             <pubDate>Fri, 31 Jul 2026 02:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Việt Nam - Nhật Bản chia sẻ kinh nghiệm chống vi phạm bản quyền trực tuyến]]></title>
-            <link>https://mekongasean.vn/viet-nam-nhat-ban-chia-se-kinh-nghiem-chong-vi-pham-ban-quyen-truc-tuyen-57915.html</link>
-            <guid>https://mekongasean.vn/viet-nam-nhat-ban-chia-se-kinh-nghiem-chong-vi-pham-ban-quyen-truc-tuyen-57915.html</guid>
-            <pubDate>Thu, 30 Jul 2026 11:25:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

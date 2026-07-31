@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Netic創業者メリサ・トクマクと語る、実世界サービス向け自律型エンタープライズの構築]]></title>
+            <link>https://finance.biggo.jp/podcast/f55ac8091c2ab6e0</link>
+            <guid>https://finance.biggo.jp/podcast/f55ac8091c2ab6e0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[保険が遺伝子検査を拒否する理由と、適用範囲を乗り切る方法]]></title>
+            <link>https://finance.biggo.jp/podcast/ae40a849e2d1d94c</link>
+            <guid>https://finance.biggo.jp/podcast/ae40a849e2d1d94c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gain Therapeutics：パーキンソン病に対するファースト・イン・クラスの疾患修飾療法]]></title>
             <link>https://finance.biggo.jp/podcast/ea31b4f35cd15bf7</link>
             <guid>https://finance.biggo.jp/podcast/ea31b4f35cd15bf7</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[Jensenのオープンウェイトに関するレター | Google Cloudは82%成長も市場は下落]]></title>
             <link>https://finance.biggo.jp/podcast/c1570c9d3f896cd3</link>
             <guid>https://finance.biggo.jp/podcast/c1570c9d3f896cd3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全員がこの書簡に署名した（…Anthropicを除く）]]></title>
-            <link>https://finance.biggo.jp/podcast/bcbbd6d3a8ab0ddb</link>
-            <guid>https://finance.biggo.jp/podcast/bcbbd6d3a8ab0ddb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ProKidney、透析回避を目指す]]></title>
-            <link>https://finance.biggo.jp/podcast/f0a46122f1b5911d</link>
-            <guid>https://finance.biggo.jp/podcast/f0a46122f1b5911d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
