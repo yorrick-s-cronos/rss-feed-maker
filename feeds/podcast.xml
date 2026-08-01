@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Why Gutting the Government Will Hurt — Heather Cox Richardson]]></title>
+            <link>https://finance.biggo.jp/podcast/4045c5abca961ea4</link>
+            <guid>https://finance.biggo.jp/podcast/4045c5abca961ea4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[OpenAIとAnthropicは、そろそろ止まるべきだと考えている]]></title>
             <link>https://finance.biggo.jp/podcast/89d3cceb2bcb3499</link>
             <guid>https://finance.biggo.jp/podcast/89d3cceb2bcb3499</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[今週：AIブームの背後に隠された負債]]></title>
             <link>https://finance.biggo.jp/podcast/1ad21369b8345d05</link>
             <guid>https://finance.biggo.jp/podcast/1ad21369b8345d05</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ベンチマーク：良い点、悪い点、醜い点 — Ali Khial, G2i]]></title>
-            <link>https://finance.biggo.jp/podcast/ac3da742284a266b</link>
-            <guid>https://finance.biggo.jp/podcast/ac3da742284a266b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
