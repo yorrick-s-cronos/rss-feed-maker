@@ -10,7 +10,55 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Data and Environment Curation for Post-Training LLMs — Mahesh Sathiamoorthy, Bespoke Labs]]></title>
+            <title><![CDATA[AIに本当の脆弱性を見つけさせる — David Brumley（Bugcrowd）]]></title>
+            <link>https://finance.biggo.jp/podcast/6c82797c23efb3e6</link>
+            <guid>https://finance.biggo.jp/podcast/6c82797c23efb3e6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[テスラFSD監視付きが大陸横断達成、百度のロボタクシーがロンドンに登場]]></title>
+            <link>https://finance.biggo.jp/podcast/22805ed22751a3bb</link>
+            <guid>https://finance.biggo.jp/podcast/22805ed22751a3bb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E246｜蒸留とは何か？シリコンバレーから見る中国オープンモデルのフロンティア接近]]></title>
+            <link>https://finance.biggo.jp/podcast/7fe01af2ca425b1a</link>
+            <guid>https://finance.biggo.jp/podcast/7fe01af2ca425b1a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[長時間タスクの環境を再考する — Theta Software の Rayan Garg]]></title>
+            <link>https://finance.biggo.jp/podcast/c9dc12dad75f5329</link>
+            <guid>https://finance.biggo.jp/podcast/c9dc12dad75f5329</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RLHFの次に来るもの — Diogo Almeida、TypeSafe AI]]></title>
+            <link>https://finance.biggo.jp/podcast/58ea28526de2d7e9</link>
+            <guid>https://finance.biggo.jp/podcast/58ea28526de2d7e9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[データ品質は計算量の乗数である — Ari Morcos, DatologyAI]]></title>
+            <link>https://finance.biggo.jp/podcast/9b129c9b945849e5</link>
+            <guid>https://finance.biggo.jp/podcast/9b129c9b945849e5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[半導体株暴落、200億ドルファンドのマージンコール、フロンティアラボ：AIを減速させろ、マムダニのスーパーマーケット]]></title>
+            <link>https://finance.biggo.jp/podcast/f390cda306b2f1d8</link>
+            <guid>https://finance.biggo.jp/podcast/f390cda306b2f1d8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[仕事で学ぶ：ポストトレーニングの未来 — レイモンド・フェン、Applied Compute]]></title>
+            <link>https://finance.biggo.jp/podcast/aaabcfabe69ea502</link>
+            <guid>https://finance.biggo.jp/podcast/aaabcfabe69ea502</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ポストトレーニングLLMのためのデータと環境キュレーション — Mahesh Sathiamoorthy, Bespoke Labs]]></title>
             <link>https://finance.biggo.jp/podcast/ddf548f8d87ca7c3</link>
             <guid>https://finance.biggo.jp/podcast/ddf548f8d87ca7c3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -79,54 +127,6 @@
             <title><![CDATA[なぜDecagonの創業者たちは、ラボが最後のスタートアップだと信じないのか]]></title>
             <link>https://finance.biggo.jp/podcast/662ee80041cdfca6</link>
             <guid>https://finance.biggo.jp/podcast/662ee80041cdfca6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI安全性についてパニックになる時が来た | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/27848f8b683ebc65</link>
-            <guid>https://finance.biggo.jp/podcast/27848f8b683ebc65</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[サイケデリック、ペプチド、そしてGLP-1]]></title>
-            <link>https://finance.biggo.jp/podcast/b73f62f787c02fc4</link>
-            <guid>https://finance.biggo.jp/podcast/b73f62f787c02fc4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[シリコンの限界を引き出す：GPUをアイドル状態にしない方法とは？｜SGLang、RadixArkとAIインフラ技術、1000億ドル市場を深掘りする]]></title>
-            <link>https://finance.biggo.jp/podcast/3682e4ece0bc23d0</link>
-            <guid>https://finance.biggo.jp/podcast/3682e4ece0bc23d0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AssemblyAI、YouTubeの4倍の日次ボリュームを処理]]></title>
-            <link>https://finance.biggo.jp/podcast/3b18123f04fc0a93</link>
-            <guid>https://finance.biggo.jp/podcast/3b18123f04fc0a93</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ある見知らぬ人に度肝を抜かれた。それから、彼が誰なのか気づいた！]]></title>
-            <link>https://finance.biggo.jp/podcast/0d950054f0ffb711</link>
-            <guid>https://finance.biggo.jp/podcast/0d950054f0ffb711</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韓国の2兆ドル暴落、市場を反転させたか]]></title>
-            <link>https://finance.biggo.jp/podcast/d5c424dd58a51cdf</link>
-            <guid>https://finance.biggo.jp/podcast/d5c424dd58a51cdf</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netic創業者メリサ・トクマクと語る、実世界サービス向け自律型エンタープライズの構築]]></title>
-            <link>https://finance.biggo.jp/podcast/f55ac8091c2ab6e0</link>
-            <guid>https://finance.biggo.jp/podcast/f55ac8091c2ab6e0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保険が遺伝子検査を拒否する理由と、適用範囲を乗り切る方法]]></title>
-            <link>https://finance.biggo.jp/podcast/ae40a849e2d1d94c</link>
-            <guid>https://finance.biggo.jp/podcast/ae40a849e2d1d94c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
