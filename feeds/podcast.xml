@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[OpenAIとAnthropicは、そろそろ止まるべきだと考えている]]></title>
+            <link>https://finance.biggo.jp/podcast/89d3cceb2bcb3499</link>
+            <guid>https://finance.biggo.jp/podcast/89d3cceb2bcb3499</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWiV 1344: ダニエル・グリフィン博士による臨床アップデート]]></title>
             <link>https://finance.biggo.jp/podcast/d10a5633309e8133</link>
             <guid>https://finance.biggo.jp/podcast/d10a5633309e8133</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[ベンチマーク：良い点、悪い点、醜い点 — Ali Khial, G2i]]></title>
             <link>https://finance.biggo.jp/podcast/ac3da742284a266b</link>
             <guid>https://finance.biggo.jp/podcast/ac3da742284a266b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[検証可能な報酬なしの強化学習 — ウィル・ブラウン、Prime Intellect]]></title>
-            <link>https://finance.biggo.jp/podcast/aa918c25bd3cadd7</link>
-            <guid>https://finance.biggo.jp/podcast/aa918c25bd3cadd7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
