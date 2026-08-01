@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[商經局：延續運動熱潮 人氣財氣促進盛事經濟]]></title>
+            <link>https://www.wenweipo.com/a/202608/01/AP6a6e152fe4b0c1e500232b5b.html</link>
+            <guid>https://www.wenweipo.com/a/202608/01/AP6a6e152fe4b0c1e500232b5b.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[商務及經濟發展局今日(8月1日)在社交平台發文指，四年一度的世界盃剛剛圓滿結束，趁着這股足球熱潮的餘溫，多個歐洲頂級球會相繼訪港作賽，上演「足球盛會」。]]></description>
+        </item>
+        <item>
             <title><![CDATA[（有片）皇崗口岸新聯檢大樓今年啟用 眾多港人追捧周邊物業]]></title>
             <link>https://www.wenweipo.com/a/202608/01/AP6a6e0363e4b0c1e5002329fa.html</link>
             <guid>https://www.wenweipo.com/a/202608/01/AP6a6e0363e4b0c1e5002329fa.html</guid>
@@ -109,13 +116,6 @@
             <guid>https://www.wenweipo.com/a/202608/01/AP6a6dcc5fe4b0c1e500232549.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[皇崗口岸聯檢大樓港方口岸區及相關延伸區昨日（31日）凌晨零時正式啟用，並依照香港法律實施管轄。新口岸在旅檢及車檢方面，將分別採用「合作查驗、一次放行」與「聯合一站式」的創新模式。這將大幅縮減過關時間，為旅客帶來前所未有的便捷。記者今日（8月1日）實地參觀新皇崗口岸車檢「聯合一站式」車道，了解車檢層「五方查驗」安排。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[胡章宏：對談交流會是提升治理效能的關鍵探索]]></title>
-            <link>https://www.wenweipo.com/a/202608/01/AP6a6dcad0e4b0c1e500232510.html</link>
-            <guid>https://www.wenweipo.com/a/202608/01/AP6a6dcad0e4b0c1e500232510.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[立法會議員7月下旬前往北京研修考察後返港，行政長官李家超隨即於本周二（7月28日）舉辦對談交流會。香港中國金融協會永遠名譽主席、大灣區共同家園投資公司總裁胡章宏接受大公文匯全媒體訪問時表示，在香港進入由治及興新階段、良政善治新局面下，此次對談交流會有三大特殊意義。]]></description>
         </item>
     </channel>
 </rss>
