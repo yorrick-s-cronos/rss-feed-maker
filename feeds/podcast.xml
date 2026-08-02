@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[状況認識、ハイパースケーラーの決算、そしてウォーシュ：AI株の底は来たか？]]></title>
+            <link>https://finance.biggo.jp/podcast/da5021926026cec7</link>
+            <guid>https://finance.biggo.jp/podcast/da5021926026cec7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the best product leaders are becoming ICs again | Tom Verrilli (CPO of Whatnot)]]></title>
+            <link>https://finance.biggo.jp/podcast/ff9b2be8bafe97be</link>
+            <guid>https://finance.biggo.jp/podcast/ff9b2be8bafe97be</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TIVP087（ビデオ）：DLocal（DLO）：10年にわたる成長余地を秘めたマルチバガー候補 w/ ダニエル・マンケ & ショーン・オマリー]]></title>
             <link>https://finance.biggo.jp/podcast/e1c4bc60a503b988</link>
             <guid>https://finance.biggo.jp/podcast/e1c4bc60a503b988</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[ポストトレーニングLLMのためのデータと環境キュレーション — Mahesh Sathiamoorthy, Bespoke Labs]]></title>
             <link>https://finance.biggo.jp/podcast/ddf548f8d87ca7c3</link>
             <guid>https://finance.biggo.jp/podcast/ddf548f8d87ca7c3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[長い地平線へのスケーリング — Ross Taylor & Chengxi Taylor, General Reasoning]]></title>
-            <link>https://finance.biggo.jp/podcast/302ad0e322927143</link>
-            <guid>https://finance.biggo.jp/podcast/302ad0e322927143</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emulated：完全自律型ソフトウェアエンジニアと企業のためのデータ — Joseph Wang]]></title>
-            <link>https://finance.biggo.jp/podcast/680d97046d0baaba</link>
-            <guid>https://finance.biggo.jp/podcast/680d97046d0baaba</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
