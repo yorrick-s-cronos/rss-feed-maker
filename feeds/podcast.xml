@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ネイサン、中国へ行く – パート2：中国の特色あるAI安全]]></title>
+            <link>https://finance.biggo.jp/podcast/a2440bc829e4aae8</link>
+            <guid>https://finance.biggo.jp/podcast/a2440bc829e4aae8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MCPタスク（非同期）：なぜどのエージェントも対応していないのか？ — コーネリア・デイビス（Temporal）]]></title>
+            <link>https://finance.biggo.jp/podcast/07730f0c9a049011</link>
+            <guid>https://finance.biggo.jp/podcast/07730f0c9a049011</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ベンチマックス病はいつ終わるのか？ — Nick Heiner、Surge AI]]></title>
             <link>https://finance.biggo.jp/podcast/377d94575c63ee06</link>
             <guid>https://finance.biggo.jp/podcast/377d94575c63ee06</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[RLHFの次に来るもの — Diogo Almeida、TypeSafe AI]]></title>
             <link>https://finance.biggo.jp/podcast/58ea28526de2d7e9</link>
             <guid>https://finance.biggo.jp/podcast/58ea28526de2d7e9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[データ品質は計算量の乗数である — Ari Morcos, DatologyAI]]></title>
-            <link>https://finance.biggo.jp/podcast/9b129c9b945849e5</link>
-            <guid>https://finance.biggo.jp/podcast/9b129c9b945849e5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[半導体株暴落、200億ドルファンドのマージンコール、フロンティアラボ：AIを減速させろ、マムダニのスーパーマーケット]]></title>
-            <link>https://finance.biggo.jp/podcast/f390cda306b2f1d8</link>
-            <guid>https://finance.biggo.jp/podcast/f390cda306b2f1d8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
