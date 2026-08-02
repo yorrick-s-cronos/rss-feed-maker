@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Sat, 01 Aug 2026 05:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 07:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Đối ngoại phải mở đường, kết nối và tranh thủ nguồn lực phát triển]]></title>
+            <link>https://mekongasean.vn/doi-ngoai-phai-mo-duong-ket-noi-va-tranh-thu-nguon-luc-phat-trien-57988.html</link>
+            <guid>https://mekongasean.vn/doi-ngoai-phai-mo-duong-ket-noi-va-tranh-thu-nguon-luc-phat-trien-57988.html</guid>
+            <pubDate>Sat, 01 Aug 2026 07:37:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tổng Bí thư, Chủ tịch nước dự khai mạc Hội nghị Ngoại giao lần thứ 33]]></title>
             <link>https://mekongasean.vn/tong-bi-thu-chu-tich-nuoc-du-khai-mac-hoi-nghi-ngoai-giao-lan-thu-33-57982.html</link>
             <guid>https://mekongasean.vn/tong-bi-thu-chu-tich-nuoc-du-khai-mac-hoi-nghi-ngoai-giao-lan-thu-33-57982.html</guid>
             <pubDate>Sat, 01 Aug 2026 05:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Việt Nam sẽ tiếp tục đồng hành cùng ASEAN trên chặng đường phát triển phía trước']]></title>
-            <link>https://mekongasean.vn/viet-nam-se-tiep-tuc-dong-hanh-cung-asean-tren-chang-duong-phat-trien-phia-truoc-57936.html</link>
-            <guid>https://mekongasean.vn/viet-nam-se-tiep-tuc-dong-hanh-cung-asean-tren-chang-duong-phat-trien-phia-truoc-57936.html</guid>
-            <pubDate>Fri, 31 Jul 2026 04:28:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
