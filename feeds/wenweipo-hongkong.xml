@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[三項鐵人賽失蹤│死者為退休水警 熱愛運動擁拯溺牌照]]></title>
+            <link>https://www.wenweipo.com/a/202608/02/AP6a6f24d3e4b0c1e500234308.html</link>
+            <guid>https://www.wenweipo.com/a/202608/02/AP6a6f24d3e4b0c1e500234308.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[一名姓馬（60歲）男子，今日（2日）在大埔大美督參與由中國香港三項鐵人總會舉辦的「2026香港夏日三項鐵人挑戰賽」，在參與游泳賽事期間懷疑遇溺。救援人員在搜救多個小時後，至下午3時許將其救起，昏迷送院搶救後至下午3時33分被證實死亡。]]></description>
+        </item>
+        <item>
             <title><![CDATA[三項鐵人賽失蹤│男選手不治 中國香港三項鐵人總會：向死者家屬致慰問並提供協助]]></title>
             <link>https://www.wenweipo.com/a/202608/02/AP6a6f163ee4b0c1e500234239.html</link>
             <guid>https://www.wenweipo.com/a/202608/02/AP6a6f163ee4b0c1e500234239.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/02/AP6a6edba0e4b0c1e500233b27.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[受廣闊低壓槽及活躍偏南氣流影響，天文台於今日（2日）凌晨5時05分發出特別天氣提示，預料未來一兩小時香港廣泛地區可能受大雨影響，並於清晨6時10分發出黃色暴雨警告信號，黃雨警告持續在近7個小時直至下午1時取消，期間本港多區下起傾盆大雨。據天文台凌晨零時至下午12時30分的分區雨量圖顯示，大嶼山南、西貢的累計雨量超過100毫米。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(有片) 三項鐵人賽失蹤│男子疑遇溺蹤杳 8小時後被尋回昏迷送院亡]]></title>
-            <link>https://www.wenweipo.com/a/202608/02/AP6a6ed846e4b0c1e500233ad9.html</link>
-            <guid>https://www.wenweipo.com/a/202608/02/AP6a6ed846e4b0c1e500233ad9.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今早（2日）7時57分，警方接報指一名男子在大埔大美督水上活動中心參加三項鐵人賽，期間在上址對開約150米海面懷疑遇溺不知所終。救援人員趕至搜救，惟暫未有任何發現。]]></description>
         </item>
     </channel>
 </rss>
