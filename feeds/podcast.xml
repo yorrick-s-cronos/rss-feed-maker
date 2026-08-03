@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[MCPアプリ：フロンティアを広げる — イド・サロモン＆リアド・ヨセフ]]></title>
+            <link>https://finance.biggo.jp/podcast/353d052e2660ab09</link>
+            <guid>https://finance.biggo.jp/podcast/353d052e2660ab09</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ネイサン、中国へ行く – パート2：中国の特色あるAI安全]]></title>
             <link>https://finance.biggo.jp/podcast/a2440bc829e4aae8</link>
             <guid>https://finance.biggo.jp/podcast/a2440bc829e4aae8</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[長時間タスクの環境を再考する — Theta Software の Rayan Garg]]></title>
             <link>https://finance.biggo.jp/podcast/c9dc12dad75f5329</link>
             <guid>https://finance.biggo.jp/podcast/c9dc12dad75f5329</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RLHFの次に来るもの — Diogo Almeida、TypeSafe AI]]></title>
-            <link>https://finance.biggo.jp/podcast/58ea28526de2d7e9</link>
-            <guid>https://finance.biggo.jp/podcast/58ea28526de2d7e9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
