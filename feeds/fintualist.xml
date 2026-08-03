@@ -4,34 +4,34 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Thu, 30 Jul 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 20:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[📍 Mercados en vivo - Megacaps en foco]]></title>
+            <title><![CDATA[El artista de la semana | Kamisaka Sekka]]></title>
+            <link>https://fintualist.com/chile/cultura/el-artista-de-la-semana-6/</link>
+            <guid>https://fintualist.com/chile/cultura/el-artista-de-la-semana-6/</guid>
+            <pubDate>Mon, 03 Aug 2026 20:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confío en ti, Facebook Marketplace | Fintualist 286 🗞️]]></title>
+            <link>https://fintualist.com/chile/newsletters/confio-en-ti-facebook-marketplace-fintualist-286/</link>
+            <guid>https://fintualist.com/chile/newsletters/confio-en-ti-facebook-marketplace-fintualist-286/</guid>
+            <pubDate>Mon, 03 Aug 2026 16:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[📍 Mercados en vivo - Sorpresa positiva en la economía de Chile]]></title>
             <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
             <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Por qué los ETF están de moda?]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/por-que-los-etf-estan-de-moda/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/por-que-los-etf-estan-de-moda/</guid>
             <pubDate>Tue, 28 Jul 2026 21:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La advertencia viral del CEO de Microsoft sobre el costo de la IA]]></title>
-            <link>https://fintualist.com/chile/tecnologia/la-advertencia-viral-del-ceo-de-microsoft-sobre-el-costo-de-la-ia/</link>
-            <guid>https://fintualist.com/chile/tecnologia/la-advertencia-viral-del-ceo-de-microsoft-sobre-el-costo-de-la-ia/</guid>
-            <pubDate>Tue, 28 Jul 2026 19:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AppleTV: ¿por qué les da lo mismo que nadie los vea?]]></title>
-            <link>https://fintualist.com/chile/cultura/cine-series/appletv-por-que-no-les-importa-que-nadie-los-vea/</link>
-            <guid>https://fintualist.com/chile/cultura/cine-series/appletv-por-que-no-les-importa-que-nadie-los-vea/</guid>
-            <pubDate>Tue, 28 Jul 2026 19:28:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Cómo elegimos la renta fija en Fintual? El detrás de escena]]></title>

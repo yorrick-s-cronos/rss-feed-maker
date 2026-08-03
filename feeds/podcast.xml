@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[トルステン・スロック氏、イラン戦争リスクは依然として背景に重要と指摘]]></title>
+            <link>https://finance.biggo.jp/podcast/cb8068e9353abbb3</link>
+            <guid>https://finance.biggo.jp/podcast/cb8068e9353abbb3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whoopの類似品の台頭｜The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/6761c002f428a993</link>
+            <guid>https://finance.biggo.jp/podcast/6761c002f428a993</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turbopufferの構築：Gergely Orosz（@pragmaticengineer）× Simon Eskildsen（CEO）]]></title>
+            <link>https://finance.biggo.jp/podcast/1e6dc71a1722c6ed</link>
+            <guid>https://finance.biggo.jp/podcast/1e6dc71a1722c6ed</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[今すぐ株を売るべきか？ | オフィスアワー]]></title>
             <link>https://finance.biggo.jp/podcast/ff8c6cc695079fd1</link>
             <guid>https://finance.biggo.jp/podcast/ff8c6cc695079fd1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Arena CEO：米国製オープンソースモデルは1000億ドル市場に、データは1兆ドル市場へ]]></title>
+            <title><![CDATA[Arena CEO：Neolabsの70%が死ぬ｜1000億ドルの米国オープンソースモデルが登場する]]></title>
             <link>https://finance.biggo.jp/podcast/5f006a12dc461e22</link>
             <guid>https://finance.biggo.jp/podcast/5f006a12dc461e22</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -28,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Base Powerのバッテリー生産ラインと25億ドルの資金調達の内幕]]></title>
+            <title><![CDATA[Base Powerの10億ドルシリーズDを支える工場の内部]]></title>
             <link>https://finance.biggo.jp/podcast/52228954a52d047c</link>
             <guid>https://finance.biggo.jp/podcast/52228954a52d047c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2028年大統領選の有力候補：兵士4人が死亡し、その名前は消された]]></title>
+            <title><![CDATA[2028年大統領選の最有力候補：4人の兵士が死亡し、その名前は消された｜ピート・ブティジェッジ]]></title>
             <link>https://finance.biggo.jp/podcast/c748f81dd8264c28</link>
             <guid>https://finance.biggo.jp/podcast/c748f81dd8264c28</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[状況認識、ハイパースケーラーの決算、そしてウォーシュ：AI株の底は来たか？]]></title>
             <link>https://finance.biggo.jp/podcast/da5021926026cec7</link>
             <guid>https://finance.biggo.jp/podcast/da5021926026cec7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[31,832人のPM応募者の中で差別化する方法 | Tom Verrilli（Whatnot CPO）]]></title>
-            <link>https://finance.biggo.jp/podcast/ff9b2be8bafe97be</link>
-            <guid>https://finance.biggo.jp/podcast/ff9b2be8bafe97be</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIVP087（ビデオ）：DLocal（DLO）：10年にわたる成長余地を秘めたマルチバガー候補 w/ ダニエル・マンケ & ショーン・オマリー]]></title>
-            <link>https://finance.biggo.jp/podcast/e1c4bc60a503b988</link>
-            <guid>https://finance.biggo.jp/podcast/e1c4bc60a503b988</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1345: ロッキーマウンテンウイルス学ハイライト]]></title>
-            <link>https://finance.biggo.jp/podcast/0d09dd66cea33a87</link>
-            <guid>https://finance.biggo.jp/podcast/0d09dd66cea33a87</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
