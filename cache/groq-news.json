@@ -1,5 +1,5 @@
 {
-  "lastSuccess": "2026-08-03T05:33:51.188Z",
+  "lastSuccess": "2026-08-03T12:50:23.320Z",
   "articleCount": 24,
   "knownLinks": [
     "https://groq.com/newsroom/groq-raises-usd650m-to-scale-its-ai-inference-cloud-business",
@@ -10,8 +10,6 @@
     "https://groq.com/newsroom/groq-powers-humain-one--real-time-ai-operating-system-for-enterprise",
     "https://groq.com/newsroom/groq-partners-with-aljammaz-technologies-to-power-ai-inference-across-mena",
     "https://groq.com/newsroom/mclaren-racing-announces-groq-as-an-official-partner-of-the-mclaren-formula-1-team",
-    "https://groq.com/newsroom/groq-names-simon-edwards-chief-financial-officer",
-    "https://groq.com/newsroom/groq-raises-750-million-as-inference-demand-surges",
     "https://groq.com/newsroom/groq-and-humain-launch-openai-new-open-models-day-zero",
     "https://groq.com/newsroom/groq-applauds-trump-administration-ai-action-plan-accelerates-global-deployment-of-american-ai-stack",
     "https://groq.com/newsroom/groq-named-a-top-10-national-security-tech-company-as-it-scales-u-s-built-ai-infrastructure",
@@ -24,8 +22,10 @@
     "https://groq.com/newsroom/llama-4-live-day-zero-on-groq-at-lowest-cost",
     "https://groq.com/newsroom/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-ai-tech-leader-groq",
     "https://groq.com/newsroom/aramco-digital-and-groq-announce-progress-in-building-the-worlds-largest-inferencing-data-center-in-saudi-arabia-following-leap-mou-signing",
-    "https://groq.com/newsroom/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference",
-    "https://www.bloomberg.com/news/articles/2024-08-05/ai-startup-groq-gets-2-8-billion-valuation-in-new-funding-round?utm_source=google&#038;utm_medium=bd&#038;cmpId=google&#038;embedded-checkout=true"
+    "https://www.bloomberg.com/news/articles/2024-08-05/ai-startup-groq-gets-2-8-billion-valuation-in-new-funding-round?utm_source=google&#038;utm_medium=bd&#038;cmpId=google&#038;embedded-checkout=true",
+    "https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/",
+    "https://www.axios.com/2024/08/05/groq-ai-chips-funding-blackrock",
+    "https://www.reuters.com/technology/artificial-intelligence/ai-chip-startup-groq-valued-28-bln-after-latest-funding-round-2024-08-05/"
   ],
   "consecutiveErrors": 0
 }
