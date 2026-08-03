@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 28 Jul 2026 21:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[📍 Mercados en vivo - Megacaps en foco]]></title>
+            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
+            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
+            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[¿Por qué los ETF están de moda?]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/por-que-los-etf-estan-de-moda/</link>
@@ -122,12 +128,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/que-es-una-recesion-tecnica/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/que-es-una-recesion-tecnica/</guid>
             <pubDate>Thu, 02 Jul 2026 21:22:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hombres y mujeres invierten distinto. A la larga, da casi lo mismo]]></title>
-            <link>https://fintualist.com/mexico/educacion-financiera/hombres-y-mujeres-invierten-distinto-a-la-larga-da-casi-lo-mismo-mx/</link>
-            <guid>https://fintualist.com/mexico/educacion-financiera/hombres-y-mujeres-invierten-distinto-a-la-larga-da-casi-lo-mismo-mx/</guid>
-            <pubDate>Thu, 02 Jul 2026 14:18:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
