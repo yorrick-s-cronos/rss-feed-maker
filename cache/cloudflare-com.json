@@ -1,7 +1,9 @@
 {
-  "lastSuccess": "2026-08-03T12:50:49.167Z",
+  "lastSuccess": "2026-08-03T15:38:26.655Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://blog.cloudflare.com/cloudflare-computer/",
+    "https://blog.cloudflare.com/smaller-faster-safer-models/",
     "https://blog.cloudflare.com/agents-week-welcome/",
     "https://blog.cloudflare.com/introducing-precursor/",
     "https://blog.cloudflare.com/attribution-business-insights/",
@@ -19,9 +21,7 @@
     "https://blog.cloudflare.com/our-unified-data-platform/",
     "https://blog.cloudflare.com/claude-managed-agents/",
     "https://blog.cloudflare.com/cyber-frontier-models/",
-    "https://blog.cloudflare.com/agents-stripe-projects/",
-    "https://blog.cloudflare.com/past-bots-and-humans/",
-    "https://blog.cloudflare.com/ai-code-review/"
+    "https://blog.cloudflare.com/agents-stripe-projects/"
   ],
   "consecutiveErrors": 0
 }
