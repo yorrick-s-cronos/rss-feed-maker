@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-04T15:16:41.771Z",
+  "lastSuccess": "2026-08-04T17:29:58.815Z",
   "articleCount": 10,
   "knownLinks": [
+    "https://www.anthropic.com/news/tino-cuellar",
     "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
     "https://www.anthropic.com/news/position-open-weights-models",
     "https://www.anthropic.com/news/cognizant-anthropic",
@@ -10,8 +11,7 @@
     "https://www.anthropic.com/news/anthropic-economic-index-connector",
     "https://www.anthropic.com/news/donation-public-first-action",
     "https://www.anthropic.com/news/rare-disease-research-grants",
-    "https://www.anthropic.com/news/claude-for-teachers",
-    "https://www.anthropic.com/news/canadian-ai-research"
+    "https://www.anthropic.com/news/claude-for-teachers"
   ],
   "consecutiveErrors": 0
 }

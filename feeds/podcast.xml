@@ -10,19 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[タングステン市場が近未来の戦争を警告している | Odd Lots]]></title>
+            <link>https://finance.biggo.jp/podcast/02e07096a75d5451</link>
+            <guid>https://finance.biggo.jp/podcast/02e07096a75d5451</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Biggest Nuclear Disaster That Almost Happened]]></title>
+            <link>https://finance.biggo.jp/podcast/4b06b512b8578678</link>
+            <guid>https://finance.biggo.jp/podcast/4b06b512b8578678</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[1日4兆トークン（OpenAIより多い）| Fireworks CEO Lin Qiao]]></title>
             <link>https://finance.biggo.jp/podcast/6d70138da8dabb88</link>
             <guid>https://finance.biggo.jp/podcast/6d70138da8dabb88</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[太陽系に私たちを閉じ込める、打ち破れない障壁]]></title>
+            <title><![CDATA[人類が決して太陽系を離れない理由]]></title>
             <link>https://finance.biggo.jp/podcast/c5cbc007112bc515</link>
             <guid>https://finance.biggo.jp/podcast/c5cbc007112bc515</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We found the internet's best sales advice]]></title>
+            <title><![CDATA[金融の達人よりもセールスをうまく説明する7つのルール]]></title>
             <link>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</link>
             <guid>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -46,13 +58,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brad Jacobs: How Therapy Made Me Billions]]></title>
+            <title><![CDATA[ブラッド・ジェイコブス：セラピーで数十億を稼いだ方法]]></title>
             <link>https://finance.biggo.jp/podcast/23e83f3c9e706693</link>
             <guid>https://finance.biggo.jp/podcast/23e83f3c9e706693</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brad Jacobs: How Therapy Made Me Billions]]></title>
+            <title><![CDATA[ブラッド・ジェイコブス：セラピーで数十億を稼いだ方法]]></title>
             <link>https://finance.biggo.jp/podcast/1262d7327fef41f0</link>
             <guid>https://finance.biggo.jp/podcast/1262d7327fef41f0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[Turbopufferの構築：Gergely Orosz（@pragmaticengineer）× Simon Eskildsen（CEO）]]></title>
             <link>https://finance.biggo.jp/podcast/1e6dc71a1722c6ed</link>
             <guid>https://finance.biggo.jp/podcast/1e6dc71a1722c6ed</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[買う、借りる、死ぬ：富裕層が税金を払わない方法 | オフィスアワー]]></title>
-            <link>https://finance.biggo.jp/podcast/ff8c6cc695079fd1</link>
-            <guid>https://finance.biggo.jp/podcast/ff8c6cc695079fd1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arena CEO：Neolabsの70%が死ぬ｜1000億ドルの米国オープンソースモデルが登場する]]></title>
-            <link>https://finance.biggo.jp/podcast/5f006a12dc461e22</link>
-            <guid>https://finance.biggo.jp/podcast/5f006a12dc461e22</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
