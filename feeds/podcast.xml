@@ -10,19 +10,43 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Fableが私のアプリを壊したのに直せなかった]]></title>
+            <link>https://finance.biggo.jp/podcast/15eb7e586bdd9d8a</link>
+            <guid>https://finance.biggo.jp/podcast/15eb7e586bdd9d8a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the White House Plans to 10x Scientific Productivity | Michael Kratsios | EP #276]]></title>
+            <link>https://finance.biggo.jp/podcast/17eee74618765e9e</link>
+            <guid>https://finance.biggo.jp/podcast/17eee74618765e9e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JRE MMA ショー #183 リコ・ヴァーホーヴェン]]></title>
+            <link>https://finance.biggo.jp/podcast/df18f0e5f7cf389a</link>
+            <guid>https://finance.biggo.jp/podcast/df18f0e5f7cf389a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AZ-BMS大型提携の賛否]]></title>
+            <link>https://finance.biggo.jp/podcast/99cc1ff2a44a3753</link>
+            <guid>https://finance.biggo.jp/podcast/99cc1ff2a44a3753</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[タングステン市場が近未来の戦争を警告している | Odd Lots]]></title>
             <link>https://finance.biggo.jp/podcast/02e07096a75d5451</link>
             <guid>https://finance.biggo.jp/podcast/02e07096a75d5451</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Biggest Nuclear Disaster That Almost Happened]]></title>
+            <title><![CDATA[When the US Dropped Two Nuclear Bombs on Itself]]></title>
             <link>https://finance.biggo.jp/podcast/4b06b512b8578678</link>
             <guid>https://finance.biggo.jp/podcast/4b06b512b8578678</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[1日4兆トークン（OpenAIより多い）| Fireworks CEO Lin Qiao]]></title>
+            <title><![CDATA[Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks]]></title>
             <link>https://finance.biggo.jp/podcast/6d70138da8dabb88</link>
             <guid>https://finance.biggo.jp/podcast/6d70138da8dabb88</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -40,7 +64,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI売りはデータと乖離している | トップAI投資家が解説]]></title>
+            <title><![CDATA[Why the Markets Are Pricing AI Wrong | Gavin Baker]]></title>
             <link>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</link>
             <guid>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[NYC家賃凍結が住宅ローン債券に打撃を与える可能性]]></title>
             <link>https://finance.biggo.jp/podcast/0edf194f9b1e9094</link>
             <guid>https://finance.biggo.jp/podcast/0edf194f9b1e9094</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推論は新たなトレーニング — Philip Kiely, Ali Taha, Basten]]></title>
-            <link>https://finance.biggo.jp/podcast/6c3653c0597cd170</link>
-            <guid>https://finance.biggo.jp/podcast/6c3653c0597cd170</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[トルステン・スロック氏、イラン戦争リスクは依然として背景に重要と指摘]]></title>
-            <link>https://finance.biggo.jp/podcast/cb8068e9353abbb3</link>
-            <guid>https://finance.biggo.jp/podcast/cb8068e9353abbb3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whoopの類似品の台頭｜The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/6761c002f428a993</link>
-            <guid>https://finance.biggo.jp/podcast/6761c002f428a993</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turbopufferの構築：Gergely Orosz（@pragmaticengineer）× Simon Eskildsen（CEO）]]></title>
-            <link>https://finance.biggo.jp/podcast/1e6dc71a1722c6ed</link>
-            <guid>https://finance.biggo.jp/podcast/1e6dc71a1722c6ed</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

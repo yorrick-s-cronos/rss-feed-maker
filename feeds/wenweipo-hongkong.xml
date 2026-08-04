@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【聯招放榜】搶狀元港大中大打和！各攬12人平分秋色  「神科」「超狀」邊間更多？]]></title>
+            <link>https://www.wenweipo.com/a/202608/05/AP6a722605e4b0c1e500238d64.html</link>
+            <guid>https://www.wenweipo.com/a/202608/05/AP6a722605e4b0c1e500238d64.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[今屆中學文憑試（DSE）締造歷史，共誕生24名「狀元」，打破歷年紀錄。大學聯招（JUPAS）結果今日（5日）上午9時揭盅，這批頂尖學子的去向亦塵埃落定。與往年相似，「醫科」繼續展現強勁吸引力，成為狀元們的熱門之選。而在頂尖生源的爭奪戰中，香港中文大學與香港大學可謂平分秋色，各攬12名狀元，當中包括4名超級狀元及8名狀元入讀中大，港大則收入7名超級狀元及5名狀元，共同主導了今年的狀元格局。]]></description>
+        </item>
+        <item>
             <title><![CDATA[(有片) 消防處推介三款家居防災用品　四字口訣助市民熟記操作步驟]]></title>
             <link>https://www.wenweipo.com/a/202608/05/AP6a707086e4b0c1e50023644f.html</link>
             <guid>https://www.wenweipo.com/a/202608/05/AP6a707086e4b0c1e50023644f.html</guid>
@@ -108,13 +115,6 @@
             <guid>https://www.wenweipo.com/a/202608/04/AP6a71e454e4b0c1e50023891f.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今年截至8月4日，本港建造業共錄得15宗致命事故，數字逼近去年全年總數(共21宗)，反映建造業安全形勢嚴峻，業界有必要重新審視現行制度、管理方法及工地安全文化。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[河背水塘排洪有人擅闖水壩「打卡」 水務署加設圍欄及CCTV籲勿進入水務設施]]></title>
-            <link>https://www.wenweipo.com/a/202608/04/AP6a71e343e4b0c1e500238907.html</link>
-            <guid>https://www.wenweipo.com/a/202608/04/AP6a71e343e4b0c1e500238907.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[近日網上流傳片段顯示有行山人士在河背水塘排洪期間，疑未經許可下，經樓梯擅闖水壩下「打卡」，亦有片段見多人在水壩下嬉水，情況十分危險。水務署今日（4日）派人到場巡視，以及加設圍欄和安裝閉路電視，提醒擅闖水務設施會被檢控。水務署亦在其「滴惜仔」FB專頁再度呼籲市民注意人身安全，切勿擅自進入水務設施。]]></description>
         </item>
     </channel>
 </rss>
