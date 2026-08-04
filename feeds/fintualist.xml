@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Mon, 03 Aug 2026 20:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 20:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leviticus: la efectividad del terror como metáfora de problemas contemporáneos]]></title>
+            <link>https://fintualist.com/chile/cultura/cine-series/leviticus-la-efectividad-del-terror-como-metafora-de-problemas-contemporaneos/</link>
+            <guid>https://fintualist.com/chile/cultura/cine-series/leviticus-la-efectividad-del-terror-como-metafora-de-problemas-contemporaneos/</guid>
+            <pubDate>Mon, 03 Aug 2026 20:30:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El artista de la semana | Kamisaka Sekka]]></title>
             <link>https://fintualist.com/chile/cultura/el-artista-de-la-semana-6/</link>
@@ -122,12 +128,6 @@
             <link>https://fintualist.com/mexico/educacion-financiera/estados-mas-dificiles-para-comprar-una-vivienda-la-distante-realidad-dentro-de-nuestro-pais/</link>
             <guid>https://fintualist.com/mexico/educacion-financiera/estados-mas-dificiles-para-comprar-una-vivienda-la-distante-realidad-dentro-de-nuestro-pais/</guid>
             <pubDate>Thu, 02 Jul 2026 22:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[¿Qué es una recesión técnica?]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/que-es-una-recesion-tecnica/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/que-es-una-recesion-tecnica/</guid>
-            <pubDate>Thu, 02 Jul 2026 21:22:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

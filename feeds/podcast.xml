@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[1日4兆トークン（OpenAIより多い）| Fireworks CEO Lin Qiao]]></title>
+            <link>https://finance.biggo.jp/podcast/6d70138da8dabb88</link>
+            <guid>https://finance.biggo.jp/podcast/6d70138da8dabb88</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[太陽系に私たちを閉じ込める、打ち破れない障壁]]></title>
+            <link>https://finance.biggo.jp/podcast/c5cbc007112bc515</link>
+            <guid>https://finance.biggo.jp/podcast/c5cbc007112bc515</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We found the internet's best sales advice]]></title>
+            <link>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</link>
+            <guid>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI売りはデータと乖離している | トップAI投資家が解説]]></title>
+            <link>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</link>
+            <guid>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chai Discoveryの苦い教訓：創薬もまたスケーリング問題である]]></title>
             <link>https://finance.biggo.jp/podcast/56716399bad1e96f</link>
             <guid>https://finance.biggo.jp/podcast/56716399bad1e96f</guid>
@@ -22,13 +46,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wall Street's Favorite CEO: The Mindset Behind Building Billion-Dollar Companies]]></title>
+            <title><![CDATA[Brad Jacobs: How Therapy Made Me Billions]]></title>
             <link>https://finance.biggo.jp/podcast/23e83f3c9e706693</link>
             <guid>https://finance.biggo.jp/podcast/23e83f3c9e706693</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[帝国の建設者：10億ドル企業を築くための私のプレイブック]]></title>
+            <title><![CDATA[Brad Jacobs: How Therapy Made Me Billions]]></title>
             <link>https://finance.biggo.jp/podcast/1262d7327fef41f0</link>
             <guid>https://finance.biggo.jp/podcast/1262d7327fef41f0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[Arena CEO：Neolabsの70%が死ぬ｜1000億ドルの米国オープンソースモデルが登場する]]></title>
             <link>https://finance.biggo.jp/podcast/5f006a12dc461e22</link>
             <guid>https://finance.biggo.jp/podcast/5f006a12dc461e22</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[対談・盛穎：xAI、インフラのロマン、SGLang、オープンソース、平等と「宮廷ドラマ」]]></title>
-            <link>https://finance.biggo.jp/podcast/a1b4a2b35cfd8330</link>
-            <guid>https://finance.biggo.jp/podcast/a1b4a2b35cfd8330</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Base Powerの10億ドルシリーズDを支える工場の内部]]></title>
-            <link>https://finance.biggo.jp/podcast/52228954a52d047c</link>
-            <guid>https://finance.biggo.jp/podcast/52228954a52d047c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Braidwellパートナー兼AI責任者ニック・マイヤーバーグ氏が語る、AI創薬の新時代]]></title>
-            <link>https://finance.biggo.jp/podcast/6bc0380a2db51b28</link>
-            <guid>https://finance.biggo.jp/podcast/6bc0380a2db51b28</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ノーブルの患者支援へのコネクテッド・アプローチの内幕（スポンサー提供）]]></title>
-            <link>https://finance.biggo.jp/podcast/0ece7068786e077d</link>
-            <guid>https://finance.biggo.jp/podcast/0ece7068786e077d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
