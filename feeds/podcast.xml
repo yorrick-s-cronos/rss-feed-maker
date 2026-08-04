@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Dmitri Dolgov：Waymoは100万分の1の出来事に対してどうトレーニングするのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/f3be2cd44297a8da</link>
+            <guid>https://finance.biggo.jp/podcast/f3be2cd44297a8da</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIの次の100倍：推論、ネットワーキング、自己最適化モデル — Philip Kiely & Ali Taha, Baseten]]></title>
+            <link>https://finance.biggo.jp/podcast/6c3653c0597cd170</link>
+            <guid>https://finance.biggo.jp/podcast/6c3653c0597cd170</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[トルステン・スロック氏、イラン戦争リスクは依然として背景に重要と指摘]]></title>
             <link>https://finance.biggo.jp/podcast/cb8068e9353abbb3</link>
             <guid>https://finance.biggo.jp/podcast/cb8068e9353abbb3</guid>
@@ -76,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Former US Secretary: We Needs To Reform Now, We’re Heading Towards A Catastrophe | Pete Buttigieg]]></title>
+            <title><![CDATA[大統領選の最有力候補：兵士たちは命を落としたのに、彼はその存在を消し去った | Pete Buttigieg]]></title>
             <link>https://finance.biggo.jp/podcast/c748f81dd8264c28</link>
             <guid>https://finance.biggo.jp/podcast/c748f81dd8264c28</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[ベンチマックス病はいつ終わるのか？ — Nick Heiner、Surge AI]]></title>
             <link>https://finance.biggo.jp/podcast/377d94575c63ee06</link>
             <guid>https://finance.biggo.jp/podcast/377d94575c63ee06</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜ最高のポートフォリオは間違っている前提で構築されるのか | Systematic Investor | 第411回]]></title>
-            <link>https://finance.biggo.jp/podcast/9fdf1aaf549d3641</link>
-            <guid>https://finance.biggo.jp/podcast/9fdf1aaf549d3641</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[状況認識、ハイパースケーラーの決算、そしてウォーシュ：AI株の底は来たか？]]></title>
-            <link>https://finance.biggo.jp/podcast/da5021926026cec7</link>
-            <guid>https://finance.biggo.jp/podcast/da5021926026cec7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
