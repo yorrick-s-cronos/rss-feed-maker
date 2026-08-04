@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[深衞健委發函警示業界　嚴禁在港非法行醫]]></title>
+            <link>https://www.wenweipo.com/a/202608/05/AP6a727bb7e4b0c1e5002393a9.html</link>
+            <guid>https://www.wenweipo.com/a/202608/05/AP6a727bb7e4b0c1e5002393a9.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深圳牙醫機構早前在香港設立諮詢處，被揭發為諮詢的市民進行口腔診斷，涉嫌非法行醫。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[粵新規10月1日起施行　一鍵投訴解紛更高效]]></title>
+            <link>https://www.wenweipo.com/a/202608/05/AP6a727b18e4b0c1e50023937f.html</link>
+            <guid>https://www.wenweipo.com/a/202608/05/AP6a727b18e4b0c1e50023937f.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[隨着港澳居民「北上」、內地居民「南下」雙向消費日益常態化，跨地域、跨法域消費糾紛的高效化解，成為大灣區民眾十分關切的現實問題。]]></description>
+        </item>
+        <item>
             <title><![CDATA[【聯招放榜】搶狀元港大中大打和！各攬12人平分秋色  「神科」「超狀」邊間更多？]]></title>
             <link>https://www.wenweipo.com/a/202608/05/AP6a722605e4b0c1e500238d64.html</link>
             <guid>https://www.wenweipo.com/a/202608/05/AP6a722605e4b0c1e500238d64.html</guid>
@@ -29,13 +43,6 @@
             <guid>https://www.wenweipo.com/a/202608/05/AP6a7070efe4b0c1e500236454.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[為加強對樓宇持份者的培訓，消防處於2026年3月推出「樓宇應急先鋒」計劃，並隨後於2026年7月推出《樓宇應急準備約章》。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[消防處三項防災KPI達標　加推兩項：派600套應急包、招募三無大廈應急先鋒]]></title>
-            <link>https://www.wenweipo.com/a/202608/05/AP6a7070a8e4b0c1e500236452.html</link>
-            <guid>https://www.wenweipo.com/a/202608/05/AP6a7070a8e4b0c1e500236452.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[2026年三項關鍵績效指標（KPI）已經大致達標，現加推兩項，包括年底前完成每區加派300套「防災應急包」，即全年共派發600套，以及招募地區居民成為「樓宇應急先鋒」。]]></description>
         </item>
         <item>
             <title><![CDATA[寄艙行李藏690萬K仔 倫敦抵港38歲英漢闖關斷正]]></title>
@@ -108,13 +115,6 @@
             <description><![CDATA[今日（4日）下午3時10分，警方接獲報案指一名62歲姓麥男子，在西貢清水灣大坳門路一個俱樂部的高爾夫球場內打球期間突然不適暈倒。救援人員到場，發現事主已陷入昏迷，急送將軍澳醫院搶救，惜最終不治。
 
 據悉，姓麥男死者是一名退休醫生，生前身體健康，無任何長期病患。今日早上約10時40分，麥與一名77歲姓沈男友人到上址打高爾夫球，當時麥身體狀況正常。至下午約3時，麥突在毫無先兆下倒地昏迷，友人見狀報警。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港建造商會舉辦「高管安全論壇」 凝聚業界力量應對嚴峻安全挑戰]]></title>
-            <link>https://www.wenweipo.com/a/202608/04/AP6a71e454e4b0c1e50023891f.html</link>
-            <guid>https://www.wenweipo.com/a/202608/04/AP6a71e454e4b0c1e50023891f.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今年截至8月4日，本港建造業共錄得15宗致命事故，數字逼近去年全年總數(共21宗)，反映建造業安全形勢嚴峻，業界有必要重新審視現行制度、管理方法及工地安全文化。]]></description>
         </item>
     </channel>
 </rss>
