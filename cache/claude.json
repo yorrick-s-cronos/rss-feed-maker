@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-04T21:02:32.167Z",
+  "lastSuccess": "2026-08-04T22:53:13.978Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
     "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
     "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/working-at-the-frontier-rakuten",
     "https://claude.com/blog/working-at-the-frontier-cursor",
     "https://claude.com/blog/ciso-guide-to-agentic-ai",
-    "https://claude.com/blog/ai-code-migration",
-    "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork"
+    "https://claude.com/blog/ai-code-migration"
   ],
   "consecutiveErrors": 0
 }

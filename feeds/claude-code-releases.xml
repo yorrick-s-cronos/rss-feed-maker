@@ -4,11 +4,67 @@
         <title>claude-code Releases</title>
         <link>https://github.com/anthropics/claude-code/releases</link>
         <description>GitHub releases for anthropics/claude-code</description>
-        <lastBuildDate>Tue, 04 Aug 2026 00:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 22:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v2.1.222]]></title>
+            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.222</link>
+            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.222</guid>
+            <pubDate>Tue, 04 Aug 2026 22:39:55 GMT</pubDate>
+            <description><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Fixed worktree-isolated sessions and their subagents being able to run destructive git commands against the main checkout; isolation now applies to file edits and Bash in every session type</li>
+<li>Fixed PreToolUse auto-allow hooks bypassing tool restrictions in background agent tasks (summaries, compaction, renames)</li>
+<li>Fixed <code>/usage-credits</code> on Team and Enterprise showing &quot;you&#39;ve already sent a usage credit request&quot; for members whose earlier request was dismissed, blocking them from sending a new one</li>
+<li>Fixed the startup connectivity check hanging and then failing behind an HTTPS proxy; it now uses the same proxy-aware transport as API requests and times out with a clear message</li>
+<li>Fixed &quot;Connection closed mid-response&quot; errors being reported on responses that had actually completed</li>
+<li>Fixed <code>/usage</code> overattributing usage to MCP servers: a server&#39;s share now reflects only the requests that actually consumed its tool results, instead of every turn after any call to it</li>
+<li>Fixed sessions not linking to pull requests created after the branch was pushed, including through the GitHub REST API</li>
+<li>Fixed org-restricted <code>model: opus</code>-style subagent and teammate family aliases dropping to the parent model instead of stepping down to the newest org-allowed model in the family</li>
+<li>Fixed stream idle timeout firing on custom <code>ANTHROPIC_BASE_URL</code> gateways despite server keep-alive pings arriving on the wire</li>
+<li>Fixed claude.ai connectors being falsely marked as needing authorization when the session token is invalid — they now show a <code>/login</code> hint instead</li>
+<li>Fixed tool errors not being displayed for tools no longer available locally, for example after an MCP server is removed</li>
+<li>Fixed <code>SendMessage</code> rejecting a long summary — it now truncates instead, so sends no longer fail on a character limit</li>
+<li>Fixed the spinner&#39;s effort label in a subagent&#39;s transcript view showing the session&#39;s effort level instead of the subagent&#39;s own <code>effort:</code> setting</li>
+<li>Fixed rare crashes when a file watcher hit a filesystem error or during file-watcher teardown</li>
+<li>Fixed screen readers re-reading the whole input line on every backspace in <code>--ax-screen-reader</code> mode — end-of-line deletions now echo just the deleted characters</li>
+<li>Fixed host model-selection keys not taking precedence over a stale on-disk <code>managed-settings.json</code> when <code>CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST</code> is set</li>
+<li>Improved auto mode safety: messages sent to other agent sessions via <code>SendMessage</code> are now evaluated by the permission classifier before dispatch</li>
+<li>Improved the refusal when Claude tries to invoke a skill with <code>disable-model-invocation</code>: Claude is now told to ask you to run the skill instead of replicating its workflow</li>
+<li>Improved the <code>/diff</code> view, the Remote Control workspace diff, and file-edit diffs in Claude Code on the web sessions to use raw git blob content, ignoring workspace-configured diff drivers and textconv</li>
+<li>Changed Remote Control auto-start so repo-local settings (<code>.claude/settings.json</code> or <code>.claude/settings.local.json</code>) can no longer turn it on (they can still turn it off); enable it at user scope via <code>/config</code></li>
+<li>Removed ultraplan feature</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Fixed worktree-isolated sessions and their subagents being able to run destructive git commands against the main checkout; isolation now applies to file edits and Bash in every session type</li>
+<li>Fixed PreToolUse auto-allow hooks bypassing tool restrictions in background agent tasks (summaries, compaction, renames)</li>
+<li>Fixed <code>/usage-credits</code> on Team and Enterprise showing &quot;you&#39;ve already sent a usage credit request&quot; for members whose earlier request was dismissed, blocking them from sending a new one</li>
+<li>Fixed the startup connectivity check hanging and then failing behind an HTTPS proxy; it now uses the same proxy-aware transport as API requests and times out with a clear message</li>
+<li>Fixed &quot;Connection closed mid-response&quot; errors being reported on responses that had actually completed</li>
+<li>Fixed <code>/usage</code> overattributing usage to MCP servers: a server&#39;s share now reflects only the requests that actually consumed its tool results, instead of every turn after any call to it</li>
+<li>Fixed sessions not linking to pull requests created after the branch was pushed, including through the GitHub REST API</li>
+<li>Fixed org-restricted <code>model: opus</code>-style subagent and teammate family aliases dropping to the parent model instead of stepping down to the newest org-allowed model in the family</li>
+<li>Fixed stream idle timeout firing on custom <code>ANTHROPIC_BASE_URL</code> gateways despite server keep-alive pings arriving on the wire</li>
+<li>Fixed claude.ai connectors being falsely marked as needing authorization when the session token is invalid — they now show a <code>/login</code> hint instead</li>
+<li>Fixed tool errors not being displayed for tools no longer available locally, for example after an MCP server is removed</li>
+<li>Fixed <code>SendMessage</code> rejecting a long summary — it now truncates instead, so sends no longer fail on a character limit</li>
+<li>Fixed the spinner&#39;s effort label in a subagent&#39;s transcript view showing the session&#39;s effort level instead of the subagent&#39;s own <code>effort:</code> setting</li>
+<li>Fixed rare crashes when a file watcher hit a filesystem error or during file-watcher teardown</li>
+<li>Fixed screen readers re-reading the whole input line on every backspace in <code>--ax-screen-reader</code> mode — end-of-line deletions now echo just the deleted characters</li>
+<li>Fixed host model-selection keys not taking precedence over a stale on-disk <code>managed-settings.json</code> when <code>CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST</code> is set</li>
+<li>Improved auto mode safety: messages sent to other agent sessions via <code>SendMessage</code> are now evaluated by the permission classifier before dispatch</li>
+<li>Improved the refusal when Claude tries to invoke a skill with <code>disable-model-invocation</code>: Claude is now told to ask you to run the skill instead of replicating its workflow</li>
+<li>Improved the <code>/diff</code> view, the Remote Control workspace diff, and file-edit diffs in Claude Code on the web sessions to use raw git blob content, ignoring workspace-configured diff drivers and textconv</li>
+<li>Changed Remote Control auto-start so repo-local settings (<code>.claude/settings.json</code> or <code>.claude/settings.local.json</code>) can no longer turn it on (they can still turn it off); enable it at user scope via <code>/config</code></li>
+<li>Removed ultraplan feature</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.1.221]]></title>
             <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.221</link>
@@ -2576,76 +2632,6 @@
 <li>Clearer descriptions for built-in commands and skills in the / menu</li>
 <li>The subscription-switch suggestion now shows in the startup announcement slot instead of a toast</li>
 <li><code>claude agents</code> dispatching from the state-grouped view now starts the session in the directory the agent view was opened from</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[v2.1.162]]></title>
-            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.162</link>
-            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.162</guid>
-            <pubDate>Wed, 03 Jun 2026 21:31:35 GMT</pubDate>
-            <description><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li><code>claude agents --json</code> now includes <code>waitingFor</code> showing what a waiting session is blocked on (e.g. permission prompt)</li>
-<li><code>--tools</code>: explicitly listing Grep/Glob now provides the dedicated search tools on native builds with embedded search (previously these names were silently ignored)</li>
-<li><code>/effort</code> now confirms when your chosen level will persist as the default for new sessions</li>
-<li>Clicking a slash command in the autocomplete menu now fills it into your prompt instead of running it immediately; press Enter to run</li>
-<li>Remote Control now shows as a persistent footer pill (with a link to the session) instead of a startup message</li>
-<li>Renamed Windsurf to Devin Desktop in the <code>/ide</code> menu, <code>/terminal-setup</code>, and <code>/scroll-speed</code>, following the editor&#39;s rebrand</li>
-<li>Fixed a silent startup hang when the config directory is read-only or unwritable — Claude Code now starts with in-memory config and surfaces startup errors instead of showing a blank screen</li>
-<li>Fixed WebFetch permission rules not being applied to built-in preapproved domains; explicit <code>WebFetch(domain:...)</code> deny/ask/allow rules now take precedence over the preapproved-host auto-allow</li>
-<li>Fixed Windows permission rules never matching when spelled with backslashes (<code>~\</code>, <code>\\server\share</code>) or case-variant paths, and Read deny rules not hiding files from Glob/Grep results</li>
-<li>Fixed an interrupt (Esc) sent at the very start of a turn being silently dropped in stream-json/SDK sessions, leaving the turn running with no &quot;Interrupted&quot; feedback</li>
-<li>Fixed API 400 <code>no low surrogate in string</code> errors for classifier side-queries and MCP server descriptions containing emoji near a truncation boundary</li>
-<li>Fixed MCP per-server <code>timeout</code> config values below 1000 ms being floored to a 1-second watchdog that aborted every tool call; sub-1000 ms values are now ignored (falling back to <code>MCP_TOOL_TIMEOUT</code> or default), and <code>claude mcp get</code> annotates them accordingly</li>
-<li>Fixed the LSP tool&#39;s <code>workspaceSymbol</code> operation returning no results; it now accepts a <code>query</code> parameter and passes it to the language server</li>
-<li>Fixed <code>claude agents</code> cutting live status text (tool args, replies, prompts, exec output) at 60–120 columns on wide terminals; the status detail now uses the full terminal width</li>
-<li>Fixed <code>claude agents</code> truncating long session names at 40 columns; the name column now grows with terminal width</li>
-<li>Fixed <code>claude agents</code> attach occasionally bouncing straight back to the session list on the first try after a background-service restart</li>
-<li>Fixed <code>claude agents</code> Ctrl+V image paste doing nothing in the dispatch input and the session reply box; pasting with no image now shows a hint</li>
-<li>Fixed backgrounding a session with ← silently losing the conversation when the background service cannot start; the session stays in the list as a failed row you can wake with Enter</li>
-<li>Fixed replies from the agents view that fail to send being lost; they are now queued for delivery on the next session start</li>
-<li>Fixed cross-session messaging (<code>SendMessage</code>) silently breaking when <code>CLAUDE_CODE_TMPDIR</code> or <code>$TMPDIR</code> points at a deep directory</li>
-<li>Fixed opening a running background session from <code>claude agents</code> stalling for 5 seconds before attaching</li>
-<li>Quieter startup: notices group by severity, and session info and announcements share a single line per launch</li>
-<li>Startup warnings rewritten to be shorter and clearer, each with a concrete fix</li>
-<li>Launch-prompt warnings (deep link/pre-filled prompt) now stay pinned below the input until you act instead of scrolling away</li>
-<li>Failed turns now show a compact warning line instead of a multi-line red error block</li>
-<li>Improved background service startup and <code>claude update</code> verification to wait out endpoint-security scanning of new binaries instead of failing after 5 seconds</li>
-<li>Background dispatch spawn failures now report the error class name when no errno is available</li>
-<li>Removed the &quot;Claude in Chrome enabled&quot; and &quot;marketplace installed&quot; startup messages; model auto-updates and the team-onboarding tip now show as quiet notices under the logo</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li><code>claude agents --json</code> now includes <code>waitingFor</code> showing what a waiting session is blocked on (e.g. permission prompt)</li>
-<li><code>--tools</code>: explicitly listing Grep/Glob now provides the dedicated search tools on native builds with embedded search (previously these names were silently ignored)</li>
-<li><code>/effort</code> now confirms when your chosen level will persist as the default for new sessions</li>
-<li>Clicking a slash command in the autocomplete menu now fills it into your prompt instead of running it immediately; press Enter to run</li>
-<li>Remote Control now shows as a persistent footer pill (with a link to the session) instead of a startup message</li>
-<li>Renamed Windsurf to Devin Desktop in the <code>/ide</code> menu, <code>/terminal-setup</code>, and <code>/scroll-speed</code>, following the editor&#39;s rebrand</li>
-<li>Fixed a silent startup hang when the config directory is read-only or unwritable — Claude Code now starts with in-memory config and surfaces startup errors instead of showing a blank screen</li>
-<li>Fixed WebFetch permission rules not being applied to built-in preapproved domains; explicit <code>WebFetch(domain:...)</code> deny/ask/allow rules now take precedence over the preapproved-host auto-allow</li>
-<li>Fixed Windows permission rules never matching when spelled with backslashes (<code>~\</code>, <code>\\server\share</code>) or case-variant paths, and Read deny rules not hiding files from Glob/Grep results</li>
-<li>Fixed an interrupt (Esc) sent at the very start of a turn being silently dropped in stream-json/SDK sessions, leaving the turn running with no &quot;Interrupted&quot; feedback</li>
-<li>Fixed API 400 <code>no low surrogate in string</code> errors for classifier side-queries and MCP server descriptions containing emoji near a truncation boundary</li>
-<li>Fixed MCP per-server <code>timeout</code> config values below 1000 ms being floored to a 1-second watchdog that aborted every tool call; sub-1000 ms values are now ignored (falling back to <code>MCP_TOOL_TIMEOUT</code> or default), and <code>claude mcp get</code> annotates them accordingly</li>
-<li>Fixed the LSP tool&#39;s <code>workspaceSymbol</code> operation returning no results; it now accepts a <code>query</code> parameter and passes it to the language server</li>
-<li>Fixed <code>claude agents</code> cutting live status text (tool args, replies, prompts, exec output) at 60–120 columns on wide terminals; the status detail now uses the full terminal width</li>
-<li>Fixed <code>claude agents</code> truncating long session names at 40 columns; the name column now grows with terminal width</li>
-<li>Fixed <code>claude agents</code> attach occasionally bouncing straight back to the session list on the first try after a background-service restart</li>
-<li>Fixed <code>claude agents</code> Ctrl+V image paste doing nothing in the dispatch input and the session reply box; pasting with no image now shows a hint</li>
-<li>Fixed backgrounding a session with ← silently losing the conversation when the background service cannot start; the session stays in the list as a failed row you can wake with Enter</li>
-<li>Fixed replies from the agents view that fail to send being lost; they are now queued for delivery on the next session start</li>
-<li>Fixed cross-session messaging (<code>SendMessage</code>) silently breaking when <code>CLAUDE_CODE_TMPDIR</code> or <code>$TMPDIR</code> points at a deep directory</li>
-<li>Fixed opening a running background session from <code>claude agents</code> stalling for 5 seconds before attaching</li>
-<li>Quieter startup: notices group by severity, and session info and announcements share a single line per launch</li>
-<li>Startup warnings rewritten to be shorter and clearer, each with a concrete fix</li>
-<li>Launch-prompt warnings (deep link/pre-filled prompt) now stay pinned below the input until you act instead of scrolling away</li>
-<li>Failed turns now show a compact warning line instead of a multi-line red error block</li>
-<li>Improved background service startup and <code>claude update</code> verification to wait out endpoint-security scanning of new binaries instead of failing after 5 seconds</li>
-<li>Background dispatch spawn failures now report the error class name when no errno is available</li>
-<li>Removed the &quot;Claude in Chrome enabled&quot; and &quot;marketplace installed&quot; startup messages; model auto-updates and the team-onboarding tip now show as quiet notices under the logo</li>
 </ul>
 ]]></content:encoded>
         </item>

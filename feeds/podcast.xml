@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[モデル戦争：オープン対クローズドの議論で本当に重要なこと]]></title>
+            <link>https://finance.biggo.jp/podcast/5a1fdc9ce111ab6a</link>
+            <guid>https://finance.biggo.jp/podcast/5a1fdc9ce111ab6a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[オープンウェイトAIの実態とは？| The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/bdf3eee66d42f539</link>
             <guid>https://finance.biggo.jp/podcast/bdf3eee66d42f539</guid>
@@ -64,13 +70,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[If you aren't selling these 4 things, your business Will Fail]]></title>
+            <title><![CDATA[実際に売れるのはたった4つ（一つ選べ）]]></title>
             <link>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</link>
             <guid>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Truth About The AI Stock Market Crash | Gavin Baker Interview]]></title>
+            <title><![CDATA[AI関連株暴落の真相 | Gavin Bakerインタビュー]]></title>
             <link>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</link>
             <guid>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -89,14 +95,14 @@
         </item>
         <item>
             <title><![CDATA[ブラッド・ジェイコブス：セラピーで数十億を稼いだ方法]]></title>
-            <link>https://finance.biggo.jp/podcast/1262d7327fef41f0</link>
-            <guid>https://finance.biggo.jp/podcast/1262d7327fef41f0</guid>
+            <link>https://finance.biggo.jp/podcast/23e83f3c9e706693</link>
+            <guid>https://finance.biggo.jp/podcast/23e83f3c9e706693</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ブラッド・ジェイコブス：セラピーで数十億を稼いだ方法]]></title>
-            <link>https://finance.biggo.jp/podcast/23e83f3c9e706693</link>
-            <guid>https://finance.biggo.jp/podcast/23e83f3c9e706693</guid>
+            <link>https://finance.biggo.jp/podcast/1262d7327fef41f0</link>
+            <guid>https://finance.biggo.jp/podcast/1262d7327fef41f0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -121,12 +127,6 @@
             <title><![CDATA[第380回 - AZ-BMSの噂、Replimune、サイケデリクス]]></title>
             <link>https://finance.biggo.jp/podcast/2c1bc8a21f0af9ba</link>
             <guid>https://finance.biggo.jp/podcast/2c1bc8a21f0af9ba</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dmitri Dolgov：Waymoは100万分の1の出来事に対してどうトレーニングするのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/f3be2cd44297a8da</link>
-            <guid>https://finance.biggo.jp/podcast/f3be2cd44297a8da</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
