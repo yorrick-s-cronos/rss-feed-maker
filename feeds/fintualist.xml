@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 04 Aug 2026 13:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 18:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Por qué leer a Mary Oliver en el año de su documental]]></title>
+            <link>https://fintualist.com/chile/cultura/por-que-leer-a-mary-oliver-en-el-ano-de-su-documental/</link>
+            <guid>https://fintualist.com/chile/cultura/por-que-leer-a-mary-oliver-en-el-ano-de-su-documental/</guid>
+            <pubDate>Tue, 04 Aug 2026 18:36:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[¿Se puede medir el impacto económico del temporal?]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/se-puede-medir-el-impacto-economico-del-temporal/</link>
@@ -28,10 +34,16 @@
             <pubDate>Mon, 03 Aug 2026 20:23:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Confío en ti, Facebook Marketplace | Fintualist 286 🗞️]]></title>
-            <link>https://fintualist.com/chile/newsletters/confio-en-ti-facebook-marketplace-fintualist-286/</link>
-            <guid>https://fintualist.com/chile/newsletters/confio-en-ti-facebook-marketplace-fintualist-286/</guid>
-            <pubDate>Mon, 03 Aug 2026 16:05:48 GMT</pubDate>
+            <title><![CDATA[Metas, diversificación, costos y disciplina: cómo alcanzar el éxito financiero según Vanguard]]></title>
+            <link>https://fintualist.com/mexico/educacion-financiera/metas-diversificacion-costos-y-disciplina-como-alcanzar-el-exito-financiero-segun-vanguard/</link>
+            <guid>https://fintualist.com/mexico/educacion-financiera/metas-diversificacion-costos-y-disciplina-como-alcanzar-el-exito-financiero-segun-vanguard/</guid>
+            <pubDate>Wed, 29 Jul 2026 20:01:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[¿Cómo elegimos renta fija en Fintual? El detrás de escena]]></title>
+            <link>https://fintualist.com/mexico/educacion-financiera/como-elegimos-renta-fija-en-fintual-el-detras-de-escena-2/</link>
+            <guid>https://fintualist.com/mexico/educacion-financiera/como-elegimos-renta-fija-en-fintual-el-detras-de-escena-2/</guid>
+            <pubDate>Wed, 29 Jul 2026 13:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Por qué los ETF están de moda?]]></title>
@@ -116,18 +128,6 @@
             <link>https://fintualist.com/chile/economia/mercados/nueva-escalada-en-el-medio-oriente-mercados-al-10-de-julio/</link>
             <guid>https://fintualist.com/chile/economia/mercados/nueva-escalada-en-el-medio-oriente-mercados-al-10-de-julio/</guid>
             <pubDate>Fri, 10 Jul 2026 15:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nueva escalada en el Medio Oriente - Mercados al 10 de julio]]></title>
-            <link>https://fintualist.com/mexico/economia/mercados/nueva-escalada-en-el-medio-oriente-mercados-al-10-de-julio-2/</link>
-            <guid>https://fintualist.com/mexico/economia/mercados/nueva-escalada-en-el-medio-oriente-mercados-al-10-de-julio-2/</guid>
-            <pubDate>Fri, 10 Jul 2026 15:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Estados más difíciles para comprar una vivienda: la distante realidad dentro de nuestro país]]></title>
-            <link>https://fintualist.com/mexico/educacion-financiera/estados-mas-dificiles-para-comprar-una-vivienda-la-distante-realidad-dentro-de-nuestro-pais/</link>
-            <guid>https://fintualist.com/mexico/educacion-financiera/estados-mas-dificiles-para-comprar-una-vivienda-la-distante-realidad-dentro-de-nuestro-pais/</guid>
-            <pubDate>Thu, 02 Jul 2026 22:31:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
