@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-05T22:11:47.307Z",
+  "lastSuccess": "2026-08-05T23:51:00.922Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/",
     "https://blog.cloudflare.com/the-agent-access-model/",
     "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
     "https://blog.cloudflare.com/cloudflare-os/",
@@ -20,8 +21,7 @@
     "https://blog.cloudflare.com/making-ai-search-smarter/",
     "https://blog.cloudflare.com/content-independence-day-ai-options/",
     "https://blog.cloudflare.com/monetization-gateway/",
-    "https://blog.cloudflare.com/agentic-internet-bot-report/",
-    "https://blog.cloudflare.com/temporary-accounts/"
+    "https://blog.cloudflare.com/agentic-internet-bot-report/"
   ],
   "consecutiveErrors": 0
 }

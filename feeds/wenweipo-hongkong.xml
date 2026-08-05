@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[鳳德道近志蓮淨苑有鹹水管滲漏　水務署致歉並加緊維修]]></title>
+            <link>https://www.wenweipo.com/a/202608/06/AP6a73c8a3e4b0c1e50023b7d8.html</link>
+            <guid>https://www.wenweipo.com/a/202608/06/AP6a73c8a3e4b0c1e50023b7d8.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[水務署表示，今日（6日）凌晨接獲報告指鳳德道近志蓮淨苑有水管滲漏，經了解後確認涉事水管是一條直徑300毫米鹹水供水管，用作供應沖廁水予斧山道近瓊東街一帶。]]></description>
+        </item>
+        <item>
             <title><![CDATA[（有片）觀塘重建戶陸續入伙新居「鴻鵠臺」　舊街坊：「開心過中六合彩」]]></title>
             <link>https://www.wenweipo.com/a/202608/06/AP6a731a4ee4b0c1e50023ab2d.html</link>
             <guid>https://www.wenweipo.com/a/202608/06/AP6a731a4ee4b0c1e50023ab2d.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/05/AP6a733d33e4b0c1e50023af28.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[第十一屆香港大學生外交夏令營今日（5日）進入第四天行程，參團學生上午先後參觀國立西南聯合大學舊址及雲南陸軍講武堂。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fun Coffee騙局爆煲｜報案增至255宗涉案約1億400萬元 6疑犯准保候查]]></title>
-            <link>https://www.wenweipo.com/a/202608/05/AP6a733a61e4b0c1e50023aeef.html</link>
-            <guid>https://www.wenweipo.com/a/202608/05/AP6a733a61e4b0c1e50023aeef.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[聲稱總部於越南的咖啡投資企業「Fun Coffee」被揭發以投資咖啡生意為名，實質涉及虛擬貨幣投資騙局。警方截至今日（5日 ）日下午5時，接獲的報案增至255宗，涉案金額亦增至約1億400萬元。至於被香港警方拘捕的6名男女疑犯，包括涉案公司董事、股東、秘書、負責推廣項目及招募投資者的骨幹成員，已獲准保釋候查。]]></description>
         </item>
     </channel>
 </rss>

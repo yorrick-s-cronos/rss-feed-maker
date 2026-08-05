@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ガジェット：実際に安全なパーソナルアプリのバイブコーディング — Kenton Varda（Cloudflare）]]></title>
+            <link>https://finance.biggo.jp/podcast/013bd31558e1c6fa</link>
+            <guid>https://finance.biggo.jp/podcast/013bd31558e1c6fa</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[感染症ポッドキャスト #112]]></title>
+            <link>https://finance.biggo.jp/podcast/feb4b3610d8ba887</link>
+            <guid>https://finance.biggo.jp/podcast/feb4b3610d8ba887</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI債務がクレジット市場をどう変えているか]]></title>
+            <link>https://finance.biggo.jp/podcast/7e8b55fa84f3601c</link>
+            <guid>https://finance.biggo.jp/podcast/7e8b55fa84f3601c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[なぜAIは実際には生産性を向上させていないのか｜トランプノミクス]]></title>
             <link>https://finance.biggo.jp/podcast/282a747a72d876ec</link>
             <guid>https://finance.biggo.jp/podcast/282a747a72d876ec</guid>
@@ -34,7 +52,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The puka shell modular gadget of our dreams | The Vergecast]]></title>
+            <title><![CDATA[夢のプカシェルモジュール式ガジェット | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/9356c25fda5a3e24</link>
             <guid>https://finance.biggo.jp/podcast/9356c25fda5a3e24</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -46,7 +64,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What ChatGPT Is Missing With Sarah Tavel, Benchmark and ex-Pinterest  (Best of the Pod)]]></title>
+            <title><![CDATA[ChatGPTに欠けているもの：サラ・タベル（Benchmark、元Pinterest）とともに（ベストエピソード）]]></title>
             <link>https://finance.biggo.jp/podcast/2e8295137b441340</link>
             <guid>https://finance.biggo.jp/podcast/2e8295137b441340</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[オープンウェイトAIの実態とは？| The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/bdf3eee66d42f539</link>
             <guid>https://finance.biggo.jp/podcast/bdf3eee66d42f539</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fableが私のアプリを壊したのに直せなかった]]></title>
-            <link>https://finance.biggo.jp/podcast/15eb7e586bdd9d8a</link>
-            <guid>https://finance.biggo.jp/podcast/15eb7e586bdd9d8a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ホワイトハウスは科学の生産性をどう10倍にするのか | Michael Kratsios | EP #276]]></title>
-            <link>https://finance.biggo.jp/podcast/17eee74618765e9e</link>
-            <guid>https://finance.biggo.jp/podcast/17eee74618765e9e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JRE MMA ショー #183 リコ・ヴァーホーヴェン]]></title>
-            <link>https://finance.biggo.jp/podcast/df18f0e5f7cf389a</link>
-            <guid>https://finance.biggo.jp/podcast/df18f0e5f7cf389a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
