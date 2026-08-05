@@ -22,6 +22,12 @@
             <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How Vercel used Cursor to build Queues]]></title>
+            <link>https://cursor.com/blog/vercel</link>
+            <guid>https://cursor.com/blog/vercel</guid>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cursor Start]]></title>
             <link>https://cursor.com/changelog/cursor-start</link>
             <guid>https://cursor.com/changelog/cursor-start</guid>
@@ -71,12 +77,6 @@
             <link>https://cursor.com/blog/faire</link>
             <guid>https://cursor.com/blog/faire</guid>
             <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyond efficiency: PayPal expands what's possible to build with AI]]></title>
-            <link>https://cursor.com/blog/paypal</link>
-            <guid>https://cursor.com/blog/paypal</guid>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cursor built a fleet of security agents to solve a familiar frustration]]></title>
