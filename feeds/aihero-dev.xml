@@ -4,94 +4,146 @@
         <title>www.aihero.dev</title>
         <link>https://www.aihero.dev/</link>
         <description>AI Hero - AI Engineering for Curious Professional Developers</description>
-        <lastBuildDate>Wed, 08 Jul 2026 15:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 11:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/aihero-dev.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The /wizard Skill]]></title>
+            <link>https://www.aihero.dev/skills-wizard</link>
+            <guid>https://www.aihero.dev/skills-wizard</guid>
+            <pubDate>Wed, 05 Aug 2026 11:23:17 GMT</pubDate>
+            <description><![CDATA[Generate a script that walks a human through setup.]]></description>
+            <content:encoded><![CDATA[Generate a script that walks a human through setup.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /to-questionnaire Skill]]></title>
+            <link>https://www.aihero.dev/skills-to-questionnaire</link>
+            <guid>https://www.aihero.dev/skills-to-questionnaire</guid>
+            <pubDate>Wed, 05 Aug 2026 11:22:51 GMT</pubDate>
+            <description><![CDATA[Turn open questions into a doc someone else fills in.]]></description>
+            <content:encoded><![CDATA[Turn open questions into a doc someone else fills in.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /wait-what Skill]]></title>
+            <link>https://www.aihero.dev/skills-wait-what</link>
+            <guid>https://www.aihero.dev/skills-wait-what</guid>
+            <pubDate>Wed, 05 Aug 2026 10:17:46 GMT</pubDate>
+            <description><![CDATA[Ask the agent to say that again, in plain English.]]></description>
+            <content:encoded><![CDATA[Ask the agent to say that again, in plain English.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[The /grilling Skill]]></title>
             <link>https://www.aihero.dev/skills-grilling</link>
             <guid>https://www.aihero.dev/skills-grilling</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:48 GMT</pubDate>
+            <description><![CDATA[The interview other skills run to stress-test a plan.]]></description>
+            <content:encoded><![CDATA[The interview other skills run to stress-test a plan.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /domain-modeling Skill]]></title>
             <link>https://www.aihero.dev/skills-domain-modeling</link>
             <guid>https://www.aihero.dev/skills-domain-modeling</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:48 GMT</pubDate>
+            <description><![CDATA[Sharpen the words a project uses, and write them down.]]></description>
+            <content:encoded><![CDATA[Sharpen the words a project uses, and write them down.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The /writing-great-skills Skill]]></title>
-            <link>https://www.aihero.dev/skills-writing-great-skills</link>
-            <guid>https://www.aihero.dev/skills-writing-great-skills</guid>
+            <title><![CDATA[The /writing-for-agents Skill]]></title>
+            <link>https://www.aihero.dev/skills-writing-for-agents</link>
+            <guid>https://www.aihero.dev/skills-writing-for-agents</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:46 GMT</pubDate>
+            <description><![CDATA[How to write skills and other documents agents read.]]></description>
+            <content:encoded><![CDATA[How to write skills and other documents agents read.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /codebase-design Skill]]></title>
             <link>https://www.aihero.dev/skills-codebase-design</link>
             <guid>https://www.aihero.dev/skills-codebase-design</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:46 GMT</pubDate>
+            <description><![CDATA[The vocabulary for designing deep modules.]]></description>
+            <content:encoded><![CDATA[The vocabulary for designing deep modules.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /teach Skill]]></title>
             <link>https://www.aihero.dev/skills-teach</link>
             <guid>https://www.aihero.dev/skills-teach</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:44 GMT</pubDate>
+            <description><![CDATA[Learn a topic across many sessions that build on each other.]]></description>
+            <content:encoded><![CDATA[Learn a topic across many sessions that build on each other.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /triage Skill]]></title>
             <link>https://www.aihero.dev/skills-triage</link>
             <guid>https://www.aihero.dev/skills-triage</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:44 GMT</pubDate>
+            <description><![CDATA[Sort raw issues into work someone can pick up.]]></description>
+            <content:encoded><![CDATA[Sort raw issues into work someone can pick up.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /diagnosing-bugs Skill]]></title>
             <link>https://www.aihero.dev/skills-diagnosing-bugs</link>
             <guid>https://www.aihero.dev/skills-diagnosing-bugs</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:43 GMT</pubDate>
+            <description><![CDATA[Diagnose a hard bug, starting from a repro that fails.]]></description>
+            <content:encoded><![CDATA[Diagnose a hard bug, starting from a repro that fails.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /research Skill]]></title>
             <link>https://www.aihero.dev/skills-research</link>
             <guid>https://www.aihero.dev/skills-research</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:42 GMT</pubDate>
+            <description><![CDATA[Get a cited answer, read from primary sources.]]></description>
+            <content:encoded><![CDATA[Get a cited answer, read from primary sources.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /wayfinder Skill]]></title>
             <link>https://www.aihero.dev/skills-wayfinder</link>
             <guid>https://www.aihero.dev/skills-wayfinder</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:41 GMT</pubDate>
+            <description><![CDATA[Chart a large effort as a map of decisions, and settle them.]]></description>
+            <content:encoded><![CDATA[Chart a large effort as a map of decisions, and settle them.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /code-review Skill]]></title>
             <link>https://www.aihero.dev/skills-code-review</link>
             <guid>https://www.aihero.dev/skills-code-review</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:40 GMT</pubDate>
+            <description><![CDATA[Review a diff against your standards and against the spec.]]></description>
+            <content:encoded><![CDATA[Review a diff against your standards and against the spec.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /implement Skill]]></title>
             <link>https://www.aihero.dev/skills-implement</link>
             <guid>https://www.aihero.dev/skills-implement</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:39 GMT</pubDate>
+            <description><![CDATA[Build a finished spec into code, test-first.]]></description>
+            <content:encoded><![CDATA[Build a finished spec into code, test-first.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /setup-matt-pocock-skills Skill]]></title>
             <link>https://www.aihero.dev/skills-setup-matt-pocock-skills</link>
             <guid>https://www.aihero.dev/skills-setup-matt-pocock-skills</guid>
             <pubDate>Wed, 08 Jul 2026 15:20:02 GMT</pubDate>
+            <description><![CDATA[Set up one repo so the other skills know how it works.]]></description>
+            <content:encoded><![CDATA[Set up one repo so the other skills know how it works.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /grill-with-docs Skill]]></title>
             <link>https://www.aihero.dev/skills-grill-with-docs</link>
             <guid>https://www.aihero.dev/skills-grill-with-docs</guid>
             <pubDate>Wed, 08 Jul 2026 15:15:52 GMT</pubDate>
+            <description><![CDATA[Get interviewed about a plan, and record the decisions.]]></description>
+            <content:encoded><![CDATA[Get interviewed about a plan, and record the decisions.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /ask-matt Skill]]></title>
             <link>https://www.aihero.dev/skills-ask-matt</link>
             <guid>https://www.aihero.dev/skills-ask-matt</guid>
             <pubDate>Wed, 08 Jul 2026 15:07:13 GMT</pubDate>
+            <description><![CDATA[Find out which skill to use for the situation you are in.]]></description>
+            <content:encoded><![CDATA[Find out which skill to use for the situation you are in.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[v1.1: /wayfinder, /to-spec, /to-tickets, /grilling improvements, and much more]]></title>
@@ -106,8 +158,16 @@
             <link>https://www.aihero.dev/skills-grill-me</link>
             <guid>https://www.aihero.dev/skills-grill-me</guid>
             <pubDate>Wed, 08 Jul 2026 11:13:02 GMT</pubDate>
-            <description><![CDATA[A guide to Matt Pocock's grill-me skill for resolving design decisions before implementation.]]></description>
-            <content:encoded><![CDATA[A guide to Matt Pocock's grill-me skill for resolving design decisions before implementation.]]></content:encoded>
+            <description><![CDATA[Get interviewed about a loose idea until it holds decisions.]]></description>
+            <content:encoded><![CDATA[Get interviewed about a loose idea until it holds decisions.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /resolving-merge-conflicts Skill]]></title>
+            <link>https://www.aihero.dev/skills-resolving-merge-conflicts</link>
+            <guid>https://www.aihero.dev/skills-resolving-merge-conflicts</guid>
+            <pubDate>Tue, 07 Jul 2026 13:56:09 GMT</pubDate>
+            <description><![CDATA[Finish a merge or rebase conflict, hunk by hunk.]]></description>
+            <content:encoded><![CDATA[Finish a merge or rebase conflict, hunk by hunk.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How To Kill The Bloat In Claude Code's System Prompt]]></title>
@@ -136,48 +196,48 @@
             <link>https://www.aihero.dev/skills-improve-codebase-architecture</link>
             <guid>https://www.aihero.dev/skills-improve-codebase-architecture</guid>
             <pubDate>Mon, 06 Jul 2026 15:19:14 GMT</pubDate>
-            <description><![CDATA[A guide to the improve-codebase-architecture skill for finding refactors that make code easier to test, change, and navigate with agents.]]></description>
-            <content:encoded><![CDATA[A guide to the improve-codebase-architecture skill for finding refactors that make code easier to test, change, and navigate with agents.]]></content:encoded>
+            <description><![CDATA[Find the modules worth refactoring, as a visual report.]]></description>
+            <content:encoded><![CDATA[Find the modules worth refactoring, as a visual report.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /prototype Skill]]></title>
             <link>https://www.aihero.dev/skills-prototype</link>
             <guid>https://www.aihero.dev/skills-prototype</guid>
             <pubDate>Mon, 06 Jul 2026 15:19:12 GMT</pubDate>
-            <description><![CDATA[A guide to the prototype skill for testing UI, state, and product decisions before committing to implementation.]]></description>
-            <content:encoded><![CDATA[A guide to the prototype skill for testing UI, state, and product decisions before committing to implementation.]]></content:encoded>
+            <description><![CDATA[Answer a design question with code you then delete.]]></description>
+            <content:encoded><![CDATA[Answer a design question with code you then delete.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /handoff Skill]]></title>
             <link>https://www.aihero.dev/skills-handoff</link>
             <guid>https://www.aihero.dev/skills-handoff</guid>
             <pubDate>Mon, 06 Jul 2026 15:19:10 GMT</pubDate>
-            <description><![CDATA[A guide to the handoff skill for compacting context so another agent or session can continue cleanly.]]></description>
-            <content:encoded><![CDATA[A guide to the handoff skill for compacting context so another agent or session can continue cleanly.]]></content:encoded>
+            <description><![CDATA[Write up a long session so another agent can continue it.]]></description>
+            <content:encoded><![CDATA[Write up a long session so another agent can continue it.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /tdd Skill]]></title>
             <link>https://www.aihero.dev/skills-tdd</link>
             <guid>https://www.aihero.dev/skills-tdd</guid>
             <pubDate>Mon, 06 Jul 2026 15:19:07 GMT</pubDate>
-            <description><![CDATA[A guide to Matt Pocock's tdd skill for implementing features one behavior at a time.]]></description>
-            <content:encoded><![CDATA[A guide to Matt Pocock's tdd skill for implementing features one behavior at a time.]]></content:encoded>
+            <description><![CDATA[Write the tests first, one behaviour at a time.]]></description>
+            <content:encoded><![CDATA[Write the tests first, one behaviour at a time.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /to-tickets Skill]]></title>
             <link>https://www.aihero.dev/skills-to-tickets</link>
             <guid>https://www.aihero.dev/skills-to-tickets</guid>
             <pubDate>Mon, 06 Jul 2026 15:19:04 GMT</pubDate>
-            <description><![CDATA[A guide to the to-issues skill for turning plans and PRDs into tracer-bullet implementation issues.]]></description>
-            <content:encoded><![CDATA[A guide to the to-issues skill for turning plans and PRDs into tracer-bullet implementation issues.]]></content:encoded>
+            <description><![CDATA[Split a spec into small tickets an agent can build.]]></description>
+            <content:encoded><![CDATA[Split a spec into small tickets an agent can build.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /to-spec Skill]]></title>
             <link>https://www.aihero.dev/skills-to-spec</link>
             <guid>https://www.aihero.dev/skills-to-spec</guid>
             <pubDate>Mon, 06 Jul 2026 15:19:01 GMT</pubDate>
-            <description><![CDATA[A guide to the to-prd skill for creating a PRD from current conversation and codebase context.]]></description>
-            <content:encoded><![CDATA[A guide to the to-prd skill for creating a PRD from current conversation and codebase context.]]></content:encoded>
+            <description><![CDATA[Turn an agreed conversation into a written spec.]]></description>
+            <content:encoded><![CDATA[Turn an agreed conversation into a written spec.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[grill-with-docs: Align Before You Build]]></title>
@@ -346,38 +406,6 @@
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
             <description><![CDATA[Everything the model sees on each model provider request. Finite, model-specific, the only surface through which the model perceives.]]></description>
             <content:encoded><![CDATA[Everything the model sees on each model provider request. Finite, model-specific, the only surface through which the model perceives.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Stateful | AI Coding Dictionary]]></title>
-            <link>https://www.aihero.dev/ai-coding-dictionary/stateful</link>
-            <guid>https://www.aihero.dev/ai-coding-dictionary/stateful</guid>
-            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[Carries information forward. Sessions are stateful across turns; agents can be made stateful across sessions via a memory system.]]></description>
-            <content:encoded><![CDATA[Carries information forward. Sessions are stateful across turns; agents can be made stateful across sessions via a memory system.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Agent | AI Coding Dictionary]]></title>
-            <link>https://www.aihero.dev/ai-coding-dictionary/agent</link>
-            <guid>https://www.aihero.dev/ai-coding-dictionary/agent</guid>
-            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[A model harnessed with tools, a system prompt, and a context window, that takes turns with a user. The model in motion.]]></description>
-            <content:encoded><![CDATA[A model harnessed with tools, a system prompt, and a context window, that takes turns with a user. The model in motion.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[System prompt | AI Coding Dictionary]]></title>
-            <link>https://www.aihero.dev/ai-coding-dictionary/system-prompt</link>
-            <guid>https://www.aihero.dev/ai-coding-dictionary/system-prompt</guid>
-            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[The instructions the harness prepends to every model provider request — the agent's standing brief. Usually stable across a session.]]></description>
-            <content:encoded><![CDATA[The instructions the harness prepends to every model provider request — the agent's standing brief. Usually stable across a session.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Session | AI Coding Dictionary]]></title>
-            <link>https://www.aihero.dev/ai-coding-dictionary/session</link>
-            <guid>https://www.aihero.dev/ai-coding-dictionary/session</guid>
-            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[One bounded run of interaction with an agent. Starts empty, accumulates, ends when cleared, closed, or compacted into a fresh session.]]></description>
-            <content:encoded><![CDATA[One bounded run of interaction with an agent. Starts empty, accumulates, ends when cleared, closed, or compacted into a fresh session.]]></content:encoded>
         </item>
     </channel>
 </rss>

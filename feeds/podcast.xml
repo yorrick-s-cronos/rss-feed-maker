@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Most Memecoins Die. Their Big Idea Is Taking Over]]></title>
+            <link>https://finance.biggo.jp/podcast/c86effddec1fbc7b</link>
+            <guid>https://finance.biggo.jp/podcast/c86effddec1fbc7b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[原子力ルネサンス - Radiant | a16z American Dynamism]]></title>
+            <link>https://finance.biggo.jp/podcast/4efee4aa8f987bdd</link>
+            <guid>https://finance.biggo.jp/podcast/4efee4aa8f987bdd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TIVP088（ビデオ）：Intuit（INTU）：S&P 500の最大の敗者（ショーン・オマリー＆カイル・グリーブ）]]></title>
             <link>https://finance.biggo.jp/podcast/2eb79daeb0f776b7</link>
             <guid>https://finance.biggo.jp/podcast/2eb79daeb0f776b7</guid>
@@ -88,7 +100,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[実際に売れるのはたった4つ（一つ選べ）]]></title>
+            <title><![CDATA[7 sales rules that'll humble every finance guru]]></title>
             <link>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</link>
             <guid>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[ブラッド・ジェイコブス：セラピーで数十億を稼いだ方法]]></title>
             <link>https://finance.biggo.jp/podcast/23e83f3c9e706693</link>
             <guid>https://finance.biggo.jp/podcast/23e83f3c9e706693</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ブラッド・ジェイコブス：セラピーで数十億を稼いだ方法]]></title>
-            <link>https://finance.biggo.jp/podcast/1262d7327fef41f0</link>
-            <guid>https://finance.biggo.jp/podcast/1262d7327fef41f0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chai Discoveryの苦い教訓：創薬もまたスケーリング問題である]]></title>
-            <link>https://finance.biggo.jp/podcast/b4ce1d75fc00ab59</link>
-            <guid>https://finance.biggo.jp/podcast/b4ce1d75fc00ab59</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
