@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[次のヒットAI製品がソーシャルになる理由]]></title>
+            <link>https://finance.biggo.jp/podcast/2e8295137b441340</link>
+            <guid>https://finance.biggo.jp/podcast/2e8295137b441340</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2535 - アンドリュー・ウィルソン]]></title>
+            <link>https://finance.biggo.jp/podcast/a77c4b9c0c9708c9</link>
+            <guid>https://finance.biggo.jp/podcast/a77c4b9c0c9708c9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[スコット・ギャロウェイ：健康保険は詐欺だ｜オフィスアワー]]></title>
             <link>https://finance.biggo.jp/podcast/7c4e4855e1542e5d</link>
             <guid>https://finance.biggo.jp/podcast/7c4e4855e1542e5d</guid>
@@ -22,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[100 VCs Said No. Now They're Building Data Centers in Space]]></title>
+            <title><![CDATA[The Case for Data Centers in Space]]></title>
             <link>https://finance.biggo.jp/podcast/59ba3e329abb999a</link>
             <guid>https://finance.biggo.jp/podcast/59ba3e329abb999a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[人類が決して太陽系を離れない理由]]></title>
             <link>https://finance.biggo.jp/podcast/c5cbc007112bc515</link>
             <guid>https://finance.biggo.jp/podcast/c5cbc007112bc515</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金融の達人も脱帽する7つのセールスルール]]></title>
-            <link>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</link>
-            <guid>https://finance.biggo.jp/podcast/15b7a6e0d78e83a4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI関連株暴落の真相 | Gavin Bakerインタビュー]]></title>
-            <link>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</link>
-            <guid>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
