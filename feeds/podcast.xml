@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TIVP088（ビデオ）：Intuit（INTU）：S&P 500の最大の敗者（ショーン・オマリー＆カイル・グリーブ）]]></title>
+            <link>https://finance.biggo.jp/podcast/2eb79daeb0f776b7</link>
+            <guid>https://finance.biggo.jp/podcast/2eb79daeb0f776b7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[脳卒中後の脳を守る]]></title>
+            <link>https://finance.biggo.jp/podcast/06ea5abaa1816e22</link>
+            <guid>https://finance.biggo.jp/podcast/06ea5abaa1816e22</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Susan Cain: 内向型が優れたリーダーになる理由 | ポッドキャスト | In Good Company]]></title>
             <link>https://finance.biggo.jp/podcast/a8a223205bb327b7</link>
             <guid>https://finance.biggo.jp/podcast/a8a223205bb327b7</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[Chai Discoveryの苦い教訓：創薬もまたスケーリング問題である]]></title>
             <link>https://finance.biggo.jp/podcast/b4ce1d75fc00ab59</link>
             <guid>https://finance.biggo.jp/podcast/b4ce1d75fc00ab59</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ポッドキャスト：グローバル臨床開発における中国の進化する役割]]></title>
-            <link>https://finance.biggo.jp/podcast/889e191af1817f2b</link>
-            <guid>https://finance.biggo.jp/podcast/889e191af1817f2b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特許切れ、記録に残る：Generics Bulletinのデイブ・ウォレスと見るジャーナリストの視点]]></title>
-            <link>https://finance.biggo.jp/podcast/ce1842fae1d75bf5</link>
-            <guid>https://finance.biggo.jp/podcast/ce1842fae1d75bf5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

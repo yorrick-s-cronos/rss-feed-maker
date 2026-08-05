@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Wed, 05 Aug 2026 01:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 09:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Xây dựng Điều lệ Đảng khoa học, dễ thực hiện và có sức sống lâu dài]]></title>
+            <link>https://mekongasean.vn/xay-dung-dieu-le-dang-khoa-hoc-de-thuc-hien-va-co-suc-song-lau-dai-58135.html</link>
+            <guid>https://mekongasean.vn/xay-dung-dieu-le-dang-khoa-hoc-de-thuc-hien-va-co-suc-song-lau-dai-58135.html</guid>
+            <pubDate>Wed, 05 Aug 2026 09:40:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tổng Bí thư, Chủ tịch nước: Cùng xây dựng Cộng đồng ASEAN đoàn kết, vững mạnh]]></title>
             <link>https://mekongasean.vn/tong-bi-thu-chu-tich-nuoc-cung-xay-dung-cong-dong-asean-doan-ket-vung-manh-58111.html</link>
             <guid>https://mekongasean.vn/tong-bi-thu-chu-tich-nuoc-cung-xay-dung-cong-dong-asean-doan-ket-vung-manh-58111.html</guid>
             <pubDate>Wed, 05 Aug 2026 01:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thủ tướng: Ngoại giao chuyển mạnh từ 'mở đường' sang đồng hành đến kết quả cụ thể]]></title>
-            <link>https://mekongasean.vn/thu-tuong-ngoai-giao-chuyen-manh-tu-mo-duong-sang-dong-hanh-den-ket-qua-cu-the-58098.html</link>
-            <guid>https://mekongasean.vn/thu-tuong-ngoai-giao-chuyen-manh-tu-mo-duong-sang-dong-hanh-den-ket-qua-cu-the-58098.html</guid>
-            <pubDate>Tue, 04 Aug 2026 11:39:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
