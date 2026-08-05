@@ -4,11 +4,19 @@
         <title>www.aihero.dev</title>
         <link>https://www.aihero.dev/</link>
         <description>AI Hero - AI Engineering for Curious Professional Developers</description>
-        <lastBuildDate>Wed, 05 Aug 2026 11:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 15:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/aihero-dev.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v1.2: /wait-what, /writing-for-agents, Claude Code Plugin, and more]]></title>
+            <link>https://www.aihero.dev/skills/skills-changelog-v12-wait-what-writing-for-agents-claude-code-plugin-and-more</link>
+            <guid>https://www.aihero.dev/skills/skills-changelog-v12-wait-what-writing-for-agents-claude-code-plugin-and-more</guid>
+            <pubDate>Wed, 05 Aug 2026 15:43:10 GMT</pubDate>
+            <description><![CDATA[Explore Matt Pocock's Skills v1.2.0: new documentation, Claude Code integration, the Wait What skill for Opus verbosity, and more.]]></description>
+            <content:encoded><![CDATA[Explore Matt Pocock's Skills v1.2.0: new documentation, Claude Code integration, the Wait What skill for Opus verbosity, and more.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[The /wizard Skill]]></title>
             <link>https://www.aihero.dev/skills-wizard</link>
@@ -220,8 +228,8 @@
             <link>https://www.aihero.dev/skills-tdd</link>
             <guid>https://www.aihero.dev/skills-tdd</guid>
             <pubDate>Mon, 06 Jul 2026 15:19:07 GMT</pubDate>
-            <description><![CDATA[Write the tests first, one behaviour at a time.]]></description>
-            <content:encoded><![CDATA[Write the tests first, one behaviour at a time.]]></content:encoded>
+            <description><![CDATA[The rules of the red-green-refactor loop.]]></description>
+            <content:encoded><![CDATA[The rules of the red-green-refactor loop.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /to-tickets Skill]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
             <description><![CDATA[The relevant information the agent has access to right now — what the agent knows that's pertinent to the task.]]></description>
             <content:encoded><![CDATA[The relevant information the agent has access to right now — what the agent knows that's pertinent to the task.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Context window | AI Coding Dictionary]]></title>
-            <link>https://www.aihero.dev/ai-coding-dictionary/context-window</link>
-            <guid>https://www.aihero.dev/ai-coding-dictionary/context-window</guid>
-            <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[Everything the model sees on each model provider request. Finite, model-specific, the only surface through which the model perceives.]]></description>
-            <content:encoded><![CDATA[Everything the model sees on each model provider request. Finite, model-specific, the only surface through which the model perceives.]]></content:encoded>
         </item>
     </channel>
 </rss>

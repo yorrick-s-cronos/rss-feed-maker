@@ -10,7 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Why Memecoins Are Not Going Away This Cycle]]></title>
+            <title><![CDATA[スコット・ギャロウェイ：健康保険は詐欺だ｜オフィスアワー]]></title>
+            <link>https://finance.biggo.jp/podcast/7c4e4855e1542e5d</link>
+            <guid>https://finance.biggo.jp/podcast/7c4e4855e1542e5d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI負債がクレジット市場をどう変えているか]]></title>
+            <link>https://finance.biggo.jp/podcast/ab3f3d57f82d2f58</link>
+            <guid>https://finance.biggo.jp/podcast/ab3f3d57f82d2f58</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[100 VCs Said No. Now They're Building Data Centers in Space]]></title>
+            <link>https://finance.biggo.jp/podcast/59ba3e329abb999a</link>
+            <guid>https://finance.biggo.jp/podcast/59ba3e329abb999a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[なぜミームコインは今回のサイクルでも消えないのか]]></title>
             <link>https://finance.biggo.jp/podcast/c86effddec1fbc7b</link>
             <guid>https://finance.biggo.jp/podcast/c86effddec1fbc7b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[AI関連株暴落の真相 | Gavin Bakerインタビュー]]></title>
             <link>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</link>
             <guid>https://finance.biggo.jp/podcast/313ad11fa89bcaaa</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chai Discoveryの苦い教訓：創薬もまたスケーリング問題である]]></title>
-            <link>https://finance.biggo.jp/podcast/56716399bad1e96f</link>
-            <guid>https://finance.biggo.jp/podcast/56716399bad1e96f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIに対してどうヘッジするか？ S3E14]]></title>
-            <link>https://finance.biggo.jp/podcast/5b299d66e6ba2975</link>
-            <guid>https://finance.biggo.jp/podcast/5b299d66e6ba2975</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Man Who Built 8 Different Billion Dollar-Companies | Brad Jacobs]]></title>
-            <link>https://finance.biggo.jp/podcast/23e83f3c9e706693</link>
-            <guid>https://finance.biggo.jp/podcast/23e83f3c9e706693</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-05T15:09:00.252Z",
+  "lastSuccess": "2026-08-05T17:20:56.090Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/claude-enterprise-inference-hooks",
     "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
     "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "https://claude.com/blog/working-at-the-frontier-rakuten",
     "https://claude.com/blog/working-at-the-frontier-cursor",
-    "https://claude.com/blog/ciso-guide-to-agentic-ai",
-    "https://claude.com/blog/ai-code-migration"
+    "https://claude.com/blog/ciso-guide-to-agentic-ai"
   ],
   "consecutiveErrors": 0
 }
