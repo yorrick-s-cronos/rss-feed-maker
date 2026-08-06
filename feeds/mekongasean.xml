@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Wed, 05 Aug 2026 10:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 16:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ngoại giao khoa học - công nghệ phải chuyển từ kết nối sang kiến tạo phát triển]]></title>
+            <link>https://mekongasean.vn/ngoai-giao-khoa-hoc-cong-nghe-phai-chuyen-tu-ket-noi-sang-kien-tao-phat-trien-58153.html</link>
+            <guid>https://mekongasean.vn/ngoai-giao-khoa-hoc-cong-nghe-phai-chuyen-tu-ket-noi-sang-kien-tao-phat-trien-58153.html</guid>
+            <pubDate>Wed, 05 Aug 2026 16:51:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tăng trưởng trong không gian phát triển mới: Phải xây dựng thực lực đủ mạnh]]></title>
             <link>https://mekongasean.vn/tang-truong-trong-khong-gian-phat-trien-moi-phai-xay-dung-thuc-luc-du-manh-58123.html</link>
             <guid>https://mekongasean.vn/tang-truong-trong-khong-gian-phat-trien-moi-phai-xay-dung-thuc-luc-du-manh-58123.html</guid>
             <pubDate>Wed, 05 Aug 2026 10:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ADB: Mở rộng không gian phát triển mới từ đột phá thể chế và năng suất]]></title>
-            <link>https://mekongasean.vn/adb-mo-rong-khong-gian-phat-trien-moi-tu-dot-pha-the-che-va-nang-suat-57724.html</link>
-            <guid>https://mekongasean.vn/adb-mo-rong-khong-gian-phat-trien-moi-tu-dot-pha-the-che-va-nang-suat-57724.html</guid>
-            <pubDate>Wed, 05 Aug 2026 09:08:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
