@@ -10,6 +10,66 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[映画界の次の大物は60年前のIMAX技術｜The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/6151381b7c6e8a02</link>
+            <guid>https://finance.biggo.jp/podcast/6151381b7c6e8a02</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sam Harris: The Corruption of American Politics | Conversations]]></title>
+            <link>https://finance.biggo.jp/podcast/8d7cc4428915235d</link>
+            <guid>https://finance.biggo.jp/podcast/8d7cc4428915235d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garry Tan: AGIの未来はパーソナルなものだ]]></title>
+            <link>https://finance.biggo.jp/podcast/349ac2fb44d29d82</link>
+            <guid>https://finance.biggo.jp/podcast/349ac2fb44d29d82</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[実証実験 - 創薬におけるAI]]></title>
+            <link>https://finance.biggo.jp/podcast/1805781c33f6944b</link>
+            <guid>https://finance.biggo.jp/podcast/1805781c33f6944b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pat Dorsey: ほとんどのCEOは資本配分をしたことがない]]></title>
+            <link>https://finance.biggo.jp/podcast/f6abee885f9f5c4b</link>
+            <guid>https://finance.biggo.jp/podcast/f6abee885f9f5c4b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[肥満との戦いにおける新たな戦略]]></title>
+            <link>https://finance.biggo.jp/podcast/fdd76dd75d8ccff5</link>
+            <guid>https://finance.biggo.jp/podcast/fdd76dd75d8ccff5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[モデルルーティングの現状 — NVIDIA、Cognition、OpenRouter]]></title>
+            <link>https://finance.biggo.jp/podcast/9b2c6fd23b9d9e9c</link>
+            <guid>https://finance.biggo.jp/podcast/9b2c6fd23b9d9e9c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2536 - エリック・グッド & ジェレミー・マクブライド]]></title>
+            <link>https://finance.biggo.jp/podcast/7503fc3d30bade2a</link>
+            <guid>https://finance.biggo.jp/podcast/7503fc3d30bade2a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airtable、12億8500万ドルで売却 | Anthropicのモデルが企業のセキュリティを侵害 | なぜPalantirは他社に勝てたのか]]></title>
+            <link>https://finance.biggo.jp/podcast/085afb011c23bcb2</link>
+            <guid>https://finance.biggo.jp/podcast/085afb011c23bcb2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[なぜすべてのAI企業がオープンソースに依存するのか | a16zとの対話]]></title>
+            <link>https://finance.biggo.jp/podcast/1c921cbf05bf49e1</link>
+            <guid>https://finance.biggo.jp/podcast/1c921cbf05bf49e1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[患者支援の次のフロンティア：接続されたデータ、AI、パーソナライズされたエンゲージメント（スポンサー提供）]]></title>
             <link>https://finance.biggo.jp/podcast/1b3fcefdcb8f8f40</link>
             <guid>https://finance.biggo.jp/podcast/1b3fcefdcb8f8f40</guid>
@@ -22,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We accidentally dropped 9 genius business ideas while drunk]]></title>
+            <title><![CDATA[酔った大富豪2人が9つのビジネスアイデアをひらめく]]></title>
             <link>https://finance.biggo.jp/podcast/99167f57cd4de185</link>
             <guid>https://finance.biggo.jp/podcast/99167f57cd4de185</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +118,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn't Own It | Michael Saylor]]></title>
+            <title><![CDATA[全ビットコインの4%を所有する男: 7つの銀行があなたのお金を支配している | Michael Saylor]]></title>
             <link>https://finance.biggo.jp/podcast/ab63a694aef0ee34</link>
             <guid>https://finance.biggo.jp/podcast/ab63a694aef0ee34</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -67,66 +127,6 @@
             <title><![CDATA[羅永浩のX字路！我々が今日まで生き延びてこられたのは、先祖伝来のスノッブ根性のおかげだ｜羅永浩の十字路]]></title>
             <link>https://finance.biggo.jp/podcast/2da4331ef6213a81</link>
             <guid>https://finance.biggo.jp/podcast/2da4331ef6213a81</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[モバイルのボトルネック、急騰するAI設備投資、そしてコンピュート不足]]></title>
-            <link>https://finance.biggo.jp/podcast/223dd6698c73b980</link>
-            <guid>https://finance.biggo.jp/podcast/223dd6698c73b980</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2人のアメリカ人パイロットを救助した自律型ボート]]></title>
-            <link>https://finance.biggo.jp/podcast/3d2550b67197663d</link>
-            <guid>https://finance.biggo.jp/podcast/3d2550b67197663d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ガジェット：実際に安全なパーソナルアプリのバイブコーディング — Kenton Varda（Cloudflare）]]></title>
-            <link>https://finance.biggo.jp/podcast/013bd31558e1c6fa</link>
-            <guid>https://finance.biggo.jp/podcast/013bd31558e1c6fa</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[感染症ポッドキャスト #112]]></title>
-            <link>https://finance.biggo.jp/podcast/feb4b3610d8ba887</link>
-            <guid>https://finance.biggo.jp/podcast/feb4b3610d8ba887</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI債務がクレジット市場をどう変えているか]]></title>
-            <link>https://finance.biggo.jp/podcast/7e8b55fa84f3601c</link>
-            <guid>https://finance.biggo.jp/podcast/7e8b55fa84f3601c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜAIは実際には生産性を向上させていないのか｜トランプノミクス]]></title>
-            <link>https://finance.biggo.jp/podcast/282a747a72d876ec</link>
-            <guid>https://finance.biggo.jp/podcast/282a747a72d876ec</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claudeが私の睡眠に影響を与えている]]></title>
-            <link>https://finance.biggo.jp/podcast/fc849827810abd43</link>
-            <guid>https://finance.biggo.jp/podcast/fc849827810abd43</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appleは道を見失った。]]></title>
-            <link>https://finance.biggo.jp/podcast/4e5417d9b17ee321</link>
-            <guid>https://finance.biggo.jp/podcast/4e5417d9b17ee321</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kalshiの執行責任者、「カジノではない」と主張]]></title>
-            <link>https://finance.biggo.jp/podcast/6eb8c001b40c27b6</link>
-            <guid>https://finance.biggo.jp/podcast/6eb8c001b40c27b6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthropic出資者のG Squared、第7号ファンドで23億ドルを調達]]></title>
-            <link>https://finance.biggo.jp/podcast/0be2f3ce0dfa075c</link>
-            <guid>https://finance.biggo.jp/podcast/0be2f3ce0dfa075c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
