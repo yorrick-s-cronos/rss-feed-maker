@@ -4,11 +4,63 @@
         <title>claude-code Releases</title>
         <link>https://github.com/anthropics/claude-code/releases</link>
         <description>GitHub releases for anthropics/claude-code</description>
-        <lastBuildDate>Tue, 04 Aug 2026 22:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 00:52:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v2.1.223]]></title>
+            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.223</link>
+            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.223</guid>
+            <pubDate>Thu, 06 Aug 2026 00:52:37 GMT</pubDate>
+            <description><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Added owner wildcard entries (<code>&quot;owner/*&quot;</code>) to the <code>strictKnownMarketplaces</code> and <code>blockedMarketplaces</code> managed settings for allowing or blocking all marketplace repos under a GitHub org</li>
+<li>Added a warning when workflow agents, forked skills, slash commands, or resumed background agents&#39; requested subagent model is restricted and the parent model runs instead</li>
+<li>Added a <code>/teleport</code> hint in cloud sessions showing how to continue locally with <code>claude --teleport &lt;session id&gt;</code></li>
+<li>Fixed a Bash permission bypass where a crafted command could hide parts of itself from permission checks</li>
+<li>Fixed permission prompts so commands padded with tabs or invisible Unicode can no longer hide part of the command from the approval dialog</li>
+<li>Fixed workflow scripts being able to use dynamic <code>import()</code> to run code outside the workflow sandbox</li>
+<li>Fixed a permission gap where an agent definition&#39;s <code>bypassPermissions</code> mode ignored the org bypass-permissions disable policy</li>
+<li>Fixed resuming a session after a mid-session <code>/cd</code> coming back empty</li>
+<li>Fixed gateway model discovery hiding Claude models registered under provider-prefixed IDs such as <code>vertex_ai/claude-*</code> or <code>bedrock/anthropic.claude-*</code></li>
+<li>Fixed <code>modelOverrides</code> keys that aren&#39;t Anthropic model IDs being treated as the session&#39;s canonical model ID; unknown keys are now ignored as documented</li>
+<li>Fixed managed settings: server-delivered settings no longer disable the env block of a machine-local <code>managed-settings.json</code> or MDM profile; admin env now merges per key</li>
+<li>Fixed sandboxed commands failing to start on Linux when <code>sandbox.filesystem.denyWrite</code> covers the working directory</li>
+<li>Fixed forked background agents getting stuck &quot;already resuming&quot; for the rest of the session when rebuilding the fork&#39;s parent prompt failed during resume</li>
+<li>Fixed a resumed session failing every turn, or leaving the interactive app on an unresponsive error screen, when its history held a malformed diagnostics attachment</li>
+<li>Fixed a rare hang when parsing unusual <code>git push</code> output</li>
+<li>Changed <code>CLAUDE_CODE_DISABLE_1M_CONTEXT</code> to hold every Claude model with a native 1M window to 200K via auto-compaction, not just a fixed list; a startup warning now appears when auto-compaction isn&#39;t holding the session to 200K</li>
+<li>Changed auto-compact to keep sessions on unrecognized model IDs within the assumed context window instead of letting them grow past it; set <code>CLAUDE_CODE_DISABLE_UNKNOWN_MODEL_WINDOW_ENFORCEMENT=1</code> to restore the previous behavior</li>
+<li>Changed <code>/review</code> to be an alias of <code>/code-review</code>, which reviews the current diff or a PR (<code>/code-review &lt;level&gt; &lt;pr#&gt;</code>); use <code>/code-review ultra</code> for a deep cloud review</li>
+<li>Changed <code>/code-review</code> with no effort level to reuse the level you typed last; type a level like <code>/code-review high</code> to change it</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Added owner wildcard entries (<code>&quot;owner/*&quot;</code>) to the <code>strictKnownMarketplaces</code> and <code>blockedMarketplaces</code> managed settings for allowing or blocking all marketplace repos under a GitHub org</li>
+<li>Added a warning when workflow agents, forked skills, slash commands, or resumed background agents&#39; requested subagent model is restricted and the parent model runs instead</li>
+<li>Added a <code>/teleport</code> hint in cloud sessions showing how to continue locally with <code>claude --teleport &lt;session id&gt;</code></li>
+<li>Fixed a Bash permission bypass where a crafted command could hide parts of itself from permission checks</li>
+<li>Fixed permission prompts so commands padded with tabs or invisible Unicode can no longer hide part of the command from the approval dialog</li>
+<li>Fixed workflow scripts being able to use dynamic <code>import()</code> to run code outside the workflow sandbox</li>
+<li>Fixed a permission gap where an agent definition&#39;s <code>bypassPermissions</code> mode ignored the org bypass-permissions disable policy</li>
+<li>Fixed resuming a session after a mid-session <code>/cd</code> coming back empty</li>
+<li>Fixed gateway model discovery hiding Claude models registered under provider-prefixed IDs such as <code>vertex_ai/claude-*</code> or <code>bedrock/anthropic.claude-*</code></li>
+<li>Fixed <code>modelOverrides</code> keys that aren&#39;t Anthropic model IDs being treated as the session&#39;s canonical model ID; unknown keys are now ignored as documented</li>
+<li>Fixed managed settings: server-delivered settings no longer disable the env block of a machine-local <code>managed-settings.json</code> or MDM profile; admin env now merges per key</li>
+<li>Fixed sandboxed commands failing to start on Linux when <code>sandbox.filesystem.denyWrite</code> covers the working directory</li>
+<li>Fixed forked background agents getting stuck &quot;already resuming&quot; for the rest of the session when rebuilding the fork&#39;s parent prompt failed during resume</li>
+<li>Fixed a resumed session failing every turn, or leaving the interactive app on an unresponsive error screen, when its history held a malformed diagnostics attachment</li>
+<li>Fixed a rare hang when parsing unusual <code>git push</code> output</li>
+<li>Changed <code>CLAUDE_CODE_DISABLE_1M_CONTEXT</code> to hold every Claude model with a native 1M window to 200K via auto-compaction, not just a fixed list; a startup warning now appears when auto-compaction isn&#39;t holding the session to 200K</li>
+<li>Changed auto-compact to keep sessions on unrecognized model IDs within the assumed context window instead of letting them grow past it; set <code>CLAUDE_CODE_DISABLE_UNKNOWN_MODEL_WINDOW_ENFORCEMENT=1</code> to restore the previous behavior</li>
+<li>Changed <code>/review</code> to be an alias of <code>/code-review</code>, which reviews the current diff or a PR (<code>/code-review &lt;level&gt; &lt;pr#&gt;</code>); use <code>/code-review ultra</code> for a deep cloud review</li>
+<li>Changed <code>/code-review</code> with no effort level to reuse the level you typed last; type a level like <code>/code-review high</code> to change it</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.1.222]]></title>
             <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.222</link>
@@ -2574,64 +2626,6 @@
             <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
 <ul>
 <li>Bug fixes and reliability improvements</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[v2.1.163]]></title>
-            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.163</link>
-            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.163</guid>
-            <pubDate>Thu, 04 Jun 2026 21:52:51 GMT</pubDate>
-            <description><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Added <code>requiredMinimumVersion</code> and <code>requiredMaximumVersion</code> managed settings — Claude Code refuses to start if its version is outside the allowed range and directs the user to an approved version</li>
-<li>Added <code>/plugin list</code> command to list installed plugins, with <code>--enabled</code>/<code>--disabled</code> filters</li>
-<li>Added a &quot;c to copy&quot; shortcut to <code>/btw</code> that copies the raw markdown answer to the clipboard, preserving formatting when pasted elsewhere</li>
-<li>Hooks: Stop and SubagentStop hooks can now return <code>hookSpecificOutput.additionalContext</code> to give Claude feedback and keep the turn going without being labeled a hook error</li>
-<li>Skills: added <code>\$</code> escape syntax to include a literal <code>$</code> before a digit in command bodies</li>
-<li>stdio MCP servers now receive the same <code>CLAUDE_CODE_SESSION_ID</code> as hooks/Bash on <code>--resume</code></li>
-<li>Fixed <code>claude -p</code> hanging forever after its final result when a backgrounded command never exits — background shells are now stopped ~5s after the result once stdin closes</li>
-<li>Fixed <code>claude -p</code> failing with &quot;ANTHROPIC_API_KEY required&quot; on Bedrock/Vertex/Foundry when <code>CI=true</code> and no Anthropic API key is set</li>
-<li>Fixed bash commands failing under bazel and EDR-protected Go workflows: <code>$TMPDIR</code> was overridden to <code>/tmp/claude-{uid}</code> for all commands instead of only sandboxed ones (regression in 2.1.154)</li>
-<li>Fixed Bash commands failing on Windows with &quot;EEXIST: file already exists&quot; on the session-env directory when it has the read-only attribute or is inside OneDrive</li>
-<li>Fixed org-managed permission rules not applying for the entire session when the managed settings fetch completed during startup on a fresh config directory</li>
-<li>Fixed background sessions in <code>claude agents</code> losing their running background tasks when reattached after a Claude Code update</li>
-<li>Fixed terminal misalignment and a multi-second hang when exiting the agent view by pressing Esc</li>
-<li>Fixed clicking Stop on a background-task chip in the desktop app not clearing the chip when the underlying process was already gone</li>
-<li>Fixed keyboard input becoming permanently unresponsive after a paste operation whose end marker is dropped by the terminal</li>
-<li>Fixed hook <code>if: &quot;Bash(...)&quot;</code> conditions firing on every Bash command containing <code>$()</code> or <code>$VAR</code>; the pattern now matches against commands inside subshells and backticks too</li>
-<li>Fixed deny rules on home-directory paths (e.g. <code>Read(~/Desktop/**)</code>) not blocking Bash commands that reference the path via <code>$HOME</code></li>
-<li>Fixed a stray &quot;(no content)&quot; line left in the transcript after closing panel dialogs like /mcp and /plugins</li>
-<li>Background agent sessions now update to a new Claude Code version in the background, so opening a session after an update no longer waits on a cold restart</li>
-<li>Clearer descriptions for built-in commands and skills in the / menu</li>
-<li>The subscription-switch suggestion now shows in the startup announcement slot instead of a toast</li>
-<li><code>claude agents</code> dispatching from the state-grouped view now starts the session in the directory the agent view was opened from</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Added <code>requiredMinimumVersion</code> and <code>requiredMaximumVersion</code> managed settings — Claude Code refuses to start if its version is outside the allowed range and directs the user to an approved version</li>
-<li>Added <code>/plugin list</code> command to list installed plugins, with <code>--enabled</code>/<code>--disabled</code> filters</li>
-<li>Added a &quot;c to copy&quot; shortcut to <code>/btw</code> that copies the raw markdown answer to the clipboard, preserving formatting when pasted elsewhere</li>
-<li>Hooks: Stop and SubagentStop hooks can now return <code>hookSpecificOutput.additionalContext</code> to give Claude feedback and keep the turn going without being labeled a hook error</li>
-<li>Skills: added <code>\$</code> escape syntax to include a literal <code>$</code> before a digit in command bodies</li>
-<li>stdio MCP servers now receive the same <code>CLAUDE_CODE_SESSION_ID</code> as hooks/Bash on <code>--resume</code></li>
-<li>Fixed <code>claude -p</code> hanging forever after its final result when a backgrounded command never exits — background shells are now stopped ~5s after the result once stdin closes</li>
-<li>Fixed <code>claude -p</code> failing with &quot;ANTHROPIC_API_KEY required&quot; on Bedrock/Vertex/Foundry when <code>CI=true</code> and no Anthropic API key is set</li>
-<li>Fixed bash commands failing under bazel and EDR-protected Go workflows: <code>$TMPDIR</code> was overridden to <code>/tmp/claude-{uid}</code> for all commands instead of only sandboxed ones (regression in 2.1.154)</li>
-<li>Fixed Bash commands failing on Windows with &quot;EEXIST: file already exists&quot; on the session-env directory when it has the read-only attribute or is inside OneDrive</li>
-<li>Fixed org-managed permission rules not applying for the entire session when the managed settings fetch completed during startup on a fresh config directory</li>
-<li>Fixed background sessions in <code>claude agents</code> losing their running background tasks when reattached after a Claude Code update</li>
-<li>Fixed terminal misalignment and a multi-second hang when exiting the agent view by pressing Esc</li>
-<li>Fixed clicking Stop on a background-task chip in the desktop app not clearing the chip when the underlying process was already gone</li>
-<li>Fixed keyboard input becoming permanently unresponsive after a paste operation whose end marker is dropped by the terminal</li>
-<li>Fixed hook <code>if: &quot;Bash(...)&quot;</code> conditions firing on every Bash command containing <code>$()</code> or <code>$VAR</code>; the pattern now matches against commands inside subshells and backticks too</li>
-<li>Fixed deny rules on home-directory paths (e.g. <code>Read(~/Desktop/**)</code>) not blocking Bash commands that reference the path via <code>$HOME</code></li>
-<li>Fixed a stray &quot;(no content)&quot; line left in the transcript after closing panel dialogs like /mcp and /plugins</li>
-<li>Background agent sessions now update to a new Claude Code version in the background, so opening a session after an update no longer waits on a cold restart</li>
-<li>Clearer descriptions for built-in commands and skills in the / menu</li>
-<li>The subscription-switch suggestion now shows in the startup announcement slot instead of a toast</li>
-<li><code>claude agents</code> dispatching from the state-grouped view now starts the session in the directory the agent view was opened from</li>
 </ul>
 ]]></content:encoded>
         </item>
