@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-06T10:28:52.961Z",
+  "lastSuccess": "2026-08-06T12:52:44.540Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
     "https://claude.com/blog/claude-enterprise-inference-hooks",
     "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
     "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "https://claude.com/blog/working-at-the-frontier-rakuten",
-    "https://claude.com/blog/working-at-the-frontier-cursor",
-    "https://claude.com/blog/ciso-guide-to-agentic-ai"
+    "https://claude.com/blog/working-at-the-frontier-cursor"
   ],
   "consecutiveErrors": 0
 }
