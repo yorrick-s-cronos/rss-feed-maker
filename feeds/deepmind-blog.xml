@@ -4,11 +4,17 @@
         <title>Google DeepMind Blog</title>
         <link>https://deepmind.google/discover/blog/</link>
         <description>Research and discoveries from Google DeepMind</description>
-        <lastBuildDate>Wed, 01 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/deepmind-blog.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WeatherNext: AI model achieves breakthrough in forecasting cyclones]]></title>
+            <link>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</link>
+            <guid>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</guid>
+            <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gemini Robotics 2 brings whole body intelligence to robots]]></title>
             <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
@@ -151,12 +157,6 @@
             <title><![CDATA[Co-Scientist: A multi-agent AI partner to accelerate research]]></title>
             <link>https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/</link>
             <guid>https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Google Antigravity 2.0]]></title>
-            <link>https://antigravity.google/blog/introducing-google-antigravity-2-0</link>
-            <guid>https://antigravity.google/blog/introducing-google-antigravity-2-0</guid>
             <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

@@ -1,8 +1,9 @@
 {
-  "lastSuccess": "2026-08-06T12:50:53.420Z",
+  "lastSuccess": "2026-08-06T15:07:15.276Z",
   "articleCount": 25,
   "knownLinks": [
     "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
     "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
     "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission",
@@ -25,8 +26,7 @@
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
     "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
-    "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-    "https://antigravity.google/blog/introducing-google-antigravity-2-0"
+    "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/"
   ],
   "consecutiveErrors": 0
 }
