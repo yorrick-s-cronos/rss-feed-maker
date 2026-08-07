@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[香港宏福苑火災跨部門調查最終報告：大火或由煙頭引起]]></title>
+            <link>https://www.wenweipo.com/a/202608/08/AP6a765c2ee4b0c1e50023fa94.html</link>
+            <guid>https://www.wenweipo.com/a/202608/08/AP6a765c2ee4b0c1e50023fa94.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[香港大埔火災獨立委員會最新公開跨部門調查專組的最終調查報告，認為大火或是由煙頭引起，而易燃物加劇了火勢蔓延。]]></description>
+        </item>
+        <item>
             <title><![CDATA[香港大學生外交夏令營走進金平　親身體驗民族團結力量]]></title>
             <link>https://www.wenweipo.com/a/202608/07/AP6a76035ae4b0c1e50023f70c.html</link>
             <guid>https://www.wenweipo.com/a/202608/07/AP6a76035ae4b0c1e50023f70c.html</guid>
@@ -108,13 +115,6 @@
             <guid>https://www.wenweipo.com/a/202608/07/AP6a75893de4b0c1e50023ea5f.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港特區政府保安局局長鄧炳強今日（7日）回應香港文匯報記者提問時批評記協為「無認受性、無公信力」的團體，並警告任何人若從事危害國家安全、勾結外部勢力或顛覆國家政權的行為，特區政府必定依法調查追究，「一定會釘死你，後果自負」。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工友注意！黃色工作暑熱警告現正生效]]></title>
-            <link>https://www.wenweipo.com/a/202608/07/AP6a75801ae4b0c1e50023e950.html</link>
-            <guid>https://www.wenweipo.com/a/202608/07/AP6a75801ae4b0c1e50023e950.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[受到強颱風白海豚的外圍下沉氣流影響，勞工處今日（7日）下午12時10分發出黃色工作暑熱警告，表示部分工作環境的熱壓力頗高。僱主應參照勞工處的《預防工作時中暑指引》，在合理地切實可行的情況下採取所需的防暑措施，包括重新編排工作時段及提供適當的休息時間，減低僱員中暑的風險。僱員如出現熱疾病的症狀，例如頭痛、頭暈、口渴、噁心，應立即到陰涼處休息和飲水，並通知僱主或主管。]]></description>
         </item>
     </channel>
 </rss>
