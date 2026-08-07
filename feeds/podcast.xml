@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[GPUに挑戦、HBMを迂回、史上最大のチップの背後にあるCerebrasを深掘り]]></title>
+            <link>https://finance.biggo.jp/podcast/a38ac2428a1d8075</link>
+            <guid>https://finance.biggo.jp/podcast/a38ac2428a1d8075</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ローカルモデル：信頼、制御、最適化 — カーター・アブダラ、NVIDIA]]></title>
+            <link>https://finance.biggo.jp/podcast/5144929b407b7964</link>
+            <guid>https://finance.biggo.jp/podcast/5144929b407b7964</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エッジでの圧縮 — Chris Alexiuk（NVIDIA）]]></title>
+            <link>https://finance.biggo.jp/podcast/ff39baea0fc8d945</link>
+            <guid>https://finance.biggo.jp/podcast/ff39baea0fc8d945</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[『スパイダーマン』と『オデュッセイア』がIMAXを再び大きくした | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/6151381b7c6e8a02</link>
             <guid>https://finance.biggo.jp/podcast/6151381b7c6e8a02</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[LifeMine Therapeutics、2億6300万ドルを調達——臓器移植の常識を変える新規カルシニューリン活性化阻害薬の開発を加速]]></title>
             <link>https://finance.biggo.jp/podcast/28df36bf1c389134</link>
             <guid>https://finance.biggo.jp/podcast/28df36bf1c389134</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[兆ドル企業を追い求めて：創業者の野心、トークン予算、規制の虜]]></title>
-            <link>https://finance.biggo.jp/podcast/4a3d4050c2d6962f</link>
-            <guid>https://finance.biggo.jp/podcast/4a3d4050c2d6962f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全ビットコインの4%を所有する男: 7つの銀行があなたのお金を支配している | Michael Saylor]]></title>
-            <link>https://finance.biggo.jp/podcast/ab63a694aef0ee34</link>
-            <guid>https://finance.biggo.jp/podcast/ab63a694aef0ee34</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[羅永浩のX字路！我々が今日まで生き延びてこられたのは、先祖伝来のスノッブ根性のおかげだ｜羅永浩の十字路]]></title>
-            <link>https://finance.biggo.jp/podcast/2da4331ef6213a81</link>
-            <guid>https://finance.biggo.jp/podcast/2da4331ef6213a81</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
