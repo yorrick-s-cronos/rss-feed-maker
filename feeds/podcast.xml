@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[イーサリアムのステーキング利回りがゼロになる可能性]]></title>
+            <link>https://finance.biggo.jp/podcast/c136c07ac9fa44dc</link>
+            <guid>https://finance.biggo.jp/podcast/c136c07ac9fa44dc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#406 模擬遺伝カウンセリングセッション：オゼンピック、ゾロフト、ザナックス、メトホルミン]]></title>
             <link>https://finance.biggo.jp/podcast/ab2e448c6c21e51c</link>
             <guid>https://finance.biggo.jp/podcast/ab2e448c6c21e51c</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[デジタルヘルスラウンドアップ：視力回復インプラントのCEマーク、AIチャットボット規制、MS提携]]></title>
             <link>https://finance.biggo.jp/podcast/e241d30592c22218</link>
             <guid>https://finance.biggo.jp/podcast/e241d30592c22218</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[酔った大富豪2人が9つのビジネスアイデアをひらめく]]></title>
-            <link>https://finance.biggo.jp/podcast/99167f57cd4de185</link>
-            <guid>https://finance.biggo.jp/podcast/99167f57cd4de185</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
