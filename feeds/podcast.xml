@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[西洋の製薬大手が中国の環状RNA革命を見過ごす理由]]></title>
+            <link>https://finance.biggo.jp/podcast/cc8aae87200318a2</link>
+            <guid>https://finance.biggo.jp/podcast/cc8aae87200318a2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GPUに挑戦、HBMを迂回、史上最大のチップの背後にあるCerebrasを深掘り]]></title>
             <link>https://finance.biggo.jp/podcast/a38ac2428a1d8075</link>
             <guid>https://finance.biggo.jp/podcast/a38ac2428a1d8075</guid>
@@ -22,7 +28,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[エッジでの圧縮 — Chris Alexiuk（NVIDIA）]]></title>
+            <title><![CDATA[エッジでの圧縮 — NVIDIA、Unsloth、HuggingFace、Ollama]]></title>
             <link>https://finance.biggo.jp/podcast/ff39baea0fc8d945</link>
             <guid>https://finance.biggo.jp/podcast/ff39baea0fc8d945</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[430: Situational Unawareness (hak)]]></title>
             <link>https://finance.biggo.jp/podcast/63c11fd6a8d79b06</link>
             <guid>https://finance.biggo.jp/podcast/63c11fd6a8d79b06</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LifeMine Therapeutics、2億6300万ドルを調達——臓器移植の常識を変える新規カルシニューリン活性化阻害薬の開発を加速]]></title>
-            <link>https://finance.biggo.jp/podcast/28df36bf1c389134</link>
-            <guid>https://finance.biggo.jp/podcast/28df36bf1c389134</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
