@@ -23,5 +23,6 @@
     "https://finance.biggo.jp/podcast/e241d30592c22218",
     "https://finance.biggo.jp/podcast/99167f57cd4de185"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "Failed to fetch https://finance.biggo.jp/podcast: The operation was aborted."
 }
