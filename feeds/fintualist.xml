@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 04 Aug 2026 19:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 23:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[0% de impuestos por las ganancias: reforma tributaria y nuevo 107 LIR aprobados]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/0-de-impuestos-por-las-ganancias-reforma-tributaria-y-nuevo-107-lir-aprobados/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/0-de-impuestos-por-las-ganancias-reforma-tributaria-y-nuevo-107-lir-aprobados/</guid>
+            <pubDate>Tue, 04 Aug 2026 23:05:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[¿Por qué tanta volatilidad en la bolsa de Corea?]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/por-que-tanta-volatilidad-en-la-bolsa-de-corea/</link>
@@ -26,18 +32,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/se-puede-medir-el-impacto-economico-del-temporal/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/se-puede-medir-el-impacto-economico-del-temporal/</guid>
             <pubDate>Tue, 04 Aug 2026 13:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leviticus: la efectividad del terror como metáfora de problemas contemporáneos]]></title>
-            <link>https://fintualist.com/chile/cultura/cine-series/leviticus-la-efectividad-del-terror-como-metafora-de-problemas-contemporaneos/</link>
-            <guid>https://fintualist.com/chile/cultura/cine-series/leviticus-la-efectividad-del-terror-como-metafora-de-problemas-contemporaneos/</guid>
-            <pubDate>Mon, 03 Aug 2026 20:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[📍 Mercados en vivo - Sorpresa positiva en la economía de Chile]]></title>
-            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
-            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Por qué el costo de los seguros de gastos médicos mayores ha subido tanto en México?]]></title>
@@ -128,6 +122,12 @@
             <link>https://fintualist.com/mexico/educacion-financiera/burbuja-pero-de-utilidades-no-tan-rapido-mx/</link>
             <guid>https://fintualist.com/mexico/educacion-financiera/burbuja-pero-de-utilidades-no-tan-rapido-mx/</guid>
             <pubDate>Wed, 15 Jul 2026 13:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[¿Burbuja, pero de utilidades? No tan rápido]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/burbuja-pero-de-utilidades-no-tan-rapido/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/burbuja-pero-de-utilidades-no-tan-rapido/</guid>
+            <pubDate>Tue, 14 Jul 2026 21:01:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

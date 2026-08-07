@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[マックス・ホダック：ディープテックのスタートアップを本当に殺すものは何か？]]></title>
+            <link>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</link>
+            <guid>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[世界市場の力が医療をいかに損なうかを理解する必要がある]]></title>
             <link>https://finance.biggo.jp/podcast/638443297469255e</link>
             <guid>https://finance.biggo.jp/podcast/638443297469255e</guid>
@@ -34,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The foothills of total AI chaos | The Vergecast]]></title>
+            <title><![CDATA[AI完全カオスの入り口 | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/5f41e64a30be8ee5</link>
             <guid>https://finance.biggo.jp/podcast/5f41e64a30be8ee5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -52,7 +58,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Happens When AI Starts Thinking Like a Hacker]]></title>
+            <title><![CDATA[AIがハッカーのように考え始めたら、何が起こるか]]></title>
             <link>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</link>
             <guid>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[Sam Harris：アメリカ政治の腐敗 | Conversations]]></title>
             <link>https://finance.biggo.jp/podcast/8d7cc4428915235d</link>
             <guid>https://finance.biggo.jp/podcast/8d7cc4428915235d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Garry Tan: AGIの未来はパーソナルなものだ]]></title>
-            <link>https://finance.biggo.jp/podcast/349ac2fb44d29d82</link>
-            <guid>https://finance.biggo.jp/podcast/349ac2fb44d29d82</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
