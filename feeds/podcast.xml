@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[今週の話題：レバレッジがAIトレードを崩壊させた方法]]></title>
+            <link>https://finance.biggo.jp/podcast/965b7a68d3a960f9</link>
+            <guid>https://finance.biggo.jp/podcast/965b7a68d3a960f9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[医薬品の修正：規制ナショナリズムと米国FDAのIND改革]]></title>
+            <link>https://finance.biggo.jp/podcast/8a5aaffa7a5fa343</link>
+            <guid>https://finance.biggo.jp/podcast/8a5aaffa7a5fa343</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NVIDIAのロボタクシーへの野望が具体化]]></title>
+            <link>https://finance.biggo.jp/podcast/ace2a9aee45fdd6d</link>
+            <guid>https://finance.biggo.jp/podcast/ace2a9aee45fdd6d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIはハッキングを学んでいる。私たちの予想よりも速く。]]></title>
             <link>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</link>
             <guid>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[エージェント時代のデザイン設計]]></title>
+            <title><![CDATA[Paper: エージェント時代のために作られたデザインツール]]></title>
             <link>https://finance.biggo.jp/podcast/02e3364420ca66dc</link>
             <guid>https://finance.biggo.jp/podcast/02e3364420ca66dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -28,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ethereum’s Biggest Builders Are Fighting This Proposal]]></title>
+            <title><![CDATA[Ethereumの主要開発者たちがこの提案に反対している]]></title>
             <link>https://finance.biggo.jp/podcast/c136c07ac9fa44dc</link>
             <guid>https://finance.biggo.jp/podcast/c136c07ac9fa44dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[モデルルーティングの現状 — NVIDIA、Cognition、OpenRouter]]></title>
             <link>https://finance.biggo.jp/podcast/9b2c6fd23b9d9e9c</link>
             <guid>https://finance.biggo.jp/podcast/9b2c6fd23b9d9e9c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2536 - エリック・グッド & ジェレミー・マクブライド]]></title>
-            <link>https://finance.biggo.jp/podcast/7503fc3d30bade2a</link>
-            <guid>https://finance.biggo.jp/podcast/7503fc3d30bade2a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[スティーブン・タナンバウム：クレジット投資の進化とAI時代の機会]]></title>
-            <link>https://finance.biggo.jp/podcast/541df02a8bedce45</link>
-            <guid>https://finance.biggo.jp/podcast/541df02a8bedce45</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airtable、12億8500万ドルで売却 | Anthropicのモデルが企業のセキュリティを侵害 | なぜPalantirは他社に勝てたのか]]></title>
-            <link>https://finance.biggo.jp/podcast/085afb011c23bcb2</link>
-            <guid>https://finance.biggo.jp/podcast/085afb011c23bcb2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
