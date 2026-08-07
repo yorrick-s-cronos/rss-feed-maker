@@ -10,9 +10,33 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[今週の話題：レバレッジがAIトレードを崩壊させた方法]]></title>
+            <title><![CDATA[世界市場の力が医療をいかに損なうかを理解する必要がある]]></title>
+            <link>https://finance.biggo.jp/podcast/638443297469255e</link>
+            <guid>https://finance.biggo.jp/podcast/638443297469255e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2537 - デビッド・シンクレア]]></title>
+            <link>https://finance.biggo.jp/podcast/f6e9b6ea1ee30825</link>
+            <guid>https://finance.biggo.jp/podcast/f6e9b6ea1ee30825</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12億ドルのエンダウメント運用の内幕：ポール・チャイ氏と共に | Allocator | 第36回]]></title>
+            <link>https://finance.biggo.jp/podcast/5c6b1a860a1ff7ec</link>
+            <guid>https://finance.biggo.jp/podcast/5c6b1a860a1ff7ec</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Week: The $45 Billion AI Fund That Imploded]]></title>
             <link>https://finance.biggo.jp/podcast/965b7a68d3a960f9</link>
             <guid>https://finance.biggo.jp/podcast/965b7a68d3a960f9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GoogleのAI人事再編の裏側 | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/5f41e64a30be8ee5</link>
+            <guid>https://finance.biggo.jp/podcast/5f41e64a30be8ee5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AIはハッキングを学んでいる。私たちの予想よりも速く。]]></title>
+            <title><![CDATA[The Reality of AI-Powered Cyberattacks | Truffle Security & Socket]]></title>
             <link>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</link>
             <guid>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[Garry Tan: AGIの未来はパーソナルなものだ]]></title>
             <link>https://finance.biggo.jp/podcast/349ac2fb44d29d82</link>
             <guid>https://finance.biggo.jp/podcast/349ac2fb44d29d82</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[実証実験 - 創薬におけるAI]]></title>
-            <link>https://finance.biggo.jp/podcast/1805781c33f6944b</link>
-            <guid>https://finance.biggo.jp/podcast/1805781c33f6944b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pat Dorsey: ほとんどのCEOは資本配分をしたことがない]]></title>
-            <link>https://finance.biggo.jp/podcast/f6abee885f9f5c4b</link>
-            <guid>https://finance.biggo.jp/podcast/f6abee885f9f5c4b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[肥満との戦いにおける新たな戦略]]></title>
-            <link>https://finance.biggo.jp/podcast/fdd76dd75d8ccff5</link>
-            <guid>https://finance.biggo.jp/podcast/fdd76dd75d8ccff5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[モデルルーティングの現状 — NVIDIA、Cognition、OpenRouter]]></title>
-            <link>https://finance.biggo.jp/podcast/9b2c6fd23b9d9e9c</link>
-            <guid>https://finance.biggo.jp/podcast/9b2c6fd23b9d9e9c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

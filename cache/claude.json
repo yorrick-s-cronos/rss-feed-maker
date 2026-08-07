@@ -1,7 +1,9 @@
 {
-  "lastSuccess": "2026-08-07T17:42:17.238Z",
+  "lastSuccess": "2026-08-07T18:40:46.550Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "https://claude.com/blog/auto-mode-in-production",
     "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
     "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
     "https://claude.com/blog/claude-enterprise-inference-hooks",
@@ -14,9 +16,7 @@
     "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
     "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
     "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
-    "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
-    "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
-    "https://claude.com/blog/working-at-the-frontier-rakuten"
+    "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle"
   ],
   "consecutiveErrors": 0
 }
