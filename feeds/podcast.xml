@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AIはハッキングを学んでいる。私たちの予想よりも速く。]]></title>
+            <link>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</link>
+            <guid>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェント時代のデザイン設計]]></title>
+            <link>https://finance.biggo.jp/podcast/02e3364420ca66dc</link>
+            <guid>https://finance.biggo.jp/podcast/02e3364420ca66dc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ノボ ノルディスク CFO、経口Wegovyの展開とその先について語る]]></title>
+            <link>https://finance.biggo.jp/podcast/483d08b39dac86a2</link>
+            <guid>https://finance.biggo.jp/podcast/483d08b39dac86a2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ethereum’s Biggest Builders Are Fighting This Proposal]]></title>
             <link>https://finance.biggo.jp/podcast/c136c07ac9fa44dc</link>
             <guid>https://finance.biggo.jp/podcast/c136c07ac9fa44dc</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[Airtable、12億8500万ドルで売却 | Anthropicのモデルが企業のセキュリティを侵害 | なぜPalantirは他社に勝てたのか]]></title>
             <link>https://finance.biggo.jp/podcast/085afb011c23bcb2</link>
             <guid>https://finance.biggo.jp/podcast/085afb011c23bcb2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜすべてのAI企業がオープンソースに依存するのか | a16zとの対話]]></title>
-            <link>https://finance.biggo.jp/podcast/1c921cbf05bf49e1</link>
-            <guid>https://finance.biggo.jp/podcast/1c921cbf05bf49e1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[患者支援の次のフロンティア：接続されたデータ、AI、パーソナライズされたエンゲージメント（スポンサー提供）]]></title>
-            <link>https://finance.biggo.jp/podcast/1b3fcefdcb8f8f40</link>
-            <guid>https://finance.biggo.jp/podcast/1b3fcefdcb8f8f40</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[デジタルヘルスラウンドアップ：視力回復インプラントのCEマーク、AIチャットボット規制、MS提携]]></title>
-            <link>https://finance.biggo.jp/podcast/e241d30592c22218</link>
-            <guid>https://finance.biggo.jp/podcast/e241d30592c22218</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
