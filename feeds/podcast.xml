@@ -10,13 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AnthropicのCCA試験をエージェント工学のフィールドガイドとして活用 — フランク・コイル（UCバークレー）]]></title>
+            <link>https://finance.biggo.jp/podcast/ff7dcb70089f515d</link>
+            <guid>https://finance.biggo.jp/podcast/ff7dcb70089f515d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ウーバーのロボタクシーは拡大できるか]]></title>
             <link>https://finance.biggo.jp/podcast/5bea3c7127c28d85</link>
             <guid>https://finance.biggo.jp/podcast/5bea3c7127c28d85</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AIブームは巨大な轍を生む：勝者と敗者は誰か？ | デビッド・フランケル]]></title>
+            <title><![CDATA[ロボット基盤モデル、テレオペデータ、シミュレーションから実機への強化学習 | YC Paper Club]]></title>
+            <link>https://finance.biggo.jp/podcast/8ddfcfc81eea2dbf</link>
+            <guid>https://finance.biggo.jp/podcast/8ddfcfc81eea2dbf</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[シード投資のマスタークラス | AIブームは甚大な巻き添えを生む | David Frankel]]></title>
             <link>https://finance.biggo.jp/podcast/512455016836663e</link>
             <guid>https://finance.biggo.jp/podcast/512455016836663e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[優れたデザインで群衆から目立つ方法]]></title>
             <link>https://finance.biggo.jp/podcast/02e3364420ca66dc</link>
             <guid>https://finance.biggo.jp/podcast/02e3364420ca66dc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ノボ ノルディスク CFO、経口Wegovyの展開とその先について語る]]></title>
-            <link>https://finance.biggo.jp/podcast/483d08b39dac86a2</link>
-            <guid>https://finance.biggo.jp/podcast/483d08b39dac86a2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereumの主要開発者たちがこの提案に反対している]]></title>
-            <link>https://finance.biggo.jp/podcast/c136c07ac9fa44dc</link>
-            <guid>https://finance.biggo.jp/podcast/c136c07ac9fa44dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
