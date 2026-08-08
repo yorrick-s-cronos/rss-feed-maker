@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[GoogleのAI人材流出、SpaceXの好調な四半期、Airtableの90%下落、米国データが中国AIを後押し]]></title>
+            <link>https://finance.biggo.jp/podcast/323279997841d15f</link>
+            <guid>https://finance.biggo.jp/podcast/323279997841d15f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[新しいプリミティブ：AIネイティブソフトウェアの構築 — Kwindla Kramer, Daily]]></title>
             <link>https://finance.biggo.jp/podcast/4af8ef20b390a7a8</link>
             <guid>https://finance.biggo.jp/podcast/4af8ef20b390a7a8</guid>
@@ -28,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Max Hodak: “Speed Is Determined by Infrastructure”]]></title>
+            <title><![CDATA[Max Hodak：「スピードはインフラによって決まる」]]></title>
             <link>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</link>
             <guid>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[GPUに挑戦、HBMを迂回、史上最大のチップの背後にあるCerebrasを深掘り]]></title>
             <link>https://finance.biggo.jp/podcast/a38ac2428a1d8075</link>
             <guid>https://finance.biggo.jp/podcast/a38ac2428a1d8075</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ローカルモデル：信頼、制御、最適化 — カーター・アブダラ、NVIDIA]]></title>
-            <link>https://finance.biggo.jp/podcast/5144929b407b7964</link>
-            <guid>https://finance.biggo.jp/podcast/5144929b407b7964</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
