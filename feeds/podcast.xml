@@ -10,6 +10,42 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[リアルタイムマルチプレイヤー、自動化、そしてあなた！ — Idan Gazit（GitHub）]]></title>
+            <link>https://finance.biggo.jp/podcast/f71e7e9776cd3a32</link>
+            <guid>https://finance.biggo.jp/podcast/f71e7e9776cd3a32</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[サイレント・シリコで考える：Goodfire CTOダン・バルサムが語る概念多様体と月額1000ドルのML研究エージェント]]></title>
+            <link>https://finance.biggo.jp/podcast/88204df844db8871</link>
+            <guid>https://finance.biggo.jp/podcast/88204df844db8871</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Debate: AI Personhood & Consciousness, SpaceX’s Trillion Dollar Future, Astra Solves Decade-Old Math]]></title>
+            <link>https://finance.biggo.jp/podcast/e5c0827cb5040e5f</link>
+            <guid>https://finance.biggo.jp/podcast/e5c0827cb5040e5f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[「彼は問題を解決するつもりはなく、喝采を浴びたいだけだ」]]></title>
+            <link>https://finance.biggo.jp/podcast/3b6c8587b29242c1</link>
+            <guid>https://finance.biggo.jp/podcast/3b6c8587b29242c1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[コーディングエージェントの新旧コードベースにおけるベンチマーク — Denys Linkov, Wisedocs]]></title>
+            <link>https://finance.biggo.jp/podcast/53615e09e11fd9f9</link>
+            <guid>https://finance.biggo.jp/podcast/53615e09e11fd9f9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[カナダのコンドミニアム難題]]></title>
+            <link>https://finance.biggo.jp/podcast/952951f78f1c9fd7</link>
+            <guid>https://finance.biggo.jp/podcast/952951f78f1c9fd7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AnthropicのCCA試験をエージェント工学のフィールドガイドとして活用 — フランク・コイル（UCバークレー）]]></title>
             <link>https://finance.biggo.jp/podcast/ff7dcb70089f515d</link>
             <guid>https://finance.biggo.jp/podcast/ff7dcb70089f515d</guid>
@@ -22,7 +58,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ロボット基盤モデル、テレオペデータ、シミュレーションから実機への強化学習 | YC Paper Club]]></title>
+            <title><![CDATA[2026年はついにロボットの年になるのか？ | YC Paper Club]]></title>
             <link>https://finance.biggo.jp/podcast/8ddfcfc81eea2dbf</link>
             <guid>https://finance.biggo.jp/podcast/8ddfcfc81eea2dbf</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -91,42 +127,6 @@
             <title><![CDATA[12億ドルのエンダウメント運用の内幕：ポール・チャイ氏と共に | Allocator | 第36回]]></title>
             <link>https://finance.biggo.jp/podcast/5c6b1a860a1ff7ec</link>
             <guid>https://finance.biggo.jp/podcast/5c6b1a860a1ff7ec</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今週：崩壊した450億ドルのAIファンド]]></title>
-            <link>https://finance.biggo.jp/podcast/965b7a68d3a960f9</link>
-            <guid>https://finance.biggo.jp/podcast/965b7a68d3a960f9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI完全カオスの入り口 | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/5f41e64a30be8ee5</link>
-            <guid>https://finance.biggo.jp/podcast/5f41e64a30be8ee5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医薬品の修正：規制ナショナリズムと米国FDAのIND改革]]></title>
-            <link>https://finance.biggo.jp/podcast/8a5aaffa7a5fa343</link>
-            <guid>https://finance.biggo.jp/podcast/8a5aaffa7a5fa343</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NVIDIAのロボタクシーへの野望が具体化]]></title>
-            <link>https://finance.biggo.jp/podcast/ace2a9aee45fdd6d</link>
-            <guid>https://finance.biggo.jp/podcast/ace2a9aee45fdd6d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIがハッカーのように考え始めたら、何が起こるか]]></title>
-            <link>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</link>
-            <guid>https://finance.biggo.jp/podcast/8ac1cdf7aa31ab97</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[優れたデザインで群衆から目立つ方法]]></title>
-            <link>https://finance.biggo.jp/podcast/02e3364420ca66dc</link>
-            <guid>https://finance.biggo.jp/podcast/02e3364420ca66dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
