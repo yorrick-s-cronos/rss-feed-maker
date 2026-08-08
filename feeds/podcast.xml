@@ -10,7 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Max Hodak: What Founders Can Never Delegate]]></title>
+            <title><![CDATA[新しいプリミティブ：AIネイティブソフトウェアの構築 — Kwindla Kramer, Daily]]></title>
+            <link>https://finance.biggo.jp/podcast/4af8ef20b390a7a8</link>
+            <guid>https://finance.biggo.jp/podcast/4af8ef20b390a7a8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[オープンソースは死んだ。オープンソース万歳。 — Saoud Rizwan, Cline]]></title>
+            <link>https://finance.biggo.jp/podcast/c5aa5217ea8388af</link>
+            <guid>https://finance.biggo.jp/podcast/c5aa5217ea8388af</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep. 23 - グーグルから全員去る、イーロンが1兆ドルARRを予測、GPT-5を振り返る | Asianometryのジョン]]></title>
+            <link>https://finance.biggo.jp/podcast/c567524056c5675b</link>
+            <guid>https://finance.biggo.jp/podcast/c567524056c5675b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Max Hodak: “Speed Is Determined by Infrastructure”]]></title>
             <link>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</link>
             <guid>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[ローカルモデル：信頼、制御、最適化 — カーター・アブダラ、NVIDIA]]></title>
             <link>https://finance.biggo.jp/podcast/5144929b407b7964</link>
             <guid>https://finance.biggo.jp/podcast/5144929b407b7964</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エッジでの圧縮 — NVIDIA、Unsloth、HuggingFace、Ollama]]></title>
-            <link>https://finance.biggo.jp/podcast/ff39baea0fc8d945</link>
-            <guid>https://finance.biggo.jp/podcast/ff39baea0fc8d945</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[『スパイダーマン』と『オデュッセイア』がIMAXを再び大きくした | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/6151381b7c6e8a02</link>
-            <guid>https://finance.biggo.jp/podcast/6151381b7c6e8a02</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sam Harris：アメリカ政治の腐敗 | Conversations]]></title>
-            <link>https://finance.biggo.jp/podcast/8d7cc4428915235d</link>
-            <guid>https://finance.biggo.jp/podcast/8d7cc4428915235d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
