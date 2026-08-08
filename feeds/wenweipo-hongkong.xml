@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[(有片) 周星馳《功夫女足》率劉嘉玲迪麗熱巴謝票 香港版特設彩蛋]]></title>
+            <link>https://www.wenweipo.com/a/202608/08/AP6a773015e4b0c1e5002410c1.html</link>
+            <guid>https://www.wenweipo.com/a/202608/08/AP6a773015e4b0c1e5002410c1.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[由周星馳自編自導的《功夫女足》，是繼《少林足球》睽違多年，以全女班再度挑戰足球題材。電影率先在內地上映，票房突破22億人民幣仍在熱映中；而香港定檔本月13日上映，今日在4個地區尖沙咀、大圍、西九及啟德放映的8場特別場，門票瞬間售罄。為答謝觀眾的支持，導演周星馳率領聯合導演林子聰、戲中「師太」劉嘉玲、「女足」迪麗熱巴、蔡思貝、雪野、胡予安及「球證」張繼聰到各大戲院謝票，之後再一同出席今晚的首映禮。]]></description>
+        </item>
+        <item>
             <title><![CDATA[噪音釀命案│房屋署：死者投訴上層單位狗隻發出噪音 多次突擊巡查均無發現噪音滋擾]]></title>
             <link>https://www.wenweipo.com/a/202608/08/AP6a771b4ee4b0c1e500240eae.html</link>
             <guid>https://www.wenweipo.com/a/202608/08/AP6a771b4ee4b0c1e500240eae.html</guid>
@@ -45,7 +52,7 @@
             <description><![CDATA[香港海關昨日（8月7日）在香港國際機場偵破兩宗販毒案件，共檢獲約九點八公斤懷疑大麻花，估計市值共約二百萬元，並拘捕兩名男子。]]></description>
         </item>
         <item>
-            <title><![CDATA[噪音釀血案│死者對面鄰居：案發時聽到爭吵聲及慘叫聲 走廊沿路滿是血]]></title>
+            <title><![CDATA[噪音釀命案│死者對面鄰居：案發時聽到爭吵聲及慘叫聲 走廊沿路滿是血]]></title>
             <link>https://www.wenweipo.com/a/202608/08/AP6a76ee13e4b0c1e500240a76.html</link>
             <guid>https://www.wenweipo.com/a/202608/08/AP6a76ee13e4b0c1e500240a76.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
@@ -110,13 +117,6 @@
             <guid>https://www.wenweipo.com/a/202608/08/AP6a76be3ae4b0c1e500240637.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（8日）上午11時34分，一名女子被發現重創昏迷，倒臥旺角登打士街1號一間酒店附近後巷，懷疑由高處墮下。救援人員接報到場，經檢驗後證實該名姓吳（55歲）女住客當場死亡。警方封鎖現場，經初步調查後，相信吳女從上址一單位墮下。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[九龍城泰國菜餐廳情侶爭吵惹菠蘿襲擊疑雲]]></title>
-            <link>https://www.wenweipo.com/a/202608/08/AP6a76b997e4b0c1e5002405e6.html</link>
-            <guid>https://www.wenweipo.com/a/202608/08/AP6a76b997e4b0c1e5002405e6.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（8日）凌晨2時許，一名帶有酒意香港男子與泰籍女友相約友人到城南道2至6A一間泰國菜餐廳宵夜，詎料情侶在到達餐廳門外時發生激烈爭吵，混亂間餐廳近門口手推車上菠蘿散滿一地，途人及食客一度以為有人用菠蘿作武器向女方施襲，於是報警。警員到場經調查，初步未有發生襲擊案件，雙方亦達成和解表明不追究，一場誤會。]]></description>
         </item>
     </channel>
 </rss>
