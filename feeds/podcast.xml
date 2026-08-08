@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ウーバーのロボタクシーは拡大できるか]]></title>
+            <link>https://finance.biggo.jp/podcast/5bea3c7127c28d85</link>
+            <guid>https://finance.biggo.jp/podcast/5bea3c7127c28d85</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【深掘り】物業が次々と団地を見捨てる——中古住宅に致命的な打撃が到来！]]></title>
             <link>https://finance.biggo.jp/podcast/4553b42e4aead153</link>
             <guid>https://finance.biggo.jp/podcast/4553b42e4aead153</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[#406 模擬遺伝カウンセリングセッション：オゼンピック、ゾロフト、ザナックス、メトホルミン]]></title>
             <link>https://finance.biggo.jp/podcast/ab2e448c6c21e51c</link>
             <guid>https://finance.biggo.jp/podcast/ab2e448c6c21e51c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MetaのClaude Codeクローンは驚くほど安い]]></title>
-            <link>https://finance.biggo.jp/podcast/27781f853e7292fc</link>
-            <guid>https://finance.biggo.jp/podcast/27781f853e7292fc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
