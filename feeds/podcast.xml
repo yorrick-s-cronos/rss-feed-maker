@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【深掘り】物業が次々と団地を見捨てる——中古住宅に致命的な打撃が到来！]]></title>
+            <link>https://finance.biggo.jp/podcast/4553b42e4aead153</link>
+            <guid>https://finance.biggo.jp/podcast/4553b42e4aead153</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWiV 1346：ダニエル・グリフィン博士による臨床アップデート]]></title>
             <link>https://finance.biggo.jp/podcast/fb6570ebf2012414</link>
             <guid>https://finance.biggo.jp/podcast/fb6570ebf2012414</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[MetaのClaude Codeクローンは驚くほど安い]]></title>
             <link>https://finance.biggo.jp/podcast/27781f853e7292fc</link>
             <guid>https://finance.biggo.jp/podcast/27781f853e7292fc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西洋の製薬大手が中国の環状RNA革命を見過ごす理由]]></title>
-            <link>https://finance.biggo.jp/podcast/cc8aae87200318a2</link>
-            <guid>https://finance.biggo.jp/podcast/cc8aae87200318a2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
