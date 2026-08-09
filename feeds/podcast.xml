@@ -10,7 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[「ネットフリックスが5分落ちたらアメリカは大騒ぎする」]]></title>
+            <title><![CDATA[AIクラッシュは終わった。次に来るもの]]></title>
+            <link>https://finance.biggo.jp/podcast/9c7cd121d9434b84</link>
+            <guid>https://finance.biggo.jp/podcast/9c7cd121d9434b84</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Masterclass: How to win the AI talent war | Adam Ward (Cursor)]]></title>
+            <link>https://finance.biggo.jp/podcast/84998a2969286e7f</link>
+            <guid>https://finance.biggo.jp/podcast/84998a2969286e7f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep. 024 - SpaceXの10GW計画が2027年までに3000億ドルのARRを牽引（データセンター、エネルギー）]]></title>
+            <link>https://finance.biggo.jp/podcast/68a483e02dd9c406</link>
+            <guid>https://finance.biggo.jp/podcast/68a483e02dd9c406</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the US Have a Glass Jaw? — Applebaum & Hill]]></title>
             <link>https://finance.biggo.jp/podcast/148aa58816c7922d</link>
             <guid>https://finance.biggo.jp/podcast/148aa58816c7922d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[TWiV 1346：ダニエル・グリフィン博士による臨床アップデート]]></title>
             <link>https://finance.biggo.jp/podcast/fb6570ebf2012414</link>
             <guid>https://finance.biggo.jp/podcast/fb6570ebf2012414</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GoogleのAI人材流出、SpaceXの好調な四半期、Airtableの90%下落、米国データが中国AIを後押し]]></title>
-            <link>https://finance.biggo.jp/podcast/323279997841d15f</link>
-            <guid>https://finance.biggo.jp/podcast/323279997841d15f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新しいプリミティブ：AIネイティブソフトウェアの構築 — Kwindla Kramer, Daily]]></title>
-            <link>https://finance.biggo.jp/podcast/4af8ef20b390a7a8</link>
-            <guid>https://finance.biggo.jp/podcast/4af8ef20b390a7a8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[オープンソースは死んだ。オープンソース万歳。 — Saoud Rizwan, Cline]]></title>
-            <link>https://finance.biggo.jp/podcast/c5aa5217ea8388af</link>
-            <guid>https://finance.biggo.jp/podcast/c5aa5217ea8388af</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
