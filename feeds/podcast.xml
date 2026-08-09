@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ATカーニー・マッキンゼー・ノーリツ鋼機からJMDC会長へ　松島陽介さんのマネージメントの全ては５００人のおばちゃんに教わった！？]]></title>
+            <link>https://finance.biggo.jp/podcast/3b85c9f26b88daf4</link>
+            <guid>https://finance.biggo.jp/podcast/3b85c9f26b88daf4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[リアルタイムマルチプレイヤー、自動化、そしてあなた！ — Idan Gazit（GitHub）]]></title>
             <link>https://finance.biggo.jp/podcast/f71e7e9776cd3a32</link>
             <guid>https://finance.biggo.jp/podcast/f71e7e9776cd3a32</guid>
@@ -22,7 +28,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Debate: AI Personhood & Consciousness, SpaceX’s Trillion Dollar Future, Astra Solves Decade-Old Math]]></title>
+            <title><![CDATA[討論：AIの人格性と意識、SpaceXの数兆ドルの未来、Astraが10年来の数学問題を解決]]></title>
             <link>https://finance.biggo.jp/podcast/e5c0827cb5040e5f</link>
             <guid>https://finance.biggo.jp/podcast/e5c0827cb5040e5f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[ジョー・ローガン・エクスペリエンス #2537 - デビッド・シンクレア]]></title>
             <link>https://finance.biggo.jp/podcast/f6e9b6ea1ee30825</link>
             <guid>https://finance.biggo.jp/podcast/f6e9b6ea1ee30825</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12億ドルのエンダウメント運用の内幕：ポール・チャイ氏と共に | Allocator | 第36回]]></title>
-            <link>https://finance.biggo.jp/podcast/5c6b1a860a1ff7ec</link>
-            <guid>https://finance.biggo.jp/podcast/5c6b1a860a1ff7ec</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
