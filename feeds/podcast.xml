@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[「ネットフリックスが5分落ちたらアメリカは大騒ぎする」]]></title>
+            <link>https://finance.biggo.jp/podcast/148aa58816c7922d</link>
+            <guid>https://finance.biggo.jp/podcast/148aa58816c7922d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TIVP089（ビデオ）：Exor NV（EXO）：巨額のディスカウントは拡大し続ける w/ Kyle Grieve & Shawn O'Malley]]></title>
             <link>https://finance.biggo.jp/podcast/4324522dbded7218</link>
             <guid>https://finance.biggo.jp/podcast/4324522dbded7218</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[オープンソースは死んだ。オープンソース万歳。 — Saoud Rizwan, Cline]]></title>
             <link>https://finance.biggo.jp/podcast/c5aa5217ea8388af</link>
             <guid>https://finance.biggo.jp/podcast/c5aa5217ea8388af</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ep. 23 - グーグルから全員去る、イーロンが1兆ドルARRを予測、GPT-5を振り返る | Asianometryのジョン]]></title>
-            <link>https://finance.biggo.jp/podcast/c567524056c5675b</link>
-            <guid>https://finance.biggo.jp/podcast/c567524056c5675b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
