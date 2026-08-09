@@ -10,6 +10,12 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[陳茂波：香港持續舉辦盛事活動　帶動消費增長與經濟發展]]></title>
+            <link>https://www.wenweipo.com/a/202608/09/AP6a77ffade4b0c1e500241f96.html</link>
+            <guid>https://www.wenweipo.com/a/202608/09/AP6a77ffade4b0c1e500241f96.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[香港兩萬普通人自發淨山淨灘　手機App搭建環保平台]]></title>
             <link>https://www.wenweipo.com/a/202608/09/AP6a77e38ce4b0c1e500241c04.html</link>
             <guid>https://www.wenweipo.com/a/202608/09/AP6a77e38ce4b0c1e500241c04.html</guid>
@@ -25,12 +31,6 @@
             <title><![CDATA[「白海豚」持續帶來極端酷熱天氣　天文台料部分地區37度或以上]]></title>
             <link>https://www.wenweipo.com/a/202608/09/AP6a77b21ce4b0c1e500241672.html</link>
             <guid>https://www.wenweipo.com/a/202608/09/AP6a77b21ce4b0c1e500241672.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[民政事務總署開放19間臨時避暑中心]]></title>
-            <link>https://www.wenweipo.com/a/202608/08/AP6a76f569e4b0c1e500240b42.html</link>
-            <guid>https://www.wenweipo.com/a/202608/08/AP6a76f569e4b0c1e500240b42.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -70,6 +70,12 @@
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美國國防部被曝要求軍工企業「大幅加快」武器生產]]></title>
+            <link>https://www.wenweipo.com/a/202608/09/AP6a77f550e4b0c1e500241e47.html</link>
+            <guid>https://www.wenweipo.com/a/202608/09/AP6a77f550e4b0c1e500241e47.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[「槍口對準了我」 記者直擊以軍巴勒斯坦軍事行動]]></title>
             <link>https://www.wenweipo.com/a/202608/09/AP6a77d826e4b0c1e500241a46.html</link>
             <guid>https://www.wenweipo.com/a/202608/09/AP6a77d826e4b0c1e500241a46.html</guid>
@@ -79,12 +85,6 @@
             <title><![CDATA[（有片）越改越強！揭秘「六爺」進化史]]></title>
             <link>https://www.wenweipo.com/a/202608/09/AP6a77d3e8e4b0c1e500241991.html</link>
             <guid>https://www.wenweipo.com/a/202608/09/AP6a77d3e8e4b0c1e500241991.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙土巴三國簽署集體防禦條款　「中東版北約」牽動地區力量平衡]]></title>
-            <link>https://www.wenweipo.com/a/202608/09/AP6a77cf7ee4b0c1e50024191c.html</link>
-            <guid>https://www.wenweipo.com/a/202608/09/AP6a77cf7ee4b0c1e50024191c.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
