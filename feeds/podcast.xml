@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[144 ✪ 國貨海外展開の新トレンド：山下有松、觀夏、PANE]]></title>
+            <link>https://finance.biggo.jp/podcast/1785cbc3116523c5</link>
+            <guid>https://finance.biggo.jp/podcast/1785cbc3116523c5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWiV 1347: ロングCOVIDに対する簡単な答えはない]]></title>
             <link>https://finance.biggo.jp/podcast/6c06901ef3ac3242</link>
             <guid>https://finance.biggo.jp/podcast/6c06901ef3ac3242</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[マックス・ホダック：平凡では十分ではない]]></title>
             <link>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</link>
             <guid>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界市場の力が医療をいかに損なうかを理解する必要がある]]></title>
-            <link>https://finance.biggo.jp/podcast/638443297469255e</link>
-            <guid>https://finance.biggo.jp/podcast/638443297469255e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

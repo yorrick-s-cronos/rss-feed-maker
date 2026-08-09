@@ -10,11 +10,18 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[太古城單位冷氣機起火 逾20住客跑上天台暫避]]></title>
+            <title><![CDATA[「銳眼」助警搗爆竊村屋團夥拘5男女 涉19個單位掠財210萬元]]></title>
+            <link>https://www.wenweipo.com/a/202608/09/AP6a783e75e4b0c1e500242791.html</link>
+            <guid>https://www.wenweipo.com/a/202608/09/AP6a783e75e4b0c1e500242791.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[警方新界北總區刑事總部，最近發現一個活躍於屯門、元朗、大埔的爆竊團夥，專門針對僻靜、鄰近山邊、保安薄弱的村屋單位，趁屋主傍晚外出，用爆竊工具撬開門窗或沿沒有上鎖門窗，入屋偷取金器、首飾、現金等財物。涉案村屋單位共19個，總損失約港幣210萬元，最大單一案件損失約港幣35萬元。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[太古城單位冷氣機起火 200多人疏散7人不適送院]]></title>
             <link>https://www.wenweipo.com/a/202608/09/AP6a78374ce4b0c1e50024266c.html</link>
             <guid>https://www.wenweipo.com/a/202608/09/AP6a78374ce4b0c1e50024266c.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（9日）下午2時許，太古城海棠閣一個單位有冷氣機突然起火，期間冒出大量濃煙，不少市民見狀，慌忙報警求助。]]></description>
+            <description><![CDATA[今日（9日）下午2時許，太古城海棠閣一高層單位有冷氣機突然起火，期間冒出大量濃煙，不少市民見狀，慌忙報警求助。]]></description>
         </item>
         <item>
             <title><![CDATA[大埔船灣行山男疑中暑暈倒 直升機送院惜不治]]></title>
@@ -110,13 +117,6 @@
             <guid>https://www.wenweipo.com/a/202608/09/AP6a77eae0e4b0c1e500241d16.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港特區政府正就首個五年規劃與施政報告展開公眾諮詢，今日（9日）在九龍塘官立小學開展第二場地區諮詢會。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黃冰芬:以「鐵畫精神」深耕實業發展——蕪湖經驗對香港的啟示]]></title>
-            <link>https://www.wenweipo.com/a/202608/09/AP6a77de0ae4b0c1e500241b8a.html</link>
-            <guid>https://www.wenweipo.com/a/202608/09/AP6a77de0ae4b0c1e500241b8a.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[安徽蕪湖有一種獨特的非遺工藝——鐵畫，以硬鐵為材，經反覆鍛打、千錘百鍊，最終呈現細緻、柔和、層次豐富而立體的畫面，充分體現剛柔並濟的特質。這樣的務實堅韌、持之以恆、穩打穩紮，十分契合筆者隨港區全國人大代表團考察蕪湖時對該市政企發展產業的理解。]]></description>
         </item>
     </channel>
 </rss>
