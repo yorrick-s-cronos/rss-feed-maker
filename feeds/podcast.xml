@@ -10,9 +10,33 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ガイド、検証、解決 — Anirban Chatterjee、Sonar]]></title>
+            <link>https://finance.biggo.jp/podcast/7394380b35d4e15a</link>
+            <guid>https://finance.biggo.jp/podcast/7394380b35d4e15a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[クロード・シャノンはいかにして未来を発明したか]]></title>
+            <link>https://finance.biggo.jp/podcast/1820c5deffe259b6</link>
+            <guid>https://finance.biggo.jp/podcast/1820c5deffe259b6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巨大アプリをコピーしたら、月収8万ドルになった話]]></title>
+            <link>https://finance.biggo.jp/podcast/5cdcbeca6d144a18</link>
+            <guid>https://finance.biggo.jp/podcast/5cdcbeca6d144a18</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[速度病：チーム全体が10倍速くなったら何が起きるか — RefのMatt Dailey氏]]></title>
             <link>https://finance.biggo.jp/podcast/b097e9b3b6fce5d0</link>
             <guid>https://finance.biggo.jp/podcast/b097e9b3b6fce5d0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ポータブルアルファ、トレンドフォロー、AI投資 ft. ハリー・ムーア | システムティック・インベスター | エピソード412]]></title>
+            <link>https://finance.biggo.jp/podcast/860c87c4a2ed9083</link>
+            <guid>https://finance.biggo.jp/podcast/860c87c4a2ed9083</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -103,30 +127,6 @@
             <title><![CDATA[コーディングエージェントの新旧コードベースにおけるベンチマーク — Denys Linkov, Wisedocs]]></title>
             <link>https://finance.biggo.jp/podcast/53615e09e11fd9f9</link>
             <guid>https://finance.biggo.jp/podcast/53615e09e11fd9f9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[カナダのコンドミニアム難題]]></title>
-            <link>https://finance.biggo.jp/podcast/952951f78f1c9fd7</link>
-            <guid>https://finance.biggo.jp/podcast/952951f78f1c9fd7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AnthropicのCCA試験をエージェント工学のフィールドガイドとして活用 — フランク・コイル（UCバークレー）]]></title>
-            <link>https://finance.biggo.jp/podcast/ff7dcb70089f515d</link>
-            <guid>https://finance.biggo.jp/podcast/ff7dcb70089f515d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ウーバーのロボタクシーは拡大できるか]]></title>
-            <link>https://finance.biggo.jp/podcast/5bea3c7127c28d85</link>
-            <guid>https://finance.biggo.jp/podcast/5bea3c7127c28d85</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026年はついにロボットの年になるのか？ | YC Paper Club]]></title>
-            <link>https://finance.biggo.jp/podcast/8ddfcfc81eea2dbf</link>
-            <guid>https://finance.biggo.jp/podcast/8ddfcfc81eea2dbf</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
