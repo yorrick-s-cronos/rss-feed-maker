@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[速度病：チーム全体が10倍速くなったら何が起きるか — RefのMatt Dailey氏]]></title>
+            <link>https://finance.biggo.jp/podcast/b097e9b3b6fce5d0</link>
+            <guid>https://finance.biggo.jp/podcast/b097e9b3b6fce5d0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[常時稼働エージェントがオンコール負担なしで本番運用を支える — Justin Smith（Resolve AI）]]></title>
             <link>https://finance.biggo.jp/podcast/e4d2261d290738b3</link>
             <guid>https://finance.biggo.jp/podcast/e4d2261d290738b3</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[2026年はついにロボットの年になるのか？ | YC Paper Club]]></title>
             <link>https://finance.biggo.jp/podcast/8ddfcfc81eea2dbf</link>
             <guid>https://finance.biggo.jp/podcast/8ddfcfc81eea2dbf</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[シード投資のマスタークラス | AIブームは甚大な巻き添えを生む | David Frankel]]></title>
-            <link>https://finance.biggo.jp/podcast/512455016836663e</link>
-            <guid>https://finance.biggo.jp/podcast/512455016836663e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
