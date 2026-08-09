@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[李家超：目標第三季度發表香港第一個五年規劃]]></title>
+            <link>https://www.wenweipo.com/a/202608/09/AP6a781246e4b0c1e5002421c2.html</link>
+            <guid>https://www.wenweipo.com/a/202608/09/AP6a781246e4b0c1e5002421c2.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[行政長官李家超率領司局長於九龍灣官立小學出席香港首個五年規劃及2026年施政報告地區諮詢會。會後李家超會見記者表示，目前已經舉辦了90多場資訊會，香港首個五年規劃將於周五（14日）結束諮詢。]]></description>
+        </item>
+        <item>
             <title><![CDATA[一輛叮叮車　裝下香港海邊、鬧市與舊街溫柔]]></title>
             <link>https://www.wenweipo.com/a/202608/09/AP6a77f2dee4b0c1e500241de8.html</link>
             <guid>https://www.wenweipo.com/a/202608/09/AP6a77f2dee4b0c1e500241de8.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/08/AP6a7701b6e4b0c1e500240c63.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（8日）上午9時許，警方接獲北角西渡輪碼頭負責人報案，指一名姓鄭（63歲）船長意外墮海。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[民政事務總署開放19間臨時避暑中心]]></title>
-            <link>https://www.wenweipo.com/a/202608/08/AP6a76f569e4b0c1e500240b42.html</link>
-            <guid>https://www.wenweipo.com/a/202608/08/AP6a76f569e4b0c1e500240b42.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[民政事務總署今日（8月8日）繼續開放19間社區會堂和社區中心作臨時避暑中心。]]></description>
         </item>
     </channel>
 </rss>
