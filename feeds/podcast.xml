@@ -10,13 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[常時稼働エージェントがオンコール負担なしで本番運用を支える — Justin Smith（Resolve AI）]]></title>
+            <link>https://finance.biggo.jp/podcast/e4d2261d290738b3</link>
+            <guid>https://finance.biggo.jp/podcast/e4d2261d290738b3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep. 024 - SpaceXの10GW計画が2027年までに3000億ドルの年間収益を牽引（データセンター、エネルギー）]]></title>
+            <link>https://finance.biggo.jp/podcast/30e9b121494f24c9</link>
+            <guid>https://finance.biggo.jp/podcast/30e9b121494f24c9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIクラッシュは終わった。次に来るもの]]></title>
             <link>https://finance.biggo.jp/podcast/9c7cd121d9434b84</link>
             <guid>https://finance.biggo.jp/podcast/9c7cd121d9434b84</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How elite AI teams get built | Adam Ward, Head of Talent at Cursor]]></title>
+            <title><![CDATA[エリートAIチームの作り方 | Cursorの採用責任者 Adam Ward]]></title>
             <link>https://finance.biggo.jp/podcast/84998a2969286e7f</link>
             <guid>https://finance.biggo.jp/podcast/84998a2969286e7f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -28,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Does the US Have a Glass Jaw? — Applebaum & Hill]]></title>
+            <title><![CDATA[米国にガラスのあごがあるのか？ — Applebaum & Hill]]></title>
             <link>https://finance.biggo.jp/podcast/148aa58816c7922d</link>
             <guid>https://finance.biggo.jp/podcast/148aa58816c7922d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[シード投資のマスタークラス | AIブームは甚大な巻き添えを生む | David Frankel]]></title>
             <link>https://finance.biggo.jp/podcast/512455016836663e</link>
             <guid>https://finance.biggo.jp/podcast/512455016836663e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深掘り】物業が次々と団地を見捨てる——中古住宅に致命的な打撃が到来！]]></title>
-            <link>https://finance.biggo.jp/podcast/4553b42e4aead153</link>
-            <guid>https://finance.biggo.jp/podcast/4553b42e4aead153</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1346：ダニエル・グリフィン博士による臨床アップデート]]></title>
-            <link>https://finance.biggo.jp/podcast/fb6570ebf2012414</link>
-            <guid>https://finance.biggo.jp/podcast/fb6570ebf2012414</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
