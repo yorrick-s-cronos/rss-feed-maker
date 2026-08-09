@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TIVP089（ビデオ）：Exor NV（EXO）：巨額のディスカウントは拡大し続ける w/ Kyle Grieve & Shawn O'Malley]]></title>
+            <link>https://finance.biggo.jp/podcast/4324522dbded7218</link>
+            <guid>https://finance.biggo.jp/podcast/4324522dbded7218</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[144 ✪ 國貨海外展開の新トレンド：山下有松、觀夏、PANE]]></title>
             <link>https://finance.biggo.jp/podcast/1785cbc3116523c5</link>
             <guid>https://finance.biggo.jp/podcast/1785cbc3116523c5</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[Ep. 23 - グーグルから全員去る、イーロンが1兆ドルARRを予測、GPT-5を振り返る | Asianometryのジョン]]></title>
             <link>https://finance.biggo.jp/podcast/c567524056c5675b</link>
             <guid>https://finance.biggo.jp/podcast/c567524056c5675b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[マックス・ホダック：平凡では十分ではない]]></title>
-            <link>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</link>
-            <guid>https://finance.biggo.jp/podcast/2680a8e0ce9b3676</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
