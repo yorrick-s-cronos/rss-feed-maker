@@ -10,13 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[マルチプレイヤーエージェント工学 — Arjun Singh, Superconductor]]></title>
+            <link>https://finance.biggo.jp/podcast/8e2f778ab8373662</link>
+            <guid>https://finance.biggo.jp/podcast/8e2f778ab8373662</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ガイド、検証、解決 — Anirban Chatterjee、Sonar]]></title>
             <link>https://finance.biggo.jp/podcast/7394380b35d4e15a</link>
             <guid>https://finance.biggo.jp/podcast/7394380b35d4e15a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[クロード・シャノンはいかにして未来を発明したか]]></title>
+            <title><![CDATA[How Claude Shannon Worked]]></title>
             <link>https://finance.biggo.jp/podcast/1820c5deffe259b6</link>
             <guid>https://finance.biggo.jp/podcast/1820c5deffe259b6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[「彼は問題を解決するつもりはなく、喝采を浴びたいだけだ」]]></title>
             <link>https://finance.biggo.jp/podcast/3b6c8587b29242c1</link>
             <guid>https://finance.biggo.jp/podcast/3b6c8587b29242c1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[コーディングエージェントの新旧コードベースにおけるベンチマーク — Denys Linkov, Wisedocs]]></title>
-            <link>https://finance.biggo.jp/podcast/53615e09e11fd9f9</link>
-            <guid>https://finance.biggo.jp/podcast/53615e09e11fd9f9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
