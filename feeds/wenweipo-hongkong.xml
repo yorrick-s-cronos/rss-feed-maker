@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AI賦新巾幗力量　打造數智女性成長新平台　香港巾幗學院成功舉辦高端論壇]]></title>
+            <link>https://www.wenweipo.com/a/202608/09/AP6a789640e4b0c1e5002430ad.html</link>
+            <guid>https://www.wenweipo.com/a/202608/09/AP6a789640e4b0c1e5002430ad.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[香港巾幗學院近日於香港科技大學隆重舉辦「AI 賦新·巾幗力量」高端論壇。]]></description>
+        </item>
+        <item>
             <title><![CDATA[港區人大代表視察組完成安徽考察　倡皖港攜手共謀新質生產力]]></title>
             <link>https://www.wenweipo.com/a/202608/09/AP6a788942e4b0c1e500242f64.html</link>
             <guid>https://www.wenweipo.com/a/202608/09/AP6a788942e4b0c1e500242f64.html</guid>
@@ -106,15 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/09/AP6a782834e4b0c1e5002423eb.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[警方有組織罪案及三合會調查科（Ｏ記）聯同各總區人員，於8月6日至昨日（8日）在全港各區展開代號為「雷霆2026」（THUNDERBOLT 2026）暨「逸影」（FLOWINGSHADE）的反罪惡及反三合會行動，重點打擊涉及三合會的非法活動。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[城大首推本地投融資排放基準 港金融體系年排3.8億噸二氧化碳]]></title>
-            <link>https://www.wenweipo.com/a/202608/09/AP6a782796e4b0c1e5002423d6.html</link>
-            <guid>https://www.wenweipo.com/a/202608/09/AP6a782796e4b0c1e5002423d6.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[投融資排放是指與金融機構投資或貸款活動相關的企業排放，屬氣候披露中的重要但常被忽視的範疇。香港城市大學研究團隊研發出嶄新框架，能更精準估算「投融資排放」的規模與分布，並首度完成香港學術界覆蓋銀行貸款、住宅按揭及資產管理的整體投融資排放估算。數據顯示，2021年香港金融體系對應的排放量高達3.8027億噸二氧化碳當量，為政府和監管機構提供了首個具本地代表性的基準線，成為後續政策制定的重要參考依據，加速香港綠色金融轉型。
-
-隨着市場對相關披露透明度的要求日趨嚴格，由城大公共與國際事務學系教授李芝蘭與董亮帶領的研究團隊，為本港設計了一套可靠的計算方法和監管框架。團隊更通過情景模擬估計，只需將約一成貸款從高碳產業轉向低碳產業，整體金融體系相關排放便可下降約6%，為未來投融資策略與氣候風險管理提供具體的政策情景方向。]]></description>
         </item>
     </channel>
 </rss>
