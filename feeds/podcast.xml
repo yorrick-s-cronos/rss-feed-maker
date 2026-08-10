@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[細胞治療の進歩とバイオテックリーダーシップ：NkartaのPaul Hastings氏に聞く]]></title>
+            <link>https://finance.biggo.jp/podcast/0c13e4f31a1475f4</link>
+            <guid>https://finance.biggo.jp/podcast/0c13e4f31a1475f4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[マルチプレイヤーエージェント工学 — Arjun Singh, Superconductor]]></title>
             <link>https://finance.biggo.jp/podcast/8e2f778ab8373662</link>
             <guid>https://finance.biggo.jp/podcast/8e2f778ab8373662</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[「彼は問題を解決するつもりはなく、喝采を浴びたいだけだ」]]></title>
             <link>https://finance.biggo.jp/podcast/3b6c8587b29242c1</link>
             <guid>https://finance.biggo.jp/podcast/3b6c8587b29242c1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[コーディングエージェントの新旧コードベースにおけるベンチマーク — Denys Linkov, Wisedocs]]></title>
-            <link>https://finance.biggo.jp/podcast/53615e09e11fd9f9</link>
-            <guid>https://finance.biggo.jp/podcast/53615e09e11fd9f9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
