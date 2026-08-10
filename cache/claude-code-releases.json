@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-10T22:27:24.011Z",
+  "lastSuccess": "2026-08-10T23:26:02.670Z",
   "articleCount": 50,
   "knownLinks": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.227",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.226",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.225",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.224",
@@ -50,8 +51,7 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.173",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.172",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.170",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.169",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.168"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.169"
   ],
   "consecutiveErrors": 0
 }

@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-10T22:27:26.076Z",
+  "lastSuccess": "2026-08-10T23:26:05.927Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
     "https://claude.com/blog/auto-mode-default-in-claude-code",
     "https://claude.com/blog/auto-mode-in-production",
     "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/four-role-based-claude-certifications",
     "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
     "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
-    "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
-    "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle"
+    "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude"
   ],
   "consecutiveErrors": 0
 }

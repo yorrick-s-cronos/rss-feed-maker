@@ -4,11 +4,35 @@
         <title>claude-code Releases</title>
         <link>https://github.com/anthropics/claude-code/releases</link>
         <description>GitHub releases for anthropics/claude-code</description>
-        <lastBuildDate>Sat, 08 Aug 2026 02:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 22:56:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v2.1.227]]></title>
+            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.227</link>
+            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.227</guid>
+            <pubDate>Mon, 10 Aug 2026 22:56:53 GMT</pubDate>
+            <description><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Fixed feature flags being evaluated without the user&#39;s subscription tier when a session started with an expired login token, which could wrongly prompt Max plan users to enable usage credits for Fable</li>
+<li>Fixed every Bash command failing under <code>claude-code-action</code> with <code>allowed_non_write_users</code> on GitHub-hosted runners</li>
+<li>Fixed <code>/tui</code> bringing back a conversation that had been rewound to before its first message</li>
+<li>Improved slash-command menu: blue now marks only the selected row, matched characters are bolded instead of recolored, and emoji or accented names keep their glyphs</li>
+<li>Improved performance: fewer event-loop stalls on file-not-found suggestions and at-mention size checks</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Fixed feature flags being evaluated without the user&#39;s subscription tier when a session started with an expired login token, which could wrongly prompt Max plan users to enable usage credits for Fable</li>
+<li>Fixed every Bash command failing under <code>claude-code-action</code> with <code>allowed_non_write_users</code> on GitHub-hosted runners</li>
+<li>Fixed <code>/tui</code> bringing back a conversation that had been rewound to before its first message</li>
+<li>Improved slash-command menu: blue now marks only the selected row, matched characters are bolded instead of recolored, and emoji or accented names keep their glyphs</li>
+<li>Improved performance: fewer event-loop stalls on file-not-found suggestions and at-mention size checks</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.1.226]]></title>
             <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.226</link>
@@ -2656,22 +2680,6 @@
 <li>Improved color contrast for skill tags in the slash-command menu</li>
 <li>Promo credit claims for Apple/Google-billed subscribers without a payment method now explain where to add one</li>
 <li>Added a tip suggesting <code>claude agents</code> when running multiple concurrent sessions</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[v2.1.168]]></title>
-            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.168</link>
-            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.168</guid>
-            <pubDate>Sat, 06 Jun 2026 23:41:53 GMT</pubDate>
-            <description><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Bug fixes and reliability improvements</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Bug fixes and reliability improvements</li>
 </ul>
 ]]></content:encoded>
         </item>

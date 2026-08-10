@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ピーター・スタインバーガー：470万人が調理を任せたとき何が起こるか]]></title>
+            <title><![CDATA[「子どもの権力観」— アン・アップルバウムが語る米国の戦略]]></title>
+            <link>https://finance.biggo.jp/podcast/d14da0d6ffcb7e1a</link>
+            <guid>https://finance.biggo.jp/podcast/d14da0d6ffcb7e1a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peter Steinberger: "Fun Is Velocity"]]></title>
             <link>https://finance.biggo.jp/podcast/041c532266006d72</link>
             <guid>https://finance.biggo.jp/podcast/041c532266006d72</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[速度病：チーム全体が10倍速くなったら何が起きるか — RefのMatt Dailey氏]]></title>
             <link>https://finance.biggo.jp/podcast/b097e9b3b6fce5d0</link>
             <guid>https://finance.biggo.jp/podcast/b097e9b3b6fce5d0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ポータブルアルファ、トレンドフォロー、AI投資 ft. ハリー・ムーア | システムティック・インベスター | エピソード412]]></title>
-            <link>https://finance.biggo.jp/podcast/860c87c4a2ed9083</link>
-            <guid>https://finance.biggo.jp/podcast/860c87c4a2ed9083</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

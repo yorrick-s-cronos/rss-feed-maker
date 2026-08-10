@@ -10,14 +10,7 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[天文台料今日天氣仍極端酷熱　部分地區氣溫達37度或以上]]></title>
-            <link>https://www.wenweipo.com/a/202608/11/AP6a7a4ab2e4b0c1e500245ab6.html</link>
-            <guid>https://www.wenweipo.com/a/202608/11/AP6a7a4ab2e4b0c1e500245ab6.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[天文台發出特別天氣提示，表示廣東地區普遍晴朗，本港今日天氣仍然極端酷熱，部分地區氣溫達37度或以上。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(有片) 修例風波迷途知返 更生青重塑家國情]]></title>
+            <title><![CDATA[(有片) 修例風波迷途知返　更生青重塑家國情]]></title>
             <link>https://www.wenweipo.com/a/202608/11/AP6a79bd8fe4b0c1e5002450e0.html</link>
             <guid>https://www.wenweipo.com/a/202608/11/AP6a79bd8fe4b0c1e5002450e0.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
@@ -113,6 +106,13 @@
             <guid>https://www.wenweipo.com/a/202608/10/AP6a79bb5ce4b0c1e5002450b4.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[教育局將於2026年9月舉辦四場家長講座，讓家長更深入了解小一入學統籌辦法的相關細則。每場講座分為兩部分，首部分由嘉賓講者分享如何透過家校合作，協助孩子適應小學生活及促進他們健康愉快成長；第二部分則由教育局學位分配組代表講解2027年度小一入學統籌辦法的機制及相關程序。講座以廣東話進行，費用全免，各場次現正接受報名，有興趣的家長現可透過教育局的網上登記系統報名。詳情如下：]]></description>
+        </item>
+        <item>
+            <title><![CDATA[保良局青年才藝學院辦無毒·不插電流行音樂大賽 用音樂宣揚抗毒訊息]]></title>
+            <link>https://www.wenweipo.com/a/202608/10/AP6a79ba4ee4b0c1e5002450ad.html</link>
+            <guid>https://www.wenweipo.com/a/202608/10/AP6a79ba4ee4b0c1e5002450ad.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[保良局青年才藝學院早前假柴灣青年廣場Y-劇場舉行《企硬！聽我唱》無毒·不插電流行音樂大賽決賽，一眾青年及公開組參賽者同場競技，以歌聲及樂器演奏展現音樂才華，透過現場演出向社區傳遞拒絕毒品、推廣健康生活的正向訊息。適逢暑假，活動特別提醒青年在長假期間遠離毒品誘惑，善用時間發展正向興趣。保安局首席助理秘書長（禁毒）李祖兒致辭時表示，音樂具強大感染力，參賽者以活力和正能量作出有溫度的抗毒宣傳。她指出，面對近年愈趨盛行的新興毒品，社會更須多管齊下加強禁毒教育，協助年輕人建立正向價值觀和健康生活方式，共建無毒社區。]]></description>
         </item>
     </channel>
 </rss>

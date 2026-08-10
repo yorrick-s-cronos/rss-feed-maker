@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-10T22:27:21.093Z",
+  "lastSuccess": "2026-08-10T23:25:59.652Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/",
     "https://microsoft.ai/news/optimizing-the-frontier-performance-curve/",
     "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
     "https://microsoft.ai/news/hill-climbing-mai-models-for-github-copilot-and-excel/",
@@ -20,8 +21,7 @@
     "https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/",
     "https://microsoft.ai/news/introducing-mai-image-2/",
     "https://microsoft.ai/news/introducing-copilot-health/",
-    "https://microsoft.ai/news/health-check-how-people-use-copilot-for-health/",
-    "https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/"
+    "https://microsoft.ai/news/health-check-how-people-use-copilot-for-health/"
   ],
   "consecutiveErrors": 0
 }
