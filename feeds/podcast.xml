@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Quitting Expert: Stop Letting This Invisible Thing Destroy Your Life! | Seth Godin]]></title>
+            <link>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</link>
+            <guid>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[細胞治療の進歩とバイオテックリーダーシップ：NkartaのPaul Hastings氏に聞く]]></title>
             <link>https://finance.biggo.jp/podcast/0c13e4f31a1475f4</link>
             <guid>https://finance.biggo.jp/podcast/0c13e4f31a1475f4</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[討論：AIの人格性と意識、SpaceXの数兆ドルの未来、Astraが10年来の数学問題を解決]]></title>
             <link>https://finance.biggo.jp/podcast/e5c0827cb5040e5f</link>
             <guid>https://finance.biggo.jp/podcast/e5c0827cb5040e5f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[「彼は問題を解決するつもりはなく、喝采を浴びたいだけだ」]]></title>
-            <link>https://finance.biggo.jp/podcast/3b6c8587b29242c1</link>
-            <guid>https://finance.biggo.jp/podcast/3b6c8587b29242c1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
