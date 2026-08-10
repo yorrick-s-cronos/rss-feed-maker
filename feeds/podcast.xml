@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[KavakのAI中心企業再構築プレイブック]]></title>
+            <link>https://finance.biggo.jp/podcast/6aa9e3d319d14158</link>
+            <guid>https://finance.biggo.jp/podcast/6aa9e3d319d14158</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenRouter CEO：中国のオープンモデルが米国を凌駕する理由｜企業がOpenAIとAnthropicを恐れる理由]]></title>
+            <link>https://finance.biggo.jp/podcast/fec7b29d5baa12f0</link>
+            <guid>https://finance.biggo.jp/podcast/fec7b29d5baa12f0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How is Wang Jianlin doing now? What's going on with Wanda?]]></title>
+            <link>https://finance.biggo.jp/podcast/c507dc85dbfd8f33</link>
+            <guid>https://finance.biggo.jp/podcast/c507dc85dbfd8f33</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エピソード45：カタリオ・キャピタル・マネジメントのジョージ・ペトロシェイロス]]></title>
             <link>https://finance.biggo.jp/podcast/075d6ab4affd81f8</link>
             <guid>https://finance.biggo.jp/podcast/075d6ab4affd81f8</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[144 ✪ 國貨海外展開の新トレンド：山下有松、觀夏、PANE]]></title>
             <link>https://finance.biggo.jp/podcast/1785cbc3116523c5</link>
             <guid>https://finance.biggo.jp/podcast/1785cbc3116523c5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1347: ロングCOVIDに対する簡単な答えはない]]></title>
-            <link>https://finance.biggo.jp/podcast/6c06901ef3ac3242</link>
-            <guid>https://finance.biggo.jp/podcast/6c06901ef3ac3242</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ATカーニー・マッキンゼー・ノーリツ鋼機からJMDC会長へ　松島陽介さんのマネージメントの全ては５００人のおばちゃんに教わった！？]]></title>
-            <link>https://finance.biggo.jp/podcast/3b85c9f26b88daf4</link>
-            <guid>https://finance.biggo.jp/podcast/3b85c9f26b88daf4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[リアルタイムマルチプレイヤー、自動化、そしてあなた！ — Idan Gazit（GitHub）]]></title>
-            <link>https://finance.biggo.jp/podcast/f71e7e9776cd3a32</link>
-            <guid>https://finance.biggo.jp/podcast/f71e7e9776cd3a32</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
