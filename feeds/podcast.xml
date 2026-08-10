@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[辞める専門家：この目に見えないものに人生を台無しにさせないで！ | Seth Godin]]></title>
+            <title><![CDATA[イーサリアムの新EIPがDeFiを壊す可能性]]></title>
+            <link>https://finance.biggo.jp/podcast/1dd059977b773c9a</link>
+            <guid>https://finance.biggo.jp/podcast/1dd059977b773c9a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Impostor Syndrome Expert: STOP Waiting To Be Picked, Do This Instead | Seth Godin]]></title>
             <link>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</link>
             <guid>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[サイレント・シリコで考える：Goodfire CTOダン・バルサムが語る概念多様体と月額1000ドルのML研究エージェント]]></title>
             <link>https://finance.biggo.jp/podcast/88204df844db8871</link>
             <guid>https://finance.biggo.jp/podcast/88204df844db8871</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[討論：AIの人格性と意識、SpaceXの数兆ドルの未来、Astraが10年来の数学問題を解決]]></title>
-            <link>https://finance.biggo.jp/podcast/e5c0827cb5040e5f</link>
-            <guid>https://finance.biggo.jp/podcast/e5c0827cb5040e5f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
