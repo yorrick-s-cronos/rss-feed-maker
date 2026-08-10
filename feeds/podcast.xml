@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[スコット・ギャロウェイ：資本主義は貧困の敵ではない | オフィスアワー]]></title>
+            <link>https://finance.biggo.jp/podcast/17530bf5d4484b7d</link>
+            <guid>https://finance.biggo.jp/podcast/17530bf5d4484b7d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NVIDIAのAlpamayo 2は製品発表ではなく、プラットフォーム囲い込みイベントだ]]></title>
             <link>https://finance.biggo.jp/podcast/100758b347b6b81c</link>
             <guid>https://finance.biggo.jp/podcast/100758b347b6b81c</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[エリートAIチームの作り方 | Cursorの採用責任者 Adam Ward]]></title>
             <link>https://finance.biggo.jp/podcast/84998a2969286e7f</link>
             <guid>https://finance.biggo.jp/podcast/84998a2969286e7f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国にガラスのあごがあるのか？ — Applebaum & Hill]]></title>
-            <link>https://finance.biggo.jp/podcast/148aa58816c7922d</link>
-            <guid>https://finance.biggo.jp/podcast/148aa58816c7922d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
