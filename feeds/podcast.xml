@@ -10,13 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[エピソード45：カタリオ・キャピタル・マネジメントのジョージ・ペトロシェイロス]]></title>
+            <link>https://finance.biggo.jp/podcast/075d6ab4affd81f8</link>
+            <guid>https://finance.biggo.jp/podcast/075d6ab4affd81f8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[イーサリアムの新EIPがDeFiを壊す可能性]]></title>
             <link>https://finance.biggo.jp/podcast/1dd059977b773c9a</link>
             <guid>https://finance.biggo.jp/podcast/1dd059977b773c9a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Impostor Syndrome Expert: STOP Waiting To Be Picked, Do This Instead | Seth Godin]]></title>
+            <title><![CDATA[インポスター症候群の専門家：選ばれるのを待つのはやめて、代わりにこれをしよう | Seth Godin]]></title>
             <link>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</link>
             <guid>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[リアルタイムマルチプレイヤー、自動化、そしてあなた！ — Idan Gazit（GitHub）]]></title>
             <link>https://finance.biggo.jp/podcast/f71e7e9776cd3a32</link>
             <guid>https://finance.biggo.jp/podcast/f71e7e9776cd3a32</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[サイレント・シリコで考える：Goodfire CTOダン・バルサムが語る概念多様体と月額1000ドルのML研究エージェント]]></title>
-            <link>https://finance.biggo.jp/podcast/88204df844db8871</link>
-            <guid>https://finance.biggo.jp/podcast/88204df844db8871</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
