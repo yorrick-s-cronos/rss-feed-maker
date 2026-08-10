@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ピーター・スタインバーガー：470万人が調理を任せたとき何が起こるか]]></title>
+            <link>https://finance.biggo.jp/podcast/041c532266006d72</link>
+            <guid>https://finance.biggo.jp/podcast/041c532266006d72</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[私たちのバイブコーディングウェブサイトを共有 | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/5bd0f09f6deb42d7</link>
             <guid>https://finance.biggo.jp/podcast/5bd0f09f6deb42d7</guid>
@@ -46,13 +52,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AIエージェントがビジネスを運営するとき、何が起こるのか？]]></title>
+            <title><![CDATA[The Self-Improving Company: Inside Kavak’s AI Transformation]]></title>
             <link>https://finance.biggo.jp/podcast/6aa9e3d319d14158</link>
             <guid>https://finance.biggo.jp/podcast/6aa9e3d319d14158</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenRouterのStripeとの100億ドル取引？ | なぜ企業は中国よりもフロンティアラボを恐れるのか | Alex Atallah]]></title>
+            <title><![CDATA[Will OpenRouter Sell for $10BN to Stripe? Why Chinese Open Models Are Beating America | Alex Atallah]]></title>
             <link>https://finance.biggo.jp/podcast/fec7b29d5baa12f0</link>
             <guid>https://finance.biggo.jp/podcast/fec7b29d5baa12f0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[ポータブルアルファ、トレンドフォロー、AI投資 ft. ハリー・ムーア | システムティック・インベスター | エピソード412]]></title>
             <link>https://finance.biggo.jp/podcast/860c87c4a2ed9083</link>
             <guid>https://finance.biggo.jp/podcast/860c87c4a2ed9083</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[常時稼働エージェントがオンコール負担なしで本番運用を支える — Justin Smith（Resolve AI）]]></title>
-            <link>https://finance.biggo.jp/podcast/e4d2261d290738b3</link>
-            <guid>https://finance.biggo.jp/podcast/e4d2261d290738b3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
