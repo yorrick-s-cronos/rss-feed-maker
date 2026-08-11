@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Mon, 10 Aug 2026 08:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 12:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Kim ngạch xuất nhập khẩu Việt Nam - Australia tăng tốc, cán mốc 8 tỷ USD]]></title>
+            <link>https://mekongasean.vn/kim-ngach-xuat-nhap-khau-viet-nam-australia-tang-toc-can-moc-8-ty-usd-58313.html</link>
+            <guid>https://mekongasean.vn/kim-ngach-xuat-nhap-khau-viet-nam-australia-tang-toc-can-moc-8-ty-usd-58313.html</guid>
+            <pubDate>Mon, 10 Aug 2026 12:42:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tăng cường trách nhiệm hỗ trợ người lao động làm việc ở nước ngoài]]></title>
             <link>https://mekongasean.vn/tang-cuong-trach-nhiem-ho-tro-nguoi-lao-dong-lam-viec-o-nuoc-ngoai-58301.html</link>
             <guid>https://mekongasean.vn/tang-cuong-trach-nhiem-ho-tro-nguoi-lao-dong-lam-viec-o-nuoc-ngoai-58301.html</guid>
             <pubDate>Mon, 10 Aug 2026 08:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hợp tác khoa học, công nghệ là trụ cột mới của quan hệ Việt Nam - Australia]]></title>
-            <link>https://mekongasean.vn/hop-tac-khoa-hoc-cong-nghe-la-tru-cot-moi-cua-quan-he-viet-nam-australia-58294.html</link>
-            <guid>https://mekongasean.vn/hop-tac-khoa-hoc-cong-nghe-la-tru-cot-moi-cua-quan-he-viet-nam-australia-58294.html</guid>
-            <pubDate>Mon, 10 Aug 2026 05:06:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

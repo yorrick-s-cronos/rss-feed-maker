@@ -10,6 +10,18 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[荃灣海貴道鹹水管滲漏 水務署爭取中午前完成搶修]]></title>
+            <link>https://www.wenweipo.com/a/202608/11/AP6a7a8952e4b0c1e5002462f7.html</link>
+            <guid>https://www.wenweipo.com/a/202608/11/AP6a7a8952e4b0c1e5002462f7.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黃色工作暑熱警告生效]]></title>
+            <link>https://www.wenweipo.com/a/202608/11/AP6a7a760de4b0c1e500246016.html</link>
+            <guid>https://www.wenweipo.com/a/202608/11/AP6a7a760de4b0c1e500246016.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[天文台料今日天氣仍極端酷熱　部分地區氣溫達37度或以上]]></title>
             <link>https://www.wenweipo.com/a/202608/11/AP6a7a4ab2e4b0c1e500245ab6.html</link>
             <guid>https://www.wenweipo.com/a/202608/11/AP6a7a4ab2e4b0c1e500245ab6.html</guid>
@@ -19,18 +31,6 @@
             <title><![CDATA[天氣持續酷熱 教你八大防中暑小貼士]]></title>
             <link>https://www.wenweipo.com/a/202608/10/AP6a798a8be4b0c1e5002448a1.html</link>
             <guid>https://www.wenweipo.com/a/202608/10/AP6a798a8be4b0c1e5002448a1.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碧瑤灣街頭斬人│（有片）途人及保安員合力阻刀漢襲擊外傭救一命]]></title>
-            <link>https://www.wenweipo.com/a/202608/10/AP6a79731ce4b0c1e5002444f7.html</link>
-            <guid>https://www.wenweipo.com/a/202608/10/AP6a79731ce4b0c1e5002444f7.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[勞工處再發黃色工作暑熱警告　林超英：取消了也沒有什麼分別]]></title>
-            <link>https://www.wenweipo.com/a/202608/10/AP6a79343de4b0c1e500243c8a.html</link>
-            <guid>https://www.wenweipo.com/a/202608/10/AP6a79343de4b0c1e500243c8a.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -70,6 +70,12 @@
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[（有片）直擊工兵實爆考核現場]]></title>
+            <link>https://www.wenweipo.com/a/202608/11/AP6a7a8e77e4b0c1e50024638a.html</link>
+            <guid>https://www.wenweipo.com/a/202608/11/AP6a7a8e77e4b0c1e50024638a.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[（有片）湖北艦，通過考核！]]></title>
             <link>https://www.wenweipo.com/a/202608/10/AP6a79addee4b0c1e500244f81.html</link>
             <guid>https://www.wenweipo.com/a/202608/10/AP6a79addee4b0c1e500244f81.html</guid>
@@ -79,12 +85,6 @@
             <title><![CDATA[（有片）雷扎伊被任命為伊朗最高國家安全委員會秘書]]></title>
             <link>https://www.wenweipo.com/a/202608/10/AP6a794a81e4b0c1e500243fd3.html</link>
             <guid>https://www.wenweipo.com/a/202608/10/AP6a794a81e4b0c1e500243fd3.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美國國防部被曝要求軍工企業「大幅加快」武器生產]]></title>
-            <link>https://www.wenweipo.com/a/202608/09/AP6a77f550e4b0c1e500241e47.html</link>
-            <guid>https://www.wenweipo.com/a/202608/09/AP6a77f550e4b0c1e500241e47.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
