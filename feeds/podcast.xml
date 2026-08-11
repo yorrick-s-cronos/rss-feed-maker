@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[手紙を書いてClaudeを賢くした話]]></title>
+            <link>https://finance.biggo.jp/podcast/63e17fcb23548c16</link>
+            <guid>https://finance.biggo.jp/podcast/63e17fcb23548c16</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vibecoding: 正しい方法 | S3E15]]></title>
             <link>https://finance.biggo.jp/podcast/af8000336baecbbc</link>
             <guid>https://finance.biggo.jp/podcast/af8000336baecbbc</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[マルチプレイヤーエージェント工学 — Arjun Singh, Superconductor]]></title>
             <link>https://finance.biggo.jp/podcast/8e2f778ab8373662</link>
             <guid>https://finance.biggo.jp/podcast/8e2f778ab8373662</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ガイド、検証、解決 — Anirban Chatterjee、Sonar]]></title>
-            <link>https://finance.biggo.jp/podcast/7394380b35d4e15a</link>
-            <guid>https://finance.biggo.jp/podcast/7394380b35d4e15a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
