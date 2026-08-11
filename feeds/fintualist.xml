@@ -4,11 +4,23 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 11 Aug 2026 15:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 20:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¿Sirven los fondos 107 con 0% de impuesto para invertir como sociedad?]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/sirven-los-fondos-107-con-0-de-impuesto-para-invertir-como-sociedad/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/sirven-los-fondos-107-con-0-de-impuesto-para-invertir-como-sociedad/</guid>
+            <pubDate>Tue, 11 Aug 2026 20:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La señora con el nombre hardcodeado en el sistema de AFP]]></title>
+            <link>https://fintualist.com/chile/tecnologia/la-senora-con-el-nombre-hardcodeado-en-las-afp/</link>
+            <guid>https://fintualist.com/chile/tecnologia/la-senora-con-el-nombre-hardcodeado-en-las-afp/</guid>
+            <pubDate>Tue, 11 Aug 2026 15:52:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Shards: el best-seller de Bret Easton Ellis recibe el tratamiento Ryan Murphy]]></title>
             <link>https://fintualist.com/chile/cultura/cine-series/the-shards-el-best-seller-de-bret-easton-ellis-recibe-el-tratamiento-ryan-murphy/</link>
@@ -22,16 +34,10 @@
             <pubDate>Mon, 10 Aug 2026 16:13:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[📍 Mercados en vivo - Cerca de máximos]]></title>
-            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
-            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sorpresa positiva en la economía de Chile - Mercados al 7 de agosto]]></title>
-            <link>https://fintualist.com/chile/economia/mercados/sorpresa-positiva-en-la-economia-de-chile-mercados-al-7-de-agosto/</link>
-            <guid>https://fintualist.com/chile/economia/mercados/sorpresa-positiva-en-la-economia-de-chile-mercados-al-7-de-agosto/</guid>
-            <pubDate>Fri, 07 Aug 2026 21:16:00 GMT</pubDate>
+            <title><![CDATA[0% de impuestos por las ganancias: reforma tributaria y nuevo 107 LIR aprobados]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/0-de-impuestos-por-las-ganancias-reforma-tributaria-y-nuevo-107-lir-aprobados/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/0-de-impuestos-por-las-ganancias-reforma-tributaria-y-nuevo-107-lir-aprobados/</guid>
+            <pubDate>Tue, 04 Aug 2026 23:05:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Por qué tanta volatilidad en la bolsa de Corea?]]></title>
@@ -122,12 +128,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla/</guid>
             <pubDate>Mon, 20 Jul 2026 20:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Se cierra Ormuz, nuevamente - mercados al 17 de julio]]></title>
-            <link>https://fintualist.com/mexico/economia/mercados/se-cierra-ormuz-nuevamente-mercados-al-17-de-julio-2/</link>
-            <guid>https://fintualist.com/mexico/economia/mercados/se-cierra-ormuz-nuevamente-mercados-al-17-de-julio-2/</guid>
-            <pubDate>Fri, 17 Jul 2026 19:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

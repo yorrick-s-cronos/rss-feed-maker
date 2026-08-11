@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[セルゲイ・ブリン、Geminiを再統括、4つのラボが封じ込めを失う、コンピュートがNYSEで取引開始 w/ クシュ・ババリア | EP 278]]></title>
+            <link>https://finance.biggo.jp/podcast/c639976850fd80a7</link>
+            <guid>https://finance.biggo.jp/podcast/c639976850fd80a7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eToro、TradeZero買収を発表——米国市場での存在感を強化]]></title>
+            <link>https://finance.biggo.jp/podcast/4b9094d134704d6f</link>
+            <guid>https://finance.biggo.jp/podcast/4b9094d134704d6f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1960年代のチャットボットがなぜ皆を騙せたのか｜The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/99af79e6e051174f</link>
+            <guid>https://finance.biggo.jp/podcast/99af79e6e051174f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JRE MMAショー #184 アルジャメイン・スターリング出演]]></title>
             <link>https://finance.biggo.jp/podcast/9fbf7f132adf43f0</link>
             <guid>https://finance.biggo.jp/podcast/9fbf7f132adf43f0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ネロスがシリーズCで2億5000万ドル調達、評価額25億ドル——年間100万機のドローン製造を目指す]]></title>
+            <title><![CDATA[The $2.5B Drone Company Trying to Become the Toyota of Defense]]></title>
             <link>https://finance.biggo.jp/podcast/0822c14a57fcbb37</link>
             <guid>https://finance.biggo.jp/podcast/0822c14a57fcbb37</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -76,7 +94,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ryan Greenblatt – AIがAI研究を自動化できるようになったら何が起こるか？]]></title>
+            <title><![CDATA[Ryan Greenblatt – Can we keep control of recursive self-improvement?]]></title>
             <link>https://finance.biggo.jp/podcast/d9aede51cd6c5cdc</link>
             <guid>https://finance.biggo.jp/podcast/d9aede51cd6c5cdc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[エージェントのセットアップは、チームが使い始めた瞬間に機能しなくなる — Aditya Khandelwal, Amazon AGI Lab]]></title>
             <link>https://finance.biggo.jp/podcast/b009cfcc60b901a6</link>
             <guid>https://finance.biggo.jp/podcast/b009cfcc60b901a6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ボストンから生中継：中国は企業の作り方を変えたのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/ac28bc2736999d9d</link>
-            <guid>https://finance.biggo.jp/podcast/ac28bc2736999d9d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜ1.4兆ドルの防衛は今や時代遅れになったのか]]></title>
-            <link>https://finance.biggo.jp/podcast/d14da0d6ffcb7e1a</link>
-            <guid>https://finance.biggo.jp/podcast/d14da0d6ffcb7e1a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Steinberger：OpenClawの物語]]></title>
-            <link>https://finance.biggo.jp/podcast/041c532266006d72</link>
-            <guid>https://finance.biggo.jp/podcast/041c532266006d72</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
