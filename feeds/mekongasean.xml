@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Mon, 10 Aug 2026 05:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 08:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Tăng cường trách nhiệm hỗ trợ người lao động làm việc ở nước ngoài]]></title>
+            <link>https://mekongasean.vn/tang-cuong-trach-nhiem-ho-tro-nguoi-lao-dong-lam-viec-o-nuoc-ngoai-58301.html</link>
+            <guid>https://mekongasean.vn/tang-cuong-trach-nhiem-ho-tro-nguoi-lao-dong-lam-viec-o-nuoc-ngoai-58301.html</guid>
+            <pubDate>Mon, 10 Aug 2026 08:26:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hợp tác khoa học, công nghệ là trụ cột mới của quan hệ Việt Nam - Australia]]></title>
             <link>https://mekongasean.vn/hop-tac-khoa-hoc-cong-nghe-la-tru-cot-moi-cua-quan-he-viet-nam-australia-58294.html</link>
             <guid>https://mekongasean.vn/hop-tac-khoa-hoc-cong-nghe-la-tru-cot-moi-cua-quan-he-viet-nam-australia-58294.html</guid>
             <pubDate>Mon, 10 Aug 2026 05:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quốc hội dành một phút mặc niệm Chủ tịch Quốc hội Lào]]></title>
-            <link>https://mekongasean.vn/quoc-hoi-danh-mot-phut-mac-niem-chu-tich-quoc-hoi-lao-58288.html</link>
-            <guid>https://mekongasean.vn/quoc-hoi-danh-mot-phut-mac-niem-chu-tich-quoc-hoi-lao-58288.html</guid>
-            <pubDate>Mon, 10 Aug 2026 02:36:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
