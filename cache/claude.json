@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-11T15:51:52.102Z",
+  "lastSuccess": "2026-08-11T16:47:59.274Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/compliance-api-cowork-and-claude-code",
     "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
     "https://claude.com/blog/auto-mode-default-in-claude-code",
     "https://claude.com/blog/auto-mode-in-production",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
     "https://claude.com/blog/four-role-based-claude-certifications",
     "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-    "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
-    "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude"
+    "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills"
   ],
   "consecutiveErrors": 0
 }

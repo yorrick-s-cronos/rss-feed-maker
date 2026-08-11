@@ -10,31 +10,37 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ボストンから生中継：製薬業界の中国に対する見方]]></title>
+            <link>https://finance.biggo.jp/podcast/02706d101f78666b</link>
+            <guid>https://finance.biggo.jp/podcast/02706d101f78666b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ep207: ジェイソン・コロマ氏が語る腎臓病の遺伝子医薬品]]></title>
             <link>https://finance.biggo.jp/podcast/69af5c803370aba8</link>
             <guid>https://finance.biggo.jp/podcast/69af5c803370aba8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Circleback CEO Ali Haghani：会社の会議を録音することが標準になる]]></title>
+            <title><![CDATA[Circleback CEO Ali Haghani：なぜあなたの会社はもっと会議を記録すべきか]]></title>
             <link>https://finance.biggo.jp/podcast/64da29bd17a10aec</link>
             <guid>https://finance.biggo.jp/podcast/64da29bd17a10aec</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harvey's Playbook for Competing With Frontier AI Labs | Gabe Pereyra]]></title>
+            <title><![CDATA[Harveyのプレイブック：フロンティアAIラボに挑む | Gabe Pereyra]]></title>
             <link>https://finance.biggo.jp/podcast/416347ac44cc4a5e</link>
             <guid>https://finance.biggo.jp/podcast/416347ac44cc4a5e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Everyone Is Still Undersizing the AI Market | Eric Vishria]]></title>
+            <title><![CDATA[誰もがまだAI市場を過小評価している | Eric Vishria]]></title>
             <link>https://finance.biggo.jp/podcast/57c8ed51beac757d</link>
             <guid>https://finance.biggo.jp/podcast/57c8ed51beac757d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Not Your Weights, Not Your Product: The Case for Owning Your AI | Sonya Huang, Sequoia Capital]]></title>
+            <title><![CDATA[あなたの重みでもなく、あなたの製品でもない：AIを所有する理由 | Sonya Huang, Sequoia Capital]]></title>
             <link>https://finance.biggo.jp/podcast/35b3d86b2c94de52</link>
             <guid>https://finance.biggo.jp/podcast/35b3d86b2c94de52</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[NVIDIAのAlpamayo 2は製品発表ではなく、プラットフォーム囲い込みイベントだ]]></title>
             <link>https://finance.biggo.jp/podcast/100758b347b6b81c</link>
             <guid>https://finance.biggo.jp/podcast/100758b347b6b81c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Codex、ハーネスの裏側 — Dominik Kundel（OpenAI）]]></title>
-            <link>https://finance.biggo.jp/podcast/24adf3fd195fb798</link>
-            <guid>https://finance.biggo.jp/podcast/24adf3fd195fb798</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

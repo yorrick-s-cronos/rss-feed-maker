@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[元朗電纜故障大停電│水邊圍邨恢復供電12小時再度短暫停電]]></title>
+            <link>https://www.wenweipo.com/a/202608/11/AP6a7b4578e4b0c1e500247712.html</link>
+            <guid>https://www.wenweipo.com/a/202608/11/AP6a7b4578e4b0c1e500247712.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[極端酷熱天氣下，元朗區今日（11日）凌晨4時22分因有中電地底電纜故障，導致水邊圍邨及附近約2400戶通宵停電逾6小時，直至早上10時45分陸續恢復。惟至今晚約10時49分，警方再接屋邨住戶報案，指邨內多座大廈短暫停電，並有至少兩宗被困升降機報告，分別位於山水樓及泉水樓。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[（有片）奧海城聯乘Jumptopia打造全港首個「極速車隊訓練基地」]]></title>
+            <link>https://www.wenweipo.com/a/202608/11/AP6a7b4555e4b0c1e50024770e.html</link>
+            <guid>https://www.wenweipo.com/a/202608/11/AP6a7b4555e4b0c1e50024770e.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[炎炎夏日，由即日起至8月31日，奧海城與新加坡兒童室內遊樂品牌Kiztopia旗下的Jumptopia聯手，於商場二期地下主題中庭打造全港首個「極速車隊訓練基地」，結合高能量的充氣彈床挑戰與沉浸式職業體驗。訓練基地匯聚極速賽車巨型彈床、6.5米高速滑梯、賽車維修站、迷你方程式極速隧道，更設有全港首個兒童透明洗車屋、汽車塗鴉藝術及限時特訓任務，為一眾小小賽車迷帶來充滿速度與激情的室內涼爽大冒險。]]></description>
+        </item>
+        <item>
             <title><![CDATA[鞏固警隊專業形象 警察儀仗隊正式成立 首批40隊員密集受訓]]></title>
             <link>https://www.wenweipo.com/a/202608/11/AP6a7b3e04e4b0c1e50024769e.html</link>
             <guid>https://www.wenweipo.com/a/202608/11/AP6a7b3e04e4b0c1e50024769e.html</guid>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/11/AP6a7b1358e4b0c1e5002471f5.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港特區政府商務及經濟發展局副局長陳百里出席粵港澳大灣區上市公司聯合會舉辦的《香港首個五年規劃》建言獻策晚餐會致辭時表示，特區政府正制定香港首份五年規劃，冀從更宏觀、長遠的角度，為經濟發展繪製清晰藍圖，推動產業升級轉型，為工商界尤其是中小企業打造更穩定、具前瞻性的發展環境，香港正朝多元化和數碼化方向升級轉型。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第二屆國際油畫交流大展2026中央圖書館揭幕　逾250幅中俄法港名家畫作薈萃一堂]]></title>
-            <link>https://www.wenweipo.com/a/202608/11/AP6a7b117de4b0c1e5002471eb.html</link>
-            <guid>https://www.wenweipo.com/a/202608/11/AP6a7b117de4b0c1e5002471eb.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[「第二屆國際油畫交流大展2026」今日在中央圖書館舉辦開幕典禮。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港大學生外交夏令營圓滿結束　學員：深感港與內地合作淵源深厚]]></title>
-            <link>https://www.wenweipo.com/a/202608/11/AP6a7b001ee4b0c1e50024707c.html</link>
-            <guid>https://www.wenweipo.com/a/202608/11/AP6a7b001ee4b0c1e50024707c.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[第十一屆香港大學生外交夏令營行程已於10日圓滿結束。]]></description>
         </item>
     </channel>
 </rss>
