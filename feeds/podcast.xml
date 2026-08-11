@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[戦略的意図：ファーストインクラス、二つの市場——AnnexonのGBSおよびGA戦略]]></title>
+            <link>https://finance.biggo.jp/podcast/9c04f7200dec7dbc</link>
+            <guid>https://finance.biggo.jp/podcast/9c04f7200dec7dbc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[手紙を書いてClaudeを賢くした話]]></title>
             <link>https://finance.biggo.jp/podcast/63e17fcb23548c16</link>
             <guid>https://finance.biggo.jp/podcast/63e17fcb23548c16</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[細胞治療の進歩とバイオテックリーダーシップ：NkartaのPaul Hastings氏に聞く]]></title>
             <link>https://finance.biggo.jp/podcast/0c13e4f31a1475f4</link>
             <guid>https://finance.biggo.jp/podcast/0c13e4f31a1475f4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[マルチプレイヤーエージェント工学 — Arjun Singh, Superconductor]]></title>
-            <link>https://finance.biggo.jp/podcast/8e2f778ab8373662</link>
-            <guid>https://finance.biggo.jp/podcast/8e2f778ab8373662</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
