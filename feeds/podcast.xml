@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[NEARがステーキング利回りをコンピュートに転換]]></title>
+            <title><![CDATA[企業はいかにして自前の知能を構築しているか | Sonya Huang（Sequoia Capital）]]></title>
+            <link>https://finance.biggo.jp/podcast/35b3d86b2c94de52</link>
+            <guid>https://finance.biggo.jp/podcast/35b3d86b2c94de52</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NEAR’s New Token Model for the AI Economy]]></title>
             <link>https://finance.biggo.jp/podcast/49f087d9a09b68f0</link>
             <guid>https://finance.biggo.jp/podcast/49f087d9a09b68f0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[イーサリアムの新EIPがDeFiを壊す可能性]]></title>
             <link>https://finance.biggo.jp/podcast/1dd059977b773c9a</link>
             <guid>https://finance.biggo.jp/podcast/1dd059977b773c9a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[辞めることの専門家：AIに選択肢を奪われる前に辞めないと、必ず後悔する！ | Seth Godin]]></title>
-            <link>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</link>
-            <guid>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
