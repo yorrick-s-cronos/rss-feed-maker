@@ -4,11 +4,27 @@
         <title>www.aihero.dev</title>
         <link>https://www.aihero.dev/</link>
         <description>AI Hero - AI Engineering for Curious Professional Developers</description>
-        <lastBuildDate>Wed, 05 Aug 2026 15:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 22:00:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/aihero-dev.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The /to-questionnaire Skill]]></title>
+            <link>https://www.aihero.dev/skills-to-questionnaire</link>
+            <guid>https://www.aihero.dev/skills-to-questionnaire</guid>
+            <pubDate>Tue, 11 Aug 2026 22:00:36 GMT</pubDate>
+            <description><![CDATA[Turn open questions into a doc someone else fills in.]]></description>
+            <content:encoded><![CDATA[Turn open questions into a doc someone else fills in.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /wizard Skill]]></title>
+            <link>https://www.aihero.dev/skills-wizard</link>
+            <guid>https://www.aihero.dev/skills-wizard</guid>
+            <pubDate>Tue, 11 Aug 2026 22:00:08 GMT</pubDate>
+            <description><![CDATA[Generate a script that walks a human through setup.]]></description>
+            <content:encoded><![CDATA[Generate a script that walks a human through setup.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v1.2: /wait-what, /writing-for-agents, Claude Code Plugin, and more]]></title>
             <link>https://www.aihero.dev/skills/skills-changelog-v12-wait-what-writing-for-agents-claude-code-plugin-and-more</link>
@@ -16,22 +32,6 @@
             <pubDate>Wed, 05 Aug 2026 15:43:10 GMT</pubDate>
             <description><![CDATA[Explore Matt Pocock's Skills v1.2.0: new documentation, Claude Code integration, the Wait What skill for Opus verbosity, and more.]]></description>
             <content:encoded><![CDATA[Explore Matt Pocock's Skills v1.2.0: new documentation, Claude Code integration, the Wait What skill for Opus verbosity, and more.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The /wizard Skill]]></title>
-            <link>https://www.aihero.dev/skills-wizard</link>
-            <guid>https://www.aihero.dev/skills-wizard</guid>
-            <pubDate>Wed, 05 Aug 2026 11:23:17 GMT</pubDate>
-            <description><![CDATA[Generate a script that walks a human through setup.]]></description>
-            <content:encoded><![CDATA[Generate a script that walks a human through setup.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The /to-questionnaire Skill]]></title>
-            <link>https://www.aihero.dev/skills-to-questionnaire</link>
-            <guid>https://www.aihero.dev/skills-to-questionnaire</guid>
-            <pubDate>Wed, 05 Aug 2026 11:22:51 GMT</pubDate>
-            <description><![CDATA[Turn open questions into a doc someone else fills in.]]></description>
-            <content:encoded><![CDATA[Turn open questions into a doc someone else fills in.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /wait-what Skill]]></title>
