@@ -10,9 +10,21 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[セルゲイ・ブリン、Geminiを再統括、4つのラボが封じ込めを失う、コンピュートがNYSEで取引開始 w/ クシュ・ババリア | EP 278]]></title>
+            <title><![CDATA[🔬生物学はソフトウェアになりつつある — Matt McPartland & Neil Patel、Chai Discovery]]></title>
+            <link>https://finance.biggo.jp/podcast/e8646f1beb0a29fc</link>
+            <guid>https://finance.biggo.jp/podcast/e8646f1beb0a29fc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bots Hit 57% of the Web, China Simulates 1B Agents, 4 Labs Lose Containment w/ Kush Bavaria | EP 278]]></title>
             <link>https://finance.biggo.jp/podcast/c639976850fd80a7</link>
             <guid>https://finance.biggo.jp/podcast/c639976850fd80a7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[年中総括]]></title>
+            <link>https://finance.biggo.jp/podcast/5cb605e719115b53</link>
+            <guid>https://finance.biggo.jp/podcast/5cb605e719115b53</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -34,13 +46,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The $2.5B Drone Company Trying to Become the Toyota of Defense]]></title>
+            <title><![CDATA[Neros CEO: $250M Raise, 1 Million Drones & De-Chinafying the Supply Chain]]></title>
             <link>https://finance.biggo.jp/podcast/0822c14a57fcbb37</link>
             <guid>https://finance.biggo.jp/podcast/0822c14a57fcbb37</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[エージェント型インターフェースの進化 — Gagan Bhat & Isabella Kai He（Anthropic）]]></title>
+            <title><![CDATA[Anthropic's Applied AI team on the Evolution of Agentic Surfaces]]></title>
             <link>https://finance.biggo.jp/podcast/9149a49293cafcf7</link>
             <guid>https://finance.biggo.jp/podcast/9149a49293cafcf7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[Vibecoding: 正しい方法 | S3E15]]></title>
             <link>https://finance.biggo.jp/podcast/af8000336baecbbc</link>
             <guid>https://finance.biggo.jp/podcast/af8000336baecbbc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ep. 381 - 米国におけるFIHの緊急性。さらに：連合学習、バイオテクノロジーIPO]]></title>
-            <link>https://finance.biggo.jp/podcast/55534bed0d2f02f6</link>
-            <guid>https://finance.biggo.jp/podcast/55534bed0d2f02f6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントのセットアップは、チームが使い始めた瞬間に機能しなくなる — Aditya Khandelwal, Amazon AGI Lab]]></title>
-            <link>https://finance.biggo.jp/podcast/b009cfcc60b901a6</link>
-            <guid>https://finance.biggo.jp/podcast/b009cfcc60b901a6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
