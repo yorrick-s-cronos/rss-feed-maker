@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[NEARがステーキング利回りをコンピュートに転換]]></title>
+            <link>https://finance.biggo.jp/podcast/49f087d9a09b68f0</link>
+            <guid>https://finance.biggo.jp/podcast/49f087d9a09b68f0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[戦略的意図：ファーストインクラス、二つの市場——AnnexonのGBSおよびGA戦略]]></title>
             <link>https://finance.biggo.jp/podcast/9c04f7200dec7dbc</link>
             <guid>https://finance.biggo.jp/podcast/9c04f7200dec7dbc</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[辞めることの専門家：AIに選択肢を奪われる前に辞めないと、必ず後悔する！ | Seth Godin]]></title>
             <link>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</link>
             <guid>https://finance.biggo.jp/podcast/229d71bc97ecbf9f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[細胞治療の進歩とバイオテックリーダーシップ：NkartaのPaul Hastings氏に聞く]]></title>
-            <link>https://finance.biggo.jp/podcast/0c13e4f31a1475f4</link>
-            <guid>https://finance.biggo.jp/podcast/0c13e4f31a1475f4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
