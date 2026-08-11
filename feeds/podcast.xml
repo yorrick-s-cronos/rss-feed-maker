@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ep207: ジェイソン・コロマ氏が語る腎臓病の遺伝子医薬品]]></title>
+            <link>https://finance.biggo.jp/podcast/69af5c803370aba8</link>
+            <guid>https://finance.biggo.jp/podcast/69af5c803370aba8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Circleback CEO Ali Haghani：会社の会議を録音することが標準になる]]></title>
+            <link>https://finance.biggo.jp/podcast/64da29bd17a10aec</link>
+            <guid>https://finance.biggo.jp/podcast/64da29bd17a10aec</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harvey's Playbook for Competing With Frontier AI Labs | Gabe Pereyra]]></title>
+            <link>https://finance.biggo.jp/podcast/416347ac44cc4a5e</link>
+            <guid>https://finance.biggo.jp/podcast/416347ac44cc4a5e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Everyone Is Still Undersizing the AI Market | Eric Vishria]]></title>
             <link>https://finance.biggo.jp/podcast/57c8ed51beac757d</link>
             <guid>https://finance.biggo.jp/podcast/57c8ed51beac757d</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[Codex、ハーネスの裏側 — Dominik Kundel（OpenAI）]]></title>
             <link>https://finance.biggo.jp/podcast/24adf3fd195fb798</link>
             <guid>https://finance.biggo.jp/podcast/24adf3fd195fb798</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自己改善する企業：KavakのAI変革の内側]]></title>
-            <link>https://finance.biggo.jp/podcast/6aa9e3d319d14158</link>
-            <guid>https://finance.biggo.jp/podcast/6aa9e3d319d14158</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenRouterはStripeに100億ドルで売却されるのか？なぜ中国のオープンモデルがアメリカに勝っているのか | Alex Atallah]]></title>
-            <link>https://finance.biggo.jp/podcast/fec7b29d5baa12f0</link>
-            <guid>https://finance.biggo.jp/podcast/fec7b29d5baa12f0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[王健林は今どうなっている？ 万達の現状は？]]></title>
-            <link>https://finance.biggo.jp/podcast/c507dc85dbfd8f33</link>
-            <guid>https://finance.biggo.jp/podcast/c507dc85dbfd8f33</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
