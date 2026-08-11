@@ -4,11 +4,17 @@
         <title>Microsoft AI Blog</title>
         <link>https://microsoft.ai/blog/</link>
         <description>We make responsible AI to empower people's lives.</description>
-        <lastBuildDate>Mon, 10 Aug 2026 22:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 17:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/microsoft-ai.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MAI-Code-1.1-Flash: Better, faster, at a quarter of the cost]]></title>
+            <link>https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/</link>
+            <guid>https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/</guid>
+            <pubDate>Tue, 11 Aug 2026 17:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MAI-Image-2.6 launches at No. 2 on Arena ahead of Google, Meta and xAI]]></title>
             <link>https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/</link>
@@ -122,12 +128,6 @@
             <link>https://microsoft.ai/news/introducing-copilot-health/</link>
             <guid>https://microsoft.ai/news/introducing-copilot-health/</guid>
             <pubDate>Thu, 12 Mar 2026 12:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Health Check: How People Use Copilot for Health]]></title>
-            <link>https://microsoft.ai/news/health-check-how-people-use-copilot-for-health/</link>
-            <guid>https://microsoft.ai/news/health-check-how-people-use-copilot-for-health/</guid>
-            <pubDate>Tue, 10 Mar 2026 12:33:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
