@@ -10,7 +10,7 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[🔬Why a Biotech Startup Thinks Like an ML Engineering Team —  McPartlon & Patil, Chai Discovery]]></title>
+            <title><![CDATA[🔬生物学はソフトウェアになりつつある — Matt McPartlon と Neil Patil、Chai Discovery]]></title>
             <link>https://finance.biggo.jp/podcast/e8646f1beb0a29fc</link>
             <guid>https://finance.biggo.jp/podcast/e8646f1beb0a29fc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
