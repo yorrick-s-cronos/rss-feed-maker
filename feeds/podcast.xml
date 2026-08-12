@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ギリアドがどのようにして耐久性のある腫瘍学および免疫学フランチャイズを構築しているか]]></title>
+            <link>https://finance.biggo.jp/podcast/900b36606def81ff</link>
+            <guid>https://finance.biggo.jp/podcast/900b36606def81ff</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🔬生物学はソフトウェアになりつつある — Matt McPartlon と Neil Patil、Chai Discovery]]></title>
             <link>https://finance.biggo.jp/podcast/e8646f1beb0a29fc</link>
             <guid>https://finance.biggo.jp/podcast/e8646f1beb0a29fc</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[コードに一切触れずにClaudeを修正した]]></title>
             <link>https://finance.biggo.jp/podcast/63e17fcb23548c16</link>
             <guid>https://finance.biggo.jp/podcast/63e17fcb23548c16</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vibecoding: 正しい方法 | S3E15]]></title>
-            <link>https://finance.biggo.jp/podcast/af8000336baecbbc</link>
-            <guid>https://finance.biggo.jp/podcast/af8000336baecbbc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
