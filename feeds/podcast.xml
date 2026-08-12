@@ -10,7 +10,43 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[チェルシー・フィン：ロボティクスにおける現在の最先端]]></title>
+            <title><![CDATA[LLMナレッジベース：実践ガイド — Ben Holmes（Warp）]]></title>
+            <link>https://finance.biggo.jp/podcast/e8b981bf874027ef</link>
+            <guid>https://finance.biggo.jp/podcast/e8b981bf874027ef</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[マイクロソフトCTOケビン・スコットが語る、エージェント向けに作られたインターネットのビジョン（ポッドキャストベスト版）]]></title>
+            <link>https://finance.biggo.jp/podcast/4727cfa1620d4da9</link>
+            <guid>https://finance.biggo.jp/podcast/4727cfa1620d4da9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI開発への懐疑論をやめよう——Charity Majors氏と考える]]></title>
+            <link>https://finance.biggo.jp/podcast/587a995ea52ede2a</link>
+            <guid>https://finance.biggo.jp/podcast/587a995ea52ede2a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adaption Labs：勾配フリーの継続学習 — サラ・フッカー、Adaption]]></title>
+            <link>https://finance.biggo.jp/podcast/70dde60e87cebdef</link>
+            <guid>https://finance.biggo.jp/podcast/70dde60e87cebdef</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スコット・ギャロウェイ：なぜ私がヨーロッパに移住したのか｜オフィスアワー]]></title>
+            <link>https://finance.biggo.jp/podcast/67d5bd2454ded0a0</link>
+            <guid>https://finance.biggo.jp/podcast/67d5bd2454ded0a0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知能＋継続学習＝専門性 — Yu Su、NeoCognition]]></title>
+            <link>https://finance.biggo.jp/podcast/1359aaec3c8ed9d4</link>
+            <guid>https://finance.biggo.jp/podcast/1359aaec3c8ed9d4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea Finn: Robotics Is Close To A ChatGPT Moment]]></title>
             <link>https://finance.biggo.jp/podcast/ca22a9d47495d90e</link>
             <guid>https://finance.biggo.jp/podcast/ca22a9d47495d90e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,12 +70,6 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Garry Tanがファウンダーにごっこ遊びをやめるべきと語る理由]]></title>
-            <link>https://finance.biggo.jp/podcast/a0cb3e82b6cbedd7</link>
-            <guid>https://finance.biggo.jp/podcast/a0cb3e82b6cbedd7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[継続学習のスケールアップ — Ronak Malde（Trajectory）]]></title>
             <link>https://finance.biggo.jp/podcast/dbf6d45da8ffc912</link>
             <guid>https://finance.biggo.jp/podcast/dbf6d45da8ffc912</guid>
@@ -52,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[身の回りに隠れた一攫千金のチャンスの見つけ方]]></title>
+            <title><![CDATA[Completely legal businesses making bank right now]]></title>
             <link>https://finance.biggo.jp/podcast/cb7cf3fcb7e11fd5</link>
             <guid>https://finance.biggo.jp/podcast/cb7cf3fcb7e11fd5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[NYSEでのコンピュート取引、Sergey BrinがGeminiの指揮を再び執る、ボットがウェブの57%を占める w/ Kush Bavaria | EP 278]]></title>
             <link>https://finance.biggo.jp/podcast/c639976850fd80a7</link>
             <guid>https://finance.biggo.jp/podcast/c639976850fd80a7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[年中総括]]></title>
-            <link>https://finance.biggo.jp/podcast/5cb605e719115b53</link>
-            <guid>https://finance.biggo.jp/podcast/5cb605e719115b53</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[eToro、TradeZero買収を発表——米国市場での存在感を強化]]></title>
-            <link>https://finance.biggo.jp/podcast/4b9094d134704d6f</link>
-            <guid>https://finance.biggo.jp/podcast/4b9094d134704d6f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[史上初のチャットボットから学ぶ教訓 | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/99af79e6e051174f</link>
-            <guid>https://finance.biggo.jp/podcast/99af79e6e051174f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JRE MMAショー #184 アルジャメイン・スターリング出演]]></title>
-            <link>https://finance.biggo.jp/podcast/9fbf7f132adf43f0</link>
-            <guid>https://finance.biggo.jp/podcast/9fbf7f132adf43f0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neros CEO：2億5000万ドル調達、100万台のドローン、サプライチェーンの脱中国化]]></title>
-            <link>https://finance.biggo.jp/podcast/0822c14a57fcbb37</link>
-            <guid>https://finance.biggo.jp/podcast/0822c14a57fcbb37</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

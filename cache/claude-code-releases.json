@@ -53,5 +53,6 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.172",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.170"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "3/3 links unreachable"
 }

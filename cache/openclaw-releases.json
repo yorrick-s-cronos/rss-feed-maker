@@ -53,5 +53,6 @@
     "https://github.com/openclaw/openclaw/releases/tag/v2026.5.28-beta.3",
     "https://github.com/openclaw/openclaw/releases/tag/v2026.5.28-beta.2"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "3/3 links unreachable"
 }
