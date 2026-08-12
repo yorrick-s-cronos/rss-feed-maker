@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[チェルシー・フィン：ロボティクスにおける現在の最先端]]></title>
+            <link>https://finance.biggo.jp/podcast/ca22a9d47495d90e</link>
+            <guid>https://finance.biggo.jp/podcast/ca22a9d47495d90e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[バイオテック業界の現状と業界を形作る決断]]></title>
+            <link>https://finance.biggo.jp/podcast/2b2f66e393cc7860</link>
+            <guid>https://finance.biggo.jp/podcast/2b2f66e393cc7860</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[コンテキストへの計算スケーリング — Jack Morris, Engram]]></title>
+            <link>https://finance.biggo.jp/podcast/bf1b5283d015c5ed</link>
+            <guid>https://finance.biggo.jp/podcast/bf1b5283d015c5ed</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[長時間稼働リサーチエージェントのためのメモリーハーネス — Stefania Druga（Sakana.ai）]]></title>
             <link>https://finance.biggo.jp/podcast/40991457ac44d9d2</link>
             <guid>https://finance.biggo.jp/podcast/40991457ac44d9d2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[YコンビネーターCEOが語る、AI時代のファウンダー心理学]]></title>
+            <title><![CDATA[Garry Tanがファウンダーにごっこ遊びをやめるべきと語る理由]]></title>
             <link>https://finance.biggo.jp/podcast/a0cb3e82b6cbedd7</link>
             <guid>https://finance.biggo.jp/podcast/a0cb3e82b6cbedd7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,31 +52,31 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[見過ごされがちな3つの優良ビジネス]]></title>
+            <title><![CDATA[身の回りに隠れた一攫千金のチャンスの見つけ方]]></title>
             <link>https://finance.biggo.jp/podcast/cb7cf3fcb7e11fd5</link>
             <guid>https://finance.biggo.jp/podcast/cb7cf3fcb7e11fd5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's Actually Inside an RL Environment | Mercor's Brendan Foody]]></title>
+            <title><![CDATA[RL環境の構築方法、そしてなぜそれがAIモートになるのか | Brendan Foody, Mercor]]></title>
             <link>https://finance.biggo.jp/podcast/4135dc09c35e841c</link>
             <guid>https://finance.biggo.jp/podcast/4135dc09c35e841c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Touring Neros’ 250,000 Sq. Ft. Defense Factory]]></title>
+            <title><![CDATA[Nerosの25万平方フィートの防衛工場を見学]]></title>
             <link>https://finance.biggo.jp/podcast/d2d156f54f6cc983</link>
             <guid>https://finance.biggo.jp/podcast/d2d156f54f6cc983</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Khabib Nurmagomedov FULL Interview | Lex Fridman Podcast #500]]></title>
+            <title><![CDATA[Khabib Nurmagomedov フルインタビュー | Lex Fridman Podcast #500]]></title>
             <link>https://finance.biggo.jp/podcast/189a2a9744af3509</link>
             <guid>https://finance.biggo.jp/podcast/189a2a9744af3509</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When (and How) to Post-Train Your Own AI Models | Lin Qiao, Fireworks]]></title>
+            <title><![CDATA[いつ、どのように自前のAIモデルをポストトレーニングするか | Lin Qiao, Fireworks]]></title>
             <link>https://finance.biggo.jp/podcast/0d87dcd94a593979</link>
             <guid>https://finance.biggo.jp/podcast/0d87dcd94a593979</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[Neros CEO：2億5000万ドル調達、100万台のドローン、サプライチェーンの脱中国化]]></title>
             <link>https://finance.biggo.jp/podcast/0822c14a57fcbb37</link>
             <guid>https://finance.biggo.jp/podcast/0822c14a57fcbb37</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claudeのマネージドエージェントとエージェントサーフェスの進化 — Gagan Bhat & Isabella Kai He（Anthropic）]]></title>
-            <link>https://finance.biggo.jp/podcast/9149a49293cafcf7</link>
-            <guid>https://finance.biggo.jp/podcast/9149a49293cafcf7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ボストンから生中継：製薬業界の中国に対する見方]]></title>
-            <link>https://finance.biggo.jp/podcast/02706d101f78666b</link>
-            <guid>https://finance.biggo.jp/podcast/02706d101f78666b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ボストンから生中継：投資家の算盤と産業の優先順位？]]></title>
-            <link>https://finance.biggo.jp/podcast/84dfee448c8f4dfa</link>
-            <guid>https://finance.biggo.jp/podcast/84dfee448c8f4dfa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

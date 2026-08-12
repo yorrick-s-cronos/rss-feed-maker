@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[行政長官深切悼念國務院原總理朱鎔基]]></title>
+            <link>https://www.wenweipo.com/a/202608/12/AP6a7c97b4e4b0c1e500249c13.html</link>
+            <guid>https://www.wenweipo.com/a/202608/12/AP6a7c97b4e4b0c1e500249c13.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[行政長官李家超今日（12日）就國務院原總理朱鎔基先生逝世表示深切哀悼。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[屯門新咖啡灣遇溺南亞裔夫婦 先後不治]]></title>
+            <link>https://www.wenweipo.com/a/202608/12/AP6a7c96a4e4b0c1e500249c10.html</link>
+            <guid>https://www.wenweipo.com/a/202608/12/AP6a7c96a4e4b0c1e500249c10.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[屯門新咖啡灣泳灘上周五（7日）晚上8時許發生遇溺意外，一對持有香港身份證南亞裔夫婦遇溺昏迷，由消防員救起送往屯門醫院搶救。其中20歲妻子在8日中午證實不治，23歲丈夫延至今日（12日）下午3時許亦不治。]]></description>
+        </item>
+        <item>
             <title><![CDATA[（有片）載47學童旅巴駛入城隧僅5秒失事 司機昏迷車身擦撞石壆片段曝光]]></title>
             <link>https://www.wenweipo.com/a/202608/12/AP6a7c9568e4b0c1e500249bfc.html</link>
             <guid>https://www.wenweipo.com/a/202608/12/AP6a7c9568e4b0c1e500249bfc.html</guid>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/12/AP6a7c5c5ce4b0c1e500249569.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日下午，「嶺藝一脈 承古啟今」水墨畫展開幕式在中環大會堂舉行。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[民青局青年初創實習計劃結業　同學讚收穫圓滿]]></title>
-            <link>https://www.wenweipo.com/a/202608/12/AP6a7c5ae7e4b0c1e500249541.html</link>
-            <guid>https://www.wenweipo.com/a/202608/12/AP6a7c5ae7e4b0c1e500249541.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[民政及青年事務局常任秘書長李百全今日到訪香港科技園，出席由民青局與科技園合辦的「民青局青年初創實習計劃」結業禮，聽取同學過去幾個月的實習成果，並感謝科技園及一眾初創企業僱主對計劃的支持。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WTT欧洲大满贯瑞典站混双1/8决赛　黄镇廷/杜凯琹3比0晉級]]></title>
-            <link>https://www.wenweipo.com/a/202608/12/AP6a7c584ee4b0c1e5002494fd.html</link>
-            <guid>https://www.wenweipo.com/a/202608/12/AP6a7c584ee4b0c1e5002494fd.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[WTT欧洲大满贯瑞典站混双1/8决赛，黄镇廷/杜凯琹組合3-0戰勝皮斯特耶/库库洛娃，比分為11-6，11-6，11-6。]]></description>
         </item>
     </channel>
 </rss>

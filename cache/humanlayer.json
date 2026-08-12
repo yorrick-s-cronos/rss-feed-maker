@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-12T15:51:33.126Z",
-  "articleCount": 9,
+  "lastSuccess": "2026-08-12T16:46:58.210Z",
+  "articleCount": 10,
   "knownLinks": [
+    "https://www.humanlayer.dev/blog/show-me-skill",
     "https://www.humanlayer.dev/blog/context-forking-to-save-time-trouble-and-tokens",
     "https://www.humanlayer.dev/blog/long-context-isnt-the-answer",
     "https://www.humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md",
