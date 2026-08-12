@@ -1,8 +1,9 @@
 {
-  "lastSuccess": "2026-08-12T12:44:46.159Z",
+  "lastSuccess": "2026-08-12T14:14:04.595Z",
   "articleCount": 25,
   "knownLinks": [
     "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
     "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
@@ -25,8 +26,7 @@
     "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
-    "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
-    "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/"
+    "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/"
   ],
   "consecutiveErrors": 0
 }
