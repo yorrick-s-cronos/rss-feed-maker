@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[継続学習を企業にもたらす — Samuel Denton（Applied Compute）]]></title>
+            <link>https://finance.biggo.jp/podcast/64e996d7aec81bc5</link>
+            <guid>https://finance.biggo.jp/podcast/64e996d7aec81bc5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ウェリントンのジーン・ハインズ氏が語る投資の技術と新市場の発見]]></title>
+            <link>https://finance.biggo.jp/podcast/6eb1a8a945430576</link>
+            <guid>https://finance.biggo.jp/podcast/6eb1a8a945430576</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[怠惰な方法：月1万ドルを稼ぐアプリの作り方]]></title>
+            <link>https://finance.biggo.jp/podcast/c7c7b6251aaa7e24</link>
+            <guid>https://finance.biggo.jp/podcast/c7c7b6251aaa7e24</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[LLMナレッジベース：実践ガイド — Ben Holmes（Warp）]]></title>
             <link>https://finance.biggo.jp/podcast/e8b981bf874027ef</link>
             <guid>https://finance.biggo.jp/podcast/e8b981bf874027ef</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[マイクロソフトCTOケビン・スコットが語る、エージェント向けに作られたインターネットのビジョン（ポッドキャストベスト版）]]></title>
+            <title><![CDATA[Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)]]></title>
             <link>https://finance.biggo.jp/podcast/4727cfa1620d4da9</link>
             <guid>https://finance.biggo.jp/podcast/4727cfa1620d4da9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[いつ、どのように自前のAIモデルをポストトレーニングするか | Lin Qiao, Fireworks]]></title>
             <link>https://finance.biggo.jp/podcast/0d87dcd94a593979</link>
             <guid>https://finance.biggo.jp/podcast/0d87dcd94a593979</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ギリアドがどのようにして耐久性のある腫瘍学および免疫学フランチャイズを構築しているか]]></title>
-            <link>https://finance.biggo.jp/podcast/900b36606def81ff</link>
-            <guid>https://finance.biggo.jp/podcast/900b36606def81ff</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🔬生物学はソフトウェアになりつつある — Matt McPartlon と Neil Patil、Chai Discovery]]></title>
-            <link>https://finance.biggo.jp/podcast/e8646f1beb0a29fc</link>
-            <guid>https://finance.biggo.jp/podcast/e8646f1beb0a29fc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYSEでのコンピュート取引、Sergey BrinがGeminiの指揮を再び執る、ボットがウェブの57%を占める w/ Kush Bavaria | EP 278]]></title>
-            <link>https://finance.biggo.jp/podcast/c639976850fd80a7</link>
-            <guid>https://finance.biggo.jp/podcast/c639976850fd80a7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

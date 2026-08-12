@@ -1,5 +1,5 @@
 {
-  "lastSuccess": "2026-08-12T16:47:31.631Z",
+  "lastSuccess": "2026-08-12T18:49:32.288Z",
   "articleCount": 50,
   "knownLinks": [
     "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-2",
@@ -53,6 +53,5 @@
     "https://github.com/openclaw/openclaw/releases/tag/v2026.5.28-beta.3",
     "https://github.com/openclaw/openclaw/releases/tag/v2026.5.28-beta.2"
   ],
-  "consecutiveErrors": 1,
-  "lastError": "3/3 links unreachable"
+  "consecutiveErrors": 0
 }
