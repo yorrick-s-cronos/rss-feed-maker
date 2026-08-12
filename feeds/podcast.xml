@@ -10,6 +10,36 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Y Combinator CEOが語る、AI時代の創業者の心理]]></title>
+            <link>https://finance.biggo.jp/podcast/20cd523c71a6f740</link>
+            <guid>https://finance.biggo.jp/podcast/20cd523c71a6f740</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェント改善はデータマイニング問題である — Vivek Trivedy（LangChain）]]></title>
+            <link>https://finance.biggo.jp/podcast/351623799c3a1ca3</link>
+            <guid>https://finance.biggo.jp/podcast/351623799c3a1ca3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全メモリシステム研究から得た教訓 — 独立研究者 Shlok Khemani]]></title>
+            <link>https://finance.biggo.jp/podcast/21c6a495ef5a2b19</link>
+            <guid>https://finance.biggo.jp/podcast/21c6a495ef5a2b19</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pixel 11 と Pixel Watch 5：私たちの第一印象 | The Vergecast ライブ配信]]></title>
+            <link>https://finance.biggo.jp/podcast/031a81d0243eb9d2</link>
+            <guid>https://finance.biggo.jp/podcast/031a81d0243eb9d2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントの設計（フロアこそが最前線）— Ben Hylak, Raindrop]]></title>
+            <link>https://finance.biggo.jp/podcast/12c612072f4caad8</link>
+            <guid>https://finance.biggo.jp/podcast/12c612072f4caad8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[継続学習を企業にもたらす — Samuel Denton（Applied Compute）]]></title>
             <link>https://finance.biggo.jp/podcast/64e996d7aec81bc5</link>
             <guid>https://finance.biggo.jp/podcast/64e996d7aec81bc5</guid>
@@ -22,7 +52,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[怠惰な方法：月1万ドルを稼ぐアプリの作り方]]></title>
+            <title><![CDATA[ずぼらな方法で月1万ドル稼ぐアプリを作った]]></title>
             <link>https://finance.biggo.jp/podcast/c7c7b6251aaa7e24</link>
             <guid>https://finance.biggo.jp/podcast/c7c7b6251aaa7e24</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,7 +64,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)]]></title>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2538 - ジョー・デローザ]]></title>
+            <link>https://finance.biggo.jp/podcast/2f794550103e0021</link>
+            <guid>https://finance.biggo.jp/podcast/2f794550103e0021</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MicrosoftのCTO Kevin Scottが語る、エージェント向けインターネットのビジョン（ベスト・オブ・ザ・ポッド）]]></title>
             <link>https://finance.biggo.jp/podcast/4727cfa1620d4da9</link>
             <guid>https://finance.biggo.jp/podcast/4727cfa1620d4da9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -64,7 +100,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chelsea Finn: Robotics Is Close To A ChatGPT Moment]]></title>
+            <title><![CDATA[Chelsea Finn：ロボットRLにおける700日問題]]></title>
             <link>https://finance.biggo.jp/podcast/ca22a9d47495d90e</link>
             <guid>https://finance.biggo.jp/podcast/ca22a9d47495d90e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -91,42 +127,6 @@
             <title><![CDATA[継続学習のスケールアップ — Ronak Malde（Trajectory）]]></title>
             <link>https://finance.biggo.jp/podcast/dbf6d45da8ffc912</link>
             <guid>https://finance.biggo.jp/podcast/dbf6d45da8ffc912</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[静的知能を超えて：継続学習の評価 — パース・アサワ（UCバークレー）]]></title>
-            <link>https://finance.biggo.jp/podcast/bc7499c2da3f42f3</link>
-            <guid>https://finance.biggo.jp/podcast/bc7499c2da3f42f3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Completely legal businesses making bank right now]]></title>
-            <link>https://finance.biggo.jp/podcast/cb7cf3fcb7e11fd5</link>
-            <guid>https://finance.biggo.jp/podcast/cb7cf3fcb7e11fd5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RL環境の構築方法、そしてなぜそれがAIモートになるのか | Brendan Foody, Mercor]]></title>
-            <link>https://finance.biggo.jp/podcast/4135dc09c35e841c</link>
-            <guid>https://finance.biggo.jp/podcast/4135dc09c35e841c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nerosの25万平方フィートの防衛工場を見学]]></title>
-            <link>https://finance.biggo.jp/podcast/d2d156f54f6cc983</link>
-            <guid>https://finance.biggo.jp/podcast/d2d156f54f6cc983</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khabib Nurmagomedov フルインタビュー | Lex Fridman Podcast #500]]></title>
-            <link>https://finance.biggo.jp/podcast/189a2a9744af3509</link>
-            <guid>https://finance.biggo.jp/podcast/189a2a9744af3509</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[いつ、どのように自前のAIモデルをポストトレーニングするか | Lin Qiao, Fireworks]]></title>
-            <link>https://finance.biggo.jp/podcast/0d87dcd94a593979</link>
-            <guid>https://finance.biggo.jp/podcast/0d87dcd94a593979</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
