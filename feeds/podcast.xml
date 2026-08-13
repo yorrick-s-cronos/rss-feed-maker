@@ -10,13 +10,37 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[DeepSeek、Kimiから「黄仁勲連合」まで：AIモデルのオープンソース化、実際に「開かれた」ものとは？]]></title>
+            <link>https://finance.biggo.jp/podcast/9a6fa88e5e04ab8e</link>
+            <guid>https://finance.biggo.jp/podcast/9a6fa88e5e04ab8e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ラーム・エマニュエル：トランプの外交政策、中国、欧州の衰退、移民、そしてDSA対民主党]]></title>
+            <link>https://finance.biggo.jp/podcast/10acbeca672a828b</link>
+            <guid>https://finance.biggo.jp/podcast/10acbeca672a828b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[メモリの未来サミットの内幕とAMDの「退屈な」強気姿勢]]></title>
+            <link>https://finance.biggo.jp/podcast/bdacf6e6e0fca17b</link>
+            <guid>https://finance.biggo.jp/podcast/bdacf6e6e0fca17b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[150. 英偉達研究副總裁劉洺堉への4時間インタビュー：Cosmos 3、世界モデル、武術、黃仁勳が私に与えた影響、そして全ての敵を倒す必要はない]]></title>
             <link>https://finance.biggo.jp/podcast/f87896b9872dba7c</link>
             <guid>https://finance.biggo.jp/podcast/f87896b9872dba7c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The New Rules for Founders | Garry Tan on a16z]]></title>
+            <title><![CDATA[米国・日本による為替介入が円、金利、ドルに与える影響]]></title>
+            <link>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</link>
+            <guid>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ファウンダーの新ルール｜Garry Tan（a16z）]]></title>
             <link>https://finance.biggo.jp/podcast/20cd523c71a6f740</link>
             <guid>https://finance.biggo.jp/podcast/20cd523c71a6f740</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[知能＋継続学習＝専門性 — Yu Su、NeoCognition]]></title>
             <link>https://finance.biggo.jp/podcast/1359aaec3c8ed9d4</link>
             <guid>https://finance.biggo.jp/podcast/1359aaec3c8ed9d4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea Finn：ロボットRLにおける700日問題]]></title>
-            <link>https://finance.biggo.jp/podcast/ca22a9d47495d90e</link>
-            <guid>https://finance.biggo.jp/podcast/ca22a9d47495d90e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[バイオテック業界の現状と業界を形作る決断]]></title>
-            <link>https://finance.biggo.jp/podcast/2b2f66e393cc7860</link>
-            <guid>https://finance.biggo.jp/podcast/2b2f66e393cc7860</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[コンテキストへの計算スケーリング — Jack Morris, Engram]]></title>
-            <link>https://finance.biggo.jp/podcast/bf1b5283d015c5ed</link>
-            <guid>https://finance.biggo.jp/podcast/bf1b5283d015c5ed</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[長時間稼働リサーチエージェントのためのメモリーハーネス — Stefania Druga（Sakana.ai）]]></title>
-            <link>https://finance.biggo.jp/podcast/40991457ac44d9d2</link>
-            <guid>https://finance.biggo.jp/podcast/40991457ac44d9d2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
