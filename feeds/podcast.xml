@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Why Garry Tan Says Founders Should Stop LARPing]]></title>
+            <title><![CDATA[150. 英偉達研究副總裁劉洺堉への4時間インタビュー：Cosmos 3、世界モデル、武術、黃仁勳が私に与えた影響、そして全ての敵を倒す必要はない]]></title>
+            <link>https://finance.biggo.jp/podcast/f87896b9872dba7c</link>
+            <guid>https://finance.biggo.jp/podcast/f87896b9872dba7c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The New Rules for Founders | Garry Tan on a16z]]></title>
             <link>https://finance.biggo.jp/podcast/20cd523c71a6f740</link>
             <guid>https://finance.biggo.jp/podcast/20cd523c71a6f740</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[長時間稼働リサーチエージェントのためのメモリーハーネス — Stefania Druga（Sakana.ai）]]></title>
             <link>https://finance.biggo.jp/podcast/40991457ac44d9d2</link>
             <guid>https://finance.biggo.jp/podcast/40991457ac44d9d2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[継続学習のスケールアップ — Ronak Malde（Trajectory）]]></title>
-            <link>https://finance.biggo.jp/podcast/dbf6d45da8ffc912</link>
-            <guid>https://finance.biggo.jp/podcast/dbf6d45da8ffc912</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
