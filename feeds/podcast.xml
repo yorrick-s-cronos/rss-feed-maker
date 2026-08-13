@@ -10,7 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ビットコインが純粋主義者を拒絶した]]></title>
+            <title><![CDATA[独自エージェントハーネスを構築すべき時 | Harrison Chase, LangChain]]></title>
+            <link>https://finance.biggo.jp/podcast/9d27ef1087dda572</link>
+            <guid>https://finance.biggo.jp/podcast/9d27ef1087dda572</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[xAIがついに追いついた（Grok 4.6登場）]]></title>
+            <link>https://finance.biggo.jp/podcast/4d3cb9ad8d52fbff</link>
+            <guid>https://finance.biggo.jp/podcast/4d3cb9ad8d52fbff</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin’s Civil War Ended in 2 Blocks]]></title>
             <link>https://finance.biggo.jp/podcast/cee5b048e6655a0e</link>
             <guid>https://finance.biggo.jp/podcast/cee5b048e6655a0e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[ジョー・ローガン・エクスペリエンス #2538 - ジョー・デローザ]]></title>
             <link>https://finance.biggo.jp/podcast/2f794550103e0021</link>
             <guid>https://finance.biggo.jp/podcast/2f794550103e0021</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MicrosoftのCTO Kevin Scottが語る、エージェント向けインターネットのビジョン（ベスト・オブ・ザ・ポッド）]]></title>
-            <link>https://finance.biggo.jp/podcast/4727cfa1620d4da9</link>
-            <guid>https://finance.biggo.jp/podcast/4727cfa1620d4da9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI開発への懐疑論をやめよう——Charity Majors氏と考える]]></title>
-            <link>https://finance.biggo.jp/podcast/587a995ea52ede2a</link>
-            <guid>https://finance.biggo.jp/podcast/587a995ea52ede2a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
