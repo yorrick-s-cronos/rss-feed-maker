@@ -10,6 +10,12 @@
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions]]></title>
+            <link>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</link>
+            <guid>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Claude Tag now reads even more of the room]]></title>
             <link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
             <guid>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</guid>
@@ -92,12 +98,6 @@
             <link>https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case</link>
             <guid>https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case</guid>
             <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four role-based certifications for the people who put Claude to work for customers]]></title>
-            <link>https://claude.com/blog/four-role-based-claude-certifications</link>
-            <guid>https://claude.com/blog/four-role-based-claude-certifications</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

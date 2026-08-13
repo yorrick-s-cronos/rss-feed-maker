@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-13T16:45:19.396Z",
+  "lastSuccess": "2026-08-13T18:50:13.255Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
     "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
     "https://claude.com/blog/cowork-chrome-side-panel",
     "https://claude.com/blog/compliance-api-cowork-and-claude-code",
@@ -15,9 +16,7 @@
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
     "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
     "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
-    "https://claude.com/blog/four-role-based-claude-certifications"
+    "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case"
   ],
-  "consecutiveErrors": 1,
-  "lastError": "Failed to fetch https://claude.com/blog: HTTP 403 — site is protected by Cloudflare bot detection (cf-mitigated: challenge). This site cannot be scraped with static HTTP requests."
+  "consecutiveErrors": 0
 }
