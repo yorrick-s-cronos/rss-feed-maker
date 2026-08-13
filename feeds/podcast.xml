@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sleep Apnea Expert: Most People Who Have This Silent Killer Will NEVER Find Out! | Dr Andy Galpin]]></title>
+            <link>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</link>
+            <guid>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DeepSeek、Kimiから「黄仁勲連合」まで：AIモデルのオープンソース化、実際に「開かれた」ものとは？]]></title>
             <link>https://finance.biggo.jp/podcast/9a6fa88e5e04ab8e</link>
             <guid>https://finance.biggo.jp/podcast/9a6fa88e5e04ab8e</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[スコット・ギャロウェイ：なぜ私がヨーロッパに移住したのか｜オフィスアワー]]></title>
             <link>https://finance.biggo.jp/podcast/67d5bd2454ded0a0</link>
             <guid>https://finance.biggo.jp/podcast/67d5bd2454ded0a0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[知能＋継続学習＝専門性 — Yu Su、NeoCognition]]></title>
-            <link>https://finance.biggo.jp/podcast/1359aaec3c8ed9d4</link>
-            <guid>https://finance.biggo.jp/podcast/1359aaec3c8ed9d4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
