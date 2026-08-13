@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[バーニーが研究所に停止を要求、ウォール街はGPUを債券に変える、Grok 4.7が首位に ft. エマド・モスタク]]></title>
+            <link>https://finance.biggo.jp/podcast/94d288087dec1c3f</link>
+            <guid>https://finance.biggo.jp/podcast/94d288087dec1c3f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブラッド・セッツァー氏が語る、米国の異例の円介入 | Odd Lots]]></title>
+            <link>https://finance.biggo.jp/podcast/e547379ba95a22d4</link>
+            <guid>https://finance.biggo.jp/podcast/e547379ba95a22d4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[コンシューマー化が製薬マーケティングをどう変えるか（スポンサー提供）]]></title>
             <link>https://finance.biggo.jp/podcast/59016113490c693e</link>
             <guid>https://finance.biggo.jp/podcast/59016113490c693e</guid>
@@ -46,7 +58,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[知性を自分のものにするのはハーネスから始まる | Harrison Chase, LangChain]]></title>
+            <title><![CDATA[Own Your Harness, Own Your Intelligence | Harrison Chase, LangChain]]></title>
             <link>https://finance.biggo.jp/podcast/9d27ef1087dda572</link>
             <guid>https://finance.biggo.jp/podcast/9d27ef1087dda572</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[エージェント改善はデータマイニング問題である — Vivek Trivedy（LangChain）]]></title>
             <link>https://finance.biggo.jp/podcast/351623799c3a1ca3</link>
             <guid>https://finance.biggo.jp/podcast/351623799c3a1ca3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全メモリシステム研究から得た教訓 — 独立研究者 Shlok Khemani]]></title>
-            <link>https://finance.biggo.jp/podcast/21c6a495ef5a2b19</link>
-            <guid>https://finance.biggo.jp/podcast/21c6a495ef5a2b19</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pixel 11 と Pixel Watch 5：私たちの第一印象 | The Vergecast ライブ配信]]></title>
-            <link>https://finance.biggo.jp/podcast/031a81d0243eb9d2</link>
-            <guid>https://finance.biggo.jp/podcast/031a81d0243eb9d2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

@@ -1,5 +1,5 @@
 {
-  "lastSuccess": "2026-08-13T18:50:22.425Z",
+  "lastSuccess": "2026-08-13T20:31:37.863Z",
   "articleCount": 20,
   "knownLinks": [
     "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
@@ -23,6 +23,5 @@
     "https://stability.ai/news-updates/introducing-our-new-svp-head-of-product-ryan-ellis",
     "https://stability.ai/news-updates/stability-ai-announces-investment-from-wpp-and-new-partnership-to-shape-the-future-of-media-and-entertainment-production"
   ],
-  "consecutiveErrors": 1,
-  "lastError": "Failed to fetch https://stability.ai/news: The operation was aborted."
+  "consecutiveErrors": 0
 }
