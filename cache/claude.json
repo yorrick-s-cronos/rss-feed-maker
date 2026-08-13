@@ -18,5 +18,6 @@
     "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
     "https://claude.com/blog/four-role-based-claude-certifications"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "Failed to fetch https://claude.com/blog: HTTP 403 — site is protected by Cloudflare bot detection (cf-mitigated: challenge). This site cannot be scraped with static HTTP requests."
 }
