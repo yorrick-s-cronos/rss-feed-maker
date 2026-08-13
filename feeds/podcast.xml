@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[なぜ私たちはセックスをしなくなっているのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</link>
+            <guid>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芝刈りをロボットに任せるべきか？| The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/bd9e9af85a1e25c1</link>
+            <guid>https://finance.biggo.jp/podcast/bd9e9af85a1e25c1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[バーニーが研究所に停止を要求、ウォール街はGPUを債券に変える、Grok 4.7が首位に ft. エマド・モスタク]]></title>
             <link>https://finance.biggo.jp/podcast/94d288087dec1c3f</link>
             <guid>https://finance.biggo.jp/podcast/94d288087dec1c3f</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[米国・日本による為替介入が円、金利、ドルに与える影響]]></title>
             <link>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</link>
             <guid>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ファウンダーの新ルール｜Garry Tan（a16z）]]></title>
-            <link>https://finance.biggo.jp/podcast/20cd523c71a6f740</link>
-            <guid>https://finance.biggo.jp/podcast/20cd523c71a6f740</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェント改善はデータマイニング問題である — Vivek Trivedy（LangChain）]]></title>
-            <link>https://finance.biggo.jp/podcast/351623799c3a1ca3</link>
-            <guid>https://finance.biggo.jp/podcast/351623799c3a1ca3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

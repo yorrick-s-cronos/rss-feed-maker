@@ -4,11 +4,49 @@
         <title>hermes-agent Releases</title>
         <link>https://github.com/NousResearch/hermes-agent/releases</link>
         <description>GitHub releases for NousResearch/hermes-agent</description>
-        <lastBuildDate>Mon, 03 Aug 2026 16:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 20:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/hermes-agent-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hermes Agent v0.20.1 (2026.8.13)]]></title>
+            <link>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.13</link>
+            <guid>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.13</guid>
+            <pubDate>Thu, 13 Aug 2026 20:37:37 GMT</pubDate>
+            <description><![CDATA[<h1>Hermes Agent v0.20.1 (v2026.8.13)</h1>
+<p><strong>Release Date:</strong> August 13, 2026</p>
+<blockquote>
+<p>Patch release. This tag rolls up the ~656 PRs merged since v0.20.0 into a stable tagged release for downstream consumers (Docker images, hosted deployments, and anyone installing from the latest tag).</p>
+</blockquote>
+<hr>
+<h2>About this release</h2>
+<p>Since v0.20.0 (August 3), this window landed <strong>1,444 commits</strong> across <strong>~656 merged PRs</strong>, touching <strong>2,172 files</strong> (+233,872 / −75,244), and closed <strong>~481 issues</strong>. It is a broad stabilization-and-fixes rollup spanning the desktop app, gateway platforms, installers, tool system, and provider catalogs.</p>
+<p><strong>Full curated release notes for this window will ship with v0.21.0</strong>, which will document everything from v0.20.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.</p>
+<h2>Updating</h2>
+<ul>
+<li>Existing installs: <code>hermes update</code></li>
+<li>Fresh install: see the installer one-liner in the <a href="https://github.com/NousResearch/hermes-agent#readme">README</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/NousResearch/hermes-agent/compare/v2026.8.3...v2026.8.13">v2026.8.3...v2026.8.13</a></p>
+]]></description>
+            <content:encoded><![CDATA[<h1>Hermes Agent v0.20.1 (v2026.8.13)</h1>
+<p><strong>Release Date:</strong> August 13, 2026</p>
+<blockquote>
+<p>Patch release. This tag rolls up the ~656 PRs merged since v0.20.0 into a stable tagged release for downstream consumers (Docker images, hosted deployments, and anyone installing from the latest tag).</p>
+</blockquote>
+<hr>
+<h2>About this release</h2>
+<p>Since v0.20.0 (August 3), this window landed <strong>1,444 commits</strong> across <strong>~656 merged PRs</strong>, touching <strong>2,172 files</strong> (+233,872 / −75,244), and closed <strong>~481 issues</strong>. It is a broad stabilization-and-fixes rollup spanning the desktop app, gateway platforms, installers, tool system, and provider catalogs.</p>
+<p><strong>Full curated release notes for this window will ship with v0.21.0</strong>, which will document everything from v0.20.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.</p>
+<h2>Updating</h2>
+<ul>
+<li>Existing installs: <code>hermes update</code></li>
+<li>Fresh install: see the installer one-liner in the <a href="https://github.com/NousResearch/hermes-agent#readme">README</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/NousResearch/hermes-agent/compare/v2026.8.3...v2026.8.13">v2026.8.3...v2026.8.13</a></p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hermes Agent v0.20.0 (2026.8.3)]]></title>
             <link>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.3</link>
