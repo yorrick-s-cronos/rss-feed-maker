@@ -10,19 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[なぜ私たちはセックスをしなくなっているのか？]]></title>
+            <title><![CDATA[Six Feet, Six Figures: The New Dating Bar]]></title>
             <link>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</link>
             <guid>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[芝刈りをロボットに任せるべきか？| The Vergecast]]></title>
+            <title><![CDATA[Roombas with razor blades | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/bd9e9af85a1e25c1</link>
             <guid>https://finance.biggo.jp/podcast/bd9e9af85a1e25c1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[バーニーが研究所に停止を要求、ウォール街はGPUを債券に変える、Grok 4.7が首位に ft. エマド・モスタク]]></title>
+            <title><![CDATA[「SaaSpocalypse」リスク、プライベートエクイティを超えて広がる]]></title>
+            <link>https://finance.biggo.jp/podcast/4d4211822906f501</link>
+            <guid>https://finance.biggo.jp/podcast/4d4211822906f501</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A $2M AI Movie Just Broke Hollywood, Grok 4.7 Takes #1 in 2 Weeks, NVIDIA's $500B Machine | EP #279]]></title>
             <link>https://finance.biggo.jp/podcast/94d288087dec1c3f</link>
             <guid>https://finance.biggo.jp/podcast/94d288087dec1c3f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +64,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[経験ギャップを埋める：なぜ賢いAIエージェントは仕事でまだ新人のように感じるのか | Trajectory]]></title>
+            <title><![CDATA[What Your AI Stack Needs Before Agents Can Learn | Arjun Karanam, Trajectory]]></title>
             <link>https://finance.biggo.jp/podcast/f2762f8b52cab985</link>
             <guid>https://finance.biggo.jp/podcast/f2762f8b52cab985</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[150. NVIDIA研究担当副社長劉洺堉への4時間インタビュー：カンフー、Cosmos 3、オープンソース世界モデル、黄仁勲、すべての競争相手に勝つ必要はない]]></title>
             <link>https://finance.biggo.jp/podcast/f87896b9872dba7c</link>
             <guid>https://finance.biggo.jp/podcast/f87896b9872dba7c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国・日本による為替介入が円、金利、ドルに与える影響]]></title>
-            <link>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</link>
-            <guid>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
