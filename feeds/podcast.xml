@@ -10,7 +10,37 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[独自エージェントハーネスを構築すべき時 | Harrison Chase, LangChain]]></title>
+            <title><![CDATA[営業戦略の選択：Lighthouse vs. Landgrab]]></title>
+            <link>https://finance.biggo.jp/podcast/245498cc65da1367</link>
+            <guid>https://finance.biggo.jp/podcast/245498cc65da1367</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canvaの成長鈍化 | Googleの才能流出 | Revolutの500億ドルCEO報酬 | マスク氏の550億ドルTerraFab]]></title>
+            <link>https://finance.biggo.jp/podcast/dbec4397e561461a</link>
+            <guid>https://finance.biggo.jp/podcast/dbec4397e561461a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is Fed Chair Kevin Warsh Trying to Say? | Trumponomics]]></title>
+            <link>https://finance.biggo.jp/podcast/1493e86510549080</link>
+            <guid>https://finance.biggo.jp/podcast/1493e86510549080</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Closing the Experience Gap: Why Smart AI Agents Still Feel New on the Job | Trajectory]]></title>
+            <link>https://finance.biggo.jp/podcast/f2762f8b52cab985</link>
+            <guid>https://finance.biggo.jp/podcast/f2762f8b52cab985</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Innovaccerの自律型医療を支えるデータ層への賭け]]></title>
+            <link>https://finance.biggo.jp/podcast/fd391fb51c74776b</link>
+            <guid>https://finance.biggo.jp/podcast/fd391fb51c74776b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知性を自分のものにするのはハーネスから始まる | Harrison Chase, LangChain]]></title>
             <link>https://finance.biggo.jp/podcast/9d27ef1087dda572</link>
             <guid>https://finance.biggo.jp/podcast/9d27ef1087dda572</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -22,7 +52,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin’s Civil War Ended in 2 Blocks]]></title>
+            <title><![CDATA[ビットコインの内戦は2ブロックで終わった]]></title>
             <link>https://finance.biggo.jp/podcast/cee5b048e6655a0e</link>
             <guid>https://finance.biggo.jp/podcast/cee5b048e6655a0e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,7 +64,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[減量科学者: 体重を減らすのは簡単、でもあなたができない理由はこれだ！ | Dr Andy Galpin]]></title>
+            <title><![CDATA[Sleep Expert: The REAL Reason You're Always Exhausted! (And How To Fix It!) | Dr Andy Galpin]]></title>
             <link>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</link>
             <guid>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[エージェントの設計（フロアこそが最前線）— Ben Hylak, Raindrop]]></title>
             <link>https://finance.biggo.jp/podcast/12c612072f4caad8</link>
             <guid>https://finance.biggo.jp/podcast/12c612072f4caad8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[継続学習を企業にもたらす — Samuel Denton（Applied Compute）]]></title>
-            <link>https://finance.biggo.jp/podcast/64e996d7aec81bc5</link>
-            <guid>https://finance.biggo.jp/podcast/64e996d7aec81bc5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ウェリントンのジーン・ハインズ氏が語る投資の技術と新市場の発見]]></title>
-            <link>https://finance.biggo.jp/podcast/6eb1a8a945430576</link>
-            <guid>https://finance.biggo.jp/podcast/6eb1a8a945430576</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ずぼらな方法で月1万ドル稼ぐアプリを作った]]></title>
-            <link>https://finance.biggo.jp/podcast/c7c7b6251aaa7e24</link>
-            <guid>https://finance.biggo.jp/podcast/c7c7b6251aaa7e24</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LLMナレッジベース：実践ガイド — Ben Holmes（Warp）]]></title>
-            <link>https://finance.biggo.jp/podcast/e8b981bf874027ef</link>
-            <guid>https://finance.biggo.jp/podcast/e8b981bf874027ef</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2538 - ジョー・デローザ]]></title>
-            <link>https://finance.biggo.jp/podcast/2f794550103e0021</link>
-            <guid>https://finance.biggo.jp/podcast/2f794550103e0021</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
