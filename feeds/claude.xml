@@ -22,6 +22,12 @@
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5]]></title>
+            <link>https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</link>
+            <guid>https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Claude in Chrome side panel is now Claude Cowork]]></title>
             <link>https://claude.com/blog/cowork-chrome-side-panel</link>
             <guid>https://claude.com/blog/cowork-chrome-side-panel</guid>
@@ -91,12 +97,6 @@
             <title><![CDATA[The new rules of context engineering for Claude 5 generation models]]></title>
             <link>https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</link>
             <guid>https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</guid>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude models explained: choosing the best model for your use case]]></title>
-            <link>https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case</link>
-            <guid>https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case</guid>
             <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

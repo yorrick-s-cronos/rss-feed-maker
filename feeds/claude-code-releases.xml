@@ -4,11 +4,123 @@
         <title>claude-code Releases</title>
         <link>https://github.com/anthropics/claude-code/releases</link>
         <description>GitHub releases for anthropics/claude-code</description>
-        <lastBuildDate>Thu, 13 Aug 2026 08:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 23:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v2.1.232]]></title>
+            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.232</link>
+            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.232</guid>
+            <pubDate>Thu, 13 Aug 2026 23:29:59 GMT</pubDate>
+            <description><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Subagent forking is now on by default: a <code>subagent_type: &quot;fork&quot;</code> subagent inherits the full conversation and prompt cache, and non-teammate agent spawns in interactive sessions now run in the background by default</li>
+<li>Type <code>@</code> in the prompt to mention another Claude session by name; Claude then uses <code>SendMessage</code> to reach that session directly</li>
+<li><code>SendMessage</code> now delivers to a bare name that exactly matches one live session, instead of asking to confirm with a ref first</li>
+<li>Interactive sessions on one machine now keep unique names: starting or renaming a session to a name another live session already uses gives it a <code>name-word-word</code> variant and tells you</li>
+<li>Added <code>/config</code> rows for &quot;Dialog expiry&quot; and &quot;Messages from your other sessions&quot; (cross-session inbound accept/hold/refuse)</li>
+<li>Added secret redaction for GitLab token families (<code>glrt-</code>, <code>gloas-</code>, <code>glptt-</code>, <code>glagent-</code>, <code>glimt-</code>, <code>glsoat-</code>, <code>glcbt-</code>, <code>glft-</code>, <code>glffct-</code>) and full redaction of routable <code>glpat-</code>/<code>gldt-</code> tokens; the <code>glab</code> CLI config store gets the same sandbox and credential-path protection as <code>gh</code></li>
+<li>Added GitLab support to plugin marketplaces: bare <code>gitlab.com</code> repo URLs (including nested subgroups) now clone like <code>github.com</code> URLs, and clone auth-failure hints name your actual git host</li>
+<li>Settings: <code>additionalMarketplaces</code> and <code>allowedMarketplaces</code> are now accepted as friendlier aliases for <code>extraKnownMarketplaces</code> and <code>strictKnownMarketplaces</code></li>
+<li>Enterprise policy: a url-typed <code>blockedMarketplaces</code> entry for a bare repo URL keeps blocking that URL when the CLI classifies it as a git clone</li>
+<li>Gateway: the <code>desktop:</code> overlay now accepts every released Desktop setting (was 11 hand-listed keys), validated at boot against Desktop&#39;s own schema; unknown or invalid keys fail boot</li>
+<li>Gateway: empty <code>managed.policies[].match.groups</code>/<code>admin.admin_groups</code> entries and malformed <code>email_domain</code> values (empty, or containing <code>@</code>, whitespace, or commas) now fail at boot instead of silently matching no one or granting admin access</li>
+<li>Fable 5 is offered as an advisor in <code>/advisor</code> again for organizations with Fable access, with usage-credits consent set up through <code>/model fable</code></li>
+<li>Fixed a PowerShell permission bypass where variable-writing parameters could silently overwrite <code>$PSDefaultParameterValues</code> and redirect later commands&#39; file access</li>
+<li>Fixed a Windows permission bypass where Git Bash followed Cygwin-style symlinks that path validation saw as regular files; writes through them now require permission approval</li>
+<li>Fixed nested git repositories inheriting trust from a parent directory; each repository now requires its own trust confirmation</li>
+<li>Fixed MCP connections hanging for the full 30-second connect timeout when a server fails to answer or sends a malformed reply to the protocol-version probe</li>
+<li>Fixed Remote Control sessions hosted by a bridge inside a cloud session inheriting that session&#39;s transcript or credentials</li>
+<li>Fixed Remote Control sessions started from Claude Desktop or an IDE appearing as a new claude.ai session each time the local session was resumed; they now reattach to the existing one</li>
+<li>Fixed Remote Control sessions appearing unreachable to newly attached clients while idle</li>
+<li>Fixed Remote Control bridge sessions not restoring conversation history when the session worker restarts</li>
+<li>Remote Control: resuming a conversation whose session was deleted from claude.ai or the app now starts a replacement instead of failing with a message about your login (regressed in v2.1.227)</li>
+<li>Fixed Cloud gateway <code>/login</code> exiting silently or leaving an unresponsive terminal after &quot;Press Enter to continue&quot; when managed settings failed to load; the reason is now shown</li>
+<li>Fixed voice mode on native builds getting stuck on &quot;listening…&quot; when the voice service rejected the connection; the rejection is now shown immediately</li>
+<li>Fixed mTLS client certificate rotation requiring a restart; Claude Code now reloads the rotated cert and key automatically on connection errors</li>
+<li>Fixed malformed AWS or Vertex region values being used to build request URLs; they now fall back to the default region</li>
+<li>Fixed stream idle timeout errors failing the request instead of recovering on Bedrock, Vertex, and gateway deployments</li>
+<li>Fixed content-sized overlays containing truncated text rendering one column too wide, and start-truncated text collapsing to an ellipsis</li>
+<li>Fixed a stray garbled character where a long shell-command or agent-description preview was cut off mid-emoji</li>
+<li>Fixed a startup race that could silently unregister a plugin marketplace due to concurrent writes to <code>known_marketplaces.json</code></li>
+<li>Fixed <code>/update</code> and <code>/tui</code> refusing to restart while work that survives the relaunch was running</li>
+<li>Fixed usage-limit guidance suggesting unavailable slash commands in SDK and remote sessions</li>
+<li>Fixed the consent message for interactive <code>--advisor fable</code> launches, which told you to run <code>/model fable</code> in an interactive session that had just exited</li>
+<li>Improved fullscreen streaming: long sessions stay responsive because the whole conversation is no longer re-normalized on every update</li>
+<li>Improved the managed settings approval dialog: shows endpoint URLs, uses clearer wording for telemetry-only changes, skips routine OpenTelemetry options, and requires approval for server-managed sandbox binary overrides (<code>sandbox.bwrapPath</code>, <code>sandbox.socatPath</code>, <code>sandbox.ripgrep</code>)</li>
+<li><code>/feedback</code> and <code>/bug</code> now open immediately when invoked while Claude is responding, instead of waiting for the turn to finish</li>
+<li><code>/plugin install plugin@marketplace</code> now refreshes the marketplace first, so newly published plugins install without a manual marketplace update</li>
+<li><code>/code-review</code> at high, xhigh, and max effort now runs in a background agent like the other levels</li>
+<li>Pasted and clipboard images are read without blocking the event loop</li>
+<li>Remote Control now keeps reconnecting for about 30 minutes after a network blip and no longer drops after a few blips spread across an hour</li>
+<li>Remote Control: resuming a conversation no longer silently takes Remote Control away from another Claude Code on the same machine that still has it; run <code>/remote-control</code> there to move it</li>
+<li>Updated agent panel: completed subagents hide immediately with a <code>/tasks</code> footer hint, and the &quot;↓ N more&quot; overflow indicator moved left for visibility</li>
+<li>Remote Control: the terminal now says whether a session was taken over by another device, ended from another app, or deleted, and stops suggesting a reconnect that would undo it</li>
+<li>Bash input redirections (<code>&lt; file</code>) are now permission-checked like their argument spellings on all platforms</li>
+<li>Shortened the message shown when resuming a completed background agent</li>
+<li>Cowork sessions no longer inline external @-imports from user-scope memory files</li>
+<li>Hardened the auto-generated cross-session messaging socket directory on shared <code>/tmp</code>: a pre-planted symlink or another user&#39;s directory is now refused instead of used</li>
+<li>Hardened the Linux filesystem sandbox against a protected-path bypass</li>
+<li>Changed <code>sandbox.ripgrep</code> to be honored only from user, managed, and <code>--settings</code> settings; project settings can no longer override the sandbox&#39;s ripgrep binary</li>
+<li>Removed the startup tip suggesting you create custom subagents, and the matching nudge in the <code>/powerup</code> tour</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Subagent forking is now on by default: a <code>subagent_type: &quot;fork&quot;</code> subagent inherits the full conversation and prompt cache, and non-teammate agent spawns in interactive sessions now run in the background by default</li>
+<li>Type <code>@</code> in the prompt to mention another Claude session by name; Claude then uses <code>SendMessage</code> to reach that session directly</li>
+<li><code>SendMessage</code> now delivers to a bare name that exactly matches one live session, instead of asking to confirm with a ref first</li>
+<li>Interactive sessions on one machine now keep unique names: starting or renaming a session to a name another live session already uses gives it a <code>name-word-word</code> variant and tells you</li>
+<li>Added <code>/config</code> rows for &quot;Dialog expiry&quot; and &quot;Messages from your other sessions&quot; (cross-session inbound accept/hold/refuse)</li>
+<li>Added secret redaction for GitLab token families (<code>glrt-</code>, <code>gloas-</code>, <code>glptt-</code>, <code>glagent-</code>, <code>glimt-</code>, <code>glsoat-</code>, <code>glcbt-</code>, <code>glft-</code>, <code>glffct-</code>) and full redaction of routable <code>glpat-</code>/<code>gldt-</code> tokens; the <code>glab</code> CLI config store gets the same sandbox and credential-path protection as <code>gh</code></li>
+<li>Added GitLab support to plugin marketplaces: bare <code>gitlab.com</code> repo URLs (including nested subgroups) now clone like <code>github.com</code> URLs, and clone auth-failure hints name your actual git host</li>
+<li>Settings: <code>additionalMarketplaces</code> and <code>allowedMarketplaces</code> are now accepted as friendlier aliases for <code>extraKnownMarketplaces</code> and <code>strictKnownMarketplaces</code></li>
+<li>Enterprise policy: a url-typed <code>blockedMarketplaces</code> entry for a bare repo URL keeps blocking that URL when the CLI classifies it as a git clone</li>
+<li>Gateway: the <code>desktop:</code> overlay now accepts every released Desktop setting (was 11 hand-listed keys), validated at boot against Desktop&#39;s own schema; unknown or invalid keys fail boot</li>
+<li>Gateway: empty <code>managed.policies[].match.groups</code>/<code>admin.admin_groups</code> entries and malformed <code>email_domain</code> values (empty, or containing <code>@</code>, whitespace, or commas) now fail at boot instead of silently matching no one or granting admin access</li>
+<li>Fable 5 is offered as an advisor in <code>/advisor</code> again for organizations with Fable access, with usage-credits consent set up through <code>/model fable</code></li>
+<li>Fixed a PowerShell permission bypass where variable-writing parameters could silently overwrite <code>$PSDefaultParameterValues</code> and redirect later commands&#39; file access</li>
+<li>Fixed a Windows permission bypass where Git Bash followed Cygwin-style symlinks that path validation saw as regular files; writes through them now require permission approval</li>
+<li>Fixed nested git repositories inheriting trust from a parent directory; each repository now requires its own trust confirmation</li>
+<li>Fixed MCP connections hanging for the full 30-second connect timeout when a server fails to answer or sends a malformed reply to the protocol-version probe</li>
+<li>Fixed Remote Control sessions hosted by a bridge inside a cloud session inheriting that session&#39;s transcript or credentials</li>
+<li>Fixed Remote Control sessions started from Claude Desktop or an IDE appearing as a new claude.ai session each time the local session was resumed; they now reattach to the existing one</li>
+<li>Fixed Remote Control sessions appearing unreachable to newly attached clients while idle</li>
+<li>Fixed Remote Control bridge sessions not restoring conversation history when the session worker restarts</li>
+<li>Remote Control: resuming a conversation whose session was deleted from claude.ai or the app now starts a replacement instead of failing with a message about your login (regressed in v2.1.227)</li>
+<li>Fixed Cloud gateway <code>/login</code> exiting silently or leaving an unresponsive terminal after &quot;Press Enter to continue&quot; when managed settings failed to load; the reason is now shown</li>
+<li>Fixed voice mode on native builds getting stuck on &quot;listening…&quot; when the voice service rejected the connection; the rejection is now shown immediately</li>
+<li>Fixed mTLS client certificate rotation requiring a restart; Claude Code now reloads the rotated cert and key automatically on connection errors</li>
+<li>Fixed malformed AWS or Vertex region values being used to build request URLs; they now fall back to the default region</li>
+<li>Fixed stream idle timeout errors failing the request instead of recovering on Bedrock, Vertex, and gateway deployments</li>
+<li>Fixed content-sized overlays containing truncated text rendering one column too wide, and start-truncated text collapsing to an ellipsis</li>
+<li>Fixed a stray garbled character where a long shell-command or agent-description preview was cut off mid-emoji</li>
+<li>Fixed a startup race that could silently unregister a plugin marketplace due to concurrent writes to <code>known_marketplaces.json</code></li>
+<li>Fixed <code>/update</code> and <code>/tui</code> refusing to restart while work that survives the relaunch was running</li>
+<li>Fixed usage-limit guidance suggesting unavailable slash commands in SDK and remote sessions</li>
+<li>Fixed the consent message for interactive <code>--advisor fable</code> launches, which told you to run <code>/model fable</code> in an interactive session that had just exited</li>
+<li>Improved fullscreen streaming: long sessions stay responsive because the whole conversation is no longer re-normalized on every update</li>
+<li>Improved the managed settings approval dialog: shows endpoint URLs, uses clearer wording for telemetry-only changes, skips routine OpenTelemetry options, and requires approval for server-managed sandbox binary overrides (<code>sandbox.bwrapPath</code>, <code>sandbox.socatPath</code>, <code>sandbox.ripgrep</code>)</li>
+<li><code>/feedback</code> and <code>/bug</code> now open immediately when invoked while Claude is responding, instead of waiting for the turn to finish</li>
+<li><code>/plugin install plugin@marketplace</code> now refreshes the marketplace first, so newly published plugins install without a manual marketplace update</li>
+<li><code>/code-review</code> at high, xhigh, and max effort now runs in a background agent like the other levels</li>
+<li>Pasted and clipboard images are read without blocking the event loop</li>
+<li>Remote Control now keeps reconnecting for about 30 minutes after a network blip and no longer drops after a few blips spread across an hour</li>
+<li>Remote Control: resuming a conversation no longer silently takes Remote Control away from another Claude Code on the same machine that still has it; run <code>/remote-control</code> there to move it</li>
+<li>Updated agent panel: completed subagents hide immediately with a <code>/tasks</code> footer hint, and the &quot;↓ N more&quot; overflow indicator moved left for visibility</li>
+<li>Remote Control: the terminal now says whether a session was taken over by another device, ended from another app, or deleted, and stops suggesting a reconnect that would undo it</li>
+<li>Bash input redirections (<code>&lt; file</code>) are now permission-checked like their argument spellings on all platforms</li>
+<li>Shortened the message shown when resuming a completed background agent</li>
+<li>Cowork sessions no longer inline external @-imports from user-scope memory files</li>
+<li>Hardened the auto-generated cross-session messaging socket directory on shared <code>/tmp</code>: a pre-planted symlink or another user&#39;s directory is now refused instead of used</li>
+<li>Hardened the Linux filesystem sandbox against a protected-path bypass</li>
+<li>Changed <code>sandbox.ripgrep</code> to be honored only from user, managed, and <code>--settings</code> settings; project settings can no longer override the sandbox&#39;s ripgrep binary</li>
+<li>Removed the startup tip suggesting you create custom subagents, and the matching nudge in the <code>/powerup</code> tour</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.1.231]]></title>
             <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.231</link>
@@ -2640,24 +2752,6 @@
 <li>Fixed Workflow tool <code>agent()</code> subagents missing per-agent attribution headers</li>
 <li>[VSCode] Added usage attribution to the Account &amp; usage dialog (<code>/usage</code>) showing cache misses, long context, subagents, and per-skill/agent/plugin/MCP breakdowns over the last 24h or 7d</li>
 <li>Fixed pre-warmed background workers failing with &quot;Could not resolve authentication method&quot; when claimed after sitting idle</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[v2.1.173]]></title>
-            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.173</link>
-            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.173</guid>
-            <pubDate>Thu, 11 Jun 2026 05:41:54 GMT</pubDate>
-            <description><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Fixed Fable 5 model names with a <code>[1m]</code> suffix not being normalized — Fable 5 includes 1M context by default, so the suffix is now stripped automatically</li>
-<li>Fixed a spurious &quot;sandbox dependencies missing&quot; startup warning on Windows when sandbox was enabled in settings</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Fixed Fable 5 model names with a <code>[1m]</code> suffix not being normalized — Fable 5 includes 1M context by default, so the suffix is now stripped automatically</li>
-<li>Fixed a spurious &quot;sandbox dependencies missing&quot; startup warning on Windows when sandbox was enabled in settings</li>
 </ul>
 ]]></content:encoded>
         </item>

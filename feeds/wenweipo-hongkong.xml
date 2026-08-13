@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[天文台：今日大致多雲　間中有驟雨及狂風雷暴]]></title>
+            <link>https://www.wenweipo.com/a/202608/14/AP6a7e4d9ce4b0c1e50024c491.html</link>
+            <guid>https://www.wenweipo.com/a/202608/14/AP6a7e4d9ce4b0c1e50024c491.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[天文台表示，與高空擾動及西南氣流相關的雷雨正影響廣東及南海北部。本港地區今日天氣大致多雲，間中有驟雨及狂風雷暴。初時雨勢有時頗大。最高氣溫約31度。吹和緩西南風。]]></description>
+        </item>
+        <item>
             <title><![CDATA[青衣中年貨車司機駕駛期間昏迷送院不治 兩日內第二宗同類事件]]></title>
             <link>https://www.wenweipo.com/a/202608/13/AP6a7de3cee4b0c1e50024bf78.html</link>
             <guid>https://www.wenweipo.com/a/202608/13/AP6a7de3cee4b0c1e50024bf78.html</guid>
@@ -110,13 +117,6 @@
             <guid>https://www.wenweipo.com/a/202608/13/AP6a7dab7ae4b0c1e50024b89b.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[觀塘警區特別職務隊人員根據線報及經深入調查後，今日（13日）下午突擊搜查開源道一間店鋪，檢獲約9585隻色情光碟，總值約10.65萬元，並拘捕一名55歲男子。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[長和中期純利飆30倍 下半年採取謹審慎策略]]></title>
-            <link>https://www.wenweipo.com/a/202608/13/AP6a7daa1de4b0c1e50024b874.html</link>
-            <guid>https://www.wenweipo.com/a/202608/13/AP6a7daa1de4b0c1e50024b874.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[長和（0001）昨公布中期業績，因英國電訊業務合併影響及出售英國資產的一次性收益帶多項業務表現良好，上半年錄得股東應佔溢利268億元，按年大增30.5倍]]></description>
         </item>
     </channel>
 </rss>
