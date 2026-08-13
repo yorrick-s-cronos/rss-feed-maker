@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ビットコインが純粋主義者を拒絶した]]></title>
+            <link>https://finance.biggo.jp/podcast/cee5b048e6655a0e</link>
+            <guid>https://finance.biggo.jp/podcast/cee5b048e6655a0e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[チェス.com CEOエリック・アレベストが語る、自己資金で2億ドルを築いたチェス帝国]]></title>
+            <link>https://finance.biggo.jp/podcast/a5b2b741283b6b6e</link>
+            <guid>https://finance.biggo.jp/podcast/a5b2b741283b6b6e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[減量科学者: 体重を減らすのは簡単、でもあなたができない理由はこれだ！ | Dr Andy Galpin]]></title>
             <link>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</link>
             <guid>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[AI開発への懐疑論をやめよう——Charity Majors氏と考える]]></title>
             <link>https://finance.biggo.jp/podcast/587a995ea52ede2a</link>
             <guid>https://finance.biggo.jp/podcast/587a995ea52ede2a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adaption Labs：勾配フリーの継続学習 — サラ・フッカー、Adaption]]></title>
-            <link>https://finance.biggo.jp/podcast/70dde60e87cebdef</link>
-            <guid>https://finance.biggo.jp/podcast/70dde60e87cebdef</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[スコット・ギャロウェイ：なぜ私がヨーロッパに移住したのか｜オフィスアワー]]></title>
-            <link>https://finance.biggo.jp/podcast/67d5bd2454ded0a0</link>
-            <guid>https://finance.biggo.jp/podcast/67d5bd2454ded0a0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
