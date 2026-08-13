@@ -4,11 +4,17 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Claude Tag now reads even more of the room]]></title>
+            <link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
+            <guid>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Claude in Chrome side panel is now Claude Cowork]]></title>
             <link>https://claude.com/blog/cowork-chrome-side-panel</link>
@@ -91,12 +97,6 @@
             <title><![CDATA[Four role-based certifications for the people who put Claude to work for customers]]></title>
             <link>https://claude.com/blog/four-role-based-claude-certifications</link>
             <guid>https://claude.com/blog/four-role-based-claude-certifications</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Think through hard problems in voice mode]]></title>
-            <link>https://claude.com/blog/think-through-hard-problems-in-voice-mode</link>
-            <guid>https://claude.com/blog/think-through-hard-problems-in-voice-mode</guid>
             <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-13T12:46:51.467Z",
+  "lastSuccess": "2026-08-13T14:18:06.812Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
     "https://claude.com/blog/cowork-chrome-side-panel",
     "https://claude.com/blog/compliance-api-cowork-and-claude-code",
     "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
     "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
     "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
-    "https://claude.com/blog/four-role-based-claude-certifications",
-    "https://claude.com/blog/think-through-hard-problems-in-voice-mode"
+    "https://claude.com/blog/four-role-based-claude-certifications"
   ],
   "consecutiveErrors": 0
 }
