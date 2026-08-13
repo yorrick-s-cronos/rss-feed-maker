@@ -4,11 +4,17 @@
         <title>Cursor Blog</title>
         <link>https://cursor.com/blog</link>
         <description>Latest updates and insights from the Cursor team about AI-powered coding</description>
-        <lastBuildDate>Wed, 12 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cursor-blog.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cloud Agents Start 3x Faster with Builds]]></title>
+            <link>https://cursor.com/changelog/08-13-26</link>
+            <guid>https://cursor.com/changelog/08-13-26</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing Grok 4.6]]></title>
             <link>https://cursor.com/blog/grok-4-6</link>
@@ -39,12 +45,6 @@
             <link>https://cursor.com/changelog/cursor-start</link>
             <guid>https://cursor.com/changelog/cursor-start</guid>
             <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cursor Router]]></title>
-            <link>https://cursor.com/changelog/router</link>
-            <guid>https://cursor.com/changelog/router</guid>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Agent swarms and the new model economics]]></title>

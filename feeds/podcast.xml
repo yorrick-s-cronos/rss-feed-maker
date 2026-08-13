@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[営業戦略の選択：Lighthouse vs. Landgrab]]></title>
+            <title><![CDATA[コンシューマー化が製薬マーケティングをどう変えるか（スポンサー提供）]]></title>
+            <link>https://finance.biggo.jp/podcast/59016113490c693e</link>
+            <guid>https://finance.biggo.jp/podcast/59016113490c693e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIスタートアップはどうエンタープライズに売るべきか]]></title>
             <link>https://finance.biggo.jp/podcast/245498cc65da1367</link>
             <guid>https://finance.biggo.jp/podcast/245498cc65da1367</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -22,13 +28,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Is Fed Chair Kevin Warsh Trying to Say? | Trumponomics]]></title>
+            <title><![CDATA[FRB議長ケビン・ワーシュは何を言おうとしているのか？ | トランプノミクス]]></title>
             <link>https://finance.biggo.jp/podcast/1493e86510549080</link>
             <guid>https://finance.biggo.jp/podcast/1493e86510549080</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Closing the Experience Gap: Why Smart AI Agents Still Feel New on the Job | Trajectory]]></title>
+            <title><![CDATA[経験ギャップを埋める：なぜ賢いAIエージェントは仕事でまだ新人のように感じるのか | Trajectory]]></title>
             <link>https://finance.biggo.jp/podcast/f2762f8b52cab985</link>
             <guid>https://finance.biggo.jp/podcast/f2762f8b52cab985</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,13 +64,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[チェス.com CEOエリック・アレベストが語る、自己資金で2億ドルを築いたチェス帝国]]></title>
+            <title><![CDATA[Chess.comはいかにして世界最大のチェスコミュニティになったのか | CEOエリック・アルベスト]]></title>
             <link>https://finance.biggo.jp/podcast/a5b2b741283b6b6e</link>
             <guid>https://finance.biggo.jp/podcast/a5b2b741283b6b6e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sleep Expert: The REAL Reason You're Always Exhausted! (And How To Fix It!) | Dr Andy Galpin]]></title>
+            <title><![CDATA[睡眠の専門家：あなたがいつも疲れている本当の理由！（そして改善法！） | アンディ・ガルピン博士]]></title>
             <link>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</link>
             <guid>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[Pixel 11 と Pixel Watch 5：私たちの第一印象 | The Vergecast ライブ配信]]></title>
             <link>https://finance.biggo.jp/podcast/031a81d0243eb9d2</link>
             <guid>https://finance.biggo.jp/podcast/031a81d0243eb9d2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントの設計（フロアこそが最前線）— Ben Hylak, Raindrop]]></title>
-            <link>https://finance.biggo.jp/podcast/12c612072f4caad8</link>
-            <guid>https://finance.biggo.jp/podcast/12c612072f4caad8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
