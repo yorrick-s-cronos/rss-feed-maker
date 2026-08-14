@@ -10,9 +10,39 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Instagramに新しいロゴは必要なかった | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/5935a57f04f91d4c</link>
+            <guid>https://finance.biggo.jp/podcast/5935a57f04f91d4c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[双極性障害治療の新たな分析とマラリアワクチン]]></title>
+            <link>https://finance.biggo.jp/podcast/588114d876848512</link>
+            <guid>https://finance.biggo.jp/podcast/588114d876848512</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI、債務、地政学：投資は変わった | Allocator | 第37回]]></title>
+            <link>https://finance.biggo.jp/podcast/576af4567bbd9702</link>
+            <guid>https://finance.biggo.jp/podcast/576af4567bbd9702</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NFLとカンザスシティ・チーフスのスター、アート・スティルが語る遺伝性アミロイドーシスの見逃されがちな兆候]]></title>
+            <link>https://finance.biggo.jp/podcast/cecb944e156bee07</link>
+            <guid>https://finance.biggo.jp/podcast/cecb944e156bee07</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[50兆ドルのAIループ | 今週]]></title>
             <link>https://finance.biggo.jp/podcast/8f16882778e4d48b</link>
             <guid>https://finance.biggo.jp/podcast/8f16882778e4d48b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RLからIRLへ — Gaurav Mishra、Amazon AGI Lab]]></title>
+            <link>https://finance.biggo.jp/podcast/4475af5b80873a8c</link>
+            <guid>https://finance.biggo.jp/podcast/4475af5b80873a8c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -40,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[セカンドモーゲージから純資産190億ドルへ | Brett Adcock]]></title>
+            <title><![CDATA[$39B founder: this is one of the worst tech products I’ve seen]]></title>
             <link>https://finance.biggo.jp/podcast/c5e559abdee8cda6</link>
             <guid>https://finance.biggo.jp/podcast/c5e559abdee8cda6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[200万ドルのAI映画がハリウッドに勝利、Anthropicが全単語に透かしを埋め込み、ZuckはASIを約束 | EP #279]]></title>
             <link>https://finance.biggo.jp/podcast/94d288087dec1c3f</link>
             <guid>https://finance.biggo.jp/podcast/94d288087dec1c3f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ブラッド・セッツァー氏が語る、米国の異例の円介入 | Odd Lots]]></title>
-            <link>https://finance.biggo.jp/podcast/e547379ba95a22d4</link>
-            <guid>https://finance.biggo.jp/podcast/e547379ba95a22d4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[灯台か、土地争いか？AIセールス戦略の選び方]]></title>
-            <link>https://finance.biggo.jp/podcast/245498cc65da1367</link>
-            <guid>https://finance.biggo.jp/podcast/245498cc65da1367</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canva、成長予測を大幅削減 | Demis Hassabis & Jeff Dean: Googleの人材流出 | Muskの550億ドルTerrafab]]></title>
-            <link>https://finance.biggo.jp/podcast/dbec4397e561461a</link>
-            <guid>https://finance.biggo.jp/podcast/dbec4397e561461a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FRB議長ケビン・ワーシュは何を言おうとしているのか？ | トランプノミクス]]></title>
-            <link>https://finance.biggo.jp/podcast/1493e86510549080</link>
-            <guid>https://finance.biggo.jp/podcast/1493e86510549080</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントが学習する前にAIスタックに必要なもの | Arjun Karanam, Trajectory]]></title>
-            <link>https://finance.biggo.jp/podcast/f2762f8b52cab985</link>
-            <guid>https://finance.biggo.jp/podcast/f2762f8b52cab985</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
