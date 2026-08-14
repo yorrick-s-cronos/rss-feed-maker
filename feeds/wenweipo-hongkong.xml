@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[瑪麗醫院新臨床大樓升降機存多項瑕疵　建築署追究承建商責任]]></title>
+            <link>https://www.wenweipo.com/a/202608/14/AP6a7f32fee4b0c1e50024e47b.html</link>
+            <guid>https://www.wenweipo.com/a/202608/14/AP6a7f32fee4b0c1e50024e47b.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[就瑪麗醫院新臨床大樓（CB1大樓）新裝升降機未能有效運作，建築署表示，高度重視並於早前發現情況後立即聯同機電工程署跟進。]]></description>
+        </item>
+        <item>
             <title><![CDATA[民安處去年各項工作實際工時增8.4%]]></title>
             <link>https://www.wenweipo.com/a/202608/14/AP6a7f207ae4b0c1e50024e2dd.html</link>
             <guid>https://www.wenweipo.com/a/202608/14/AP6a7f207ae4b0c1e50024e2dd.html</guid>
@@ -60,7 +67,7 @@
             <description><![CDATA[香港大學（港大）今日（14日）宣布，接納由中國建築國際集團有限公司之全資附屬公司海瑞投資有限公司（下稱「公司」）提交的建議書，將以「建造、營運及移交」模式，改造位於薄扶林道140號的明德村三幢現有員工宿舍為學生宿舍。項目總改裝樓面面積為18,199平方米，預計可提供約800至900個宿位，相關設施料於2028至2029學年起投入運作。]]></description>
         </item>
         <item>
-            <title><![CDATA[高效攻堅重大任務　兩公務員團隊獲行政長官嘉許]]></title>
+            <title><![CDATA[以民為本、高效攻堅重大任務　兩公務員團隊獲行政長官嘉許]]></title>
             <link>https://www.wenweipo.com/a/202608/14/AP6a7ef19ee4b0c1e50024dd6b.html</link>
             <guid>https://www.wenweipo.com/a/202608/14/AP6a7ef19ee4b0c1e50024dd6b.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
@@ -107,13 +114,6 @@
             <guid>https://www.wenweipo.com/a/202608/14/AP6a7ee863e4b0c1e50024dcfa.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[衞生署衞生防護中心（中心）今日（14日）表示，過去一星期（8月7日至8月13日）錄得一宗新增類鼻疽個案。因應本港在夏季不時會受颱風以及暴雨影響，中心提醒市民，特別是高風險群組，包括長者及長期病患者，在颱風或暴雨後應避免接觸土壤或泥水，減低受類鼻疽病菌感染的風險。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特區政府上調今年GDP增長預測至3.5%至4.5%]]></title>
-            <link>https://www.wenweipo.com/a/202608/14/AP6a7ee4d2e4b0c1e50024dcac.html</link>
-            <guid>https://www.wenweipo.com/a/202608/14/AP6a7ee4d2e4b0c1e50024dcac.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港經濟在今年第二季持續擴張。特區政府今日公布，實質本地生產總值在第二季按年增長4.3%，上一季增長5.9%。上半年，實質本地生產總值按年增長5.1%，是近五年來最強勁的半年度表現。特區政府表示，考慮到上半年較預期強勁的實際數字，以及短期展望，2026年全年實質本地生產總值增長預測由5月覆檢時的2.5%至3.5%，向上修訂至3.5%至4.5%。]]></description>
         </item>
     </channel>
 </rss>

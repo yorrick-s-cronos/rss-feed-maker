@@ -10,7 +10,7 @@
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cursor-blog.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Cursor is joining SpaceX]]></title>
+            <title><![CDATA[Cursor is now a part of SpaceX]]></title>
             <link>https://cursor.com/blog/joining-spacex</link>
             <guid>https://cursor.com/blog/joining-spacex</guid>
             <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>

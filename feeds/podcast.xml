@@ -10,6 +10,42 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[統計的崖っぷちでのコンピュータ利用 — Pierluca D'Oro、Programma Labs]]></title>
+            <link>https://finance.biggo.jp/podcast/c42d146fe9148e95</link>
+            <guid>https://finance.biggo.jp/podcast/c42d146fe9148e95</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[コンピュータ利用モデルがウェブをエージェント化する、APIではなく——ダルーブ・バトラ、Yutori 2026-08-14 22:00]]></title>
+            <link>https://finance.biggo.jp/podcast/cb173de44d20817c</link>
+            <guid>https://finance.biggo.jp/podcast/cb173de44d20817c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[需要アグリゲーターの罠]]></title>
+            <link>https://finance.biggo.jp/podcast/2e39635609dda1ca</link>
+            <guid>https://finance.biggo.jp/podcast/2e39635609dda1ca</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI時代のゲノミクスライブラリ]]></title>
+            <link>https://finance.biggo.jp/podcast/d2e55f3361cffad5</link>
+            <guid>https://finance.biggo.jp/podcast/d2e55f3361cffad5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From a second mortgage to $19B net worth | Brett Adcock]]></title>
+            <link>https://finance.biggo.jp/podcast/c5e559abdee8cda6</link>
+            <guid>https://finance.biggo.jp/podcast/c5e559abdee8cda6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How AppLovin Built a $100B Ad Machine]]></title>
+            <link>https://finance.biggo.jp/podcast/d36acfb7af4e6f90</link>
+            <guid>https://finance.biggo.jp/podcast/d36acfb7af4e6f90</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[暗号資産の次なる消費者アプリはカジノではない]]></title>
             <link>https://finance.biggo.jp/podcast/d88ca88aa6f65715</link>
             <guid>https://finance.biggo.jp/podcast/d88ca88aa6f65715</guid>
@@ -91,42 +127,6 @@
             <title><![CDATA[Innovaccerの自律型医療を支えるデータ層への賭け]]></title>
             <link>https://finance.biggo.jp/podcast/fd391fb51c74776b</link>
             <guid>https://finance.biggo.jp/podcast/fd391fb51c74776b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ハーネスを自分のものにすれば、知性も自分のものになる | ハリソン・チェイス、LangChain]]></title>
-            <link>https://finance.biggo.jp/podcast/9d27ef1087dda572</link>
-            <guid>https://finance.biggo.jp/podcast/9d27ef1087dda572</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xAIがついに追いついた（Grok 4.6登場）]]></title>
-            <link>https://finance.biggo.jp/podcast/4d3cb9ad8d52fbff</link>
-            <guid>https://finance.biggo.jp/podcast/4d3cb9ad8d52fbff</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ビットコインの内戦は2ブロックで終わった]]></title>
-            <link>https://finance.biggo.jp/podcast/cee5b048e6655a0e</link>
-            <guid>https://finance.biggo.jp/podcast/cee5b048e6655a0e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI時代のチェスの進化 | Chess.com CEO Erik Allebestと語る]]></title>
-            <link>https://finance.biggo.jp/podcast/a5b2b741283b6b6e</link>
-            <guid>https://finance.biggo.jp/podcast/a5b2b741283b6b6e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[減量科学者: 正しい睡眠なしに脂肪は減らせない! | Andy Galpin]]></title>
-            <link>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</link>
-            <guid>https://finance.biggo.jp/podcast/8fc2168d8adc46ac</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DeepSeek、Kimiから「黄仁勲連合」まで：AIモデルのオープンソース化、実際に「開かれた」ものとは？]]></title>
-            <link>https://finance.biggo.jp/podcast/9a6fa88e5e04ab8e</link>
-            <guid>https://finance.biggo.jp/podcast/9a6fa88e5e04ab8e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
