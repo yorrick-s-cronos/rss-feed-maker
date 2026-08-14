@@ -4,11 +4,17 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maximizing the value of your Claude Code sessions]]></title>
+            <link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
+            <guid>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions]]></title>
             <link>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</link>
@@ -91,12 +97,6 @@
             <title><![CDATA[How the product designer who built Claude Design uses it to explore ideas before building them]]></title>
             <link>https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them</link>
             <guid>https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them</guid>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new rules of context engineering for Claude 5 generation models]]></title>
-            <link>https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</link>
-            <guid>https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</guid>
             <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

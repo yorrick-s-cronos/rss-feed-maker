@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-14T12:42:56.035Z",
+  "lastSuccess": "2026-08-14T14:09:42.553Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
     "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
     "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
     "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/claude-enterprise-inference-hooks",
     "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
-    "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
-    "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
+    "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them"
   ],
   "consecutiveErrors": 0
 }
