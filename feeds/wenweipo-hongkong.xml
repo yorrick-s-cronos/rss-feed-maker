@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[（有片）香港輔警今結業會操　大律師及政府統計師跨界輔警走至前線服務市民]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a7d9e6de4b0c1e50024b717.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a7d9e6de4b0c1e50024b717.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[香港輔助警察隊今日（15日）舉行結業會操，見證共204名輔警警員畢業，正式投入警務工作，當中有136名男輔警和68名女輔警，他們來自各行各業，包括工程師、教師、金融從業員和室內設計師等。其中兩位分別來自律師行業及政府部門的畢業學員分享其心路歷程，他們希望憑藉自己的專業所長走到更前線服務市民大眾。]]></description>
+        </item>
+        <item>
             <title><![CDATA[香港新聞工作者聯會：強烈譴責FCC干預香港事務　堅決抵制外力亂港圖謀]]></title>
             <link>https://www.wenweipo.com/a/202608/14/AP6a7f3aace4b0c1e50024e505.html</link>
             <guid>https://www.wenweipo.com/a/202608/14/AP6a7f3aace4b0c1e50024e505.html</guid>
@@ -107,13 +114,6 @@
             <guid>https://www.wenweipo.com/a/202608/14/AP6a7eee05e4b0c1e50024dd29.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[就7月4日有國泰航空由香港前往倫敦希斯路的航班，航機曾與途經的航空交通管制單位出現通訊中斷事件，民航處今日（14日）表示，政府已收到並完成審視國泰航空提交的全面調查報告。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（有片）731 罪證如山，核心成員竟手握「跑路特權」！]]></title>
-            <link>https://www.wenweipo.com/a/202608/14/AP6a7ee871e4b0c1e50024dcfc.html</link>
-            <guid>https://www.wenweipo.com/a/202608/14/AP6a7ee871e4b0c1e50024dcfc.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[81年前日軍宣布戰敗投降，駐紮中國東北的關東軍各部紛紛被解除武裝。惟其秘密部隊、從事生化戰的防疫給水部、化學部首腦機關和主力提前獲日皇裕仁命令，取道朝鮮半島返日。]]></description>
         </item>
     </channel>
 </rss>
