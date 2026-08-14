@@ -1,7 +1,9 @@
 {
-  "lastSuccess": "2026-08-14T18:41:18.473Z",
+  "lastSuccess": "2026-08-14T19:42:46.808Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://finance.biggo.jp/podcast/ddd543ea36c67f38",
+    "https://finance.biggo.jp/podcast/c654215f2eefd5d6",
     "https://finance.biggo.jp/podcast/5935a57f04f91d4c",
     "https://finance.biggo.jp/podcast/588114d876848512",
     "https://finance.biggo.jp/podcast/d782f05153ac4c5c",
@@ -9,6 +11,7 @@
     "https://finance.biggo.jp/podcast/cecb944e156bee07",
     "https://finance.biggo.jp/podcast/8f16882778e4d48b",
     "https://finance.biggo.jp/podcast/4475af5b80873a8c",
+    "https://finance.biggo.jp/podcast/4825401ffbb32686",
     "https://finance.biggo.jp/podcast/6dea8b37185ab92b",
     "https://finance.biggo.jp/podcast/c42d146fe9148e95",
     "https://finance.biggo.jp/podcast/fcccfa7eae59f03a",
@@ -18,10 +21,7 @@
     "https://finance.biggo.jp/podcast/c5e559abdee8cda6",
     "https://finance.biggo.jp/podcast/d36acfb7af4e6f90",
     "https://finance.biggo.jp/podcast/d88ca88aa6f65715",
-    "https://finance.biggo.jp/podcast/f96fc09f59b73a15",
-    "https://finance.biggo.jp/podcast/538995808c00344f",
-    "https://finance.biggo.jp/podcast/a7eb392c77cd66c7",
-    "https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16"
+    "https://finance.biggo.jp/podcast/f96fc09f59b73a15"
   ],
   "consecutiveErrors": 0
 }

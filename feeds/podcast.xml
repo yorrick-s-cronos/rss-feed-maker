@@ -10,7 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Instagramに新しいロゴは必要なかった | The Vergecast]]></title>
+            <title><![CDATA[ウェブデータ基盤が次世代AIを支える仕組み — パトリシア・ジェマイティテ（Oxylabs）]]></title>
+            <link>https://finance.biggo.jp/podcast/ddd543ea36c67f38</link>
+            <guid>https://finance.biggo.jp/podcast/ddd543ea36c67f38</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2540 - トラヴィス・バーカー]]></title>
+            <link>https://finance.biggo.jp/podcast/c654215f2eefd5d6</link>
+            <guid>https://finance.biggo.jp/podcast/c654215f2eefd5d6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mark Zuckerberg、Instagzamを発表 | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/5935a57f04f91d4c</link>
             <guid>https://finance.biggo.jp/podcast/5935a57f04f91d4c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -52,6 +64,12 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ウェブ自動化の奥義：エージェントに人間のようにウェブサイトを使わせる方法 — Corey Gallon, Rexmore]]></title>
+            <link>https://finance.biggo.jp/podcast/4825401ffbb32686</link>
+            <guid>https://finance.biggo.jp/podcast/4825401ffbb32686</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エージェントをワールドワイドウェブに導入する — Paul Klein IV, Browserbase]]></title>
             <link>https://finance.biggo.jp/podcast/6dea8b37185ab92b</link>
             <guid>https://finance.biggo.jp/podcast/6dea8b37185ab92b</guid>
@@ -64,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[トラビス・カラニック、Uber後の「アトムズ」構築を語る]]></title>
+            <title><![CDATA[AIは物理世界をどう変革するのか]]></title>
             <link>https://finance.biggo.jp/podcast/fcccfa7eae59f03a</link>
             <guid>https://finance.biggo.jp/podcast/fcccfa7eae59f03a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -88,7 +106,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[$39B founder: this is one of the worst tech products I’ve seen]]></title>
+            <title><![CDATA[ノートPCは存在しなくなる！ 390億ドルの創業者がAIの破天荒な予測を4つ発表]]></title>
             <link>https://finance.biggo.jp/podcast/c5e559abdee8cda6</link>
             <guid>https://finance.biggo.jp/podcast/c5e559abdee8cda6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -100,7 +118,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EtherFi’s Plan to Build the Ultimate Crypto Neobank]]></title>
+            <title><![CDATA[あなたの金融スタックを置き換えるDeFiアプリ]]></title>
             <link>https://finance.biggo.jp/podcast/d88ca88aa6f65715</link>
             <guid>https://finance.biggo.jp/podcast/d88ca88aa6f65715</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[Claudeがコードに透かしを入れる時代へ]]></title>
             <link>https://finance.biggo.jp/podcast/f96fc09f59b73a15</link>
             <guid>https://finance.biggo.jp/podcast/f96fc09f59b73a15</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[インフレと財政政策が米国債市場を動かす]]></title>
-            <link>https://finance.biggo.jp/podcast/538995808c00344f</link>
-            <guid>https://finance.biggo.jp/podcast/538995808c00344f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[がん研究ホライズンズが小児がん治療薬の未来をどう築いているか]]></title>
-            <link>https://finance.biggo.jp/podcast/a7eb392c77cd66c7</link>
-            <guid>https://finance.biggo.jp/podcast/a7eb392c77cd66c7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIポルノはリアルセックスを置き換えつつある]]></title>
-            <link>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</link>
-            <guid>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

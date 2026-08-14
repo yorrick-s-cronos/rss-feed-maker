@@ -4,11 +4,17 @@
         <title>Anthropic News</title>
         <link>https://www.anthropic.com/news</link>
         <description>News and announcements from Anthropic.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Claude’s text watermark works]]></title>
+            <link>https://www.anthropic.com/news/claude-text-watermark</link>
+            <guid>https://www.anthropic.com/news/claude-text-watermark</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Improving Fable 5's biology safeguards]]></title>
             <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
@@ -62,12 +68,6 @@
             <link>https://www.anthropic.com/news/donation-public-first-action</link>
             <guid>https://www.anthropic.com/news/donation-public-first-action</guid>
             <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apply for Anthropic’s AI for Science rare disease research grants]]></title>
-            <link>https://www.anthropic.com/news/rare-disease-research-grants</link>
-            <guid>https://www.anthropic.com/news/rare-disease-research-grants</guid>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
