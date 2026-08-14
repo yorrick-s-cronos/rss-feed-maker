@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[石油生産者と買い手、ホルムズ海峡に代わる長期的な代替策を模索＝クララ・ギリスピー氏]]></title>
+            <link>https://finance.biggo.jp/podcast/22cb5fce9b74ea6d</link>
+            <guid>https://finance.biggo.jp/podcast/22cb5fce9b74ea6d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スーザン・ケア：オリジナルApple Macアイコンのデザイン秘話]]></title>
+            <link>https://finance.biggo.jp/podcast/94324779b6032d5b</link>
+            <guid>https://finance.biggo.jp/podcast/94324779b6032d5b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ウェブデータ基盤が次世代AIを支える仕組み — パトリシア・ジェマイティテ（Oxylabs）]]></title>
             <link>https://finance.biggo.jp/podcast/ddd543ea36c67f38</link>
             <guid>https://finance.biggo.jp/podcast/ddd543ea36c67f38</guid>
@@ -40,6 +52,12 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CaaSの台頭：エージェント型AIのためのContext-as-a-Service — Omer Primor（Bright Data）]]></title>
+            <link>https://finance.biggo.jp/podcast/5cbfe2a173a1fbc6</link>
+            <guid>https://finance.biggo.jp/podcast/5cbfe2a173a1fbc6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI、債務、地政学：投資は変わった | Allocator | 第37回]]></title>
             <link>https://finance.biggo.jp/podcast/576af4567bbd9702</link>
             <guid>https://finance.biggo.jp/podcast/576af4567bbd9702</guid>
@@ -52,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[50兆ドルのAIループ | 今週]]></title>
+            <title><![CDATA[Is Nvidia Financing Its Own AI Boom? | The Week]]></title>
             <link>https://finance.biggo.jp/podcast/8f16882778e4d48b</link>
             <guid>https://finance.biggo.jp/podcast/8f16882778e4d48b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[ノートPCは存在しなくなる！ 390億ドルの創業者がAIの破天荒な予測を4つ発表]]></title>
             <link>https://finance.biggo.jp/podcast/c5e559abdee8cda6</link>
             <guid>https://finance.biggo.jp/podcast/c5e559abdee8cda6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AppLovinはいかにして1000億ドルの広告マシンを築いたか]]></title>
-            <link>https://finance.biggo.jp/podcast/d36acfb7af4e6f90</link>
-            <guid>https://finance.biggo.jp/podcast/d36acfb7af4e6f90</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[あなたの金融スタックを置き換えるDeFiアプリ]]></title>
-            <link>https://finance.biggo.jp/podcast/d88ca88aa6f65715</link>
-            <guid>https://finance.biggo.jp/podcast/d88ca88aa6f65715</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claudeがコードに透かしを入れる時代へ]]></title>
-            <link>https://finance.biggo.jp/podcast/f96fc09f59b73a15</link>
-            <guid>https://finance.biggo.jp/podcast/f96fc09f59b73a15</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
