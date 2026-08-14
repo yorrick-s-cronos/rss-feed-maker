@@ -10,7 +10,7 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[AI Porn Is Replacing Real Sex]]></title>
+            <title><![CDATA[AIポルノはリアルセックスを置き換えつつある]]></title>
             <link>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</link>
             <guid>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -28,7 +28,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2百万ドルのAI映画がハリウッドを震撼、Grok 4.7が2週間で首位、NVIDIAの5000億ドルマシン | EP #279]]></title>
+            <title><![CDATA[A $2M AI Movie Just Beat Hollywood, Anthropic Watermarks Every Word, & Zuck Promises ASI | EP #279]]></title>
             <link>https://finance.biggo.jp/podcast/94d288087dec1c3f</link>
             <guid>https://finance.biggo.jp/podcast/94d288087dec1c3f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -40,13 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[コンシューマー化が製薬マーケティングをどう変えるか（スポンサー提供）]]></title>
-            <link>https://finance.biggo.jp/podcast/59016113490c693e</link>
-            <guid>https://finance.biggo.jp/podcast/59016113490c693e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lighthouse or Landgrab? How to Pick Your AI Sales Strategy]]></title>
+            <title><![CDATA[灯台か、土地争いか？AIセールス戦略の選び方]]></title>
             <link>https://finance.biggo.jp/podcast/245498cc65da1367</link>
             <guid>https://finance.biggo.jp/podcast/245498cc65da1367</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -127,6 +121,12 @@
             <title><![CDATA[150. NVIDIA研究担当副社長劉洺堉への4時間インタビュー：カンフー、Cosmos 3、オープンソース世界モデル、黄仁勲、すべての競争相手に勝つ必要はない]]></title>
             <link>https://finance.biggo.jp/podcast/f87896b9872dba7c</link>
             <guid>https://finance.biggo.jp/podcast/f87896b9872dba7c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米国・日本による為替介入が円、金利、ドルに与える影響]]></title>
+            <link>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</link>
+            <guid>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
