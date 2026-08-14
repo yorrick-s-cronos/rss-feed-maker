@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[EtherFiは銀行を置き換えたい]]></title>
+            <link>https://finance.biggo.jp/podcast/d88ca88aa6f65715</link>
+            <guid>https://finance.biggo.jp/podcast/d88ca88aa6f65715</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claudeがコードに透かしを入れる時代へ]]></title>
+            <link>https://finance.biggo.jp/podcast/f96fc09f59b73a15</link>
+            <guid>https://finance.biggo.jp/podcast/f96fc09f59b73a15</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[インフレと財政政策が米国債市場を動かす]]></title>
+            <link>https://finance.biggo.jp/podcast/538995808c00344f</link>
+            <guid>https://finance.biggo.jp/podcast/538995808c00344f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[がん研究ホライズンズが小児がん治療薬の未来をどう築いているか]]></title>
             <link>https://finance.biggo.jp/podcast/a7eb392c77cd66c7</link>
             <guid>https://finance.biggo.jp/podcast/a7eb392c77cd66c7</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[DeepSeek、Kimiから「黄仁勲連合」まで：AIモデルのオープンソース化、実際に「開かれた」ものとは？]]></title>
             <link>https://finance.biggo.jp/podcast/9a6fa88e5e04ab8e</link>
             <guid>https://finance.biggo.jp/podcast/9a6fa88e5e04ab8e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ラーム・エマニュエル：トランプの外交政策、中国、欧州の衰退、移民、そしてDSA対民主党]]></title>
-            <link>https://finance.biggo.jp/podcast/10acbeca672a828b</link>
-            <guid>https://finance.biggo.jp/podcast/10acbeca672a828b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[メモリの未来サミットの内幕とAMDの「退屈な」強気姿勢]]></title>
-            <link>https://finance.biggo.jp/podcast/bdacf6e6e0fca17b</link>
-            <guid>https://finance.biggo.jp/podcast/bdacf6e6e0fca17b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[150. NVIDIA研究担当副社長劉洺堉への4時間インタビュー：カンフー、Cosmos 3、オープンソース世界モデル、黄仁勲、すべての競争相手に勝つ必要はない]]></title>
-            <link>https://finance.biggo.jp/podcast/f87896b9872dba7c</link>
-            <guid>https://finance.biggo.jp/podcast/f87896b9872dba7c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
