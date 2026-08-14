@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Thu, 13 Aug 2026 03:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 11:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Việt Nam - New Zealand phát triển nguồn nhân lực chất lượng cao cho kinh tế số]]></title>
+            <link>https://mekongasean.vn/viet-nam-new-zealand-phat-trien-nguon-nhan-luc-chat-luong-cao-cho-kinh-te-so-58453.html</link>
+            <guid>https://mekongasean.vn/viet-nam-new-zealand-phat-trien-nguon-nhan-luc-chat-luong-cao-cho-kinh-te-so-58453.html</guid>
+            <pubDate>Thu, 13 Aug 2026 11:07:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lễ đón chính thức Tổng Bí thư, Chủ tịch nước Tô Lâm tại New Zealand]]></title>
             <link>https://mekongasean.vn/le-don-chinh-thuc-tong-bi-thu-chu-tich-nuoc-to-lam-tai-new-zealand-58425.html</link>
             <guid>https://mekongasean.vn/le-don-chinh-thuc-tong-bi-thu-chu-tich-nuoc-to-lam-tai-new-zealand-58425.html</guid>
             <pubDate>Thu, 13 Aug 2026 03:35:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Phối hợp tổ chức thành công Đối thoại Chiến lược Việt Nam - Singapore lần thứ nhất]]></title>
-            <link>https://mekongasean.vn/phoi-hop-to-chuc-thanh-cong-doi-thoai-chien-luoc-viet-nam-singapore-lan-thu-nhat-58420.html</link>
-            <guid>https://mekongasean.vn/phoi-hop-to-chuc-thanh-cong-doi-thoai-chien-luoc-viet-nam-singapore-lan-thu-nhat-58420.html</guid>
-            <pubDate>Thu, 13 Aug 2026 01:10:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
