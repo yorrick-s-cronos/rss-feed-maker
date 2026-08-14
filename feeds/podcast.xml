@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[がん研究ホライズンズが小児がん治療薬の未来をどう築いているか]]></title>
+            <link>https://finance.biggo.jp/podcast/a7eb392c77cd66c7</link>
+            <guid>https://finance.biggo.jp/podcast/a7eb392c77cd66c7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIポルノはリアルセックスを置き換えつつある]]></title>
             <link>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</link>
             <guid>https://finance.biggo.jp/podcast/1efc4b0ac9cd6b16</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[150. NVIDIA研究担当副社長劉洺堉への4時間インタビュー：カンフー、Cosmos 3、オープンソース世界モデル、黄仁勲、すべての競争相手に勝つ必要はない]]></title>
             <link>https://finance.biggo.jp/podcast/f87896b9872dba7c</link>
             <guid>https://finance.biggo.jp/podcast/f87896b9872dba7c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国・日本による為替介入が円、金利、ドルに与える影響]]></title>
-            <link>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</link>
-            <guid>https://finance.biggo.jp/podcast/cf0b1edd03a4b4ed</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
