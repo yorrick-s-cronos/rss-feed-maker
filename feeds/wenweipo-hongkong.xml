@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[第三屆京津冀節開鑼 設特色美食、非遺展示和互動體驗]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a806082e4b0c1e50024fcc8.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a806082e4b0c1e50024fcc8.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[由中國香港文化體育旅遊協會主辦的黃大仙第三屆京津冀節，於本月14日至16日一連3天在鑽石山活水公園飛機庫舉行。本屆活動以荷花為主題，寓意和諧共融、美美與共。場內匯聚北京、天津、河北三地特色美食，並設有傳統非遺展示及互動體驗，包括天津楊柳青畫社、大鄭剪紙文藝表演，以及天津之眼、荷花主題區等多個打卡熱點，將北方文化魅力帶到香港，讓市民與遊客沉浸式感受京津冀的多元風采。]]></description>
+        </item>
+        <item>
             <title><![CDATA[深化食品、綠色發展及經貿合作　西藏自治區代表團完成訪港行程]]></title>
             <link>https://www.wenweipo.com/a/202608/15/AP6a8051dfe4b0c1e50024fbf1.html</link>
             <guid>https://www.wenweipo.com/a/202608/15/AP6a8051dfe4b0c1e50024fbf1.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/15/AP6a8003a3e4b0c1e50024f511.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（15日）早上7時13分，警方接獲途人報案，指發現一名男子倒臥沙田沙角邨銀鷗樓對開，懷疑他從高處墮下。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(有片) 藍田五桂山持續傳救命聲 無人機直升機出動陸空搜救]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a7fff6be4b0c1e50024f4c2.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a7fff6be4b0c1e50024f4c2.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（15日）早上約8時47分，警方分別接獲兩名市民報案，指在藍田康柏苑及廣田邨住所內，聽到有人大叫救命。]]></description>
         </item>
     </channel>
 </rss>
