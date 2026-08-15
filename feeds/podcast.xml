@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ハリウッドの興行収入が戻ってきた]]></title>
+            <link>https://finance.biggo.jp/podcast/7b4567526f95070c</link>
+            <guid>https://finance.biggo.jp/podcast/7b4567526f95070c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[原子力がエネルギー豊富さを解き放つ方法：Valar Atomics創業者アイザイア・テイラーとの対談]]></title>
+            <link>https://finance.biggo.jp/podcast/64d310f550867c41</link>
+            <guid>https://finance.biggo.jp/podcast/64d310f550867c41</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Anthropicの2兆ドルIPO、ザッカーバーグのAIマニフェスト、NVIDIAの5000億ドルのAI賭け、Grokの復活]]></title>
             <link>https://finance.biggo.jp/podcast/a811e596ac31f91a</link>
             <guid>https://finance.biggo.jp/podcast/a811e596ac31f91a</guid>
@@ -22,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[スーザン・ケア：オリジナルApple Macアイコンのデザイン秘話]]></title>
+            <title><![CDATA[Susan Kare：初代Macのアイコンとグラフィックのデザイン]]></title>
             <link>https://finance.biggo.jp/podcast/94324779b6032d5b</link>
             <guid>https://finance.biggo.jp/podcast/94324779b6032d5b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -112,21 +124,9 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AIは物理世界をどう変革するのか]]></title>
+            <title><![CDATA[Travis Kalanick：AIが物理世界をどう変革するのか]]></title>
             <link>https://finance.biggo.jp/podcast/fcccfa7eae59f03a</link>
             <guid>https://finance.biggo.jp/podcast/fcccfa7eae59f03a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[コンピュータ利用モデルがウェブをエージェント化する、APIではなく——ダルーブ・バトラ、Yutori 2026-08-14 22:00]]></title>
-            <link>https://finance.biggo.jp/podcast/cb173de44d20817c</link>
-            <guid>https://finance.biggo.jp/podcast/cb173de44d20817c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[需要アグリゲーターの罠]]></title>
-            <link>https://finance.biggo.jp/podcast/2e39635609dda1ca</link>
-            <guid>https://finance.biggo.jp/podcast/2e39635609dda1ca</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
