@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Ramez Naam: Grid Won't Power AI Until 2031, $10T Unused, Data Centers in Southern Ocean | EP #280]]></title>
+            <title><![CDATA[Exo: ハーネスは自身のコードとログを見るべきだ — アレックス・クレンツェル]]></title>
+            <link>https://finance.biggo.jp/podcast/cdad0fa444207a06</link>
+            <guid>https://finance.biggo.jp/podcast/cdad0fa444207a06</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Future of Energy: Gas Turbines Sold Out, Helion's Fusion Deal With Microsoft, GPUs 20x Overpriced]]></title>
             <link>https://finance.biggo.jp/podcast/160375d64f4d94d0</link>
             <guid>https://finance.biggo.jp/podcast/160375d64f4d94d0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -22,7 +28,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Women Are Ascending and Men Aren't Keeping Up]]></title>
+            <title><![CDATA[ウェイモの拡大がウーバーのロボタクシーリスクを露呈し、リフトにチャンスをもたらす]]></title>
+            <link>https://finance.biggo.jp/podcast/8bad22c18e894ead</link>
+            <guid>https://finance.biggo.jp/podcast/8bad22c18e894ead</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[なぜ女性は台頭し、男性は追いついていないのか]]></title>
             <link>https://finance.biggo.jp/podcast/89615708a4daf9de</link>
             <guid>https://finance.biggo.jp/podcast/89615708a4daf9de</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[AI、債務、地政学：投資は変わった | Allocator | 第37回]]></title>
             <link>https://finance.biggo.jp/podcast/576af4567bbd9702</link>
             <guid>https://finance.biggo.jp/podcast/576af4567bbd9702</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NFLとカンザスシティ・チーフスのスター、アート・スティルが語る遺伝性アミロイドーシスの見逃されがちな兆候]]></title>
-            <link>https://finance.biggo.jp/podcast/cecb944e156bee07</link>
-            <guid>https://finance.biggo.jp/podcast/cecb944e156bee07</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nvidiaは自社のAIブームに資金を提供しているのか？ | The Week]]></title>
-            <link>https://finance.biggo.jp/podcast/8f16882778e4d48b</link>
-            <guid>https://finance.biggo.jp/podcast/8f16882778e4d48b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
