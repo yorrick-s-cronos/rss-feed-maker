@@ -10,6 +10,34 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[蔡若蓮：洪水橋的大學城用地將會在9月推出]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a801e86e4b0c1e50024f6f5.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a801e86e4b0c1e50024f6f5.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[教育局局長蔡若蓮在一個電視節目表示，洪水橋的大學城用地將會在9月推出，供有意進駐的合資格專上院校申請。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[海峽兩岸暨香港澳門青少年茶藝大賽今舉行]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a8019fce4b0c1e50024f696.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a8019fce4b0c1e50024f696.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[2026「大成國學杯」海峽兩岸暨香港澳門青少年茶藝大賽總決賽及頒獎典禮今日在香港灣仔國際會議展覽中心茶園舉行。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[金民豪：啟德體育園「票尾經濟」商戶參與增至逾三成 生意人流均見增長]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a801644e4b0c1e50024f645.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a801644e4b0c1e50024f645.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[啟德體育園行政總裁金民豪近日接受香港電台《廣播道會客室》節目專訪，與行政會議成員林健鋒暢談園區營運、盛事經濟發展，以及啟德體育園在推動香港文體旅融合方面的角色與願景。訪談氣氛輕鬆愉快，讓聽眾從另一角度了解這座大型體育及娛樂地標背後的理念與故事。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中大研發AI氣象預報系統「風烏」　提升極端天氣預報準確度與時效]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a801503e4b0c1e50024f61c.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a801503e4b0c1e50024f61c.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[隨着全球氣候變化問題持續，極端天氣不再是偶發事件，而是影響城市運作、公共安全、能源供應與跨境物流的「新常態」。從更早的預警、到更精準的風雨路徑與熱浪強度判斷，各地對高可靠度天氣預報的需求急速上升；然而，依賴龐大算力的傳統數值預報正面臨計算成本高、提升空間受限等瓶頸。香港中文大學（中大）電子工程學系教授歐陽萬里指出，人工智能（AI）可在海量氣象數據中推論出規律，為天氣預報提供另一條突破路徑。其團隊研發的AI驅動氣象全方位預報系統「風烏」，在有效預報時長與預報解析度方面均取得顯著進展，並已在多個實際場景展現應用價值。]]></description>
+        </item>
+        <item>
             <title><![CDATA[(有片) 旺角鐘錶店遭淋油 警查動機緝歹徒]]></title>
             <link>https://www.wenweipo.com/a/202608/15/AP6a801277e4b0c1e50024f5e1.html</link>
             <guid>https://www.wenweipo.com/a/202608/15/AP6a801277e4b0c1e50024f5e1.html</guid>
@@ -31,7 +59,7 @@
             <description><![CDATA[今日（15日）早上7時13分，警方接獲途人報案，指發現一名男子倒臥沙田沙角邨銀鷗樓對開，懷疑他從高處墮下。]]></description>
         </item>
         <item>
-            <title><![CDATA[藍田五桂山持續傳救命聲 無人機直升機出動陸空搜救]]></title>
+            <title><![CDATA[(有片) 藍田五桂山持續傳救命聲 無人機直升機出動陸空搜救]]></title>
             <link>https://www.wenweipo.com/a/202608/15/AP6a7fff6be4b0c1e50024f4c2.html</link>
             <guid>https://www.wenweipo.com/a/202608/15/AP6a7fff6be4b0c1e50024f4c2.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
@@ -43,13 +71,6 @@
             <guid>https://www.wenweipo.com/a/202608/15/AP6a7ff9c0e4b0c1e50024f476.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（15日）凌晨2時35分，天文台發出黃色暴雨警告信號，在凌晨3時許黃雨信號生效期間，一輛運載電子零件的貨車，沿東涌北大嶼山公路往機場方向行駛，當駛至映灣園對開，疑因天雨路滑，失控撞向路旁約8米長鐵欄後，再衝前30米停在路肩。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港產大熊貓加加、得得迎兩歲生日　將與母親盈盈分開獨立生活]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a7ff718e4b0c1e50024f469.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a7ff718e4b0c1e50024f469.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[適逢全國生態日，海洋公園今日為港產大熊貓龍鳳胎「加加」、「得得」舉行兩歲生日慶典，並與香港童軍總會啟動「生態保育先鋒章」計畫。文化體育及旅遊局局長羅淑佩、海洋公園副主席黃顯榮及香港童軍總會香港總監黎偉生出席，逾400名童軍參與。]]></description>
         </item>
         <item>
             <title><![CDATA[青協「大灣區青年調解訓練中心」正式啟動　北都首個青年調解專業平台落成]]></title>
@@ -80,39 +101,18 @@
             <description><![CDATA[新皇崗口岸開通工作最近正在緊鑼密鼓籌備中。保安局今日在社交媒體上發文表示，新皇崗口岸的專題網頁今天先行上線。]]></description>
         </item>
         <item>
+            <title><![CDATA[2026年8月15日（周六）早安香港]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a7fb4b2e4b0c1e50024ec21.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a7fb4b2e4b0c1e50024ec21.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[2026年8月15日（周六）早安香港]]></description>
+        </item>
+        <item>
             <title><![CDATA[高效建屋！簡約公屋團隊榮登「行政長官表揚榜」]]></title>
             <link>https://www.wenweipo.com/a/202608/15/AP6a7fb180e4b0c1e50024eb68.html</link>
             <guid>https://www.wenweipo.com/a/202608/15/AP6a7fb180e4b0c1e50024eb68.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港特區政府公務員團隊在興建簡約公屋的效率和創新上，以及去年處理戰時炸彈方面，俱展現出盡心竭力、敢於挑戰和勇於承擔的服務精神。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[謝小華：五年規劃公眾諮詢接逾萬六份意見　正透過AI分析整合]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a7fb056e4b0c1e50024ead5.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a7fb056e4b0c1e50024ead5.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[為期兩個月的「香港特別行政區經濟和社會發展第一個五年規劃（2026—2030）」公眾諮詢昨日結束。特區政府政制及內地事務局局長謝小華昨日在政總會見傳媒總結公眾諮詢時表示，期內共收到超過1.6萬份來自不同界別、不同背景市民和持份者的意見或建議。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港上半年GDP增5.1%五年最勁　AI產品出口及投資開支成引擎]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a7fb007e4b0c1e50024eabe.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a7fb007e4b0c1e50024eabe.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[受惠於出口、內需、服務輸出及私人消費等增長支持，香港經濟在第二季繼續蓬勃擴張，連續第14個季度錄得增長。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（有片）香港輔警今結業會操　大律師及政府統計師跨界輔警走至前線服務市民]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a7d9e6de4b0c1e50024b717.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a7d9e6de4b0c1e50024b717.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港輔助警察隊今日（15日）舉行結業會操，見證共204名輔警警員畢業，正式投入警務工作，當中有136名男輔警和68名女輔警，他們來自各行各業，包括工程師、教師、金融從業員和室內設計師等。其中兩位分別來自律師行業及政府部門的畢業學員分享其心路歷程，他們希望憑藉自己的專業所長走到更前線服務市民大眾。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港新聞工作者聯會：強烈譴責FCC干預香港事務　堅決抵制外力亂港圖謀]]></title>
-            <link>https://www.wenweipo.com/a/202608/14/AP6a7f3aace4b0c1e50024e505.html</link>
-            <guid>https://www.wenweipo.com/a/202608/14/AP6a7f3aace4b0c1e50024e505.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[就香港外國記者會（FCC）近日發表毫無事實根據的失實聲明，惡意炒作香港記者協會（記協）及其成員遭受所謂「網絡和人身騷擾」，並無理指責特區輿論環境，香港新聞工作者聯會今日（14日）發文表示，對此表達強烈不滿與嚴厲譴責。]]></description>
         </item>
     </channel>
 </rss>
