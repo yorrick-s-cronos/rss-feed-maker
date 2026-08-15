@@ -10,9 +10,27 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ramez Naam: Grid Won't Power AI Until 2031, $10T Unused, Data Centers in Southern Ocean | EP #280]]></title>
+            <link>https://finance.biggo.jp/podcast/160375d64f4d94d0</link>
+            <guid>https://finance.biggo.jp/podcast/160375d64f4d94d0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1億ドルの成長エンジンの作り方：Wispr FlowとSuperhumanから学ぶ教訓｜Matt Swulinski]]></title>
+            <link>https://finance.biggo.jp/podcast/5b45d03fc082dfec</link>
+            <guid>https://finance.biggo.jp/podcast/5b45d03fc082dfec</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Women Are Ascending and Men Aren't Keeping Up]]></title>
             <link>https://finance.biggo.jp/podcast/89615708a4daf9de</link>
             <guid>https://finance.biggo.jp/podcast/89615708a4daf9de</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[対話前DeepMind曹原：AI for Science爆発、新たな時代の到来]]></title>
+            <link>https://finance.biggo.jp/podcast/d40c2247991a088a</link>
+            <guid>https://finance.biggo.jp/podcast/d40c2247991a088a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -109,24 +127,6 @@
             <title><![CDATA[Nvidiaは自社のAIブームに資金を提供しているのか？ | The Week]]></title>
             <link>https://finance.biggo.jp/podcast/8f16882778e4d48b</link>
             <guid>https://finance.biggo.jp/podcast/8f16882778e4d48b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RLからIRLへ — Gaurav Mishra、Amazon AGI Lab]]></title>
-            <link>https://finance.biggo.jp/podcast/4475af5b80873a8c</link>
-            <guid>https://finance.biggo.jp/podcast/4475af5b80873a8c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ウェブ自動化の奥義：エージェントに人間のようにウェブサイトを使わせる方法 — Corey Gallon, Rexmore]]></title>
-            <link>https://finance.biggo.jp/podcast/4825401ffbb32686</link>
-            <guid>https://finance.biggo.jp/podcast/4825401ffbb32686</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントをワールドワイドウェブに導入する — Paul Klein IV, Browserbase]]></title>
-            <link>https://finance.biggo.jp/podcast/6dea8b37185ab92b</link>
-            <guid>https://finance.biggo.jp/podcast/6dea8b37185ab92b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
