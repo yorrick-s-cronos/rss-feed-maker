@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[（有片）新皇崗口岸網頁上線！通關攻略、交通指南一鍵查]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a7fce45e4b0c1e50024f005.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a7fce45e4b0c1e50024f005.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[新皇崗口岸開通工作最近正在緊鑼密鼓籌備中。保安局今日在社交媒體上發文表示，新皇崗口岸的專題網頁今天先行上線。]]></description>
+        </item>
+        <item>
             <title><![CDATA[高效建屋！簡約公屋團隊榮登「行政長官表揚榜」]]></title>
             <link>https://www.wenweipo.com/a/202608/15/AP6a7fb180e4b0c1e50024eb68.html</link>
             <guid>https://www.wenweipo.com/a/202608/15/AP6a7fb180e4b0c1e50024eb68.html</guid>
@@ -107,13 +114,6 @@
             <guid>https://www.wenweipo.com/a/202608/14/AP6a7ef686e4b0c1e50024de63.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港大學（港大）今日（14日）宣布，接納由中國建築國際集團有限公司之全資附屬公司海瑞投資有限公司（下稱「公司」）提交的建議書，將以「建造、營運及移交」模式，改造位於薄扶林道140號的明德村三幢現有員工宿舍為學生宿舍。項目總改裝樓面面積為18,199平方米，預計可提供約800至900個宿位，相關設施料於2028至2029學年起投入運作。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特區政府任命劉建汝為會計及財務匯報局執行董事]]></title>
-            <link>https://www.wenweipo.com/a/202608/14/AP6a7ef255e4b0c1e50024dd6e.html</link>
-            <guid>https://www.wenweipo.com/a/202608/14/AP6a7ef255e4b0c1e50024dd6e.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[特區政府今日公布，財政司司長已行使《會計及財務匯報局條例》（第588章）所賦予，並由行政長官所授予的權力，委任劉建汝為會計及財務匯報局（會財局）執行董事，為期三年，由2026年8月14日至2029年8月13日止。]]></description>
         </item>
     </channel>
 </rss>
