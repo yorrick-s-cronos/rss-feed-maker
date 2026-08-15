@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TWiV 1348: ダニエル・グリフィン博士による臨床アップデート]]></title>
+            <link>https://finance.biggo.jp/podcast/3842b8eda92ab4d9</link>
+            <guid>https://finance.biggo.jp/podcast/3842b8eda92ab4d9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ハリウッドの興行収入が戻ってきた]]></title>
             <link>https://finance.biggo.jp/podcast/7b4567526f95070c</link>
             <guid>https://finance.biggo.jp/podcast/7b4567526f95070c</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[統計的崖っぷちでのコンピュータ利用 — Pierluca D'Oro、Programma Labs]]></title>
             <link>https://finance.biggo.jp/podcast/c42d146fe9148e95</link>
             <guid>https://finance.biggo.jp/podcast/c42d146fe9148e95</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Travis Kalanick：AIが物理世界をどう変革するのか]]></title>
-            <link>https://finance.biggo.jp/podcast/fcccfa7eae59f03a</link>
-            <guid>https://finance.biggo.jp/podcast/fcccfa7eae59f03a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
