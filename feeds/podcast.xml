@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Why Women Are Ascending and Men Aren't Keeping Up]]></title>
+            <link>https://finance.biggo.jp/podcast/89615708a4daf9de</link>
+            <guid>https://finance.biggo.jp/podcast/89615708a4daf9de</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWiV 1348: ダニエル・グリフィン博士による臨床アップデート]]></title>
             <link>https://finance.biggo.jp/podcast/3842b8eda92ab4d9</link>
             <guid>https://finance.biggo.jp/podcast/3842b8eda92ab4d9</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[エージェントをワールドワイドウェブに導入する — Paul Klein IV, Browserbase]]></title>
             <link>https://finance.biggo.jp/podcast/6dea8b37185ab92b</link>
             <guid>https://finance.biggo.jp/podcast/6dea8b37185ab92b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[統計的崖っぷちでのコンピュータ利用 — Pierluca D'Oro、Programma Labs]]></title>
-            <link>https://finance.biggo.jp/podcast/c42d146fe9148e95</link>
-            <guid>https://finance.biggo.jp/podcast/c42d146fe9148e95</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
