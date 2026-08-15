@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[皇崗口岸港方口岸區舉行第二次大型演練和反恐及重大事故演習]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a8032dfe4b0c1e50024f8b5.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a8032dfe4b0c1e50024f8b5.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[香港特別行政區政府今日（8月15日）於皇崗口岸港方口岸區舉行第二次大型演練，並進行跨部門反恐及重大事故演習，進一步測試口岸聯檢大樓和公共運輸交匯處的人流和車流整體管理，以及加強各部門面對突發事故的應變能力。]]></description>
+        </item>
+        <item>
             <title><![CDATA[2026軟科世界大學排名：嶺大躍升至601至700位　較去年升約300位 升幅居八大之首]]></title>
             <link>https://www.wenweipo.com/a/202608/15/AP6a802cfce4b0c1e50024f853.html</link>
             <guid>https://www.wenweipo.com/a/202608/15/AP6a802cfce4b0c1e50024f853.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/15/AP6a7fddcde4b0c1e50024f126.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[運輸及物流局局長陳美寶今日（15日）在網誌表示，政府正在本港物流業的長遠用地發展上再推進一步，就洪水橋／厦村新發展區現代物流圈首批選定地塊，邀請業界提供意向書，預計最早可於2027年年底或2028年年初推出。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[政府與機構推出全國生態日活動及優惠　卓永興鼓勵市民踴躍參與]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a7fd0f6e4b0c1e50024f05d.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a7fd0f6e4b0c1e50024f05d.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（15日）是「全國生態日」，政務司副司長卓永興出席全國生態日啟動禮暨研討會時致辭表示，政府聯同逾30個非政府機構，推出多項與全國生態日有關活動及優惠，包括免費開放設施及提供免費生態導賞團等，鼓勵市民踴躍參加，提升環境保育意識。]]></description>
         </item>
     </channel>
 </rss>
