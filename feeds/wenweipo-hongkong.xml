@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[北角老店鳳城酒家 廚房火警幸無人傷]]></title>
+            <link>https://www.wenweipo.com/a/202608/15/AP6a8040a0e4b0c1e50024fa10.html</link>
+            <guid>https://www.wenweipo.com/a/202608/15/AP6a8040a0e4b0c1e50024fa10.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[今日（15日）下午4時許，北角渣華道62號「鳳城酒家」一樓廚房懷疑發生火警，期間冒出濃煙，有市民見狀報警求助。]]></description>
+        </item>
+        <item>
             <title><![CDATA[皇崗口岸港方口岸區舉行第二次大型演練和反恐及重大事故演習]]></title>
             <link>https://www.wenweipo.com/a/202608/15/AP6a8032dfe4b0c1e50024f8b5.html</link>
             <guid>https://www.wenweipo.com/a/202608/15/AP6a8032dfe4b0c1e50024f8b5.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/15/AP6a7fe4afe4b0c1e50024f1e2.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[有消息指，醫管局正研究或於明年起將聯合醫院的婦產科服務及初生嬰兒深切治療部遷往將軍澳醫院。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[陳美寶：洪水橋全速推進 首批現代物流用地蓄勢待發]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a7fddcde4b0c1e50024f126.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a7fddcde4b0c1e50024f126.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[運輸及物流局局長陳美寶今日（15日）在網誌表示，政府正在本港物流業的長遠用地發展上再推進一步，就洪水橋／厦村新發展區現代物流圈首批選定地塊，邀請業界提供意向書，預計最早可於2027年年底或2028年年初推出。]]></description>
         </item>
     </channel>
 </rss>
