@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[陳茂波：上半年香港經濟表現相當不錯　對下半年情況審慎樂觀]]></title>
+            <link>https://www.wenweipo.com/a/202608/16/AP6a811c52e4b0c1e500250946.html</link>
+            <guid>https://www.wenweipo.com/a/202608/16/AP6a811c52e4b0c1e500250946.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[特區政府公布香港第二季經濟增長4.3%，並上調全年經濟增長預測一個百分點，升至3.5%至4.5%。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[香港男校生復刻尼泊爾「月經小屋」　走進去的人都沉默了]]></title>
+            <link>https://www.wenweipo.com/a/202608/16/AP6a8110aee4b0c1e5002507fb.html</link>
+            <guid>https://www.wenweipo.com/a/202608/16/AP6a8110aee4b0c1e5002507fb.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[五名男校學生去年透過國際培幼會「Be a Change-maker」（BACM）計劃，遠赴尼泊爾東部進行九日八夜實地考察，本以為只是一趟體驗異國風情的旅行，卻在過程中深刻見證當地女童面對的困境，包括當地存在「月經不潔」的傳統觀念，女性來經期間被迫在環境惡劣的「月經小屋」內容身。]]></description>
+        </item>
+        <item>
             <title><![CDATA[紀錄片《江澤民》回顧香港回歸歷程　指出「港人是完全能治理好香港的」]]></title>
             <link>https://www.wenweipo.com/a/202608/16/AP6a810180e4b0c1e5002505ea.html</link>
             <guid>https://www.wenweipo.com/a/202608/16/AP6a810180e4b0c1e5002505ea.html</guid>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/15/AP6a802cfce4b0c1e50024f853.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[2026年軟科世界大學學術排名（ARWU）今日公布。嶺南大學（嶺大）發言人表示，嶺大今年排名由去年的全球第901至1000位區間，上升至第601至700位區間，較去年上升約300位；在香港特區八所資助大學中，升幅為最大，排名並列第六位。校方形容是次進步「令人鼓舞」，並指結果與嶺大近月在其他國際排名的上升趨勢一致，反映大學近年推動策略轉型的階段性成果獲國際學術界肯定。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（有片）81年前，一名香港市民聽到的聲音：日本無條件投降！（粵語版）]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a802630e4b0c1e50024f7a6.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a802630e4b0c1e50024f7a6.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[1945年8月15日，美國廣播電台向遠東地區民眾，用粵語播報日本正式投降的快訊。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蔡若蓮：洪水橋的大學城用地將會在9月推出]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a801e86e4b0c1e50024f6f5.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a801e86e4b0c1e50024f6f5.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[教育局局長蔡若蓮在一個電視節目表示，洪水橋的大學城用地將會在9月推出，供有意進駐的合資格專上院校申請。]]></description>
         </item>
     </channel>
 </rss>
