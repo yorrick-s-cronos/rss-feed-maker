@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[光あれ、殺菌光よ：この500ドルの器具が次のパンデミックを止めるかもしれない、複雑系から]]></title>
+            <link>https://finance.biggo.jp/podcast/2eb856a5b69152c1</link>
+            <guid>https://finance.biggo.jp/podcast/2eb856a5b69152c1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWiV 1349: 天然痘とミイラ]]></title>
             <link>https://finance.biggo.jp/podcast/b535c12424139ed7</link>
             <guid>https://finance.biggo.jp/podcast/b535c12424139ed7</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[Mark Zuckerberg、Instagzamを発表 | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/5935a57f04f91d4c</link>
             <guid>https://finance.biggo.jp/podcast/5935a57f04f91d4c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[双極性障害治療の新たな分析とマラリアワクチン]]></title>
-            <link>https://finance.biggo.jp/podcast/588114d876848512</link>
-            <guid>https://finance.biggo.jp/podcast/588114d876848512</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
