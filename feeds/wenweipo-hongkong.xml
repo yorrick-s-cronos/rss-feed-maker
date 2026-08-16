@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[紅磡店舖疑收偽鈔 警檢兩張假「大牛」緝中年漢]]></title>
+            <link>https://www.wenweipo.com/a/202608/16/AP6a819f2de4b0c1e5002517f8.html</link>
+            <guid>https://www.wenweipo.com/a/202608/16/AP6a819f2de4b0c1e5002517f8.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[今日（16日）下午3時34分，警方接獲紅磡美景街2號一店舖負責人報案，指一名年約40至50歲的本地男子，在上址使用兩張懷疑偽鈔作付款後離去。]]></description>
+        </item>
+        <item>
             <title><![CDATA[熱辣辣！天文台：下午市區氣溫達34度]]></title>
             <link>https://www.wenweipo.com/a/202608/16/AP6a81975be4b0c1e50025171a.html</link>
             <guid>https://www.wenweipo.com/a/202608/16/AP6a81975be4b0c1e50025171a.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/16/AP6a815cd3e4b0c1e50025112d.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[為應對人口高齡化挑戰，香港城市大學商學院決策分析及營運學系講座教授陳友華領導「頤年在家」計劃，提倡以預防為本、家居為主、社區為基礎的醫療保健模式，推動長者照顧由傳統院舍照護轉向居家照護，全方位支援長者出院後的健康需要，冀緩解長者普遍面對的輪候時間長、醫療機構擠迫及經濟壓力等問題。81歲的黃女士中風後飽受坐骨神經痛困擾，髖部及背部疼痛令她舉步維艱，團隊為她詳細評估痛症，並教導合適的伸展運動，在助行器具及團隊悉心照料下，她於12週後已能獨自外出散步，重新與舊街坊聯絡，重拾笑容與自信。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[啟德花園停車場內行車不穩 司機未能通過酒測涉酒駕被捕]]></title>
-            <link>https://www.wenweipo.com/a/202608/16/AP6a8157bbe4b0c1e5002510b0.html</link>
-            <guid>https://www.wenweipo.com/a/202608/16/AP6a8157bbe4b0c1e5002510b0.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[昨日（15日）深夜11時24分，警方接獲途人報案，指一輛自訂車牌的私家車，在黃大仙彩虹道121號啟德花園停車場行車不穩，懷疑司機酒後駕駛。]]></description>
         </item>
     </channel>
 </rss>
