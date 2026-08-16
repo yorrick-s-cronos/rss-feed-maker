@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[熱辣辣！天文台：下午市區氣溫達34度]]></title>
+            <link>https://www.wenweipo.com/a/202608/16/AP6a81975be4b0c1e50025171a.html</link>
+            <guid>https://www.wenweipo.com/a/202608/16/AP6a81975be4b0c1e50025171a.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[天文台稱本港天氣普遍晴朗，全港下午各區氣溫普遍上升至34度左右。]]></description>
+        </item>
+        <item>
             <title><![CDATA[近五成學童身心壓力爆煲不找人幫助 專家籲落實「及早識別」與跨界別調解支援]]></title>
             <link>https://www.wenweipo.com/a/202608/16/AP6a818c90e4b0c1e500251667.html</link>
             <guid>https://www.wenweipo.com/a/202608/16/AP6a818c90e4b0c1e500251667.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/16/AP6a8157bbe4b0c1e5002510b0.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[昨日（15日）深夜11時24分，警方接獲途人報案，指一輛自訂車牌的私家車，在黃大仙彩虹道121號啟德花園停車場行車不穩，懷疑司機酒後駕駛。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[警方嚴打葵青荃灣青少年罪行 拘16人最細13歲檢毒品武器]]></title>
-            <link>https://www.wenweipo.com/a/202608/16/AP6a815512e4b0c1e500251055.html</link>
-            <guid>https://www.wenweipo.com/a/202608/16/AP6a815512e4b0c1e500251055.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[2026年上半年，警方新界南總區共錄得410宗涉及青少年（10至20歲）的刑事案件，對比2025年同期錄得34%升幅（較去年多104人）。他們干犯的罪行主要是店鋪盜竊、刑事毀壞及輕微傷人案等。]]></description>
         </item>
     </channel>
 </rss>
