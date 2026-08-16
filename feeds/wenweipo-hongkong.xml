@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[懶人包 香港室內消暑好去處大集合]]></title>
+            <link>https://www.wenweipo.com/a/202608/16/AP6a817bdfe4b0c1e50025152a.html</link>
+            <guid>https://www.wenweipo.com/a/202608/16/AP6a817bdfe4b0c1e50025152a.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[盛夏來臨，連日高溫令人吃不消，要對抗炎夏，最佳的消暑方法莫過於躲進冷氣開放的室內場所。除了看電影，香港還有許多有趣的室內好去處，讓市民在涼爽的環境下盡情玩樂！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[香港迪士尼明年迎獨家Pixar主題劇場　Marvel園區將大幅擴建]]></title>
+            <link>https://www.wenweipo.com/a/202608/16/AP6a8175e8e4b0c1e5002514b1.html</link>
+            <guid>https://www.wenweipo.com/a/202608/16/AP6a8175e8e4b0c1e5002514b1.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[每兩年一度的D23迪士尼全球粉絲大會剛於8月14至16日在加州舉行，大會率先揭曉香港迪士尼樂園度假區即將登場的獨家Pixar與Marvel主題體驗。]]></description>
+        </item>
+        <item>
             <title><![CDATA[廉署起訴證監會時任經理 涉用內部系統非法查閱調查機密]]></title>
             <link>https://www.wenweipo.com/a/202608/16/AP6a816c51e4b0c1e500251346.html</link>
             <guid>https://www.wenweipo.com/a/202608/16/AP6a816c51e4b0c1e500251346.html</guid>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/16/AP6a811fb7e4b0c1e500250974.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[在瑞典舉行的世界乒聯歐洲大滿貫，港隊組合黃鎮廷與陳顥樺在決賽以局數0:3不敵法國的勒布倫兄弟，取得亞軍。3局比分是11:7、11:8及14:12。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[陳茂波：上半年香港經濟表現相當不錯　對下半年情況審慎樂觀]]></title>
-            <link>https://www.wenweipo.com/a/202608/16/AP6a811c52e4b0c1e500250946.html</link>
-            <guid>https://www.wenweipo.com/a/202608/16/AP6a811c52e4b0c1e500250946.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[特區政府公布香港第二季經濟增長4.3%，並上調全年經濟增長預測一個百分點，升至3.5%至4.5%。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港男校生復刻尼泊爾「月經小屋」　走進去的人都沉默了]]></title>
-            <link>https://www.wenweipo.com/a/202608/16/AP6a8110aee4b0c1e5002507fb.html</link>
-            <guid>https://www.wenweipo.com/a/202608/16/AP6a8110aee4b0c1e5002507fb.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[五名男校學生去年透過國際培幼會「Be a Change-maker」（BACM）計劃，遠赴尼泊爾東部進行九日八夜實地考察，本以為只是一趟體驗異國風情的旅行，卻在過程中深刻見證當地女童面對的困境，包括當地存在「月經不潔」的傳統觀念，女性來經期間被迫在環境惡劣的「月經小屋」內容身。]]></description>
         </item>
     </channel>
 </rss>
