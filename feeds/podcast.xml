@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Anti-Male Bias No One Talks About — Dr. Debra Soh]]></title>
+            <link>https://finance.biggo.jp/podcast/85d36ba94791b761</link>
+            <guid>https://finance.biggo.jp/podcast/85d36ba94791b761</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIが時間を変える：競争できない者は計算に走る]]></title>
+            <link>https://finance.biggo.jp/podcast/1b2e2130d6932cbe</link>
+            <guid>https://finance.biggo.jp/podcast/1b2e2130d6932cbe</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why OpenAI’s Head of Design isn’t worried about AI replacing designers | Ian Silber]]></title>
+            <link>https://finance.biggo.jp/podcast/909a4a8995850e90</link>
+            <guid>https://finance.biggo.jp/podcast/909a4a8995850e90</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TIVP090（ビデオ）：Adobe、Lululemon、PayPal – 最大の敗北銘柄は今買いか？ Daniel Mahncke & Shawn O'Malley と共に]]></title>
             <link>https://finance.biggo.jp/podcast/b0270d0f0616cde9</link>
             <guid>https://finance.biggo.jp/podcast/b0270d0f0616cde9</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[Susan Kare：初代Macのアイコンとグラフィックのデザイン]]></title>
             <link>https://finance.biggo.jp/podcast/94324779b6032d5b</link>
             <guid>https://finance.biggo.jp/podcast/94324779b6032d5b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エピソード193 - 2026年8月14日]]></title>
-            <link>https://finance.biggo.jp/podcast/796d9209ebe832c2</link>
-            <guid>https://finance.biggo.jp/podcast/796d9209ebe832c2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ウェブデータ基盤が次世代AIを支える仕組み — パトリシア・ジェマイティテ（Oxylabs）]]></title>
-            <link>https://finance.biggo.jp/podcast/ddd543ea36c67f38</link>
-            <guid>https://finance.biggo.jp/podcast/ddd543ea36c67f38</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2540 - トラヴィス・バーカー]]></title>
-            <link>https://finance.biggo.jp/podcast/c654215f2eefd5d6</link>
-            <guid>https://finance.biggo.jp/podcast/c654215f2eefd5d6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
