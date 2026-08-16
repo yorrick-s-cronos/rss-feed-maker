@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[李家超勉勵軍事夏令營畢業學員：做愛國愛港守護者　敢於迎難而上]]></title>
+            <link>https://www.wenweipo.com/a/202608/16/AP6a81399be4b0c1e500250d28.html</link>
+            <guid>https://www.wenweipo.com/a/202608/16/AP6a81399be4b0c1e500250d28.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[第十九屆香港青少年軍事夏令營暨第十三屆香港大學生軍事生活體驗營，在駐港部隊新圍軍營舉行結業儀式，行政長官李家超擔任主禮嘉賓，向學員頒發結業證書。]]></description>
+        </item>
+        <item>
             <title><![CDATA[WTT瑞典大滿貫丨黃鎮廷陳顥樺獲得男雙亞軍]]></title>
             <link>https://www.wenweipo.com/a/202608/16/AP6a811fb7e4b0c1e500250974.html</link>
             <guid>https://www.wenweipo.com/a/202608/16/AP6a811fb7e4b0c1e500250974.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/15/AP6a8040a0e4b0c1e50024fa10.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（15日）下午4時許，北角渣華道62號「鳳城酒家」一樓廚房懷疑發生火警，期間冒出濃煙，有市民見狀報警求助。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[皇崗口岸港方口岸區舉行第二次大型演練和反恐及重大事故演習]]></title>
-            <link>https://www.wenweipo.com/a/202608/15/AP6a8032dfe4b0c1e50024f8b5.html</link>
-            <guid>https://www.wenweipo.com/a/202608/15/AP6a8032dfe4b0c1e50024f8b5.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港特別行政區政府今日（8月15日）於皇崗口岸港方口岸區舉行第二次大型演練，並進行跨部門反恐及重大事故演習，進一步測試口岸聯檢大樓和公共運輸交匯處的人流和車流整體管理，以及加強各部門面對突發事故的應變能力。]]></description>
         </item>
     </channel>
 </rss>
