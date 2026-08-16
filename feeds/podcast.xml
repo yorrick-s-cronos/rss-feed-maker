@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TIVP090（ビデオ）：Adobe、Lululemon、PayPal – 最大の敗北銘柄は今買いか？ Daniel Mahncke & Shawn O'Malley と共に]]></title>
+            <link>https://finance.biggo.jp/podcast/b0270d0f0616cde9</link>
+            <guid>https://finance.biggo.jp/podcast/b0270d0f0616cde9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[光あれ、殺菌光よ：この500ドルの器具が次のパンデミックを止めるかもしれない、複雑系から]]></title>
             <link>https://finance.biggo.jp/podcast/2eb856a5b69152c1</link>
             <guid>https://finance.biggo.jp/podcast/2eb856a5b69152c1</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[ジョー・ローガン・エクスペリエンス #2540 - トラヴィス・バーカー]]></title>
             <link>https://finance.biggo.jp/podcast/c654215f2eefd5d6</link>
             <guid>https://finance.biggo.jp/podcast/c654215f2eefd5d6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mark Zuckerberg、Instagzamを発表 | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/5935a57f04f91d4c</link>
-            <guid>https://finance.biggo.jp/podcast/5935a57f04f91d4c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
