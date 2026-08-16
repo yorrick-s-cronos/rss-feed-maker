@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TWiV 1349: 天然痘とミイラ]]></title>
+            <link>https://finance.biggo.jp/podcast/b535c12424139ed7</link>
+            <guid>https://finance.biggo.jp/podcast/b535c12424139ed7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[売り上げ10億から10年で500億へ〜松島陽介さんのJMDC復活物語]]></title>
             <link>https://finance.biggo.jp/podcast/85a28762de4a327b</link>
             <guid>https://finance.biggo.jp/podcast/85a28762de4a327b</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[双極性障害治療の新たな分析とマラリアワクチン]]></title>
             <link>https://finance.biggo.jp/podcast/588114d876848512</link>
             <guid>https://finance.biggo.jp/podcast/588114d876848512</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[薬剤修正：PDUFA VIIIの収入削減とGDUFA IVの名称変更を理解する]]></title>
-            <link>https://finance.biggo.jp/podcast/d782f05153ac4c5c</link>
-            <guid>https://finance.biggo.jp/podcast/d782f05153ac4c5c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
