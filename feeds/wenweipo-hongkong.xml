@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[天文台發出酷熱天氣警告　最高氣溫約33度]]></title>
+            <link>https://www.wenweipo.com/a/202608/17/AP6a824023e4b0c1e500252143.html</link>
+            <guid>https://www.wenweipo.com/a/202608/17/AP6a824023e4b0c1e500252143.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[酷熱天氣警告現正生效。天文台預料今日本港天氣酷熱，市民應慎防中暑。]]></description>
+        </item>
+        <item>
             <title><![CDATA[(有片) 專訪 │ 由警隊高層到食環署掌舵人 袁旭健履新兩月：鐵漢轉戰民生前線 以主動、精準、有效重塑食環治理]]></title>
             <link>https://www.wenweipo.com/a/202608/17/AP6a803c7be4b0c1e50024f991.html</link>
             <guid>https://www.wenweipo.com/a/202608/17/AP6a803c7be4b0c1e50024f991.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/16/AP6a818c90e4b0c1e500251667.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[獅子山青年商會與香港家庭調解協會今日（16日）假上環海景商業大廈舉行《中小學家長及學生壓力辨識能力問卷調查》發佈會。調查於3月至8月在全港隨機抽樣進行，成功收集254份學童、107份家長問卷，結果顯示逾一成學童曾有自傷行為，兩成二學童指家長未能辨識其壓力，學業壓力更獲學童與家長同列為「頭號壓力源」。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(有片) 筲箕灣避風塘垃圾收集船起火 消防水警合力救援幸無人傷]]></title>
-            <link>https://www.wenweipo.com/a/202608/16/AP6a8180b3e4b0c1e5002515c8.html</link>
-            <guid>https://www.wenweipo.com/a/202608/16/AP6a8180b3e4b0c1e5002515c8.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（16日）凌晨1時56分，一艘停泊於筲箕灣避風塘近筲箕灣魚類批發市場對開、約100米海面的垃圾收集船突然起火，期間冒出大量白煙，附近船家見狀，隨即報警求助。]]></description>
         </item>
     </channel>
 </rss>
