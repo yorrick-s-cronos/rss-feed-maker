@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[コードレビューをどう終わらせるか — Ankit Jain（Aviator）]]></title>
+            <link>https://finance.biggo.jp/podcast/b1b0b85c71fed76a</link>
+            <guid>https://finance.biggo.jp/podcast/b1b0b85c71fed76a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[貿易データはトランプ政権の政策変更にまだ追いついていない、とピーター・ハレル氏]]></title>
+            <link>https://finance.biggo.jp/podcast/bc2febdffd8bdb95</link>
+            <guid>https://finance.biggo.jp/podcast/bc2febdffd8bdb95</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[デジタルドクターが今すぐ診察します｜The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/5aa4cf66074d0610</link>
+            <guid>https://finance.biggo.jp/podcast/5aa4cf66074d0610</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エージェント向けセキュリティファイアウォール — Ryan Dahl、Deno]]></title>
             <link>https://finance.biggo.jp/podcast/0a9e13c264db2cb9</link>
             <guid>https://finance.biggo.jp/podcast/0a9e13c264db2cb9</guid>
@@ -52,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uber社長が語る知られざるUberの物語：トラビス、中国、自動運転｜DoorDashを抑えて1位になる方法]]></title>
+            <title><![CDATA[Uber President on The Untold Stories: Travis, China & Self-Driving | Andrew Macdonald]]></title>
             <link>https://finance.biggo.jp/podcast/d19c9b1fb45f66c5</link>
             <guid>https://finance.biggo.jp/podcast/d19c9b1fb45f66c5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -64,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ケビン・ウォーシュのFRB議長就任で長期金利は低下する可能性]]></title>
+            <title><![CDATA[Kevin Warsh Is Ending the One-Man Fed]]></title>
             <link>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</link>
             <guid>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[AIがデザインできるようになった今、何が起きるのか？｜OpenAI、デザイン責任者（Ian Silber）]]></title>
             <link>https://finance.biggo.jp/podcast/909a4a8995850e90</link>
             <guid>https://finance.biggo.jp/podcast/909a4a8995850e90</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIVP090（ビデオ）：Adobe、Lululemon、PayPal – 最大の敗北銘柄は今買いか？ Daniel Mahncke & Shawn O'Malley と共に]]></title>
-            <link>https://finance.biggo.jp/podcast/b0270d0f0616cde9</link>
-            <guid>https://finance.biggo.jp/podcast/b0270d0f0616cde9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[光あれ、殺菌光よ：この500ドルの器具が次のパンデミックを止めるかもしれない、複雑系から]]></title>
-            <link>https://finance.biggo.jp/podcast/2eb856a5b69152c1</link>
-            <guid>https://finance.biggo.jp/podcast/2eb856a5b69152c1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1349: 天然痘とミイラ]]></title>
-            <link>https://finance.biggo.jp/podcast/b535c12424139ed7</link>
-            <guid>https://finance.biggo.jp/podcast/b535c12424139ed7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

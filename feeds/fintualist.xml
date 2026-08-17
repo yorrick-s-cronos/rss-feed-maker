@@ -4,16 +4,22 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[📍 Mercados en vivo - Cerca de máximos]]></title>
+            <title><![CDATA[📍 Mercados en vivo - Tasas largas en máximos]]></title>
             <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
             <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
-            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cerca de máximos - Mercados al 14 de agosto]]></title>
+            <link>https://fintualist.com/chile/economia/mercados/cerca-de-maximos-mercados-al-14-de-agosto-2/</link>
+            <guid>https://fintualist.com/chile/economia/mercados/cerca-de-maximos-mercados-al-14-de-agosto-2/</guid>
+            <pubDate>Fri, 14 Aug 2026 21:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La señora que buscan todas las AFP | Fintualist 288 🗞️]]></title>
@@ -28,10 +34,16 @@
             <pubDate>Tue, 11 Aug 2026 23:12:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cómo uso Claude Code sin ser ingeniero]]></title>
-            <link>https://fintualist.com/chile/opinion/como-uso-claude-code-sin-ser-ingeniero/</link>
-            <guid>https://fintualist.com/chile/opinion/como-uso-claude-code-sin-ser-ingeniero/</guid>
-            <pubDate>Tue, 11 Aug 2026 20:33:55 GMT</pubDate>
+            <title><![CDATA[¿Es posible ganarle al S&P 500?]]></title>
+            <link>https://fintualist.com/mexico/educacion-financiera/es-posible-ganarle-al-s-p-500/</link>
+            <guid>https://fintualist.com/mexico/educacion-financiera/es-posible-ganarle-al-s-p-500/</guid>
+            <pubDate>Fri, 07 Aug 2026 15:43:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[0% de impuestos por las ganancias: reforma tributaria y nuevo 107 LIR aprobados]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/0-de-impuestos-por-las-ganancias-reforma-tributaria-y-nuevo-107-lir-aprobados/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/0-de-impuestos-por-las-ganancias-reforma-tributaria-y-nuevo-107-lir-aprobados/</guid>
+            <pubDate>Tue, 04 Aug 2026 23:05:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Por qué tanta volatilidad en la bolsa de Corea?]]></title>
@@ -116,18 +128,6 @@
             <link>https://fintualist.com/mexico/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla-mx/</link>
             <guid>https://fintualist.com/mexico/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla-mx/</guid>
             <pubDate>Tue, 21 Jul 2026 00:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visión de mercados de medio año 2026: ¿se empieza a disipar la niebla?]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla/</guid>
-            <pubDate>Mon, 20 Jul 2026 20:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Se cierra Ormuz, nuevamente - mercados al 17 de julio]]></title>
-            <link>https://fintualist.com/mexico/economia/mercados/se-cierra-ormuz-nuevamente-mercados-al-17-de-julio-2/</link>
-            <guid>https://fintualist.com/mexico/economia/mercados/se-cierra-ormuz-nuevamente-mercados-al-17-de-julio-2/</guid>
-            <pubDate>Fri, 17 Jul 2026 19:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
