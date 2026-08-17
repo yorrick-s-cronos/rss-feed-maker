@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[《小蟲蟲大冒險》免費放映  200教界人士共賞 寓教於樂消暑氣]]></title>
+            <link>https://www.wenweipo.com/a/202608/17/AP6a81cf98e4b0c1e500251c27.html</link>
+            <guid>https://www.wenweipo.com/a/202608/17/AP6a81cf98e4b0c1e500251c27.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[炎炎夏日，一股清涼的電影文化之風吹進教育界。由南方電影文化基金會與YOU AND ME 基金會合辦、香港濟南聯誼總會協辦的「與校長有個約會」校長放映室，昨天鑽石山影藝荷里活 舉行《小蟲蟲大冒險》免費電影欣賞會，全場共200位校長、校監及老師踴躍出席，場面熱鬧，為暑假增添一份深具教育意義的視覺饗宴。]]></description>
+        </item>
+        <item>
             <title><![CDATA[蔡章閣中學「平行心間快線」 師生同行書卷路共築「舒得起」歷程]]></title>
             <link>https://www.wenweipo.com/a/202608/17/AP6a81cf60e4b0c1e500251c23.html</link>
             <guid>https://www.wenweipo.com/a/202608/17/AP6a81cf60e4b0c1e500251c23.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/16/AP6a81d418e4b0c1e500251ca9.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[第十九屆香港青少年軍事夏令營暨第十三屆香港大學生軍事生活體驗營結業典禮今日上午在駐香港部隊新圍軍營舉行。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港青少年軍事夏令營結業　培育青年愛國愛港愛軍情懷]]></title>
-            <link>https://www.wenweipo.com/a/202608/16/AP6a81c787e4b0c1e500251bd3.html</link>
-            <guid>https://www.wenweipo.com/a/202608/16/AP6a81c787e4b0c1e500251bd3.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[民政及青年事務局常秘李百全今日出席中國人民解放軍駐香港部隊第十九屆香港青少年軍事夏令營暨第十三屆香港大學生軍事生活體驗營結業典禮。]]></description>
         </item>
     </channel>
 </rss>
