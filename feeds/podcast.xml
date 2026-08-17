@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ターミナルとはおさらばだ]]></title>
+            <link>https://finance.biggo.jp/podcast/1e4bc1739e6c1fa0</link>
+            <guid>https://finance.biggo.jp/podcast/1e4bc1739e6c1fa0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[デブラ・ソー：「私たちはかつてないほどセックスをしていない」——その理由とは]]></title>
+            <link>https://finance.biggo.jp/podcast/3ef77586d8627bb0</link>
+            <guid>https://finance.biggo.jp/podcast/3ef77586d8627bb0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[早期ALS検出の新戦略]]></title>
+            <link>https://finance.biggo.jp/podcast/b2edc9ad8edfcf1c</link>
+            <guid>https://finance.biggo.jp/podcast/b2edc9ad8edfcf1c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[コードレビューをどう終わらせるか — Ankit Jain（Aviator）]]></title>
             <link>https://finance.biggo.jp/podcast/b1b0b85c71fed76a</link>
             <guid>https://finance.biggo.jp/podcast/b1b0b85c71fed76a</guid>
@@ -58,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[「チェックアウトページは存在すべきではない」- Stripeが語るエージェント型コマース]]></title>
+            <title><![CDATA[Tokens Are the New Dollars | Stripe with a16z]]></title>
             <link>https://finance.biggo.jp/podcast/d76652fb9750e909</link>
             <guid>https://finance.biggo.jp/podcast/d76652fb9750e909</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -70,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uber President on The Untold Stories: Travis, China & Self-Driving | Andrew Macdonald]]></title>
+            <title><![CDATA[ウーバー社長が語る知られざる物語：トラビス、中国、自動運転 | アンドリュー・マクドナルド]]></title>
             <link>https://finance.biggo.jp/podcast/d19c9b1fb45f66c5</link>
             <guid>https://finance.biggo.jp/podcast/d19c9b1fb45f66c5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -82,7 +100,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kevin Warsh Is Ending the One-Man Fed]]></title>
+            <title><![CDATA[ケビン・ワーシュが一人の男によるFRBを終わらせる]]></title>
             <link>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</link>
             <guid>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[モバイルアプリの億万長者と24時間過ごしてみた]]></title>
             <link>https://finance.biggo.jp/podcast/fcd271f2cf563146</link>
             <guid>https://finance.biggo.jp/podcast/fcd271f2cf563146</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[誰も語らない男性への偏見 — Dr. Debra Soh]]></title>
-            <link>https://finance.biggo.jp/podcast/85d36ba94791b761</link>
-            <guid>https://finance.biggo.jp/podcast/85d36ba94791b761</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIが時間を変える：競争できない者は計算に走る]]></title>
-            <link>https://finance.biggo.jp/podcast/1b2e2130d6932cbe</link>
-            <guid>https://finance.biggo.jp/podcast/1b2e2130d6932cbe</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIがデザインできるようになった今、何が起きるのか？｜OpenAI、デザイン責任者（Ian Silber）]]></title>
-            <link>https://finance.biggo.jp/podcast/909a4a8995850e90</link>
-            <guid>https://finance.biggo.jp/podcast/909a4a8995850e90</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
