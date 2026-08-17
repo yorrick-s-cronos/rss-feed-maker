@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[GLP-1コンパニオンカテゴリーの構築、ビバリー・ローとマルティナ・グリップ]]></title>
+            <link>https://finance.biggo.jp/podcast/b3e9121280af816b</link>
+            <guid>https://finance.biggo.jp/podcast/b3e9121280af816b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Scientist REVEALS: We Invented Heaven, You're Praying To Nothing! | Prof Brian Greene]]></title>
+            <link>https://finance.biggo.jp/podcast/335e667884a9824f</link>
+            <guid>https://finance.biggo.jp/podcast/335e667884a9824f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celcuityのブライアン・サリバン氏と語る、初の製品承認への道]]></title>
             <link>https://finance.biggo.jp/podcast/25bebae5eddeda45</link>
             <guid>https://finance.biggo.jp/podcast/25bebae5eddeda45</guid>
@@ -70,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exo: ハーネスは自身のコードとログを見るべきだ — アレックス・クレンツェル]]></title>
+            <title><![CDATA[Exo: ハーネスは自身のコードとログを見るべき — Alex Krentsel, UC Berkeley / Google Research]]></title>
             <link>https://finance.biggo.jp/podcast/cdad0fa444207a06</link>
             <guid>https://finance.biggo.jp/podcast/cdad0fa444207a06</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[ハリウッドの興行収入が戻ってきた]]></title>
             <link>https://finance.biggo.jp/podcast/7b4567526f95070c</link>
             <guid>https://finance.biggo.jp/podcast/7b4567526f95070c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[原子力がエネルギー豊富さを解き放つ方法：Valar Atomics創業者アイザイア・テイラーとの対談]]></title>
-            <link>https://finance.biggo.jp/podcast/64d310f550867c41</link>
-            <guid>https://finance.biggo.jp/podcast/64d310f550867c41</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthropicの2兆ドルIPO、ザッカーバーグのAIマニフェスト、NVIDIAの5000億ドルのAI賭け、Grokの復活]]></title>
-            <link>https://finance.biggo.jp/podcast/a811e596ac31f91a</link>
-            <guid>https://finance.biggo.jp/podcast/a811e596ac31f91a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
