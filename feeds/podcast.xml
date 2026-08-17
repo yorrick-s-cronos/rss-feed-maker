@@ -10,13 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[金利上昇がむしろ市場を落ち着かせる可能性がある理由]]></title>
+            <link>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</link>
+            <guid>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GLP-1コンパニオンカテゴリーの構築、ビバリー・ローとマルティナ・グリップ]]></title>
             <link>https://finance.biggo.jp/podcast/b3e9121280af816b</link>
             <guid>https://finance.biggo.jp/podcast/b3e9121280af816b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Top Scientist REVEALS: We Invented Heaven, You're Praying To Nothing! | Prof Brian Greene]]></title>
+            <title><![CDATA[トップ科学者が暴露：天国は我々が発明した、あなたは無に向かって祈っている！ | ブライアン・グリーン教授]]></title>
             <link>https://finance.biggo.jp/podcast/335e667884a9824f</link>
             <guid>https://finance.biggo.jp/podcast/335e667884a9824f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[TWiV 1348: ダニエル・グリフィン博士による臨床アップデート]]></title>
             <link>https://finance.biggo.jp/podcast/3842b8eda92ab4d9</link>
             <guid>https://finance.biggo.jp/podcast/3842b8eda92ab4d9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ハリウッドの興行収入が戻ってきた]]></title>
-            <link>https://finance.biggo.jp/podcast/7b4567526f95070c</link>
-            <guid>https://finance.biggo.jp/podcast/7b4567526f95070c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
