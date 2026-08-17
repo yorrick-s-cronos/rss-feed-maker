@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[屯門青山公路私家車與專線小巴相撞 兩車至少11人傷]]></title>
+            <link>https://www.wenweipo.com/a/202608/17/AP6a832e96e4b0c1e500253d0e.html</link>
+            <guid>https://www.wenweipo.com/a/202608/17/AP6a832e96e4b0c1e500253d0e.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[今日（17日）晚上近10時，一輛私家車和一輛綠色專線小巴在屯門青山公路嶺南段與屯富路交界相撞，期間私家車車頭嚴重毀爛，擋風玻璃爆裂，車廂氣袋彈出，小巴亦告右邊車頭泵把損毀。消息指事件中至少11人受輕傷，當中包括私家車1男1女及小巴上4男5女。受事件影響，現場一段青衣公路一度要全線封閉。]]></description>
+        </item>
+        <item>
             <title><![CDATA[打鼓嶺區鄉事委員會與發展局團隊共商水浸及倉地規劃問題]]></title>
             <link>https://www.wenweipo.com/a/202608/17/AP6a8323d2e4b0c1e500253c87.html</link>
             <guid>https://www.wenweipo.com/a/202608/17/AP6a8323d2e4b0c1e500253c87.html</guid>
@@ -24,7 +31,7 @@
             <description><![CDATA[元朗YOHO今日（17日）發生大型狗隻發狂連環咬斃一隻迷你貴婦犬及一隻比熊犬。同樣養狗的立法會議員何敬康在社交平台發帖，對事件極度憤怒及痛心，批評部分大狗狗主毫無安全意識，直言「狗無知，但人有責」，​並向當局提出三點建議，包括加強刑罰、強制要求大型狗隻外出應戴口罩及牽短繩。]]></description>
         </item>
         <item>
-            <title><![CDATA[朗YOHO狗咬狗｜涉案惡犬植有晶片 漁護署：如有足夠證據會提出檢控]]></title>
+            <title><![CDATA[元朗YOHO狗咬狗｜涉案惡犬植有晶片 漁護署：如有足夠證據會提出檢控]]></title>
             <link>https://www.wenweipo.com/a/202608/17/AP6a831ba9e4b0c1e500253bdc.html</link>
             <guid>https://www.wenweipo.com/a/202608/17/AP6a831ba9e4b0c1e500253bdc.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
@@ -112,13 +119,6 @@
             <guid>https://www.wenweipo.com/a/202608/17/AP6a82dd5be4b0c1e5002536c5.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[新界南總區交通部執行及管制組特遣隊人員，今日（17日）在區內進行打擊非法駕駛汽車作出租或載客取酬用途的行動。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[廉政專員率團出席亞太經合組織反貪會議 分享落實《北京反腐敗宣言》成果]]></title>
-            <link>https://www.wenweipo.com/a/202608/17/AP6a82d77ce4b0c1e5002535cd.html</link>
-            <guid>https://www.wenweipo.com/a/202608/17/AP6a82d77ce4b0c1e5002535cd.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[廉政專員胡英明今日（17日）率領廉政公署代表團，於大連出席亞太區經濟合作組織(亞太經合組織)第43屆反貪腐倡透明專家工作小組會議，持續推動《北京反腐敗宣言》（《宣言》）加強國際反腐敗合作。胡英明以中國香港代表身分在會上發言，匯報廉署就《宣言》所承諾的工作進度；他表示，廉署、香港國際廉政學院與國際反貪局聯合會組成的「反貪鐵三角」，一直致力從三方面實踐《宣言》各項目標，包括「鞏固夥伴合作」、「強化反腐裝備」和「建立全方位視野」。]]></description>
         </item>
     </channel>
 </rss>
