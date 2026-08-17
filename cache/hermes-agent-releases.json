@@ -29,5 +29,6 @@
     "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.17",
     "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.12"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "No articles parsed"
 }

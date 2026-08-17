@@ -53,5 +53,6 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.176",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.175"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "No articles parsed"
 }
