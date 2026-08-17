@@ -308,8 +308,8 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/effort</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/effort</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[Effort is a dial for how much reasoning a model does before it answers. Set per model provider request, it controls the length of the thinking the model works through before it...]]></description>
-            <content:encoded><![CDATA[Effort is a dial for how much reasoning a model does before it answers. Set per model provider request, it controls the length of the thinking the model works through before it...]]></content:encoded>
+            <description><![CDATA[A dial for how much reasoning the model does before it answers. More effort spends more output tokens for a better shot at hard problems.]]></description>
+            <content:encoded><![CDATA[A dial for how much reasoning the model does before it answers. More effort spends more output tokens for a better shot at hard problems.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Token | AI Coding Dictionary]]></title>
@@ -332,8 +332,8 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/non-determinism</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/non-determinism</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[The same input can produce different output. Run a model twice with identical context and you may get two different answers — sometimes a word, sometimes a completely different...]]></description>
-            <content:encoded><![CDATA[The same input can produce different output. Run a model twice with identical context and you may get two different answers — sometimes a word, sometimes a completely different...]]></content:encoded>
+            <description><![CDATA[The same input can produce different output. A property of how models generate text and how providers serve requests.]]></description>
+            <content:encoded><![CDATA[The same input can produce different output. A property of how models generate text and how providers serve requests.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Model provider | AI Coding Dictionary]]></title>
@@ -372,8 +372,8 @@
             <link>https://www.aihero.dev/ai-coding-dictionary/output-tokens</link>
             <guid>https://www.aihero.dev/ai-coding-dictionary/output-tokens</guid>
             <pubDate>Wed, 01 Jul 2026 08:46:18 GMT</pubDate>
-            <description><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens — commonly around five times the rate — since they cost more compute to produce.]]></description>
-            <content:encoded><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens — commonly around five times the rate — since they cost more compute to produce.]]></content:encoded>
+            <description><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens, since they cost more compute to produce.]]></description>
+            <content:encoded><![CDATA[Tokens the model generates back. Billed at a higher rate than input tokens, since they cost more compute to produce.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Prefix cache | AI Coding Dictionary]]></title>
