@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[180億ドルから3000億ドルへ：ニケシュ・アローラがパロアルトネットワークスを再建した方法]]></title>
+            <title><![CDATA[StripeのAI戦略の内側：ウィル・ゲイブリック氏に聞く]]></title>
+            <link>https://finance.biggo.jp/podcast/d76652fb9750e909</link>
+            <guid>https://finance.biggo.jp/podcast/d76652fb9750e909</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nikesh Arora: $300B, 40 Acquisitions, Still Paranoid]]></title>
             <link>https://finance.biggo.jp/podcast/8a2774b73c0b3a74</link>
             <guid>https://finance.biggo.jp/podcast/8a2774b73c0b3a74</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[「スリーシックス」ルールと縮小する男性の母集団]]></title>
             <link>https://finance.biggo.jp/podcast/89615708a4daf9de</link>
             <guid>https://finance.biggo.jp/podcast/89615708a4daf9de</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[対話前DeepMind曹原：AI for Science爆発、新たな時代の到来]]></title>
-            <link>https://finance.biggo.jp/podcast/d40c2247991a088a</link>
-            <guid>https://finance.biggo.jp/podcast/d40c2247991a088a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
