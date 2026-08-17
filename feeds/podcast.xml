@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[180億ドルから3000億ドルへ：ニケシュ・アローラがパロアルトネットワークスを再建した方法]]></title>
+            <link>https://finance.biggo.jp/podcast/8a2774b73c0b3a74</link>
+            <guid>https://finance.biggo.jp/podcast/8a2774b73c0b3a74</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[債券市場がFRBに警告を発している]]></title>
             <link>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</link>
             <guid>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[対話前DeepMind曹原：AI for Science爆発、新たな時代の到来]]></title>
             <link>https://finance.biggo.jp/podcast/d40c2247991a088a</link>
             <guid>https://finance.biggo.jp/podcast/d40c2247991a088a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1348: ダニエル・グリフィン博士による臨床アップデート]]></title>
-            <link>https://finance.biggo.jp/podcast/3842b8eda92ab4d9</link>
-            <guid>https://finance.biggo.jp/podcast/3842b8eda92ab4d9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
