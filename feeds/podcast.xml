@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Celcuityのブライアン・サリバン氏と語る、初の製品承認への道]]></title>
+            <link>https://finance.biggo.jp/podcast/25bebae5eddeda45</link>
+            <guid>https://finance.biggo.jp/podcast/25bebae5eddeda45</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[iOSミリオネアと過ごした24時間]]></title>
             <link>https://finance.biggo.jp/podcast/fcd271f2cf563146</link>
             <guid>https://finance.biggo.jp/podcast/fcd271f2cf563146</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[Anthropicの2兆ドルIPO、ザッカーバーグのAIマニフェスト、NVIDIAの5000億ドルのAI賭け、Grokの復活]]></title>
             <link>https://finance.biggo.jp/podcast/a811e596ac31f91a</link>
             <guid>https://finance.biggo.jp/podcast/a811e596ac31f91a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石油生産者と買い手、ホルムズ海峡に代わる長期的な代替策を模索＝クララ・ギリスピー氏]]></title>
-            <link>https://finance.biggo.jp/podcast/22cb5fce9b74ea6d</link>
-            <guid>https://finance.biggo.jp/podcast/22cb5fce9b74ea6d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
