@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-18T13:35:52.484Z",
+  "lastSuccess": "2026-08-18T14:23:40.657Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://stability.ai/news-updates/sharing-a-new-way-to-work-with-stable-audio",
     "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
     "https://stability.ai/news-updates/brand-studio-by-stability-ai-creative-production-platform-for-brands",
     "https://stability.ai/news-updates/stability-ai-joins-the-tech-coalition",
@@ -20,8 +21,7 @@
     "https://stability.ai/news-updates/stable-diffusion-now-optimized-for-amd-radeon-gpus",
     "https://stability.ai/news-updates/introducing-our-new-chief-pipeline-architect-rob-legato",
     "https://stability.ai/news-updates/introducing-stable-virtual-camera-multi-view-video-generation-with-3d-camera-control",
-    "https://stability.ai/news-updates/introducing-our-new-svp-head-of-product-ryan-ellis",
-    "https://stability.ai/news-updates/stability-ai-announces-investment-from-wpp-and-new-partnership-to-shape-the-future-of-media-and-entertainment-production"
+    "https://stability.ai/news-updates/introducing-our-new-svp-head-of-product-ryan-ellis"
   ],
   "consecutiveErrors": 0
 }
