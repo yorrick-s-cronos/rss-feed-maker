@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 17:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 16:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¿Qué “magia” ocurre al cambiarte de AFP?]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/que-magia-ocurre-al-cambiarte-de-afp/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/que-magia-ocurre-al-cambiarte-de-afp/</guid>
+            <pubDate>Tue, 18 Aug 2026 16:06:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El artista de la semana | Cole Phillips]]></title>
             <link>https://fintualist.com/chile/cultura/el-artista-de-la-semana-cole-phillips/</link>
@@ -26,12 +32,6 @@
             <link>https://fintualist.com/chile/economia/mercados/cerca-de-maximos-mercados-al-14-de-agosto-2/</link>
             <guid>https://fintualist.com/chile/economia/mercados/cerca-de-maximos-mercados-al-14-de-agosto-2/</guid>
             <pubDate>Fri, 14 Aug 2026 21:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La señora que buscan todas las AFP | Fintualist 288 🗞️]]></title>
-            <link>https://fintualist.com/chile/newsletters/la-senora-que-buscan-todas-las-afp-fintualist-288/</link>
-            <guid>https://fintualist.com/chile/newsletters/la-senora-que-buscan-todas-las-afp-fintualist-288/</guid>
-            <pubDate>Thu, 13 Aug 2026 16:58:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Sirven los fondos 107 con 0% de impuesto para invertir como sociedad?]]></title>
