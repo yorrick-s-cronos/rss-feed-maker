@@ -4,11 +4,23 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 16:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 20:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El odiado nuevo logo de Instagram]]></title>
+            <link>https://fintualist.com/chile/cultura/el-odiado-nuevo-logo-de-instagram/</link>
+            <guid>https://fintualist.com/chile/cultura/el-odiado-nuevo-logo-de-instagram/</guid>
+            <pubDate>Tue, 18 Aug 2026 20:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El Final de Oak Street: ¿más que una película de dinosaurios?]]></title>
+            <link>https://fintualist.com/chile/cultura/cine-series/el-final-de-oak-street-mas-que-una-pelicula-de-dinosaurios/</link>
+            <guid>https://fintualist.com/chile/cultura/cine-series/el-final-de-oak-street-mas-que-una-pelicula-de-dinosaurios/</guid>
+            <pubDate>Tue, 18 Aug 2026 16:35:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[¿Qué “magia” ocurre al cambiarte de AFP?]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/que-magia-ocurre-al-cambiarte-de-afp/</link>
@@ -22,16 +34,10 @@
             <pubDate>Mon, 17 Aug 2026 17:23:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[📍 Mercados en vivo - Tasas largas en máximos]]></title>
-            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
-            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cerca de máximos - Mercados al 14 de agosto]]></title>
-            <link>https://fintualist.com/chile/economia/mercados/cerca-de-maximos-mercados-al-14-de-agosto-2/</link>
-            <guid>https://fintualist.com/chile/economia/mercados/cerca-de-maximos-mercados-al-14-de-agosto-2/</guid>
-            <pubDate>Fri, 14 Aug 2026 21:01:00 GMT</pubDate>
+            <title><![CDATA[¿Es posible (y me conviene) mover las aportaciones voluntarias en la AFORE a un PPR en Fintual?]]></title>
+            <link>https://fintualist.com/mexico/educacion-financiera/es-posible-mover-las-aportaciones-voluntarias-en-la-afore-a-un-ppr-en-fintual/</link>
+            <guid>https://fintualist.com/mexico/educacion-financiera/es-posible-mover-las-aportaciones-voluntarias-en-la-afore-a-un-ppr-en-fintual/</guid>
+            <pubDate>Wed, 12 Aug 2026 16:57:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Sirven los fondos 107 con 0% de impuesto para invertir como sociedad?]]></title>
@@ -122,12 +128,6 @@
             <link>https://fintualist.com/mexico/educacion-financiera/las-tecnologicas-norteamericanas-y-el-nuevo-paradigma-de-como-escalar-mx/</link>
             <guid>https://fintualist.com/mexico/educacion-financiera/las-tecnologicas-norteamericanas-y-el-nuevo-paradigma-de-como-escalar-mx/</guid>
             <pubDate>Wed, 22 Jul 2026 14:38:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Las tecnológicas norteamericanas y el nuevo paradigma de cómo escalar]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/las-tecnologicas-norteamericanas-y-el-nuevo-paradigma-de-como-escalar/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/las-tecnologicas-norteamericanas-y-el-nuevo-paradigma-de-como-escalar/</guid>
-            <pubDate>Tue, 21 Jul 2026 20:59:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

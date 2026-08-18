@@ -4,11 +4,63 @@
         <title>claude-code Releases</title>
         <link>https://github.com/anthropics/claude-code/releases</link>
         <description>GitHub releases for anthropics/claude-code</description>
-        <lastBuildDate>Mon, 17 Aug 2026 20:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 20:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v2.1.235]]></title>
+            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.235</link>
+            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.235</guid>
+            <pubDate>Tue, 18 Aug 2026 20:38:54 GMT</pubDate>
+            <description><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Added an optional <code>spellcheck</code> setting that underlines misspelled words in the prompt input as you type, using your installed <code>aspell</code>, <code>hunspell</code>, or <code>ispell</code></li>
+<li>Fixed whole-prompt-cache invalidation when a language server disconnected or reconnected mid-session</li>
+<li>Fixed nested markdown list items misaligning at depth 3+ and added a hanging indent to wrapped list items in the terminal UI</li>
+<li>Fixed prompt input highlights (slash commands, keywords, mentions) appearing shifted by one or more characters in some multi-line prompts</li>
+<li>Fixed Shift+Tab inside the permission prompt&#39;s comment field approving the edit and granting session-wide edit permission instead of closing the field</li>
+<li>Fixed the Agent tool advertising a general-purpose default in sessions where that agent is unavailable: an omitted <code>subagent_type</code> there now gets a clear error listing the available agents</li>
+<li>Fixed notebook cell delete/replace approval dialogs silently omitting the existing cell content when the notebook or cell could not be read; the dialog now says why</li>
+<li>Fixed slash commands run while Claude is responding showing HTML entities instead of the actual characters</li>
+<li>Fixed the prompt footer not showing the &quot;Update installed&quot; restart notice after a background auto-update</li>
+<li>Fixed the expanded task list (<code>ctrl+t</code>) always starting collapsed when resuming or relaunching into a session that still has open tasks</li>
+<li>Improved memory and CPU usage while cloud sessions such as <code>/ultrareview</code> or <code>/autofix-pr</code> run in the background — their event streams are no longer re-scanned and re-rendered on every update</li>
+<li>Improved permission dialogs: display text and &quot;don&#39;t ask again&quot; options now always match what a grant would cover, and &quot;don&#39;t ask again&quot; is withheld when contents cannot be fully displayed</li>
+<li>Improved the embedded <code>grep</code> in native macOS/Linux builds: pathological patterns now fail fast instead of exhausting memory, and <code>-m N</code> with <code>-A/-C</code> prints correct context</li>
+<li>Improved the context-limit error to say when auto-compact is off and point to <code>/config</code> to re-enable it</li>
+<li>Vim mode: NORMAL mode and cursor position are now preserved when toggling the detailed transcript (ctrl+o) or closing a panel</li>
+<li>Dialogs: arrow keys and Enter pressed in quick succession now select the option you navigated to instead of the previously highlighted one</li>
+<li><code>SendMessage</code> now refuses messages too large for cross-session delivery up front instead of silently dropping them</li>
+<li>Remote Control: <code>claude rc</code> now applies the same enterprise-gateway availability check as interactive startup</li>
+<li>[VSCode] Fixed focus jumping between open Claude tabs on its own when a window with several Claude panels is restored or reloaded</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Added an optional <code>spellcheck</code> setting that underlines misspelled words in the prompt input as you type, using your installed <code>aspell</code>, <code>hunspell</code>, or <code>ispell</code></li>
+<li>Fixed whole-prompt-cache invalidation when a language server disconnected or reconnected mid-session</li>
+<li>Fixed nested markdown list items misaligning at depth 3+ and added a hanging indent to wrapped list items in the terminal UI</li>
+<li>Fixed prompt input highlights (slash commands, keywords, mentions) appearing shifted by one or more characters in some multi-line prompts</li>
+<li>Fixed Shift+Tab inside the permission prompt&#39;s comment field approving the edit and granting session-wide edit permission instead of closing the field</li>
+<li>Fixed the Agent tool advertising a general-purpose default in sessions where that agent is unavailable: an omitted <code>subagent_type</code> there now gets a clear error listing the available agents</li>
+<li>Fixed notebook cell delete/replace approval dialogs silently omitting the existing cell content when the notebook or cell could not be read; the dialog now says why</li>
+<li>Fixed slash commands run while Claude is responding showing HTML entities instead of the actual characters</li>
+<li>Fixed the prompt footer not showing the &quot;Update installed&quot; restart notice after a background auto-update</li>
+<li>Fixed the expanded task list (<code>ctrl+t</code>) always starting collapsed when resuming or relaunching into a session that still has open tasks</li>
+<li>Improved memory and CPU usage while cloud sessions such as <code>/ultrareview</code> or <code>/autofix-pr</code> run in the background — their event streams are no longer re-scanned and re-rendered on every update</li>
+<li>Improved permission dialogs: display text and &quot;don&#39;t ask again&quot; options now always match what a grant would cover, and &quot;don&#39;t ask again&quot; is withheld when contents cannot be fully displayed</li>
+<li>Improved the embedded <code>grep</code> in native macOS/Linux builds: pathological patterns now fail fast instead of exhausting memory, and <code>-m N</code> with <code>-A/-C</code> prints correct context</li>
+<li>Improved the context-limit error to say when auto-compact is off and point to <code>/config</code> to re-enable it</li>
+<li>Vim mode: NORMAL mode and cursor position are now preserved when toggling the detailed transcript (ctrl+o) or closing a panel</li>
+<li>Dialogs: arrow keys and Enter pressed in quick succession now select the option you navigated to instead of the previously highlighted one</li>
+<li><code>SendMessage</code> now refuses messages too large for cross-session delivery up front instead of silently dropping them</li>
+<li>Remote Control: <code>claude rc</code> now applies the same enterprise-gateway availability check as interactive startup</li>
+<li>[VSCode] Fixed focus jumping between open Claude tabs on its own when a window with several Claude panels is restored or reloaded</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.1.234]]></title>
             <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.234</link>
@@ -2810,64 +2862,6 @@
             <pubDate>Sat, 13 Jun 2026 01:25:15 GMT</pubDate>
             <description><![CDATA[<p>Release v2.1.177</p>]]></description>
             <content:encoded><![CDATA[<p>Release v2.1.177</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[v2.1.176]]></title>
-            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.176</link>
-            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.176</guid>
-            <pubDate>Fri, 12 Jun 2026 21:53:27 GMT</pubDate>
-            <description><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Session titles are now generated in the language of your conversation (set the <code>language</code> setting to pin a specific language)</li>
-<li>Added <code>footerLinksRegexes</code> setting for regex-matched link badges in the footer row, configurable via user or managed settings</li>
-<li>Improved Bedrock credential caching: credentials from <code>awsCredentialExport</code> are now cached until their <code>Expiration</code> instead of a fixed 1 hour</li>
-<li>Fixed <code>availableModels</code> enforcement: alias model picks can no longer be redirected to a blocked model via <code>ANTHROPIC_DEFAULT_*_MODEL</code> environment variables, and <code>/fast</code> now refuses to toggle when it would switch to a model outside the allowlist</li>
-<li>Fixed auto mode failing on Fable 5 for organizations without Opus 4.8 enabled — the classifier now falls back to the best available Opus model</li>
-<li>Fixed hook <code>if</code> conditions for Read/Edit/Write tool paths: documented patterns like <code>Edit(src/**)</code>, <code>Read(~/.ssh/**)</code>, and <code>Read(.env)</code> now match correctly</li>
-<li>Fixed Linux sandbox failing to start when <code>.claude/settings.json</code> is a symlink with an absolute target</li>
-<li>Fixed <code>/copy</code> and mouse-selection copy not reaching the system clipboard inside tmux over SSH, and tmux paste buffer not loading on versions older than 3.2</li>
-<li>Fixed Remote Control connecting from web/mobile silently switching the session&#39;s model</li>
-<li>Fixed Remote Control disconnect notifications showing a bare numeric code instead of a human-readable reason, and connection failures adding a duplicate line to the conversation transcript</li>
-<li>Fixed Remote Control sessions not disconnecting when you sign in to a different account</li>
-<li>Fixed <code>/cd</code> and worktree moves leaving the session reporting the previous directory&#39;s git branch</li>
-<li>Fixed <code>claude agents</code>: pressing back in one window no longer detaches other windows attached to the same session</li>
-<li>Fixed backgrounded sessions showing &quot;Working&quot; forever when <code>/bg</code> mid-turn had nothing left to continue</li>
-<li>Fixed background agent search by PR URL: PRs opened during scheduled wakeups or while a job was blocked now appear in <code>claude agents</code> search</li>
-<li>Fixed the agents view input showing no text cursor on Windows</li>
-<li>Fixed <code>claude --bg -cn &lt;name&gt;</code> not seeding the session name</li>
-<li>Fixed background sessions to neutralize Windows network paths in persisted state before respawn</li>
-<li>Fixed background-session respawn rejecting malformed resume IDs from corrupted state files</li>
-<li>Fixed the Windows background-service daemon not starting when <code>~/.claude/daemon</code> has the ReadOnly attribute set</li>
-<li>Fixed cloud sessions failing with &quot;Could not resolve authentication method&quot; when idle for too long before being claimed</li>
-<li>Background sessions now show clearer guidance when a window left open across an auto-update can&#39;t submit a reply, and <code>claude daemon status</code> explains version-skew behavior</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Session titles are now generated in the language of your conversation (set the <code>language</code> setting to pin a specific language)</li>
-<li>Added <code>footerLinksRegexes</code> setting for regex-matched link badges in the footer row, configurable via user or managed settings</li>
-<li>Improved Bedrock credential caching: credentials from <code>awsCredentialExport</code> are now cached until their <code>Expiration</code> instead of a fixed 1 hour</li>
-<li>Fixed <code>availableModels</code> enforcement: alias model picks can no longer be redirected to a blocked model via <code>ANTHROPIC_DEFAULT_*_MODEL</code> environment variables, and <code>/fast</code> now refuses to toggle when it would switch to a model outside the allowlist</li>
-<li>Fixed auto mode failing on Fable 5 for organizations without Opus 4.8 enabled — the classifier now falls back to the best available Opus model</li>
-<li>Fixed hook <code>if</code> conditions for Read/Edit/Write tool paths: documented patterns like <code>Edit(src/**)</code>, <code>Read(~/.ssh/**)</code>, and <code>Read(.env)</code> now match correctly</li>
-<li>Fixed Linux sandbox failing to start when <code>.claude/settings.json</code> is a symlink with an absolute target</li>
-<li>Fixed <code>/copy</code> and mouse-selection copy not reaching the system clipboard inside tmux over SSH, and tmux paste buffer not loading on versions older than 3.2</li>
-<li>Fixed Remote Control connecting from web/mobile silently switching the session&#39;s model</li>
-<li>Fixed Remote Control disconnect notifications showing a bare numeric code instead of a human-readable reason, and connection failures adding a duplicate line to the conversation transcript</li>
-<li>Fixed Remote Control sessions not disconnecting when you sign in to a different account</li>
-<li>Fixed <code>/cd</code> and worktree moves leaving the session reporting the previous directory&#39;s git branch</li>
-<li>Fixed <code>claude agents</code>: pressing back in one window no longer detaches other windows attached to the same session</li>
-<li>Fixed backgrounded sessions showing &quot;Working&quot; forever when <code>/bg</code> mid-turn had nothing left to continue</li>
-<li>Fixed background agent search by PR URL: PRs opened during scheduled wakeups or while a job was blocked now appear in <code>claude agents</code> search</li>
-<li>Fixed the agents view input showing no text cursor on Windows</li>
-<li>Fixed <code>claude --bg -cn &lt;name&gt;</code> not seeding the session name</li>
-<li>Fixed background sessions to neutralize Windows network paths in persisted state before respawn</li>
-<li>Fixed background-session respawn rejecting malformed resume IDs from corrupted state files</li>
-<li>Fixed the Windows background-service daemon not starting when <code>~/.claude/daemon</code> has the ReadOnly attribute set</li>
-<li>Fixed cloud sessions failing with &quot;Could not resolve authentication method&quot; when idle for too long before being claimed</li>
-<li>Background sessions now show clearer guidance when a window left open across an auto-update can&#39;t submit a reply, and <code>claude daemon status</code> explains version-skew behavior</li>
-</ul>
-]]></content:encoded>
         </item>
     </channel>
 </rss>
