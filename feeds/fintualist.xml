@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Mon, 17 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 17:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El artista de la semana | Cole Phillips]]></title>
+            <link>https://fintualist.com/chile/cultura/el-artista-de-la-semana-cole-phillips/</link>
+            <guid>https://fintualist.com/chile/cultura/el-artista-de-la-semana-cole-phillips/</guid>
+            <pubDate>Mon, 17 Aug 2026 17:23:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[📍 Mercados en vivo - Tasas largas en máximos]]></title>
             <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
@@ -28,10 +34,10 @@
             <pubDate>Thu, 13 Aug 2026 16:58:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Las personas que se fueron de Google e hicieron que bajara la acción]]></title>
-            <link>https://fintualist.com/chile/tecnologia/las-personas-que-se-fueron-de-google-e-hicieron-que-bajara-la-accion/</link>
-            <guid>https://fintualist.com/chile/tecnologia/las-personas-que-se-fueron-de-google-e-hicieron-que-bajara-la-accion/</guid>
-            <pubDate>Tue, 11 Aug 2026 23:12:10 GMT</pubDate>
+            <title><![CDATA[¿Sirven los fondos 107 con 0% de impuesto para invertir como sociedad?]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/sirven-los-fondos-107-con-0-de-impuesto-para-invertir-como-sociedad/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/sirven-los-fondos-107-con-0-de-impuesto-para-invertir-como-sociedad/</guid>
+            <pubDate>Tue, 11 Aug 2026 20:28:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Es posible ganarle al S&P 500?]]></title>
@@ -122,12 +128,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/las-tecnologicas-norteamericanas-y-el-nuevo-paradigma-de-como-escalar/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/las-tecnologicas-norteamericanas-y-el-nuevo-paradigma-de-como-escalar/</guid>
             <pubDate>Tue, 21 Jul 2026 20:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visión de mercados de medio año 2026: ¿se empieza a disipar la niebla?]]></title>
-            <link>https://fintualist.com/mexico/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla-mx/</link>
-            <guid>https://fintualist.com/mexico/educacion-financiera/vision-de-mercados-de-medio-ano-2026-se-empieza-a-disipar-la-niebla-mx/</guid>
-            <pubDate>Tue, 21 Jul 2026 00:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
