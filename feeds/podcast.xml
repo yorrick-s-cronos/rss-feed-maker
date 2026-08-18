@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ノバルティス、次の研究開発章でモダリティより生物学を優先]]></title>
+            <link>https://finance.biggo.jp/podcast/fc2ff65d1258c210</link>
+            <guid>https://finance.biggo.jp/podcast/fc2ff65d1258c210</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[リッチ・サットンとクーラム・ジャベド：AIモデルが学習をやめる理由、そして再び学習を始める方法]]></title>
             <link>https://finance.biggo.jp/podcast/a8c6471dc900983c</link>
             <guid>https://finance.biggo.jp/podcast/a8c6471dc900983c</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[GLP-1コンパニオンカテゴリーの構築、ビバリー・ローとマルティナ・グリップ]]></title>
             <link>https://finance.biggo.jp/podcast/b3e9121280af816b</link>
             <guid>https://finance.biggo.jp/podcast/b3e9121280af816b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ブライアン・グリーン教授：私たちはシミュレーションの中に生きているのか？（現実の真実）]]></title>
-            <link>https://finance.biggo.jp/podcast/335e667884a9824f</link>
-            <guid>https://finance.biggo.jp/podcast/335e667884a9824f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
