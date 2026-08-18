@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Wellington’s Jean Hynes on the Art of Investing and Finding New Markets]]></title>
+            <link>https://finance.biggo.jp/podcast/26988af50e91307c</link>
+            <guid>https://finance.biggo.jp/podcast/26988af50e91307c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ターミナルとはおさらばだ]]></title>
             <link>https://finance.biggo.jp/podcast/1e4bc1739e6c1fa0</link>
             <guid>https://finance.biggo.jp/podcast/1e4bc1739e6c1fa0</guid>
@@ -88,7 +94,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Helping 3 strangers scale their business in 58 minutes]]></title>
+            <title><![CDATA[58分で3人の見知らぬ人のビジネスをスケールさせる]]></title>
             <link>https://finance.biggo.jp/podcast/127d9948f9fd6702</link>
             <guid>https://finance.biggo.jp/podcast/127d9948f9fd6702</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[ブライアン・グリーン教授：私たちはシミュレーションの中に生きているのか？（現実の真実）]]></title>
             <link>https://finance.biggo.jp/podcast/335e667884a9824f</link>
             <guid>https://finance.biggo.jp/podcast/335e667884a9824f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celcuityのブライアン・サリバン氏と語る、初の製品承認への道]]></title>
-            <link>https://finance.biggo.jp/podcast/25bebae5eddeda45</link>
-            <guid>https://finance.biggo.jp/podcast/25bebae5eddeda45</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

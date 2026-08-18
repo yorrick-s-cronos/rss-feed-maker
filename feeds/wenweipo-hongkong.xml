@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[（有片）《愛回家》飾演Andy演員崔錦棠青衣發生車禍]]></title>
+            <link>https://www.wenweipo.com/a/202608/18/AP6a83dd98e4b0c1e500254bb3.html</link>
+            <guid>https://www.wenweipo.com/a/202608/18/AP6a83dd98e4b0c1e500254bb3.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[今日（18日）早上10時許，在《愛回家.開心速遞》中飾演Andy的演員崔錦棠，駕駛比亞迪私家車沿楓樹窩路往長發邨駛至清心街交界時攔腰撞中一輛的士右車身，比亞迪私家車的車頭損毀，的士右車身凹陷、女司機一度昏迷被困，由救援人員到場救出經急救回復清醒送院治理，崔錦棠亦手指受傷送院敷治。警方正調查車禍原因，不排除涉及有人駕車掉頭引致意外。]]></description>
+        </item>
+        <item>
             <title><![CDATA[全港大專生Dem Beat反詐比賽 冠軍獎金10萬元]]></title>
             <link>https://www.wenweipo.com/a/202608/18/AP6a83cebfe4b0c1e5002549a2.html</link>
             <guid>https://www.wenweipo.com/a/202608/18/AP6a83cebfe4b0c1e5002549a2.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/17/AP6a831ba9e4b0c1e500253bdc.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[元朗YOHO今日（17日）發生大型狗隻發狂連環咬斃一隻迷你貴婦犬及一隻比熊犬。漁農自然護理署（漁護署）晚上回覆指，下午接獲警方轉介一宗懷疑狗隻咬傷其他狗隻的個案，隨即派員前往元朗一商場調查，並將涉事狗隻帶回本署轄下的動物管理中心。經檢查後，該狗隻植有晶片，並領有有效狗牌。該署人員會根據狗隻牌照上的資料聯絡其畜養人，並會就事件進行調查，如有足夠證據，會提出檢控。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[窩仔山分階段清理工作順利收官　七大優化工程改善居民休憩環境]]></title>
-            <link>https://www.wenweipo.com/a/202608/17/AP6a831a76e4b0c1e500253bc6.html</link>
-            <guid>https://www.wenweipo.com/a/202608/17/AP6a831a76e4b0c1e500253bc6.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[特區政府今日（8月17日）完成分階段清理山上違法及不安全的構築物、設施或雜物。政府先後於8月12至14日圍封棠蔭街山邊休憩處的一邊，以及8月15至17日圍封近巴域街的一邊，進行清理工作。雖然清理期間不時遇上酷熱、大雨等天氣，但在現場人員的努力下，清理工作順利完成，近棠蔭街及巴域街的登山路徑已分別如期於8月14日及17日傍晚解封，市民可如常登山。]]></description>
         </item>
     </channel>
 </rss>
