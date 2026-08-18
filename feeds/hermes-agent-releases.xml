@@ -4,11 +4,49 @@
         <title>hermes-agent Releases</title>
         <link>https://github.com/NousResearch/hermes-agent/releases</link>
         <description>GitHub releases for NousResearch/hermes-agent</description>
-        <lastBuildDate>Mon, 17 Aug 2026 18:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 07:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/hermes-agent-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hermes Agent v0.20.4 (2026.8.18)]]></title>
+            <link>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.18</link>
+            <guid>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.18</guid>
+            <pubDate>Tue, 18 Aug 2026 07:26:46 GMT</pubDate>
+            <description><![CDATA[<h1>Hermes Agent v0.20.4 (v2026.8.18)</h1>
+<p><strong>Release Date:</strong> August 18, 2026</p>
+<blockquote>
+<p>Patch release. This tag rolls up the ~74 PRs merged since v0.20.3 into a stable tagged release for downstream consumers (Docker images, hosted deployments, fresh installs).</p>
+</blockquote>
+<hr>
+<h2>About this release</h2>
+<p>Since v0.20.3 (v2026.8.16.2, tagged August 17), this window landed <strong>~146 commits</strong> across <strong>~265 files</strong> (+21,697 / −2,217) — <strong>~74 merged PRs</strong> including the desktop glass/translucency surface work (matte glass, frost picker, macOS pre-select), the tabbed SESSIONS|BOTS sidebar with per-bot hide/unhide, Bot Mode group-chat fixes (long-running member turns, Markdown rendering, cross-machine routing), NVIDIA SkillEvaluator Tier 1 advisory scanning on skill installs (license + security checks), cron media-send hardening (configurable timeout, manual-run attachments, missed-fire surfacing), SessionDB event-loop-thread and contention fixes, <code>hermes update</code> parked-branch honesty, and kanban native OS notifications.</p>
+<p><strong>Full curated release notes for this window will ship with v0.21.0</strong>, which will document everything from v0.20.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.</p>
+<h2>Updating</h2>
+<ul>
+<li><code>hermes update</code> from an existing install</li>
+<li>Fresh install: <code>curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash</code></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/NousResearch/hermes-agent/compare/v2026.8.16.2...v2026.8.18">https://github.com/NousResearch/hermes-agent/compare/v2026.8.16.2...v2026.8.18</a></p>
+]]></description>
+            <content:encoded><![CDATA[<h1>Hermes Agent v0.20.4 (v2026.8.18)</h1>
+<p><strong>Release Date:</strong> August 18, 2026</p>
+<blockquote>
+<p>Patch release. This tag rolls up the ~74 PRs merged since v0.20.3 into a stable tagged release for downstream consumers (Docker images, hosted deployments, fresh installs).</p>
+</blockquote>
+<hr>
+<h2>About this release</h2>
+<p>Since v0.20.3 (v2026.8.16.2, tagged August 17), this window landed <strong>~146 commits</strong> across <strong>~265 files</strong> (+21,697 / −2,217) — <strong>~74 merged PRs</strong> including the desktop glass/translucency surface work (matte glass, frost picker, macOS pre-select), the tabbed SESSIONS|BOTS sidebar with per-bot hide/unhide, Bot Mode group-chat fixes (long-running member turns, Markdown rendering, cross-machine routing), NVIDIA SkillEvaluator Tier 1 advisory scanning on skill installs (license + security checks), cron media-send hardening (configurable timeout, manual-run attachments, missed-fire surfacing), SessionDB event-loop-thread and contention fixes, <code>hermes update</code> parked-branch honesty, and kanban native OS notifications.</p>
+<p><strong>Full curated release notes for this window will ship with v0.21.0</strong>, which will document everything from v0.20.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.</p>
+<h2>Updating</h2>
+<ul>
+<li><code>hermes update</code> from an existing install</li>
+<li>Fresh install: <code>curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash</code></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/NousResearch/hermes-agent/compare/v2026.8.16.2...v2026.8.18">https://github.com/NousResearch/hermes-agent/compare/v2026.8.16.2...v2026.8.18</a></p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hermes Agent v0.20.3 (2026.8.16.2)]]></title>
             <link>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.16.2</link>
