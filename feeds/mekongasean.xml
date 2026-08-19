@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Tue, 18 Aug 2026 14:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 03:46:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sửa Luật Nhà ở: Hạn chế tối đa phân lô bán nền, ưu tiên nhà chung cư]]></title>
+            <link>https://mekongasean.vn/sua-luat-nha-o-han-che-toi-da-phan-lo-ban-nen-uu-tien-nha-chung-cu-58623.html</link>
+            <guid>https://mekongasean.vn/sua-luat-nha-o-han-che-toi-da-phan-lo-ban-nen-uu-tien-nha-chung-cu-58623.html</guid>
+            <pubDate>Wed, 19 Aug 2026 03:46:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tăng trưởng kinh tế các quốc gia ASEAN-6 quý 2/2026]]></title>
             <link>https://mekongasean.vn/tang-truong-kinh-te-cac-quoc-gia-asean-6-quy-22026-58609.html</link>
             <guid>https://mekongasean.vn/tang-truong-kinh-te-cac-quoc-gia-asean-6-quy-22026-58609.html</guid>
             <pubDate>Tue, 18 Aug 2026 14:31:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xuất khẩu sang Mỹ: Doanh nghiệp cần chuẩn bị những gì?]]></title>
-            <link>https://mekongasean.vn/xuat-khau-sang-my-doanh-nghiep-can-chuan-bi-nhung-gi-58581.html</link>
-            <guid>https://mekongasean.vn/xuat-khau-sang-my-doanh-nghiep-can-chuan-bi-nhung-gi-58581.html</guid>
-            <pubDate>Tue, 18 Aug 2026 13:22:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
