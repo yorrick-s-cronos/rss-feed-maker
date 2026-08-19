@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TIVP091（ビデオ）：Google、Reddit、Amazon——最大の勝ち組銘柄はまだ買いか？ ダニエル・マーンケ＆ショーン・オマリーと共に]]></title>
+            <link>https://finance.biggo.jp/podcast/3c31326da015ee1a</link>
+            <guid>https://finance.biggo.jp/podcast/3c31326da015ee1a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[パワー半導体：チップ界の巨漢]]></title>
             <link>https://finance.biggo.jp/podcast/2ba8c618ff74c2e5</link>
             <guid>https://finance.biggo.jp/podcast/2ba8c618ff74c2e5</guid>
@@ -106,7 +112,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3人の見知らぬ人が、年間800万ドル、1000万ドル、4000万ドルを稼ぐ方法を見せてくれた]]></title>
+            <title><![CDATA[3 strange businesses making $8M, $10M, & $40M/year]]></title>
             <link>https://finance.biggo.jp/podcast/127d9948f9fd6702</link>
             <guid>https://finance.biggo.jp/podcast/127d9948f9fd6702</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[ニケシュ・アローラ：不正AIエージェントに備える3000億ドルのサイバーセキュリティ大手]]></title>
             <link>https://finance.biggo.jp/podcast/8a2774b73c0b3a74</link>
             <guid>https://finance.biggo.jp/podcast/8a2774b73c0b3a74</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ケビン・ワーシュが一人の男によるFRBを終わらせる]]></title>
-            <link>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</link>
-            <guid>https://finance.biggo.jp/podcast/47efd9f2a53c36dd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
