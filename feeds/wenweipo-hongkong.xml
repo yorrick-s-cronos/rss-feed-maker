@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Opatra London│(有片)銷售手法受質疑 海關拘兩男女經理 積極追查關聯公司]]></title>
+            <link>https://www.wenweipo.com/a/202608/19/AP6a85b705e4b0c1e500257af2.html</link>
+            <guid>https://www.wenweipo.com/a/202608/19/AP6a85b705e4b0c1e500257af2.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[一名58歲女子今年7月在美妝店Opatra London的沙田新城市廣場分店消費6萬多元後，懷疑受騙並於日前報警。海關至昨日（18日）已接獲6宗舉報，涉及金額由1800至10萬元不等，舉報人皆為中年人及長者。同時海關繼昨日到上環一商廈單位搜證後，今日（19日）以涉嫌觸犯《商品說明條例》拘捕兩名涉案的公司男女經理。另外消委會指已接3宗投訴，正按既定程序處理。]]></description>
+        </item>
+        <item>
             <title><![CDATA[數碼娛樂領袖論壇2026下周五起舉行 助力香港發展數碼娛樂及IP創新]]></title>
             <link>https://www.wenweipo.com/a/202608/19/AP6a85acd8e4b0c1e500257a7e.html</link>
             <guid>https://www.wenweipo.com/a/202608/19/AP6a85acd8e4b0c1e500257a7e.html</guid>
@@ -110,13 +117,6 @@
             <description><![CDATA[特區政府大力推動數字教育，從小培養學生STEAM思維與動手能力，本港學生在國際科研賽事屢獲佳績。24名香港學生早前遠赴南韓，出戰「第16屆IPRC國際編程機械人總決賽」，與全球參賽者同場較量，勇奪多個獎項。就讀番禺會所華仁小學、即將升讀五年級的曾維宸，設計的機械人搭載萬向輪與高速馬達，既能靈活進行360度全方位轉向，亦能穩妥抓緊骰子再精準發射。憑藉這別具匠心的設計與出色表現，他在是次比賽中勇奪一等獎。
 
 即將升讀五年級、就讀宣道會劉平齋紀念國際學校的馮正希則獲得二等獎。備賽期間，他反覆測試機械人的抓取及發射功能，曾遇上無法順利抓取或射出骰子的問題；更在正式出賽前，機械人發射板突然斷裂。幸得導師備有後備零件，及時協助更換，讓他得以順利參賽。馮正希表示：「比賽時我十分緊張，不過隨着比賽進行，我慢慢定下心來，開始享受比賽。」馮正希形容，今次獲獎是極大鼓勵，未來希望繼續提升機械人編程技術與實戰經驗，學習在壓力下保持冷靜，突破自己。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[商湯為沙地打造智能校車平台 賦能120萬學生安全出行]]></title>
-            <link>https://www.wenweipo.com/a/202608/19/AP6a856b41e4b0c1e50025735c.html</link>
-            <guid>https://www.wenweipo.com/a/202608/19/AP6a856b41e4b0c1e50025735c.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[商湯（0020）與沙地阿拉伯國家校車營運管理機構達成合作，打造以人工智能為核心的全國智能校車一體化數碼管理平台。作為覆蓋沙地全國的國家級學生出行數碼基礎設施，該平台將面向全國超過120萬名學生，構建貫穿上學放學全流程的端到端數碼化管理體系，實現校車運營、安全監管、服務協同和數據治理的一體化升級，為沙地教育數碼化和公共服務現代化建設提供重要支撐。]]></description>
         </item>
     </channel>
 </rss>
