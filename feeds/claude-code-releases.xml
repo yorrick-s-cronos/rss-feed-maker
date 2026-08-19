@@ -4,11 +4,91 @@
         <title>claude-code Releases</title>
         <link>https://github.com/anthropics/claude-code/releases</link>
         <description>GitHub releases for anthropics/claude-code</description>
-        <lastBuildDate>Tue, 18 Aug 2026 20:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 20:02:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v2.1.236]]></title>
+            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.236</link>
+            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.236</guid>
+            <pubDate>Wed, 19 Aug 2026 20:02:05 GMT</pubDate>
+            <description><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Added <code>ANTHROPIC_DEFAULT_MODEL</code> environment variable: sets the model new sessions start on, while a <code>/model</code> pick still overrides it and persists across restarts (unlike <code>ANTHROPIC_MODEL</code>)</li>
+<li>Added <code>notify_when_idle</code> to cross-session <code>SendMessage</code>: ask another Claude Code session on this machine to send one notice when it next goes idle — opt-in, one-shot, no polling (macOS and Linux)</li>
+<li>Sandbox: on macOS, wildcard read-deny rules (e.g. <code>**/.env</code>) now take precedence inside allowed read regions, cover matched directories&#39; contents, and can&#39;t be bypassed by renaming the denied file</li>
+<li>Fixed clipboard copy, background housekeeping, background sessions, and local MCP logs breaking after the directory a session had switched into was removed (since 2.1.229)</li>
+<li>Fixed the fullscreen renderer failing permanently after a single failed start: it now falls back to the classic renderer instead of exiting on every subsequent launch</li>
+<li>Fixed the <code>/model</code> picker rendering taller than the terminal: it now shows only as many models as fit the window, with the rest reachable by scrolling</li>
+<li>Fixed <code>SendMessage</code> calls being rejected when a malformed closing tag left the message text inside the summary field</li>
+<li>Fixed unhandled promise rejections when a subprocess fails to start, for example <code>powershell.exe</code> on WSL with Windows interop disabled (regression in 2.1.234)</li>
+<li>Fixed fullscreen mode sometimes not showing a newly sent message until the next update after the terminal was resized</li>
+<li>Fixed a blank band that could remain above the prompt after clearing a multi-line prompt, and panes not repainting after resizing the terminal away and back, in fullscreen mode</li>
+<li>Fixed the managed-settings approval prompt sometimes not appearing at startup while still capturing the first keypress as approval</li>
+<li>Fixed terminal tab titles jumping in tmux (iTerm tmux integration): the title is now written only when its text changes instead of animating every 960ms</li>
+<li>Fixed an unclear error when the cloud environments list came back empty or malformed</li>
+<li>Fixed the Fable 5 first-time usage-credits prompt auto-selecting the fallback model after 60 seconds with no answer when using Remote Control</li>
+<li>Fixed spinner tips never appearing, with a repeated background error, when the cached guest-pass reward in <code>~/.claude.json</code> was malformed</li>
+<li>Fixed skills hot-reload in SDK/VS Code sessions raising an error on every skills change after the session&#39;s working directory was deleted (2.1.229+)</li>
+<li>Fixed self-hosted runner sessions released on idle, retire, or startup timeout occasionally resuming on another runner before the post-session hook had finished</li>
+<li>Fixed the Clawd mascot&#39;s eyes and feet rendering unevenly in iTerm2 at some font sizes</li>
+<li>Fixed occasional runaway session recaps: recap text (automatic and <code>/recap</code>) is now capped at 400 characters, cut at a word boundary</li>
+<li>Improved startup performance: the session counter is now written in the background</li>
+<li>Improved auto mode: <code>Monitor</code> allow rules are now set aside while auto mode is active, so Monitor commands are reviewed the same way Bash commands are</li>
+<li>Improved auto mode on Bedrock, Vertex AI, and Foundry, and when telemetry is disabled: the classifier now uses the same defaults as on the Claude API, including severity-scored classification</li>
+<li>Improved auto mode: the git status check can no longer be fooled by a repo&#39;s <code>status.showUntrackedFiles=no</code> setting into reporting a clean tree</li>
+<li>Changed the <code>/model</code> picker to highlight only the newest model&#39;s name, so the highlight marks the new release rather than an arbitrary subset of the list</li>
+<li><code>/goal</code>: an idle session whose goal is parked behind long-running background work now checks in automatically after 30 minutes (then 1h, 2h) instead of waiting for you to return</li>
+<li><code>/usage</code> now shows the usage-credits spend row for Team and Enterprise members, and shows a capped row at 0% before anything is spent</li>
+<li>SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool denials before exiting; running commands are still terminated and the process still exits with code 143</li>
+<li>Pressing Enter on a slash-command typo or a command unavailable in this session now reports it instead of running the closest fuzzy match; prefixes and aliases still run</li>
+<li>Remote Control now marks a session offline within seconds when the CLI exits or its terminal closes</li>
+<li><code>SendMessage</code> now refuses further messages to a session up front once a rapid burst would exceed what that session&#39;s inbox accepts, instead of reporting them sent while they were dropped</li>
+<li>Aligned the session title chip on the prompt border with the footer&#39;s right edge</li>
+<li>Right-aligned footer items (goal indicator, session state, background agent status) and truncated notices now share a consistent right margin with the rest of the prompt area</li>
+<li>[VSCode] Added screen reader support for the transcript: live announcements for replies, permission requests, errors, and status changes, plus per-turn heading navigation</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Added <code>ANTHROPIC_DEFAULT_MODEL</code> environment variable: sets the model new sessions start on, while a <code>/model</code> pick still overrides it and persists across restarts (unlike <code>ANTHROPIC_MODEL</code>)</li>
+<li>Added <code>notify_when_idle</code> to cross-session <code>SendMessage</code>: ask another Claude Code session on this machine to send one notice when it next goes idle — opt-in, one-shot, no polling (macOS and Linux)</li>
+<li>Sandbox: on macOS, wildcard read-deny rules (e.g. <code>**/.env</code>) now take precedence inside allowed read regions, cover matched directories&#39; contents, and can&#39;t be bypassed by renaming the denied file</li>
+<li>Fixed clipboard copy, background housekeeping, background sessions, and local MCP logs breaking after the directory a session had switched into was removed (since 2.1.229)</li>
+<li>Fixed the fullscreen renderer failing permanently after a single failed start: it now falls back to the classic renderer instead of exiting on every subsequent launch</li>
+<li>Fixed the <code>/model</code> picker rendering taller than the terminal: it now shows only as many models as fit the window, with the rest reachable by scrolling</li>
+<li>Fixed <code>SendMessage</code> calls being rejected when a malformed closing tag left the message text inside the summary field</li>
+<li>Fixed unhandled promise rejections when a subprocess fails to start, for example <code>powershell.exe</code> on WSL with Windows interop disabled (regression in 2.1.234)</li>
+<li>Fixed fullscreen mode sometimes not showing a newly sent message until the next update after the terminal was resized</li>
+<li>Fixed a blank band that could remain above the prompt after clearing a multi-line prompt, and panes not repainting after resizing the terminal away and back, in fullscreen mode</li>
+<li>Fixed the managed-settings approval prompt sometimes not appearing at startup while still capturing the first keypress as approval</li>
+<li>Fixed terminal tab titles jumping in tmux (iTerm tmux integration): the title is now written only when its text changes instead of animating every 960ms</li>
+<li>Fixed an unclear error when the cloud environments list came back empty or malformed</li>
+<li>Fixed the Fable 5 first-time usage-credits prompt auto-selecting the fallback model after 60 seconds with no answer when using Remote Control</li>
+<li>Fixed spinner tips never appearing, with a repeated background error, when the cached guest-pass reward in <code>~/.claude.json</code> was malformed</li>
+<li>Fixed skills hot-reload in SDK/VS Code sessions raising an error on every skills change after the session&#39;s working directory was deleted (2.1.229+)</li>
+<li>Fixed self-hosted runner sessions released on idle, retire, or startup timeout occasionally resuming on another runner before the post-session hook had finished</li>
+<li>Fixed the Clawd mascot&#39;s eyes and feet rendering unevenly in iTerm2 at some font sizes</li>
+<li>Fixed occasional runaway session recaps: recap text (automatic and <code>/recap</code>) is now capped at 400 characters, cut at a word boundary</li>
+<li>Improved startup performance: the session counter is now written in the background</li>
+<li>Improved auto mode: <code>Monitor</code> allow rules are now set aside while auto mode is active, so Monitor commands are reviewed the same way Bash commands are</li>
+<li>Improved auto mode on Bedrock, Vertex AI, and Foundry, and when telemetry is disabled: the classifier now uses the same defaults as on the Claude API, including severity-scored classification</li>
+<li>Improved auto mode: the git status check can no longer be fooled by a repo&#39;s <code>status.showUntrackedFiles=no</code> setting into reporting a clean tree</li>
+<li>Changed the <code>/model</code> picker to highlight only the newest model&#39;s name, so the highlight marks the new release rather than an arbitrary subset of the list</li>
+<li><code>/goal</code>: an idle session whose goal is parked behind long-running background work now checks in automatically after 30 minutes (then 1h, 2h) instead of waiting for you to return</li>
+<li><code>/usage</code> now shows the usage-credits spend row for Team and Enterprise members, and shows a capped row at 0% before anything is spent</li>
+<li>SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool denials before exiting; running commands are still terminated and the process still exits with code 143</li>
+<li>Pressing Enter on a slash-command typo or a command unavailable in this session now reports it instead of running the closest fuzzy match; prefixes and aliases still run</li>
+<li>Remote Control now marks a session offline within seconds when the CLI exits or its terminal closes</li>
+<li><code>SendMessage</code> now refuses further messages to a session up front once a rapid burst would exceed what that session&#39;s inbox accepts, instead of reporting them sent while they were dropped</li>
+<li>Aligned the session title chip on the prompt border with the footer&#39;s right edge</li>
+<li>Right-aligned footer items (goal indicator, session state, background agent status) and truncated notices now share a consistent right margin with the rest of the prompt area</li>
+<li>[VSCode] Added screen reader support for the transcript: live announcements for replies, permission requests, errors, and status changes, plus per-turn heading navigation</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.1.235]]></title>
             <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.235</link>
@@ -2854,14 +2934,6 @@
 <li>[VSCode] Fixed pressing Esc to dismiss a CJK IME candidate window canceling the running Claude task</li>
 </ul>
 ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[v2.1.177]]></title>
-            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.177</link>
-            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.177</guid>
-            <pubDate>Sat, 13 Jun 2026 01:25:15 GMT</pubDate>
-            <description><![CDATA[<p>Release v2.1.177</p>]]></description>
-            <content:encoded><![CDATA[<p>Release v2.1.177</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
