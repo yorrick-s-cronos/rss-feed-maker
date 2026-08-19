@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Tue, 18 Aug 2026 08:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 10:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Công bố chỉ số FTA Index 2025: Hải Phòng dẫn đầu cả nước]]></title>
+            <link>https://mekongasean.vn/cong-bo-chi-so-fta-index-2025-hai-phong-dan-dau-ca-nuoc-58597.html</link>
+            <guid>https://mekongasean.vn/cong-bo-chi-so-fta-index-2025-hai-phong-dan-dau-ca-nuoc-58597.html</guid>
+            <pubDate>Tue, 18 Aug 2026 10:14:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[5 nguyên Ủy viên Bộ Chính trị được trao Huân chương Hồ Chí Minh]]></title>
             <link>https://mekongasean.vn/5-nguyen-uy-vien-bo-chinh-tri-duoc-trao-huan-chuong-ho-chi-minh-58586.html</link>
             <guid>https://mekongasean.vn/5-nguyen-uy-vien-bo-chinh-tri-duoc-trao-huan-chuong-ho-chi-minh-58586.html</guid>
             <pubDate>Tue, 18 Aug 2026 08:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thủ tướng Lê Minh Hưng viếng nguyên Thủ tướng Trung Quốc Chu Dung Cơ]]></title>
-            <link>https://mekongasean.vn/thu-tuong-le-minh-hung-vieng-nguyen-thu-tuong-trung-quoc-chu-dung-co-58590.html</link>
-            <guid>https://mekongasean.vn/thu-tuong-le-minh-hung-vieng-nguyen-thu-tuong-trung-quoc-chu-dung-co-58590.html</guid>
-            <pubDate>Tue, 18 Aug 2026 08:40:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
