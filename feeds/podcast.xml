@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[なぜ伝統的な分散投資のルールが変わりつつあるのか | Allocator | 第38回]]></title>
+            <link>https://finance.biggo.jp/podcast/23596dcfdce2b4b2</link>
+            <guid>https://finance.biggo.jp/podcast/23596dcfdce2b4b2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2543 - ミスター・ボールン]]></title>
+            <link>https://finance.biggo.jp/podcast/e2a7789e6bcc70e3</link>
+            <guid>https://finance.biggo.jp/podcast/e2a7789e6bcc70e3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エージェントの自律性を解き放つ：AIネイティブシステムのためのランタイム — Tushar Jain, Docker]]></title>
             <link>https://finance.biggo.jp/podcast/8e12ba25ffe21bcb</link>
             <guid>https://finance.biggo.jp/podcast/8e12ba25ffe21bcb</guid>
@@ -31,6 +43,12 @@
             <title><![CDATA[プロトタイピングとしてのリーダーシップ：CTOがAIエージェントで製品を出荷する方法 — Hursh Agrawal（The Browser Company）]]></title>
             <link>https://finance.biggo.jp/podcast/5719805b32a256b8</link>
             <guid>https://finance.biggo.jp/podcast/5719805b32a256b8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[私たちは間違ったことを恐れている]]></title>
+            <link>https://finance.biggo.jp/podcast/b02d2b31a608c528</link>
+            <guid>https://finance.biggo.jp/podcast/b02d2b31a608c528</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -109,24 +127,6 @@
             <title><![CDATA[トレンドフォローはクライシスアルファを超えた何かになりつつある｜Systematic Investor｜第413回]]></title>
             <link>https://finance.biggo.jp/podcast/292158227cc35b09</link>
             <guid>https://finance.biggo.jp/podcast/292158227cc35b09</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026年のコンテキストエンジニアリング — Louis-François Bouchard、Omar Solano、Samridhi Vaid（Towards AI）]]></title>
-            <link>https://finance.biggo.jp/podcast/11dd17792451db76</link>
-            <guid>https://finance.biggo.jp/podcast/11dd17792451db76</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceXは単なる1.8兆ドルのミーム株なのか？ | オフィスアワー]]></title>
-            <link>https://finance.biggo.jp/podcast/44827dfb1505a087</link>
-            <guid>https://finance.biggo.jp/podcast/44827dfb1505a087</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第25話 - ディランが登場、ライブ！ | ディラン・パテル＆ジョーダン・ナノス]]></title>
-            <link>https://finance.biggo.jp/podcast/3a1a5d4d62839ae0</link>
-            <guid>https://finance.biggo.jp/podcast/3a1a5d4d62839ae0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
