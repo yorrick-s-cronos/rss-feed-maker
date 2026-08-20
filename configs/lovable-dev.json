@@ -1,0 +1,22 @@
+{
+  "name": "lovable-dev",
+  "url": "https://lovable.dev/blog?category=announcements",
+  "feed": {
+    "title": "lovable.dev",
+    "description": "External RSS: https://lovable.dev/blog/rss.xml",
+    "language": "en",
+    "author": "lovable.dev"
+  },
+  "selectors": {
+    "articleList": "",
+    "title": "",
+    "link": {
+      "source": ""
+    }
+  },
+  "parserMode": "external",
+  "rssExtraction": {
+    "feedUrl": "https://lovable.dev/blog/rss.xml"
+  },
+  "createdAt": "2026-08-20T08:50:25.833Z"
+}
