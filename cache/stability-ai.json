@@ -1,5 +1,5 @@
 {
-  "lastSuccess": "2026-08-20T21:19:00.580Z",
+  "lastSuccess": "2026-08-20T23:17:19.081Z",
   "articleCount": 20,
   "knownLinks": [
     "https://stability.ai/news-updates/sharing-a-new-way-to-work-with-stable-audio",
@@ -23,6 +23,5 @@
     "https://stability.ai/news-updates/introducing-stable-virtual-camera-multi-view-video-generation-with-3d-camera-control",
     "https://stability.ai/news-updates/introducing-our-new-svp-head-of-product-ryan-ellis"
   ],
-  "consecutiveErrors": 1,
-  "lastError": "Failed to fetch https://stability.ai/news: HTTP 503 Service Unavailable"
+  "consecutiveErrors": 0
 }
