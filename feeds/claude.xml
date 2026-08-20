@@ -4,11 +4,17 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Wed, 19 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Claude Code Guide For Startups]]></title>
+            <link>https://claude.com/blog/claude-code-guide-for-startups</link>
+            <guid>https://claude.com/blog/claude-code-guide-for-startups</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Turning conversation into knowledge: how Slack builds human-agent teams]]></title>
             <link>https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</link>
@@ -92,12 +98,6 @@
             <link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
             <guid>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</guid>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inference hooks: inline data loss prevention for Claude Enterprise]]></title>
-            <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>
-            <guid>https://claude.com/blog/claude-enterprise-inference-hooks</guid>
-            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
