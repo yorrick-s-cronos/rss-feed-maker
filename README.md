@@ -32,11 +32,12 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | [Google DeepMind Blog](https://deepmind.google/discover/blog/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/deepmind-blog.xml) | ✅ 25 articles |
 | [blog.cloudflare.com](https://blog.cloudflare.com/tag/ai/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cloudflare-com.xml) | ✅ 20 articles |
 
-### External RSS (2)
+### External RSS (3)
 
 | Blog | Feed | Status |
 |------|------|--------|
 | [booking.ai](https://booking.ai/) | [Subscribe](https://booking.ai/feed) | ✅ native RSS |
+| [mistral.ai](https://mistral.ai/news/rss) | [Subscribe](https://mistral.ai/news/rss) | ✅ native RSS |
 | [Hugging Face Blog](https://huggingface.co/blog) | [Subscribe](https://huggingface.co/blog/feed.xml) | ✅ native RSS |
 
 ### GitHub Releases (3)

@@ -1,0 +1,22 @@
+{
+  "name": "mistral-ai",
+  "url": "https://mistral.ai/news/rss",
+  "feed": {
+    "title": "mistral.ai",
+    "description": "External RSS: https://mistral.ai/news/rss",
+    "language": "en",
+    "author": "mistral.ai"
+  },
+  "selectors": {
+    "articleList": "",
+    "title": "",
+    "link": {
+      "source": ""
+    }
+  },
+  "parserMode": "external",
+  "rssExtraction": {
+    "feedUrl": "https://mistral.ai/news/rss"
+  },
+  "createdAt": "2026-08-20T08:49:41.266Z"
+}
