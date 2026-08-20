@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[プロトタイピングとしてのリーダーシップ：CTOがAIエージェントで製品を出荷する方法 — Hursh Agrawal（The Browser Company）]]></title>
+            <link>https://finance.biggo.jp/podcast/5719805b32a256b8</link>
+            <guid>https://finance.biggo.jp/podcast/5719805b32a256b8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TIVP091（ビデオ）：Google、Reddit、Amazon——最大の勝ち組銘柄はまだ買いか？ ダニエル・マーンケ＆ショーン・オマリーと共に]]></title>
             <link>https://finance.biggo.jp/podcast/3c31326da015ee1a</link>
             <guid>https://finance.biggo.jp/podcast/3c31326da015ee1a</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[ウーバー社長：5年後にはもっと少ない人数で会社を運営できるかもしれない | 語られざるウーバーの物語]]></title>
             <link>https://finance.biggo.jp/podcast/d19c9b1fb45f66c5</link>
             <guid>https://finance.biggo.jp/podcast/d19c9b1fb45f66c5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ニケシュ・アローラ：不正AIエージェントに備える3000億ドルのサイバーセキュリティ大手]]></title>
-            <link>https://finance.biggo.jp/podcast/8a2774b73c0b3a74</link>
-            <guid>https://finance.biggo.jp/podcast/8a2774b73c0b3a74</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
