@@ -1,10 +1,9 @@
 {
-  "lastSuccess": "2026-08-20T02:11:43.702Z",
+  "lastSuccess": "2026-08-20T03:38:34.154Z",
   "articleCount": 15,
   "knownLinks": [
     "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
     "https://claude.com/blog/ai-ci-cd-on-call",
-    "https://claude.com/blog/the-claude-science-product-guide",
     "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
     "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
     "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
@@ -16,7 +15,8 @@
     "https://claude.com/blog/auto-mode-default-in-claude-code",
     "https://claude.com/blog/auto-mode-in-production",
     "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
-    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute"
+    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+    "https://claude.com/blog/claude-enterprise-inference-hooks"
   ],
   "consecutiveErrors": 0
 }

@@ -22,12 +22,6 @@
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Claude Science product guide]]></title>
-            <link>https://claude.com/blog/the-claude-science-product-guide</link>
-            <guid>https://claude.com/blog/the-claude-science-product-guide</guid>
-            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How ABC Legal turned every employee into a builder with Claude Managed Agents]]></title>
             <link>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</link>
             <guid>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</guid>
@@ -98,6 +92,12 @@
             <link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
             <guid>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</guid>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inference hooks: inline data loss prevention for Claude Enterprise]]></title>
+            <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>
+            <guid>https://claude.com/blog/claude-enterprise-inference-hooks</guid>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
