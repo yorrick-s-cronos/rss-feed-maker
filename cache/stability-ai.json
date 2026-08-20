@@ -23,5 +23,6 @@
     "https://stability.ai/news-updates/introducing-stable-virtual-camera-multi-view-video-generation-with-3d-camera-control",
     "https://stability.ai/news-updates/introducing-our-new-svp-head-of-product-ryan-ellis"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "Failed to fetch https://stability.ai/news: HTTP 503 Service Unavailable"
 }

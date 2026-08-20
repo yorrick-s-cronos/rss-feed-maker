@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[GeminiとAlexaに猫の追跡とアドバイスを依頼してみた | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/feca1b64668eacfd</link>
+            <guid>https://finance.biggo.jp/podcast/feca1b64668eacfd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国は毎年ドイツを建設する——そしてアメリカは負けている]]></title>
+            <link>https://finance.biggo.jp/podcast/8eeb734a42ba7a20</link>
+            <guid>https://finance.biggo.jp/podcast/8eeb734a42ba7a20</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[あなたのMacがあなたを遅くしている（ファイルシステムに関する愚痴）]]></title>
             <link>https://finance.biggo.jp/podcast/a1cc91818da11d06</link>
             <guid>https://finance.biggo.jp/podcast/a1cc91818da11d06</guid>
@@ -70,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[私たちは間違ったことを恐れている]]></title>
+            <title><![CDATA[Two Scientists On What AI Can't Do To Fix Biology]]></title>
             <link>https://finance.biggo.jp/podcast/b02d2b31a608c528</link>
             <guid>https://finance.biggo.jp/podcast/b02d2b31a608c528</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -79,6 +91,12 @@
             <title><![CDATA[イーサリアム、数年来の最大の金融政策論争]]></title>
             <link>https://finance.biggo.jp/podcast/5b215638c0bb764a</link>
             <guid>https://finance.biggo.jp/podcast/5b215638c0bb764a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[視覚回復から脳の再構想へ：マックス・ホダックとの対話]]></title>
+            <link>https://finance.biggo.jp/podcast/cc89f1dff1c0a91e</link>
+            <guid>https://finance.biggo.jp/podcast/cc89f1dff1c0a91e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -109,24 +127,6 @@
             <title><![CDATA[リッチ・サットンとクーラム・ジャベド：AIモデルが学習をやめる理由、そして再び学習を始める方法]]></title>
             <link>https://finance.biggo.jp/podcast/a8c6471dc900983c</link>
             <guid>https://finance.biggo.jp/podcast/a8c6471dc900983c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ターミナルとはおさらばだ]]></title>
-            <link>https://finance.biggo.jp/podcast/1e4bc1739e6c1fa0</link>
-            <guid>https://finance.biggo.jp/podcast/1e4bc1739e6c1fa0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜ男性の3人に1人が1年間セックスをしていないのか]]></title>
-            <link>https://finance.biggo.jp/podcast/3ef77586d8627bb0</link>
-            <guid>https://finance.biggo.jp/podcast/3ef77586d8627bb0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[早期ALS検出の新戦略]]></title>
-            <link>https://finance.biggo.jp/podcast/b2edc9ad8edfcf1c</link>
-            <guid>https://finance.biggo.jp/podcast/b2edc9ad8edfcf1c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
