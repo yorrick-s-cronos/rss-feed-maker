@@ -28,6 +28,12 @@
             <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Build production agents with computer use, the Skills API, and the Files API]]></title>
+            <link>https://claude.com/blog/computer-use-skills-api-files-api</link>
+            <guid>https://claude.com/blog/computer-use-skills-api-files-api</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turning conversation into knowledge: how Slack builds human-agent teams]]></title>
             <link>https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</link>
             <guid>https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</guid>
@@ -91,12 +97,6 @@
             <title><![CDATA[Auto mode is now the default in Claude Code for Pro, Max, and Team plans]]></title>
             <link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
             <guid>https://claude.com/blog/auto-mode-default-in-claude-code</guid>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Running auto mode in production]]></title>
-            <link>https://claude.com/blog/auto-mode-in-production</link>
-            <guid>https://claude.com/blog/auto-mode-in-production</guid>
             <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
