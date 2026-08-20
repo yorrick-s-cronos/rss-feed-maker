@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[あなたのMacがあなたを遅くしている（ファイルシステムに関する愚痴）]]></title>
+            <link>https://finance.biggo.jp/podcast/a1cc91818da11d06</link>
+            <guid>https://finance.biggo.jp/podcast/a1cc91818da11d06</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[なぜ伝統的な分散投資のルールが変わりつつあるのか | Allocator | 第38回]]></title>
             <link>https://finance.biggo.jp/podcast/23596dcfdce2b4b2</link>
             <guid>https://finance.biggo.jp/podcast/23596dcfdce2b4b2</guid>
@@ -52,6 +58,12 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AI人材のためのIT管理者 — Sarthak Aggarwal（Decawork）]]></title>
+            <link>https://finance.biggo.jp/podcast/f4dbaf5168e95ca0</link>
+            <guid>https://finance.biggo.jp/podcast/f4dbaf5168e95ca0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[プロトタイピングとしてのリーダーシップ：CTOがAIエージェントで製品を出荷する方法 — Hursh Agrawal（The Browser Company）]]></title>
             <link>https://finance.biggo.jp/podcast/5719805b32a256b8</link>
             <guid>https://finance.biggo.jp/podcast/5719805b32a256b8</guid>
@@ -67,6 +79,12 @@
             <title><![CDATA[イーサリアム、数年来の最大の金融政策論争]]></title>
             <link>https://finance.biggo.jp/podcast/5b215638c0bb764a</link>
             <guid>https://finance.biggo.jp/podcast/5b215638c0bb764a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Konstantin Kisin's WARNING: Our Leaders Have Lost Control, We're Headed For Conflict And Violence!]]></title>
+            <link>https://finance.biggo.jp/podcast/a66004df57fa6280</link>
+            <guid>https://finance.biggo.jp/podcast/a66004df57fa6280</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -109,24 +127,6 @@
             <title><![CDATA[早期ALS検出の新戦略]]></title>
             <link>https://finance.biggo.jp/podcast/b2edc9ad8edfcf1c</link>
             <guid>https://finance.biggo.jp/podcast/b2edc9ad8edfcf1c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[コードレビューをどう終わらせるか — Ankit Jain（Aviator）]]></title>
-            <link>https://finance.biggo.jp/podcast/b1b0b85c71fed76a</link>
-            <guid>https://finance.biggo.jp/podcast/b1b0b85c71fed76a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[貿易データはトランプ政権の政策変更にまだ追いついていない、とピーター・ハレル氏]]></title>
-            <link>https://finance.biggo.jp/podcast/bc2febdffd8bdb95</link>
-            <guid>https://finance.biggo.jp/podcast/bc2febdffd8bdb95</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[デジタルドクターが今すぐ診察します｜The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/5aa4cf66074d0610</link>
-            <guid>https://finance.biggo.jp/podcast/5aa4cf66074d0610</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
