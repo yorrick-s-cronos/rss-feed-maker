@@ -10,6 +10,12 @@
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Anthropic’s approach to teaching and learning AI]]></title>
+            <link>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</link>
+            <guid>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How monday.com transformed its platform into an agent-first product where humans and agents collaborate]]></title>
             <link>https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</link>
             <guid>https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</guid>
@@ -92,12 +98,6 @@
             <link>https://claude.com/blog/auto-mode-in-production</link>
             <guid>https://claude.com/blog/auto-mode-in-production</guid>
             <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Millennium and Anthropic are building a digital risk analyst with Claude]]></title>
-            <link>https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</link>
-            <guid>https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
