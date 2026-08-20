@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[都會大學MU88學生宿舍明起投入使用　提供430個宿位]]></title>
+            <link>https://www.wenweipo.com/a/202608/20/AP6a8685ace4b0c1e500258a75.html</link>
+            <guid>https://www.wenweipo.com/a/202608/20/AP6a8685ace4b0c1e500258a75.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[香港都會大學今日（20日）舉辦MU88學生宿舍開幕典禮。]]></description>
+        </item>
+        <item>
             <title><![CDATA[香港目標2030年前培育30家獨角獸　議員多維度建言創科生態建設]]></title>
             <link>https://www.wenweipo.com/a/202608/20/AP6a867129e4b0c1e500258834.html</link>
             <guid>https://www.wenweipo.com/a/202608/20/AP6a867129e4b0c1e500258834.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/19/AP6a85c7fee4b0c1e500257c47.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港海關今日（19日）採取行動拘捕一間美容公司的兩名男女經理後，OPATRA London英國總公司晚上再發聲明，指注意到香港地區關於OPATRA品牌零售店的進一步發展情況。重申香港的OPATRA品牌店舖是由一間本地公司根據分銷協議獨立擁有和運營。該些店舖的員工招聘和管理責任俱由該公司全權負責及承擔。相關個人均未受僱於OPATRA英國總公司，也未在英國總公司擔任任何職位。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Opatra London│(有片)銷售手法受質疑 海關拘兩男女經理 積極追查關聯公司]]></title>
-            <link>https://www.wenweipo.com/a/202608/19/AP6a85b705e4b0c1e500257af2.html</link>
-            <guid>https://www.wenweipo.com/a/202608/19/AP6a85b705e4b0c1e500257af2.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[一名58歲女子今年7月在美妝店Opatra London的沙田新城市廣場分店消費6萬多元後，懷疑受騙並於日前報警。海關至昨日（18日）已接獲6宗舉報，涉及金額由1800至10萬元不等，舉報人皆為中年人及長者。同時海關繼昨日到上環一商廈單位搜證後，今日（19日）以涉嫌觸犯《商品說明條例》拘捕兩名涉案的公司男女經理。另外消委會指已接3宗投訴，正按既定程序處理。]]></description>
         </item>
     </channel>
 </rss>
