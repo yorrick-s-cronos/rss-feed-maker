@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ビッグファーマの第2四半期決算から何を学んだか？]]></title>
+            <link>https://finance.biggo.jp/podcast/02cd728b331753d5</link>
+            <guid>https://finance.biggo.jp/podcast/02cd728b331753d5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[暗号資産が待ち望んでいた起爆剤がついに到来]]></title>
             <link>https://finance.biggo.jp/podcast/8084f31484703a22</link>
             <guid>https://finance.biggo.jp/podcast/8084f31484703a22</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[データに深く潜る | YCペーパークラブ]]></title>
             <link>https://finance.biggo.jp/podcast/5b506e6bbbcb68cd</link>
             <guid>https://finance.biggo.jp/podcast/5b506e6bbbcb68cd</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ウーリーマウス、ダイアウルフ、そして38億ドルのAIスピンアウト：120億ドルのColossal Biosciencesの内幕]]></title>
-            <link>https://finance.biggo.jp/podcast/ebe8386b9764f7d3</link>
-            <guid>https://finance.biggo.jp/podcast/ebe8386b9764f7d3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
