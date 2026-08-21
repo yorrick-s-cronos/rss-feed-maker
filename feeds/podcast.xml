@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[低ALP、骨折、早期の歯の喪失は低ホスファターゼ症を示唆する]]></title>
+            <link>https://finance.biggo.jp/podcast/7cd950b1eca9027b</link>
+            <guid>https://finance.biggo.jp/podcast/7cd950b1eca9027b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ボーナスエピソード：子宮内膜症の診断と治療を目指すEndocyclicの精密ペプチド戦略の内側]]></title>
             <link>https://finance.biggo.jp/podcast/dbfc887d0c400672</link>
             <guid>https://finance.biggo.jp/podcast/dbfc887d0c400672</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[最後の人間によるコードレビュー：AI生成コードへの信頼構築 — Itamar Friedman（Qodo）]]></title>
             <link>https://finance.biggo.jp/podcast/9e2bad9871cdeae7</link>
             <guid>https://finance.biggo.jp/podcast/9e2bad9871cdeae7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントは進化した。だが評価は進化していない。— Ameya Bhatawdekar, Braintrust]]></title>
-            <link>https://finance.biggo.jp/podcast/904b5f96f0277624</link>
-            <guid>https://finance.biggo.jp/podcast/904b5f96f0277624</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
