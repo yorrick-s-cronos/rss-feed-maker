@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ボーナスエピソード：子宮内膜症の診断と治療を目指すEndocyclicの精密ペプチド戦略の内側]]></title>
+            <link>https://finance.biggo.jp/podcast/dbfc887d0c400672</link>
+            <guid>https://finance.biggo.jp/podcast/dbfc887d0c400672</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[生物学を超えて：Nanobiotixの物理学優先のがん治療アプローチ]]></title>
             <link>https://finance.biggo.jp/podcast/9f9d83c6b53e6e46</link>
             <guid>https://finance.biggo.jp/podcast/9f9d83c6b53e6e46</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[エージェントは進化した。だが評価は進化していない。— Ameya Bhatawdekar, Braintrust]]></title>
             <link>https://finance.biggo.jp/podcast/904b5f96f0277624</link>
             <guid>https://finance.biggo.jp/podcast/904b5f96f0277624</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIが生物学について理解していないこと]]></title>
-            <link>https://finance.biggo.jp/podcast/b02d2b31a608c528</link>
-            <guid>https://finance.biggo.jp/podcast/b02d2b31a608c528</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
