@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[「支聯會」煽動顛覆案｜譚惠珠：這是一次公正的審判和裁決]]></title>
+            <link>https://www.wenweipo.com/a/202608/21/AP6a8867efe4b0c1e50025bb28.html</link>
+            <guid>https://www.wenweipo.com/a/202608/21/AP6a8867efe4b0c1e50025bb28.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[「支聯會」、李卓人、何俊仁及鄒幸彤被控「煽動顛覆國家政權罪」的案件，經法庭審訊後被裁定罪名成立。香港基本法委員會原副主任譚惠珠21日接受香港文匯報訪問時表示，這是一次公正的審判和裁決。她嚴正指出，境外勢力在多宗國安案件審理期間，不斷抹黑香港司法機關、律政司及執法部門，妄稱香港未能保障人權和自由，完全與事實不符，「境外勢力每次作出無端指責，都暴露其干預意圖，相信香港市民能清楚辨別此次裁決是公平公正的。」]]></description>
+        </item>
+        <item>
             <title><![CDATA[經民聯：支持法院對「支聯會」案裁決　維護國家安全就是守護香港繁榮]]></title>
             <link>https://www.wenweipo.com/a/202608/21/AP6a88648be4b0c1e50025bb10.html</link>
             <guid>https://www.wenweipo.com/a/202608/21/AP6a88648be4b0c1e50025bb10.html</guid>
@@ -109,13 +116,6 @@
             <guid>https://www.wenweipo.com/a/202608/21/AP6a881febe4b0c1e50025b454.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[康樂及文化事務署（康文署）推出古典音樂講座系列：《音樂．心處》，8場講座由10月7日起逢星期三在香港太空館演講廳舉行，由音樂教育工作者賴建群策劃及主講。講座分8個主題，讓觀眾由聆聽出發，透過多段精選錄音及錄像，串連古典音樂大師們的趣聞軼事和際遇心境，從中體會經典名曲何以跨越時代，至今仍能觸動人心。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[嶺南大學成立「LU Xcelerator」創新創業加速平台　聚焦「AI+X」推動科研成果轉化]]></title>
-            <link>https://www.wenweipo.com/a/202608/21/AP6a881f7fe4b0c1e50025b43f.html</link>
-            <guid>https://www.wenweipo.com/a/202608/21/AP6a881f7fe4b0c1e50025b43f.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[嶺南大學（嶺大）宣布成立創新創業加速平台「LU Xcelerator（LUX）」，並於今日（21日）舉行啟動典禮。平台以「AI + X」為核心發展方向，將探索具代理能力的人工智能（Agentic AI）在不同產業的應用，並結合嶺大在數據科學及跨學科研究的實力，以及鄰近北部都會區的地理優勢，冀加快「政、產、學、研、投」之間的協作，拓展北部都會區及大灣區合作機遇，協助學生與科研團隊把研究成果轉化為可投入市場的方案，創造商業與社會價值。]]></description>
         </item>
     </channel>
 </rss>
