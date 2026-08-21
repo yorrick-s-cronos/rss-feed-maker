@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[經民聯：支持法院對「支聯會」案裁決　維護國家安全就是守護香港繁榮]]></title>
+            <link>https://www.wenweipo.com/a/202608/21/AP6a88648be4b0c1e50025bb10.html</link>
+            <guid>https://www.wenweipo.com/a/202608/21/AP6a88648be4b0c1e50025bb10.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[「支聯會」違反香港國安法一案今日（8月21日）在高等法院原訟庭裁決，「支聯會」前主席李卓人及前副主席鄒幸彤均被裁定「煽動顛覆國家政權」罪名成立。經民聯對法院裁決表示歡迎和支持，認為裁決充分彰顯香港法治精神，有力捍衛香港國安法的法律權威，對維護國家安全及香港社會長期穩定具有重要意義。]]></description>
+        </item>
+        <item>
             <title><![CDATA[消防處本月連破葵青4個鬼油站 檢1萬公升柴油]]></title>
             <link>https://www.wenweipo.com/a/202608/21/AP6a885204e4b0c1e50025b9cd.html</link>
             <guid>https://www.wenweipo.com/a/202608/21/AP6a885204e4b0c1e50025b9cd.html</guid>
@@ -109,13 +116,6 @@
             <guid>https://www.wenweipo.com/a/202608/21/AP6a881f7fe4b0c1e50025b43f.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[嶺南大學（嶺大）宣布成立創新創業加速平台「LU Xcelerator（LUX）」，並於今日（21日）舉行啟動典禮。平台以「AI + X」為核心發展方向，將探索具代理能力的人工智能（Agentic AI）在不同產業的應用，並結合嶺大在數據科學及跨學科研究的實力，以及鄰近北部都會區的地理優勢，冀加快「政、產、學、研、投」之間的協作，拓展北部都會區及大灣區合作機遇，協助學生與科研團隊把研究成果轉化為可投入市場的方案，創造商業與社會價值。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科技運動產品登陸香港展會 機械人、室內滑雪裝備受關注]]></title>
-            <link>https://www.wenweipo.com/a/202608/21/AP6a881f58e4b0c1e50025b43e.html</link>
-            <guid>https://www.wenweipo.com/a/202608/21/AP6a881f58e4b0c1e50025b43e.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港作為國際大都會，向來是各類創新科技與運動產品拓展市場的重要平台，一眾來自內地及本地的參展商，藉參與電腦節及運動節的機會，帶來教育機械人、模擬賽車器材以及室內滑雪相關設備，期望向本港市民推廣嶄新的科技運動體驗。]]></description>
         </item>
     </channel>
 </rss>
