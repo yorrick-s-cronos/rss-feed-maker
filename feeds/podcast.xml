@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[From Prediction to Simulation: Teaching AI to Shape the Future — Joon Sung Park, Simile AI]]></title>
+            <link>https://finance.biggo.jp/podcast/848515db7d54ad47</link>
+            <guid>https://finance.biggo.jp/podcast/848515db7d54ad47</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAIとHugging Faceの事件が本当に意味するもの]]></title>
+            <link>https://finance.biggo.jp/podcast/1088a7adecf09fa9</link>
+            <guid>https://finance.biggo.jp/podcast/1088a7adecf09fa9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pixel 11 gets in on the digicam trend | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/e410079a9a6086b2</link>
             <guid>https://finance.biggo.jp/podcast/e410079a9a6086b2</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[GeminiとAlexaに猫の追跡とアドバイスを依頼してみた | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/feca1b64668eacfd</link>
             <guid>https://finance.biggo.jp/podcast/feca1b64668eacfd</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[データによれば、気候変動で私たちは絶望的ではない]]></title>
-            <link>https://finance.biggo.jp/podcast/8eeb734a42ba7a20</link>
-            <guid>https://finance.biggo.jp/podcast/8eeb734a42ba7a20</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appleのファイルシステムがあなたの作業を遅くしている]]></title>
-            <link>https://finance.biggo.jp/podcast/a1cc91818da11d06</link>
-            <guid>https://finance.biggo.jp/podcast/a1cc91818da11d06</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
