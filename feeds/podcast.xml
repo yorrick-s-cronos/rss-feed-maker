@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ホイールなし、ペダルなし、ドライバーなし、Cybercabの発売が目前に迫る]]></title>
+            <link>https://finance.biggo.jp/podcast/6d91269564629860</link>
+            <guid>https://finance.biggo.jp/podcast/6d91269564629860</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[右派が富裕層に敵意を向け始めている | The Week]]></title>
+            <link>https://finance.biggo.jp/podcast/cb8e39946dece1d2</link>
+            <guid>https://finance.biggo.jp/podcast/cb8e39946dece1d2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェント構築はもはや簡単、次のフロンティアはコンテキスト — Jeff Ng, Unblocked]]></title>
+            <link>https://finance.biggo.jp/podcast/26069bf92e873b46</link>
+            <guid>https://finance.biggo.jp/podcast/26069bf92e873b46</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[医療におけるAI - 正しく活用し、誤りを防ぐ]]></title>
             <link>https://finance.biggo.jp/podcast/0e7915a99b0ada1a</link>
             <guid>https://finance.biggo.jp/podcast/0e7915a99b0ada1a</guid>
@@ -34,19 +52,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pixel 11のカメラはまだ幻覚を見ている｜The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/7a8baff2a9dc4c20</link>
-            <guid>https://finance.biggo.jp/podcast/7a8baff2a9dc4c20</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ビッグファーマの第2四半期決算から何を学んだか？]]></title>
             <link>https://finance.biggo.jp/podcast/02cd728b331753d5</link>
             <guid>https://finance.biggo.jp/podcast/02cd728b331753d5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[アメリカで需要が大きく競争が少ない3つのビジネス]]></title>
+            <title><![CDATA[3 businesses making millionaires in America (in 2026)]]></title>
             <link>https://finance.biggo.jp/podcast/90896ef39f48b2d6</link>
             <guid>https://finance.biggo.jp/podcast/90896ef39f48b2d6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[ジョー・ローガン・エクスペリエンス #2543 - ミスター・ボールン]]></title>
             <link>https://finance.biggo.jp/podcast/e2a7789e6bcc70e3</link>
             <guid>https://finance.biggo.jp/podcast/e2a7789e6bcc70e3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントの自律性を解き放つ：AIネイティブシステムのためのランタイム — Tushar Jain, Docker]]></title>
-            <link>https://finance.biggo.jp/podcast/8e12ba25ffe21bcb</link>
-            <guid>https://finance.biggo.jp/podcast/8e12ba25ffe21bcb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ファインチューニングしたモデルは技術負債：50倍ROIのハウス・オブ・カード — Lease End ダン・ビョルン]]></title>
-            <link>https://finance.biggo.jp/podcast/d88b2a0ae7898018</link>
-            <guid>https://finance.biggo.jp/podcast/d88b2a0ae7898018</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
