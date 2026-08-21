@@ -10,13 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sam Altman Hits Pause, Anthropic Plans $2 Trillion IPO, Moderna's Cancer Vaccine Works | EP#282]]></title>
+            <link>https://finance.biggo.jp/podcast/44730a26378f108a</link>
+            <guid>https://finance.biggo.jp/podcast/44730a26378f108a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[From Prediction to Simulation: Teaching AI to Shape the Future — Joon Sung Park, Simile AI]]></title>
             <link>https://finance.biggo.jp/podcast/848515db7d54ad47</link>
             <guid>https://finance.biggo.jp/podcast/848515db7d54ad47</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAIとHugging Faceの事件が本当に意味するもの]]></title>
+            <title><![CDATA[We Need to Talk About the OpenAI–Hugging Face Incident]]></title>
             <link>https://finance.biggo.jp/podcast/1088a7adecf09fa9</link>
             <guid>https://finance.biggo.jp/podcast/1088a7adecf09fa9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -82,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2026年にアメリカで大富豪を生む3つのビジネス]]></title>
+            <title><![CDATA[Asking San Francisco millionaires how they got rich]]></title>
             <link>https://finance.biggo.jp/podcast/90896ef39f48b2d6</link>
             <guid>https://finance.biggo.jp/podcast/90896ef39f48b2d6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[米国株式のリターンがAI株以外にも広がる理由]]></title>
             <link>https://finance.biggo.jp/podcast/b45d6627733cbbfc</link>
             <guid>https://finance.biggo.jp/podcast/b45d6627733cbbfc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GeminiとAlexaに猫の追跡とアドバイスを依頼してみた | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/feca1b64668eacfd</link>
-            <guid>https://finance.biggo.jp/podcast/feca1b64668eacfd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
