@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Thu, 20 Aug 2026 16:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 03:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Thường trực Ban Bí thư Trần Cẩm Tú sắp thăm chính thức Singapore]]></title>
+            <link>https://mekongasean.vn/thuong-truc-ban-bi-thu-tran-cam-tu-sap-tham-chinh-thuc-singapore-58722.html</link>
+            <guid>https://mekongasean.vn/thuong-truc-ban-bi-thu-tran-cam-tu-sap-tham-chinh-thuc-singapore-58722.html</guid>
+            <pubDate>Fri, 21 Aug 2026 03:36:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Philippines mong muốn tăng cường hợp tác thực chất, hiệu quả với Việt Nam]]></title>
             <link>https://mekongasean.vn/philippines-mong-muon-tang-cuong-hop-tac-thuc-chat-hieu-qua-voi-viet-nam-58712.html</link>
             <guid>https://mekongasean.vn/philippines-mong-muon-tang-cuong-hop-tac-thuc-chat-hieu-qua-voi-viet-nam-58712.html</guid>
             <pubDate>Thu, 20 Aug 2026 16:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sửa đổi Bộ luật Hình sự: Đề xuất chỉ giữ án tử hình với 4 tội danh]]></title>
-            <link>https://mekongasean.vn/sua-doi-bo-luat-hinh-su-de-xuat-chi-giu-an-tu-hinh-voi-4-toi-danh-58671.html</link>
-            <guid>https://mekongasean.vn/sua-doi-bo-luat-hinh-su-de-xuat-chi-giu-an-tu-hinh-voi-4-toi-danh-58671.html</guid>
-            <pubDate>Thu, 20 Aug 2026 02:47:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
