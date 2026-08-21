@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[生物学を超えて：Nanobiotixの物理学優先のがん治療アプローチ]]></title>
+            <link>https://finance.biggo.jp/podcast/9f9d83c6b53e6e46</link>
+            <guid>https://finance.biggo.jp/podcast/9f9d83c6b53e6e46</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GeminiとAlexaに猫の追跡とアドバイスを依頼してみた | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/feca1b64668eacfd</link>
             <guid>https://finance.biggo.jp/podcast/feca1b64668eacfd</guid>
@@ -22,7 +28,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[あなたのMacは実は遅くない、macOSのせいだ]]></title>
+            <title><![CDATA[Apple's File System Is Slowing You Down]]></title>
             <link>https://finance.biggo.jp/podcast/a1cc91818da11d06</link>
             <guid>https://finance.biggo.jp/podcast/a1cc91818da11d06</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[AIが生物学について理解していないこと]]></title>
             <link>https://finance.biggo.jp/podcast/b02d2b31a608c528</link>
             <guid>https://finance.biggo.jp/podcast/b02d2b31a608c528</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ep. 026 - モデリングの誤りで米国の電力料金支払い者から120億ドルが無駄に（データセンター、エネルギー）]]></title>
-            <link>https://finance.biggo.jp/podcast/c06ceadbdf8a865e</link>
-            <guid>https://finance.biggo.jp/podcast/c06ceadbdf8a865e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
