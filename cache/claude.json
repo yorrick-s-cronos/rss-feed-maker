@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-21T16:21:03.046Z",
+  "lastSuccess": "2026-08-21T17:20:07.859Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
     "https://claude.com/blog/the-ai-native-sdlc-playbook",
     "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
     "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
     "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
     "https://claude.com/blog/cowork-chrome-side-panel",
-    "https://claude.com/blog/compliance-api-cowork-and-claude-code",
-    "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale"
+    "https://claude.com/blog/compliance-api-cowork-and-claude-code"
   ],
   "consecutiveErrors": 0
 }

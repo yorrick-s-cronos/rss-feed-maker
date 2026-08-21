@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[医療におけるAI - 正しく活用し、誤りを防ぐ]]></title>
+            <link>https://finance.biggo.jp/podcast/0e7915a99b0ada1a</link>
+            <guid>https://finance.biggo.jp/podcast/0e7915a99b0ada1a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI資料中心的數萬億美元，是誰來付錢的？]]></title>
+            <link>https://finance.biggo.jp/podcast/0713e74c721cfa2a</link>
+            <guid>https://finance.biggo.jp/podcast/0713e74c721cfa2a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[欠けている層：AIエージェントにおけるデザインの審美眼 — Hassan El Mghari（Together AI）]]></title>
             <link>https://finance.biggo.jp/podcast/cd7fd0e997619326</link>
             <guid>https://finance.biggo.jp/podcast/cd7fd0e997619326</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[ファインチューニングしたモデルは技術負債：50倍ROIのハウス・オブ・カード — Lease End ダン・ビョルン]]></title>
             <link>https://finance.biggo.jp/podcast/d88b2a0ae7898018</link>
             <guid>https://finance.biggo.jp/podcast/d88b2a0ae7898018</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI会計士とカーネル時代の終焉？]]></title>
-            <link>https://finance.biggo.jp/podcast/7caca286ba1a32df</link>
-            <guid>https://finance.biggo.jp/podcast/7caca286ba1a32df</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントを使ってHugging Faceでの自分の仕事を自動化する方法 — Niels Rogge, Hugging Face]]></title>
-            <link>https://finance.biggo.jp/podcast/41acc0984c5b9abc</link>
-            <guid>https://finance.biggo.jp/podcast/41acc0984c5b9abc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

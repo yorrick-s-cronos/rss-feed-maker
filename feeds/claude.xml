@@ -10,6 +10,12 @@
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders]]></title>
+            <link>https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</link>
+            <guid>https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The AI-Native SDLC playbook]]></title>
             <link>https://claude.com/blog/the-ai-native-sdlc-playbook</link>
             <guid>https://claude.com/blog/the-ai-native-sdlc-playbook</guid>
@@ -92,12 +98,6 @@
             <link>https://claude.com/blog/compliance-api-cowork-and-claude-code</link>
             <guid>https://claude.com/blog/compliance-api-cowork-and-claude-code</guid>
             <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Anthropic's business development team uses Claude to run inbound and outbound at scale]]></title>
-            <link>https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</link>
-            <guid>https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</guid>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
