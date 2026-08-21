@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Crypto Just Got the Catalyst It Was Waiting For]]></title>
+            <link>https://finance.biggo.jp/podcast/8084f31484703a22</link>
+            <guid>https://finance.biggo.jp/podcast/8084f31484703a22</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[低ALP、骨折、早期の歯の喪失は低ホスファターゼ症を示唆する]]></title>
             <link>https://finance.biggo.jp/podcast/7cd950b1eca9027b</link>
             <guid>https://finance.biggo.jp/podcast/7cd950b1eca9027b</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[ウーリーマウス、ダイアウルフ、そして38億ドルのAIスピンアウト：120億ドルのColossal Biosciencesの内幕]]></title>
             <link>https://finance.biggo.jp/podcast/ebe8386b9764f7d3</link>
             <guid>https://finance.biggo.jp/podcast/ebe8386b9764f7d3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stripeの80億ドルOpenRouter賭け｜Anthropic初の黒字｜LovableとHiggsfieldが大型調達]]></title>
-            <link>https://finance.biggo.jp/podcast/af734d630ff3f606</link>
-            <guid>https://finance.biggo.jp/podcast/af734d630ff3f606</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
