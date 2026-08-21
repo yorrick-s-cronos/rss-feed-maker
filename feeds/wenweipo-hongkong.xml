@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[「支聯會」煽動顛覆案全部被告罪成 李桂華：國安處歡迎裁決]]></title>
+            <link>https://www.wenweipo.com/a/202608/21/AP6a87ceb5e4b0c1e50025ab73.html</link>
+            <guid>https://www.wenweipo.com/a/202608/21/AP6a87ceb5e4b0c1e50025ab73.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[「支聯會」涉嫌煽動顛覆國家政權案，經審訊後定於今日（21日）早上10時宣布裁決，法官裁定全部被告煽動顛覆政權罪成。警務處國家安全處總警司李桂華在法院外會見傳媒時表示，警方國家安全處對法庭裁定3名被告，即是支聯會李卓人和鄒幸彤煽動他人顛覆國家政權罪成感到歡迎。案件指出，被告李卓人、鄒幸彤及早前已經認罪的何俊仁，在2020年7月1日至2021年9月8日期間，在香港煽動他人組織策劃實施，或者參與實施以非法手段旨在顛覆國家政權的行為，即是意圖推翻及破壞中華人民共和國憲法所確立的基本制度。]]></description>
+        </item>
+        <item>
             <title><![CDATA[駐雅加達經貿辦推廣香港與斯里蘭卡貿易投資機遇]]></title>
             <link>https://www.wenweipo.com/a/202608/21/AP6a87c5fae4b0c1e50025aa89.html</link>
             <guid>https://www.wenweipo.com/a/202608/21/AP6a87c5fae4b0c1e50025aa89.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/20/AP6a86f802e4b0c1e500259882.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（20日）下午2時17分，警方接獲報案，指發現一名年約30多歲女子，奄奄一息倒臥打鼓嶺坪原路坪洋新村111號。救援人員接報趕至，惟經檢查後證實該名姓張（33歲）、持有香港身份證的女子當場死亡。據了解，死者身上疑有被動物咬噬痕跡，由於現場有一間Pawsgate毛界限寵物酒店及犬隻訓練中心。警方通知漁護署和法醫到場。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[元朗YOHO狗咬狗│漁護署：大狗目前不會被人道處理]]></title>
-            <link>https://www.wenweipo.com/a/202608/20/AP6a86f5bde4b0c1e500259841.html</link>
-            <guid>https://www.wenweipo.com/a/202608/20/AP6a86f5bde4b0c1e500259841.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今年7月及8月，元朗YOHO先後發生「狗咬狗」事件，其中在8月17日，一隻大型混種狗「拉里」在半小時內連環咬斃兩隻小狗。漁護署今日（20日）表示，就8月17日在元朗區發生的狗隻襲擊狗隻案件，涉事狗隻目前在漁護署轄下動物管理中心接受觀察，並獲得妥善照顧。漁護署稍後會評估狗隻的健康狀況及性情，並仔細考量各種方案，以決定合適的安排。狗隻目前不會被人道處理。]]></description>
         </item>
     </channel>
 </rss>

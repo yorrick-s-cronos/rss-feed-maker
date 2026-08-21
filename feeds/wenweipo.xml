@@ -10,7 +10,7 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[「支聯會」煽動顛覆案｜李卓人、鄒幸彤及「支聯會」罪成]]></title>
+            <title><![CDATA[（有片）「支聯會」煽動顛覆案｜李卓人、鄒幸彤及「支聯會」罪成]]></title>
             <link>https://www.wenweipo.com/a/202608/21/AP6a87bd9fe4b0c1e50025a9bd.html</link>
             <guid>https://www.wenweipo.com/a/202608/21/AP6a87bd9fe4b0c1e50025a9bd.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
@@ -31,6 +31,12 @@
             <title><![CDATA[「支聯會」煽動顛覆案今日裁決]]></title>
             <link>https://www.wenweipo.com/a/202608/21/AP6a879ff9e4b0c1e50025a44d.html</link>
             <guid>https://www.wenweipo.com/a/202608/21/AP6a879ff9e4b0c1e50025a44d.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深圳北站最新服務正式啟用！（附導航圖）]]></title>
+            <link>https://www.wenweipo.com/a/202608/21/AP6a87cb4be4b0c1e50025ab0a.html</link>
+            <guid>https://www.wenweipo.com/a/202608/21/AP6a87cb4be4b0c1e50025ab0a.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -64,9 +70,9 @@
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[深圳《灣上幻旅II》 　Chill繽紛尋夢園！]]></title>
-            <link>https://www.wenweipo.com/a/202608/19/AP6a850d7de4b0c1e5002566f7.html</link>
-            <guid>https://www.wenweipo.com/a/202608/19/AP6a850d7de4b0c1e5002566f7.html</guid>
+            <title><![CDATA[中泰「鷹擊-2026」空軍聯合訓練圓滿結束]]></title>
+            <link>https://www.wenweipo.com/a/202608/21/AP6a87cf48e4b0c1e50025ab88.html</link>
+            <guid>https://www.wenweipo.com/a/202608/21/AP6a87cf48e4b0c1e50025ab88.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -79,12 +85,6 @@
             <title><![CDATA[劈波斬浪！直擊陸軍官兵海訓現場]]></title>
             <link>https://www.wenweipo.com/a/202608/21/AP6a879fb1e4b0c1e50025a432.html</link>
             <guid>https://www.wenweipo.com/a/202608/21/AP6a879fb1e4b0c1e50025a432.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美國決定批准對卡塔爾45億美元軍售]]></title>
-            <link>https://www.wenweipo.com/a/202608/21/AP6a8779a5e4b0c1e500259fa4.html</link>
-            <guid>https://www.wenweipo.com/a/202608/21/AP6a8779a5e4b0c1e500259fa4.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
