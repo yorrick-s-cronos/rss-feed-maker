@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[新皇崗口岸｜（有片）旅客及私家車入境香港通關指南]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a89c815e4b0c1e50025d695.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a89c815e4b0c1e50025d695.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[皇崗口岸通關在即，港方口岸區今日（22日）進行了萬人千車跨部門第三次大型演練。香港海關指，會繼續緊鑼密鼓為通關做好準備。皇崗口岸將採取「一地兩檢」安排以及「合作查驗、一次放行」通關模式，以提升旅客通關體驗和效率。]]></description>
+        </item>
+        <item>
             <title><![CDATA[新皇崗口岸｜萬人千車第三輪大型演練 海關首用毫米波偵測系統4秒完成檢測]]></title>
             <link>https://www.wenweipo.com/a/202608/22/AP6a89a9f7e4b0c1e50025d431.html</link>
             <guid>https://www.wenweipo.com/a/202608/22/AP6a89a9f7e4b0c1e50025d431.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/22/AP6a896686e4b0c1e50025cdc0.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[新皇崗口岸開通在即，特區政府今日（22日）在皇崗口岸港方口岸區舉行第三場大型演練，模擬節假日高峰情況，測試口岸的通關能力，以及港方口岸區的人流及車流處理能力。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[皇崗港方口岸演練　警方稱三次安排逾千人從深方回港作壓力測試]]></title>
-            <link>https://www.wenweipo.com/a/202608/22/AP6a8962bae4b0c1e50025cdb0.html</link>
-            <guid>https://www.wenweipo.com/a/202608/22/AP6a8962bae4b0c1e50025cdb0.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[警方在現場向傳媒表示，安排了3次每批2500人從深方回港，是有因應深圳地鐵及巴士班次密度而作的壓力測試，以了解本港入境及交通的承受能力。]]></description>
         </item>
     </channel>
 </rss>

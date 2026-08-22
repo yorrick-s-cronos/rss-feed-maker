@@ -10,9 +10,39 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ベンチマークより選好を：モデルルーティング — Archana Kamath & Tyler Gillam、DigitalOcean]]></title>
+            <link>https://finance.biggo.jp/podcast/d6090ab8f5054b27</link>
+            <guid>https://finance.biggo.jp/podcast/d6090ab8f5054b27</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIエージェントのためのFinOps：誰がトークンを全部使った？ — Tisha Chawla & Susheem Koul（マイクロソフト）]]></title>
+            <link>https://finance.biggo.jp/podcast/d2e914f4f785eba3</link>
+            <guid>https://finance.biggo.jp/podcast/d2e914f4f785eba3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The AI Bubble WILL Burst: Half the Neoclouds WILL Die | Jerry Murdock]]></title>
+            <link>https://finance.biggo.jp/podcast/1e2e4de579120b7e</link>
+            <guid>https://finance.biggo.jp/podcast/1e2e4de579120b7e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Supervised Robotaxis Are Having a Moment. Unsupervised Robotaxis Are Having a Decade.]]></title>
             <link>https://finance.biggo.jp/podcast/195ad9f991975385</link>
             <guid>https://finance.biggo.jp/podcast/195ad9f991975385</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ユヴァル・ノア・ハラリ氏、AIの未来の危険性について語る | The Economist]]></title>
+            <link>https://finance.biggo.jp/podcast/35dc05dff906bfa6</link>
+            <guid>https://finance.biggo.jp/podcast/35dc05dff906bfa6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントにはトークンではなく予算を — Sachin Malhotra（Anthropic）]]></title>
+            <link>https://finance.biggo.jp/podcast/bf180e0d2b5b35b3</link>
+            <guid>https://finance.biggo.jp/podcast/bf180e0d2b5b35b3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -97,36 +127,6 @@
             <title><![CDATA[医療におけるAI - 正しく活用し、誤りを防ぐ]]></title>
             <link>https://finance.biggo.jp/podcast/0e7915a99b0ada1a</link>
             <guid>https://finance.biggo.jp/podcast/0e7915a99b0ada1a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI大手の「隠れ負債」、GPUの金融化とプライベートエクイティのレバレッジ、シリコンバレーとウォール街はいかにして兆ドルの資本を呼び込むか]]></title>
-            <link>https://finance.biggo.jp/podcast/0713e74c721cfa2a</link>
-            <guid>https://finance.biggo.jp/podcast/0713e74c721cfa2a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欠けている層：AIエージェントにおけるデザインの審美眼 — Hassan El Mghari（Together AI）]]></title>
-            <link>https://finance.biggo.jp/podcast/cd7fd0e997619326</link>
-            <guid>https://finance.biggo.jp/podcast/cd7fd0e997619326</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ダリオの自己弁護、データセンター騒動、AI破滅論者の罠、上院選の接戦]]></title>
-            <link>https://finance.biggo.jp/podcast/d5b9c0b027e28da8</link>
-            <guid>https://finance.biggo.jp/podcast/d5b9c0b027e28da8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ビッグファーマの第2四半期決算から何を学んだか？]]></title>
-            <link>https://finance.biggo.jp/podcast/02cd728b331753d5</link>
-            <guid>https://finance.biggo.jp/podcast/02cd728b331753d5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[現在、競争の少ない3つのビジネスが何百万もの利益を生み出している]]></title>
-            <link>https://finance.biggo.jp/podcast/90896ef39f48b2d6</link>
-            <guid>https://finance.biggo.jp/podcast/90896ef39f48b2d6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
