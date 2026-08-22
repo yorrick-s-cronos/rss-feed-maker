@@ -10,13 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[サム・アルトマンが一時停止、Anthropicが2兆ドルのIPOを計画、Modernaのがんワクチンが効果的 | EP#282]]></title>
+            <title><![CDATA[ITG CFO：私たちはAIブームの「ツルハシとシャベル」]]></title>
+            <link>https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516</link>
+            <guid>https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[イーロンは100倍と言い、メモリ価格は500%高騰、Unitreeロボットがウサイン・ボルトを凌ぐ速さで、エマド・モスタクと共に | #282]]></title>
             <link>https://finance.biggo.jp/podcast/44730a26378f108a</link>
             <guid>https://finance.biggo.jp/podcast/44730a26378f108a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[予測からシミュレーションへ：AIに未来を形作ることを教える — Joon Sung Park, Simile AI]]></title>
+            <title><![CDATA[行動基盤モデル：AIに人間の実際の行動を教える — ジュン・ソン・パーク、Simile AI]]></title>
             <link>https://finance.biggo.jp/podcast/848515db7d54ad47</link>
             <guid>https://finance.biggo.jp/podcast/848515db7d54ad47</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -88,7 +94,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3 millionaires share the hidden niches that made them rich]]></title>
+            <title><![CDATA[300万長者が語る、彼らを富豪にした隠れたニッチ市場]]></title>
             <link>https://finance.biggo.jp/podcast/90896ef39f48b2d6</link>
             <guid>https://finance.biggo.jp/podcast/90896ef39f48b2d6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[生物学を超えて：Nanobiotixの物理学優先のがん治療アプローチ]]></title>
             <link>https://finance.biggo.jp/podcast/9f9d83c6b53e6e46</link>
             <guid>https://finance.biggo.jp/podcast/9f9d83c6b53e6e46</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国株式のリターンがAI株以外にも広がる理由]]></title>
-            <link>https://finance.biggo.jp/podcast/b45d6627733cbbfc</link>
-            <guid>https://finance.biggo.jp/podcast/b45d6627733cbbfc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
