@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[145 ✪ 中国資本に鞍替えする外資系飲食ブランド]]></title>
+            <link>https://finance.biggo.jp/podcast/7a19649e9a7080cf</link>
+            <guid>https://finance.biggo.jp/podcast/7a19649e9a7080cf</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ITG CFO：私たちはAIブームの「ツルハシとシャベル」]]></title>
             <link>https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516</link>
             <guid>https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[ボーナスエピソード：子宮内膜症の診断と治療を目指すEndocyclicの精密ペプチド戦略の内側]]></title>
             <link>https://finance.biggo.jp/podcast/dbfc887d0c400672</link>
             <guid>https://finance.biggo.jp/podcast/dbfc887d0c400672</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[生物学を超えて：Nanobiotixの物理学優先のがん治療アプローチ]]></title>
-            <link>https://finance.biggo.jp/podcast/9f9d83c6b53e6e46</link>
-            <guid>https://finance.biggo.jp/podcast/9f9d83c6b53e6e46</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
