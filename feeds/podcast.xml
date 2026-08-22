@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[カーテンの背後で働くエージェント：WarpのOzクラウドエージェントプラットフォーム構築 — Safia Abdalla, Warp]]></title>
+            <link>https://finance.biggo.jp/podcast/7acb561277e9016e</link>
+            <guid>https://finance.biggo.jp/podcast/7acb561277e9016e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントフレームワークは有害である — Rémi Louf, .txt]]></title>
+            <link>https://finance.biggo.jp/podcast/e9ea855b7a749297</link>
+            <guid>https://finance.biggo.jp/podcast/e9ea855b7a749297</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[コーディングエージェントは自動的にスケールしない。チームも同様。 — Patrick Debois, Tessl]]></title>
+            <link>https://finance.biggo.jp/podcast/e960977ac516897e</link>
+            <guid>https://finance.biggo.jp/podcast/e960977ac516897e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ベンチマークより選好を：モデルルーティング — Archana Kamath & Tyler Gillam、DigitalOcean]]></title>
             <link>https://finance.biggo.jp/podcast/d6090ab8f5054b27</link>
             <guid>https://finance.biggo.jp/podcast/d6090ab8f5054b27</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[ホイールなし、ペダルなし、ドライバーなし、Cybercabの発売が目前に迫る]]></title>
             <link>https://finance.biggo.jp/podcast/6d91269564629860</link>
             <guid>https://finance.biggo.jp/podcast/6d91269564629860</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[タッカー・カールソンの共和党勝利計画 | ザ・ウィーク]]></title>
-            <link>https://finance.biggo.jp/podcast/cb8e39946dece1d2</link>
-            <guid>https://finance.biggo.jp/podcast/cb8e39946dece1d2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェント構築はもはや簡単、次のフロンティアはコンテキスト — Jeff Ng, Unblocked]]></title>
-            <link>https://finance.biggo.jp/podcast/26069bf92e873b46</link>
-            <guid>https://finance.biggo.jp/podcast/26069bf92e873b46</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2544 - クリス・ウィリアムソン]]></title>
-            <link>https://finance.biggo.jp/podcast/6b3475ebab3738cd</link>
-            <guid>https://finance.biggo.jp/podcast/6b3475ebab3738cd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
