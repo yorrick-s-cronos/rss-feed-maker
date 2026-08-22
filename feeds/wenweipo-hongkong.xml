@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[(有片) 九月開學季臨近 內地學生赴港求學帶旺深圳口岸租樓市]]></title>
+            <link>https://www.wenweipo.com/a/202608/22/AP6a898e5fe4b0c1e50025d16e.html</link>
+            <guid>https://www.wenweipo.com/a/202608/22/AP6a898e5fe4b0c1e50025d16e.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[九月將至，香港多所高校將迎來新學年，大量內地新生即將赴港開啟求學之路。記者近日走訪羅湖口岸及文錦渡口岸附近的深港青年公寓發現，為了獲得更寬敞的居住環境和僅為香港一半的租金成本，大量內地學生及家長紛紛選擇在深圳一側租房，口岸周邊租賃市場異常火爆。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[(有片) 警搗荃灣毒倉及元朗製毒工場 檢1600萬元貨拘兩男女 揭用嬰兒服藏毒品分銷]]></title>
+            <link>https://www.wenweipo.com/a/202608/22/AP6a898d51e4b0c1e50025d145.html</link>
+            <guid>https://www.wenweipo.com/a/202608/22/AP6a898d51e4b0c1e50025d145.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[東九龍總區刑事部早前經情報分析及調查後，鎖定一個活躍於東九龍及新界區的販毒集團，該集團利用荃灣區一舊式商場，租用一個面積約170呎的商舖單位，以收取來自東南亞地區的毒品，再經包裝及分拆，從而供應本地市場。]]></description>
+        </item>
+        <item>
             <title><![CDATA[尖沙咀疑爆水管需搶修 海防道及漢口道一帶傍晚起食水供應暫停]]></title>
             <link>https://www.wenweipo.com/a/202608/22/AP6a897fabe4b0c1e50025cf68.html</link>
             <guid>https://www.wenweipo.com/a/202608/22/AP6a897fabe4b0c1e50025cf68.html</guid>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/22/AP6a895b6ae4b0c1e50025cd3f.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[特區政府下午在皇崗口岸港方口岸區舉行第三場大型演練。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[皇崗港方口岸第三場大型演練　模擬假日高峰]]></title>
-            <link>https://www.wenweipo.com/a/202608/22/AP6a8950e8e4b0c1e50025cc8c.html</link>
-            <guid>https://www.wenweipo.com/a/202608/22/AP6a8950e8e4b0c1e50025cc8c.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[特區政府下午在皇崗口岸港方口岸區舉行第三場大型演練，模擬假日高峰情況，測試口岸通關能力，以及港方口岸區的人流及車流處理能力。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[男子偷運逾3萬支另類吸煙產品罪成判監6個月]]></title>
-            <link>https://www.wenweipo.com/a/202608/22/AP6a894f90e4b0c1e50025cc78.html</link>
-            <guid>https://www.wenweipo.com/a/202608/22/AP6a894f90e4b0c1e50025cc78.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[海關本周四（20日）在國際機場執勤期間，為一名日本抵港男子清關時在其行李檢獲33800支另類吸煙產品，男子涉嫌非法進口另類吸煙產品被捕，案件轉交衞生署控煙酒辦公室（控煙酒辦）跟進及檢控；被告今日（22日）在九龍城裁判法院罪成被判即時監禁6個月。衞生署歡迎判決，並忠告市民和旅客切勿攜帶電子煙、加熱煙產品或草本煙等另類吸煙產品進入香港，亦不應使用任何另類吸煙產品。]]></description>
         </item>
     </channel>
 </rss>

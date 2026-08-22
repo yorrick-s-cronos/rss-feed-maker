@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[どのAIモデルを使う価値があるか]]></title>
+            <link>https://finance.biggo.jp/podcast/d89ed76c1e8f2f00</link>
+            <guid>https://finance.biggo.jp/podcast/d89ed76c1e8f2f00</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【深掘り】高級住宅は完売、失業保険受給者は過去最高——なぜあなたは稼げないと感じるのか？]]></title>
             <link>https://finance.biggo.jp/podcast/9893a69388184ad8</link>
             <guid>https://finance.biggo.jp/podcast/9893a69388184ad8</guid>
@@ -112,7 +118,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[300万長者が語る、彼らを富豪にした隠れたニッチ市場]]></title>
+            <title><![CDATA[3 low competition businesses minting MILLIONS right now]]></title>
             <link>https://finance.biggo.jp/podcast/90896ef39f48b2d6</link>
             <guid>https://finance.biggo.jp/podcast/90896ef39f48b2d6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[UberにおけるエージェンティックSDLC — Uday Kiran Medisetty & Adam Huda（Uber）]]></title>
             <link>https://finance.biggo.jp/podcast/70bdc93df329b24b</link>
             <guid>https://finance.biggo.jp/podcast/70bdc93df329b24b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ビットコイン、イーサリアム、そしてハイパーリキッドがブレイクアウト！その理由とは]]></title>
-            <link>https://finance.biggo.jp/podcast/8084f31484703a22</link>
-            <guid>https://finance.biggo.jp/podcast/8084f31484703a22</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
