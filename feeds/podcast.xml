@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[薬剤改革：FDA長官候補ハイジ・オーバートンが機関に与える影響]]></title>
+            <link>https://finance.biggo.jp/podcast/95a5ef08fd1c4a0b</link>
+            <guid>https://finance.biggo.jp/podcast/95a5ef08fd1c4a0b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[カーテンの背後で働くエージェント：WarpのOzクラウドエージェントプラットフォーム構築 — Safia Abdalla, Warp]]></title>
             <link>https://finance.biggo.jp/podcast/7acb561277e9016e</link>
             <guid>https://finance.biggo.jp/podcast/7acb561277e9016e</guid>
@@ -22,7 +28,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[彼は100個のアプリを作った。収入はゼロ。だから私は挑戦を与えた…]]></title>
+            <title><![CDATA[He built 100 apps. Made ZERO dollars. So I challenged him...]]></title>
             <link>https://finance.biggo.jp/podcast/4d03b1b87ea6e345</link>
             <guid>https://finance.biggo.jp/podcast/4d03b1b87ea6e345</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[行動基盤モデル：AIに人間の実際の行動を教える — ジュン・ソン・パーク、Simile AI]]></title>
             <link>https://finance.biggo.jp/podcast/848515db7d54ad47</link>
             <guid>https://finance.biggo.jp/podcast/848515db7d54ad47</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAIとHugging Faceのインシデントについて話し合う必要がある]]></title>
-            <link>https://finance.biggo.jp/podcast/1088a7adecf09fa9</link>
-            <guid>https://finance.biggo.jp/podcast/1088a7adecf09fa9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
