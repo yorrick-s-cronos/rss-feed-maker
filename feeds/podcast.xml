@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【深掘り】高級住宅は完売、失業保険受給者は過去最高——なぜあなたは稼げないと感じるのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/9893a69388184ad8</link>
+            <guid>https://finance.biggo.jp/podcast/9893a69388184ad8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TWiV 1350: ダニエル・グリフィン博士による臨床アップデート]]></title>
+            <link>https://finance.biggo.jp/podcast/7097aa3019456600</link>
+            <guid>https://finance.biggo.jp/podcast/7097aa3019456600</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[145 ✪ 中国資本に鞍替えする外資系飲食ブランド]]></title>
             <link>https://finance.biggo.jp/podcast/7a19649e9a7080cf</link>
             <guid>https://finance.biggo.jp/podcast/7a19649e9a7080cf</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[ビットコイン、イーサリアム、そしてハイパーリキッドがブレイクアウト！その理由とは]]></title>
             <link>https://finance.biggo.jp/podcast/8084f31484703a22</link>
             <guid>https://finance.biggo.jp/podcast/8084f31484703a22</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[低ALP、骨折、早期の歯の喪失は低ホスファターゼ症を示唆する]]></title>
-            <link>https://finance.biggo.jp/podcast/7cd950b1eca9027b</link>
-            <guid>https://finance.biggo.jp/podcast/7cd950b1eca9027b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ボーナスエピソード：子宮内膜症の診断と治療を目指すEndocyclicの精密ペプチド戦略の内側]]></title>
-            <link>https://finance.biggo.jp/podcast/dbfc887d0c400672</link>
-            <guid>https://finance.biggo.jp/podcast/dbfc887d0c400672</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
