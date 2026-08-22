@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Supervised Robotaxis Are Having a Moment. Unsupervised Robotaxis Are Having a Decade.]]></title>
+            <link>https://finance.biggo.jp/podcast/195ad9f991975385</link>
+            <guid>https://finance.biggo.jp/podcast/195ad9f991975385</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[どのAIモデルを使う価値があるか]]></title>
             <link>https://finance.biggo.jp/podcast/d89ed76c1e8f2f00</link>
             <guid>https://finance.biggo.jp/podcast/d89ed76c1e8f2f00</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[現在、競争の少ない3つのビジネスが何百万もの利益を生み出している]]></title>
             <link>https://finance.biggo.jp/podcast/90896ef39f48b2d6</link>
             <guid>https://finance.biggo.jp/podcast/90896ef39f48b2d6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UberにおけるエージェンティックSDLC — Uday Kiran Medisetty & Adam Huda（Uber）]]></title>
-            <link>https://finance.biggo.jp/podcast/70bdc93df329b24b</link>
-            <guid>https://finance.biggo.jp/podcast/70bdc93df329b24b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
