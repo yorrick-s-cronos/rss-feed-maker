@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[「紫檀」強度漸強　天文台評估需否發熱帶氣旋警告信號]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a8a2a52e4b0c1e50025da72.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a8a2a52e4b0c1e50025da72.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[預料熱帶氣旋「紫檀」會在今日（23日）於北部灣一帶徘徊，在隨後一兩日有較大機會逐漸轉向東至東北方向移動。]]></description>
+        </item>
+        <item>
             <title><![CDATA[新皇崗口岸｜（有片）旅客及私家車入境香港通關指南]]></title>
             <link>https://www.wenweipo.com/a/202608/23/AP6a89c815e4b0c1e50025d695.html</link>
             <guid>https://www.wenweipo.com/a/202608/23/AP6a89c815e4b0c1e50025d695.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/22/AP6a896b2be4b0c1e50025ce08.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[警方於過去一周共接獲超過230宗網上購物騙案，損失金額近800萬港元。當中有騙徒為令「劇本」內容逼真，一人分演多個角色，扮買家又扮賣家，令受害人上當墮入圈套損失近3萬元。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新皇崗口岸｜首與深方合作規模最大壓力測試　下周六演練人數增至2萬]]></title>
-            <link>https://www.wenweipo.com/a/202608/22/AP6a896686e4b0c1e50025cdc0.html</link>
-            <guid>https://www.wenweipo.com/a/202608/22/AP6a896686e4b0c1e50025cdc0.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[新皇崗口岸開通在即，特區政府今日（22日）在皇崗口岸港方口岸區舉行第三場大型演練，模擬節假日高峰情況，測試口岸的通關能力，以及港方口岸區的人流及車流處理能力。]]></description>
         </item>
     </channel>
 </rss>
