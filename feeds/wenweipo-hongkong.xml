@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[（有片）古天樂完騷後自嘲「去到虛脫」　「雙古」合作致敬張國榮]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a8ade0ee4b0c1e50025f0ed.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a8ade0ee4b0c1e50025f0ed.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[古天樂入行以來首個個人騷《MY FIRST SHOW》，21日及22日一連兩晚假紅磡香港體育館舉行，台前幕後群星雲集，劉德華、古巨基、林峯、草蜢等圈內好友鼎力助陣，一度燃爆全場。]]></description>
+        </item>
+        <item>
             <title><![CDATA[「關愛共融嘉年華」今日圓滿舉行]]></title>
             <link>https://www.wenweipo.com/a/202608/23/AP6a8ad45ce4b0c1e50025f045.html</link>
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8ad45ce4b0c1e50025f045.html</guid>
@@ -112,13 +119,6 @@ IGU是致力推動全球地理學學術發展的非政府國際專業組織，�
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8a9700e4b0c1e50025e9e3.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（23日）網傳一段短片，顯示一名戴眼鏡的中年男乘客坐在巴士上層，期間他右手持一支白色電子煙，放在口中吸啜後，口鼻隨即同一時間噴出長長白色煙霧。中年男狀甚享受，仰頭挨在椅背，一副旁若無人的模樣。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港盂蘭文化節9.4至9.6於維園舉行 設「穿越盂蘭夜」及《渡海·渡人》實景互動劇場]]></title>
-            <link>https://www.wenweipo.com/a/202608/23/AP6a8a95a0e4b0c1e50025e996.html</link>
-            <guid>https://www.wenweipo.com/a/202608/23/AP6a8a95a0e4b0c1e50025e996.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港潮屬社團總會主辦的第九屆盂蘭文化節將於9月4日至6日在銅鑼灣維多利亞公園一號足球場舉行，主辦方於21日舉行新聞發布會，公布活動詳情。今屆文化節以「功德顯影」為主題，透過創新科技和潮流文化展現盂蘭文化的時代魅力，主辦方預計今年文化節將吸引約4萬人次參與，與去年相若，活動免費入場。]]></description>
         </item>
     </channel>
 </rss>
