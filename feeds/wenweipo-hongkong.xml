@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[亞太廣播聯盟機械人大賽今在港舉行　宇樹機械人參與表演]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a8a7394e4b0c1e50025e4c1.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a8a7394e4b0c1e50025e4c1.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[亞太廣播聯盟機械人大賽今日在本港舉行，今年賽事由香港電台和香港科技園公司聯合舉辦，16支來自15個國家及地區的大專隊伍，會在亞太區最具規模的大專生機械人競賽同場競技，會角逐18個獎項，包括冠軍、亞軍、季軍及亞太廣播聯盟大獎。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[何永賢：宏福苑接受業權收購方案業主9月初獲編配號碼　最快9月底揀樓]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a8a6bffe4b0c1e50025e3d0.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a8a6bffe4b0c1e50025e3d0.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[政府向宏福苑業主提出的業權收購方案期限本月底屆滿。房屋局局長何永賢在一個電台節目表示，接受收購建議的居民會在9月初，陸續收到政府發信通知獲編配的號碼，預計9月中分批進行電腦隨機排序，以決定揀樓次序，最快9月底開始揀樓。]]></description>
+        </item>
+        <item>
             <title><![CDATA[陳茂波：國家在AI方面迅速發展　對香港經濟和金融市場發揮顯著助力]]></title>
             <link>https://www.wenweipo.com/a/202608/23/AP6a8a6311e4b0c1e50025e29c.html</link>
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8a6311e4b0c1e50025e29c.html</guid>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/22/AP6a898e5fe4b0c1e50025d16e.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[九月將至，香港多所高校將迎來新學年，大量內地新生即將赴港開啟求學之路。記者近日走訪羅湖口岸及文錦渡口岸附近的深港青年公寓發現，為了獲得更寬敞的居住環境和僅為香港一半的租金成本，大量內地學生及家長紛紛選擇在深圳一側租房，口岸周邊租賃市場異常火爆。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(有片) 警搗荃灣毒倉及元朗製毒工場 檢1600萬元貨拘兩男女 揭用嬰兒服藏毒品分銷]]></title>
-            <link>https://www.wenweipo.com/a/202608/22/AP6a898d51e4b0c1e50025d145.html</link>
-            <guid>https://www.wenweipo.com/a/202608/22/AP6a898d51e4b0c1e50025d145.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[東九龍總區刑事部早前經情報分析及調查後，鎖定一個活躍於東九龍及新界區的販毒集團，該集團利用荃灣區一舊式商場，租用一個面積約170呎的商舖單位，以收取來自東南亞地區的毒品，再經包裝及分拆，從而供應本地市場。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尖沙咀爆水管搶修 海防道漢口道一帶暫停食水最快明晨6時恢復]]></title>
-            <link>https://www.wenweipo.com/a/202608/22/AP6a897fabe4b0c1e50025cf68.html</link>
-            <guid>https://www.wenweipo.com/a/202608/22/AP6a897fabe4b0c1e50025cf68.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（22日）下午，尖沙咀海防道近新港中心對開路面不斷有水湧出，水深一度達數吋，懷疑有地底水管爆裂所引致。根據水務署網頁資料顯示，因應緊急維修水管工程，於今日下午5時起，海防道32號至41號、漢口道51號至57號及新港中心（只阻部份商場）的食水供應受影響；預計要至明日（23日）上午6時始能恢復食水供應。]]></description>
         </item>
     </channel>
 </rss>

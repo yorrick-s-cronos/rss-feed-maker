@@ -23,5 +23,6 @@
     "https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516",
     "https://finance.biggo.jp/podcast/44730a26378f108a"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "Failed to fetch https://finance.biggo.jp/podcast: HTTP 429 Too Many Requests"
 }
