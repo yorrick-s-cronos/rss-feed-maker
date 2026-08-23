@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[「爭鮮」荃灣如心廣場店壽司疑有活蟲 公司：已交第三方化驗]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a8b0eb5e4b0c1e50025f515.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a8b0eb5e4b0c1e50025f515.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[有網民近日在社交平台發文，指上周五（21日）在爭鮮迴轉壽司位於荃灣如心廣場的分店，購買壽司準備付款時，赫然發現食物上有一條白色的懷疑長蟲蠕動。有關貼文及圖片近日在網上流傳及引起熱議，爭鮮香港今日（23日）在其FB專頁發聲明指，已就事件展開內部調查，並安排相關樣本交由獨立第三方化驗，有結果後盡快向公眾交代。]]></description>
+        </item>
+        <item>
             <title><![CDATA[首屆FAI無人機足球公開賽收官　港隊摘亞揚威主場]]></title>
             <link>https://www.wenweipo.com/a/202608/23/AP6a8af410e4b0c1e50025f32c.html</link>
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8af410e4b0c1e50025f32c.html</guid>
@@ -108,15 +115,6 @@
             <description><![CDATA[香港中文大學太空與地球信息科學研究所所長關美寶，榮獲國際地理聯合會（IGU）頒授最高榮譽獎（Lauréat d’Honneur），以表彰她對國際地理學界的卓越貢獻。她是自1976年該獎項設立以來，首位獲此世界級學術殊榮的香港學者，亦是中國第三位獲獎人及首位女性得主。關美寶對獲獎深感榮幸，感謝中大提供卓越的科研環境，以及研究團隊成員與合作者的貢獻和支持。她表示，將繼續致力推進地理科學發展，為建立一個更具韌性和公平的世界貢獻力量。
 
 IGU是致力推動全球地理學學術發展的非政府國際專業組織，最高榮譽獎每兩年頒授一次，旨在嘉許對IGU工作有傑出貢獻，並在推動國際地理學發展上取得非凡成就的人士。本屆遴選過程嚴謹，獎項委員會由IGU前第一副主席Joos Droogleever-Fortuijn主持，經全面評審，從全球頂尖學者中選出得獎者。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[城大研光學角點檢測成像 效法生物視覺 助拓高速低耗計算視覺]]></title>
-            <link>https://www.wenweipo.com/a/202608/23/AP6a8aa59ae4b0c1e50025eb2c.html</link>
-            <guid>https://www.wenweipo.com/a/202608/23/AP6a8aa59ae4b0c1e50025eb2c.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[自然界中，不少動物對幾何特徵格外敏感。蜜蜂靠複眼辨識花朵上的銳角結構，啄木鳥則能從樹皮裂縫交匯處或孔洞邊緣提取關鍵資訊，迅速鎖定昆蟲藏身之處。這種從複雜場景中篩選關鍵視覺資訊的能力，既能降低視覺複雜度，亦有助提升感知與運算效率。
-
-受此啟發，香港城市大學電機工程系講座教授蔡定平領導的研究團隊，與南京大學合作，成功開發出新型光學角點檢測成像方法。團隊建構4f成像系統，在傅立葉平面引入超構表面，對光場進行角向相位調制。研究採用氮化矽作為超構表面材料，並基於幾何相位調制優化結構參數，使其可在可見光譜範圍內高效寬頻運作，更設計為通用框架，大力推進了高速、低功耗光學資訊處理領域的發展，並展現在動作追蹤方面的應用潛力。]]></description>
         </item>
     </channel>
 </rss>
