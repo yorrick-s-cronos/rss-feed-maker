@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[「動力啟航2026」實習總結會圓滿舉行　300大學生內地實習收穫豐碩]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a8a770be4b0c1e50025e543.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a8a770be4b0c1e50025e543.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[由民政及青年事務局與青年發展委員會資助、中央政府駐港聯絡辦教育和青年部指導，惠州新動力及大灣區青年新動力主辦的「動力啟航2026——香港青年內地實習計劃總結分享會」，於8月22日在香港浸會大學圓滿舉行。]]></description>
+        </item>
+        <item>
             <title><![CDATA[亞太廣播聯盟機械人大賽今在港舉行　宇樹機械人參與表演]]></title>
             <link>https://www.wenweipo.com/a/202608/23/AP6a8a7394e4b0c1e50025e4c1.html</link>
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8a7394e4b0c1e50025e4c1.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/22/AP6a899e0ee4b0c1e50025d330.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港國際法律人才培訓學院舉辦的2026年內地民商事法律實務課程今日（22日）圓滿結束。培訓學院專門為本地法律和爭議解決從業者舉辦是次為期兩天的課程，旨在深化本地業界對內地民商事法律制度，以及相關實務操作及最新發展的了解，促進兩地業界的專業交流與經驗分享。課程吸引超過400名人士報名參加。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(有片) 九月開學季臨近 內地學生赴港求學帶旺深圳口岸租樓市]]></title>
-            <link>https://www.wenweipo.com/a/202608/22/AP6a898e5fe4b0c1e50025d16e.html</link>
-            <guid>https://www.wenweipo.com/a/202608/22/AP6a898e5fe4b0c1e50025d16e.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[九月將至，香港多所高校將迎來新學年，大量內地新生即將赴港開啟求學之路。記者近日走訪羅湖口岸及文錦渡口岸附近的深港青年公寓發現，為了獲得更寬敞的居住環境和僅為香港一半的租金成本，大量內地學生及家長紛紛選擇在深圳一側租房，口岸周邊租賃市場異常火爆。]]></description>
         </item>
     </channel>
 </rss>

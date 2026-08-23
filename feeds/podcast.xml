@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TWiV 1351: エボラウイルスの脳と伝染性ナマズのがん]]></title>
+            <link>https://finance.biggo.jp/podcast/03ec0c860f9d1f7a</link>
+            <guid>https://finance.biggo.jp/podcast/03ec0c860f9d1f7a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ベンチャーキャピタリスト佐俣アンリさん（株式会社ANRI）さんが語る「NOT A HOTELに投資した理由」]]></title>
             <link>https://finance.biggo.jp/podcast/bf656334561f0723</link>
             <guid>https://finance.biggo.jp/podcast/bf656334561f0723</guid>
@@ -34,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[彼は100個のアプリを作った。稼いだ金額はゼロ。だから俺は彼に挑戦した…]]></title>
+            <title><![CDATA[彼は100個のアプリを作って収益ゼロ。30日で立て直せるか？]]></title>
             <link>https://finance.biggo.jp/podcast/4d03b1b87ea6e345</link>
             <guid>https://finance.biggo.jp/podcast/4d03b1b87ea6e345</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[ITG CFO：私たちはAIブームの「ツルハシとシャベル」]]></title>
             <link>https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516</link>
             <guid>https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[イーロンは100倍と言い、メモリ価格は500%高騰、Unitreeロボットがウサイン・ボルトを凌ぐ速さで、エマド・モスタクと共に | #282]]></title>
-            <link>https://finance.biggo.jp/podcast/44730a26378f108a</link>
-            <guid>https://finance.biggo.jp/podcast/44730a26378f108a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
