@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ベンチャーキャピタリスト佐俣アンリさん（株式会社ANRI）さんが語る「NOT A HOTELに投資した理由」]]></title>
+            <link>https://finance.biggo.jp/podcast/bf656334561f0723</link>
+            <guid>https://finance.biggo.jp/podcast/bf656334561f0723</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[薬剤改革：FDA長官候補ハイジ・オーバートンが機関に与える影響]]></title>
             <link>https://finance.biggo.jp/podcast/95a5ef08fd1c4a0b</link>
             <guid>https://finance.biggo.jp/podcast/95a5ef08fd1c4a0b</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[イーロンは100倍と言い、メモリ価格は500%高騰、Unitreeロボットがウサイン・ボルトを凌ぐ速さで、エマド・モスタクと共に | #282]]></title>
             <link>https://finance.biggo.jp/podcast/44730a26378f108a</link>
             <guid>https://finance.biggo.jp/podcast/44730a26378f108a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[行動基盤モデル：AIに人間の実際の行動を教える — ジュン・ソン・パーク、Simile AI]]></title>
-            <link>https://finance.biggo.jp/podcast/848515db7d54ad47</link>
-            <guid>https://finance.biggo.jp/podcast/848515db7d54ad47</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

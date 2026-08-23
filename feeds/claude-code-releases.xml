@@ -4,11 +4,27 @@
         <title>claude-code Releases</title>
         <link>https://github.com/anthropics/claude-code/releases</link>
         <description>GitHub releases for anthropics/claude-code</description>
-        <lastBuildDate>Sat, 22 Aug 2026 14:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 00:52:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v2.1.241]]></title>
+            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.241</link>
+            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.241</guid>
+            <pubDate>Sun, 23 Aug 2026 00:52:16 GMT</pubDate>
+            <description><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Bug fixes and reliability improvements</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Bug fixes and reliability improvements</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.1.240]]></title>
             <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.240</link>
@@ -2944,22 +2960,6 @@
 <li>Changed <code>CLAUDE_CODE_MAX_RETRIES</code> to cap at 15; for unattended sessions, use <code>CLAUDE_CODE_RETRY_WATCHDOG</code> instead</li>
 <li>Changed background subagents to surface permission prompts in the main session instead of auto-denying; the dialog shows which agent is asking, and Esc denies just that tool</li>
 <li>Changed <code>/review &lt;pr&gt;</code> to use the same review engine as <code>/code-review medium</code></li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[v2.1.185]]></title>
-            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.185</link>
-            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.185</guid>
-            <pubDate>Sat, 20 Jun 2026 20:59:19 GMT</pubDate>
-            <description><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>The stream-stall hint now reads &quot;Waiting for API response · will retry in …&quot; instead of &quot;No response from API · Retrying in …&quot;, and triggers after 20s of silence instead of 10s</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>The stream-stall hint now reads &quot;Waiting for API response · will retry in …&quot; instead of &quot;No response from API · Retrying in …&quot;, and triggers after 20s of silence instead of 10s</li>
 </ul>
 ]]></content:encoded>
         </item>

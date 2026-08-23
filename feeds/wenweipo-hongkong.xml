@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[明星鏟屎官的真實日常：崩潰、治癒與堅守]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a8a5792e4b0c1e50025e065.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a8a5792e4b0c1e50025e065.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[人與寵物之間的連結，建立在無條件的信任與依賴上，而這份情感的最大考驗，往往出現在寵物生病或殘疾之時。]]></description>
+        </item>
+        <item>
             <title><![CDATA[「天韻相機」軌道投運　香港科研助力國家航天戰略]]></title>
             <link>https://www.wenweipo.com/a/202608/23/AP6a8a3cbee4b0c1e50025dc03.html</link>
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8a3cbee4b0c1e50025dc03.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/22/AP6a89790ee4b0c1e50025ceeb.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[土瓜灣常盛街近天光道一私人屋苑，今日（22日）下午2時51分，警方接獲土瓜灣常盛街80號一私人屋苑的職員報案，指發現一名8歲男童在游泳池遇溺，有泳客救起該男童。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TIMA音樂大賞2026｜今明啟德主場館上演 主辦方禁帶螢光棒及燈牌入場]]></title>
-            <link>https://www.wenweipo.com/a/202608/22/AP6a897818e4b0c1e50025cee1.html</link>
-            <guid>https://www.wenweipo.com/a/202608/22/AP6a897818e4b0c1e50025cee1.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[2026 TIMA國際音樂大賞將於8月22至23日在啟德主場館舉行。為確保各位觀眾享有最佳體驗，啟德體育園提醒觀眾出發前做好準備，包括提前領取實體門票、留意入場安排及限制攜帶物品，並因應天氣情況預早規劃行程。觀眾可於活動開始前兩小時進場，請預留充裕時間完成驗票及安檢程序。]]></description>
         </item>
     </channel>
 </rss>
