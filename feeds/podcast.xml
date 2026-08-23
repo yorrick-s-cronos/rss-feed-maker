@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[テスラのサイバーキャブ自己認証戦略：免除なし、生産上限なし、ただ規模を追求]]></title>
+            <link>https://finance.biggo.jp/podcast/24be8beef40b66b3</link>
+            <guid>https://finance.biggo.jp/podcast/24be8beef40b66b3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米国債市場は思うほど「安全」ではない | Systematic Investor | Ep.414]]></title>
+            <link>https://finance.biggo.jp/podcast/365197c6247258c6</link>
+            <guid>https://finance.biggo.jp/podcast/365197c6247258c6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[売れる広告の書き方]]></title>
+            <link>https://finance.biggo.jp/podcast/7f3fca9a01583ab2</link>
+            <guid>https://finance.biggo.jp/podcast/7f3fca9a01583ab2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI・暗号資産・マクロの結節点：なぜビットコインが投資家にとって重要なのか]]></title>
             <link>https://finance.biggo.jp/podcast/77466d0001cd72e2</link>
             <guid>https://finance.biggo.jp/podcast/77466d0001cd72e2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The full AI enterprise sales cycle, step by step | Jen Abel]]></title>
+            <title><![CDATA[AIエンタープライズセールスの全サイクルをステップバイステップで解説 | ジェン・アベル]]></title>
             <link>https://finance.biggo.jp/podcast/a7bc9af51e90e656</link>
             <guid>https://finance.biggo.jp/podcast/a7bc9af51e90e656</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[ユヴァル・ノア・ハラリ氏、AIの未来の危険性について語る | The Economist]]></title>
             <link>https://finance.biggo.jp/podcast/35dc05dff906bfa6</link>
             <guid>https://finance.biggo.jp/podcast/35dc05dff906bfa6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントにはトークンではなく予算を — Sachin Malhotra（Anthropic）]]></title>
-            <link>https://finance.biggo.jp/podcast/bf180e0d2b5b35b3</link>
-            <guid>https://finance.biggo.jp/podcast/bf180e0d2b5b35b3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全AIモデルをランキング（現時点）]]></title>
-            <link>https://finance.biggo.jp/podcast/d89ed76c1e8f2f00</link>
-            <guid>https://finance.biggo.jp/podcast/d89ed76c1e8f2f00</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深掘り】高級住宅は完売、失業保険受給者は過去最高——なぜあなたは稼げないと感じるのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/9893a69388184ad8</link>
-            <guid>https://finance.biggo.jp/podcast/9893a69388184ad8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
