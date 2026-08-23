@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[天文台：颱風「簡拉維」已進入本港800公里範圍內　直接威脅不大]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a8ab4ede4b0c1e50025ecab.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a8ab4ede4b0c1e50025ecab.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[位於台北附近的熱帶氣旋簡拉維已進入本港800公里範圍內，其強度較弱且環流細小，對本港直接威脅不大。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[25歲港青英國住所離世 入境處：已接獲家屬求助及提供協助]]></title>
+            <link>https://www.wenweipo.com/a/202608/23/AP6a8ab11ee4b0c1e50025ec63.html</link>
+            <guid>https://www.wenweipo.com/a/202608/23/AP6a8ab11ee4b0c1e50025ec63.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[一名25歲香港男子，日前在英國大曼徹斯特郡索爾福德（Salford）的住所內被發現離世。當地警方經調查後認為死因無可疑，但因未能聯絡到死者身在海外的家人，遂在社交平台發布尋人啟事，引發海外港人社群廣泛關注。昨日（22日）凌晨，香港入境事務處證實已接獲死者家屬求助，並已按家屬意願提供相應協助。]]></description>
+        </item>
+        <item>
             <title><![CDATA[謝展寰明日赴杭州出席亞太經合組織糧食安全部長級會議]]></title>
             <link>https://www.wenweipo.com/a/202608/23/AP6a8aab88e4b0c1e50025eb96.html</link>
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8aab88e4b0c1e50025eb96.html</guid>
@@ -105,20 +119,6 @@ IGU是致力推動全球地理學學術發展的非政府國際專業組織，�
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8a8480e4b0c1e50025e6eb.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（23日）清晨5時30分，一輛的士沿將軍澳環保大道往九龍方向行駛，期間因爆胎停靠第一行車線。姓陳（67歲）的士司機落車後，站在的士車尾檢查。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「動力啟航2026」實習總結會圓滿舉行　300大學生內地實習收穫豐碩]]></title>
-            <link>https://www.wenweipo.com/a/202608/23/AP6a8a770be4b0c1e50025e543.html</link>
-            <guid>https://www.wenweipo.com/a/202608/23/AP6a8a770be4b0c1e50025e543.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[由民政及青年事務局與青年發展委員會資助、中央政府駐港聯絡辦教育和青年部指導，惠州新動力及大灣區青年新動力主辦的「動力啟航2026——香港青年內地實習計劃總結分享會」，於8月22日在香港浸會大學圓滿舉行。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞太廣播聯盟機械人大賽今在港舉行　宇樹機械人參與表演]]></title>
-            <link>https://www.wenweipo.com/a/202608/23/AP6a8a7394e4b0c1e50025e4c1.html</link>
-            <guid>https://www.wenweipo.com/a/202608/23/AP6a8a7394e4b0c1e50025e4c1.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[亞太廣播聯盟機械人大賽今日在本港舉行，今年賽事由香港電台和香港科技園公司聯合舉辦，16支來自15個國家及地區的大專隊伍，會在亞太區最具規模的大專生機械人競賽同場競技，會角逐18個獎項，包括冠軍、亞軍、季軍及亞太廣播聯盟大獎。]]></description>
         </item>
     </channel>
 </rss>
