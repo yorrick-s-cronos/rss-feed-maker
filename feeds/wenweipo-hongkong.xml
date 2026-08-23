@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[馬會舉辦2026全球智慧教育大會　分享數字教育發展歷程]]></title>
+            <link>https://www.wenweipo.com/a/202608/24/AP6a882855e4b0c1e50025b4ba.html</link>
+            <guid>https://www.wenweipo.com/a/202608/24/AP6a882855e4b0c1e50025b4ba.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[全球智慧教育大會自2020年舉辦以來，一直是促進智慧教育國際交流與合作的重要平台。今年大會以「人工智能與教育可持續發展」為主題，開幕禮於8月18日在北京順利舉行。一連三日的大會由北京師範大學與聯合國教科文組織教育資訊技術研究所（UNESCO IITE）聯合主辦，吸引超過2500名代表參與。香港賽馬會慈善信託基金連續第三年參與這項國際教育盛會，分享過去十年推動數字教育發展的經驗與成果。出席開幕禮的主禮嘉賓包括教育部副部長任友群、北京師範大學校長于吉紅、聯合國教科文組織教育助理總幹事陳群以及香港賽馬會副主席黃嘉純。此外，多位來自教育、科技及工商界的專業人士、學者及教師亦出席大會。]]></description>
+        </item>
+        <item>
             <title><![CDATA[（有片）一片帶你逛「香港電腦通訊節」 3C充電寶必入手]]></title>
             <link>https://www.wenweipo.com/a/202608/24/AP6a8b43b4e4b0c1e50025f6ab.html</link>
             <guid>https://www.wenweipo.com/a/202608/24/AP6a8b43b4e4b0c1e50025f6ab.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8aab88e4b0c1e50025eb96.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[環境及生態局局長謝展寰明日（24日）啟程前往杭州，出席第十一屆亞太區經濟合作組織糧食安全部長級會議。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[葛珮帆赴廣州考察調研　推動粵港氫能與低空經濟合作共贏]]></title>
-            <link>https://www.wenweipo.com/a/202608/23/AP6a8aa7bde4b0c1e50025eb33.html</link>
-            <guid>https://www.wenweipo.com/a/202608/23/AP6a8aa7bde4b0c1e50025eb33.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[立法會議員葛珮帆近日赴廣州進行專題考察調研，行程緊湊而充實，重點圍繞氫能產業與低空經濟兩大新興賽道展開。]]></description>
         </item>
     </channel>
 </rss>
