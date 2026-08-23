@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TIVP092（ビデオ）：ドミノ・ピザ（DPZ）：ロイヤルティエンジンはまだ動いているか？カイル・グリーブ＆ショーン・オマリーと共に]]></title>
+            <link>https://finance.biggo.jp/podcast/2d3b350e151c4f63</link>
+            <guid>https://finance.biggo.jp/podcast/2d3b350e151c4f63</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWiV 1351: エボラウイルスの脳と伝染性ナマズのがん]]></title>
             <link>https://finance.biggo.jp/podcast/03ec0c860f9d1f7a</link>
             <guid>https://finance.biggo.jp/podcast/03ec0c860f9d1f7a</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[145 ✪ 中国資本に鞍替えする外資系飲食ブランド]]></title>
             <link>https://finance.biggo.jp/podcast/7a19649e9a7080cf</link>
             <guid>https://finance.biggo.jp/podcast/7a19649e9a7080cf</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ITG CFO：私たちはAIブームの「ツルハシとシャベル」]]></title>
-            <link>https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516</link>
-            <guid>https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
