@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[（有片）一片帶你逛「香港電腦通訊節」 3C充電寶必入手]]></title>
+            <link>https://www.wenweipo.com/a/202608/24/AP6a8b43b4e4b0c1e50025f6ab.html</link>
+            <guid>https://www.wenweipo.com/a/202608/24/AP6a8b43b4e4b0c1e50025f6ab.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[由香港電腦商會主辦的「香港電腦通訊節 2026」今日踏入最後一天，大家要把握機會，尤其可入手配備3C認證及QR的充電寶。今年會場供應特別充足，不少品牌如Momax、Xpower、SuperV等均有推出，大部分產品集中在10000mAh容量。]]></description>
+        </item>
+        <item>
             <title><![CDATA[「爭鮮」荃灣如心廣場店壽司疑有活蟲 公司：已交第三方化驗]]></title>
             <link>https://www.wenweipo.com/a/202608/23/AP6a8b0eb5e4b0c1e50025f515.html</link>
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8b0eb5e4b0c1e50025f515.html</guid>
@@ -106,15 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8aa7bde4b0c1e50025eb33.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[立法會議員葛珮帆近日赴廣州進行專題考察調研，行程緊湊而充實，重點圍繞氫能產業與低空經濟兩大新興賽道展開。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中大關美寶獲IGU最高榮譽獎 首位港學者膺殊榮 突破傳統環境健康研究範式]]></title>
-            <link>https://www.wenweipo.com/a/202608/23/AP6a8aa786e4b0c1e50025eb30.html</link>
-            <guid>https://www.wenweipo.com/a/202608/23/AP6a8aa786e4b0c1e50025eb30.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港中文大學太空與地球信息科學研究所所長關美寶，榮獲國際地理聯合會（IGU）頒授最高榮譽獎（Lauréat d’Honneur），以表彰她對國際地理學界的卓越貢獻。她是自1976年該獎項設立以來，首位獲此世界級學術殊榮的香港學者，亦是中國第三位獲獎人及首位女性得主。關美寶對獲獎深感榮幸，感謝中大提供卓越的科研環境，以及研究團隊成員與合作者的貢獻和支持。她表示，將繼續致力推進地理科學發展，為建立一個更具韌性和公平的世界貢獻力量。
-
-IGU是致力推動全球地理學學術發展的非政府國際專業組織，最高榮譽獎每兩年頒授一次，旨在嘉許對IGU工作有傑出貢獻，並在推動國際地理學發展上取得非凡成就的人士。本屆遴選過程嚴謹，獎項委員會由IGU前第一副主席Joos Droogleever-Fortuijn主持，經全面評審，從全球頂尖學者中選出得獎者。]]></description>
         </item>
     </channel>
 </rss>
