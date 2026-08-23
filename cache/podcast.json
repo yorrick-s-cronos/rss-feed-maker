@@ -1,5 +1,5 @@
 {
-  "lastSuccess": "2026-08-23T05:20:51.801Z",
+  "lastSuccess": "2026-08-23T07:26:06.079Z",
   "articleCount": 20,
   "knownLinks": [
     "https://finance.biggo.jp/podcast/03ec0c860f9d1f7a",
@@ -23,6 +23,5 @@
     "https://finance.biggo.jp/podcast/7a19649e9a7080cf",
     "https://finance.biggo.jp/podcast/4fbf8f1b9e0cc516"
   ],
-  "consecutiveErrors": 1,
-  "lastError": "Failed to fetch https://finance.biggo.jp/podcast: The operation was aborted."
+  "consecutiveErrors": 0
 }
