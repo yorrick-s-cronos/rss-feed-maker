@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[3つのシンプルで退屈なウェブサイトで月32Kドル稼ぐ]]></title>
+            <link>https://finance.biggo.jp/podcast/8262af50e484811b</link>
+            <guid>https://finance.biggo.jp/podcast/8262af50e484811b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[テスラのサイバーキャブ自己認証戦略：免除なし、生産上限なし、ただ規模を追求]]></title>
             <link>https://finance.biggo.jp/podcast/24be8beef40b66b3</link>
             <guid>https://finance.biggo.jp/podcast/24be8beef40b66b3</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[監視付きロボタクシーは一瞬の流行、無人ロボタクシーは10年のトレンド]]></title>
             <link>https://finance.biggo.jp/podcast/195ad9f991975385</link>
             <guid>https://finance.biggo.jp/podcast/195ad9f991975385</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ユヴァル・ノア・ハラリ氏、AIの未来の危険性について語る | The Economist]]></title>
-            <link>https://finance.biggo.jp/podcast/35dc05dff906bfa6</link>
-            <guid>https://finance.biggo.jp/podcast/35dc05dff906bfa6</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
