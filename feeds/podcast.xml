@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[父親の脳をスキャンする科学者：子育てで脳は縮み、テストステロンは25%低下！]]></title>
+            <link>https://finance.biggo.jp/podcast/183a286a852a03fa</link>
+            <guid>https://finance.biggo.jp/podcast/183a286a852a03fa</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[3つのシンプルで退屈なウェブサイトで月32Kドル稼ぐ]]></title>
             <link>https://finance.biggo.jp/podcast/8262af50e484811b</link>
             <guid>https://finance.biggo.jp/podcast/8262af50e484811b</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[ネオクラウドの半数は消える | 中国のオープンソースを恐れるべきか | ジェリー・マードック]]></title>
             <link>https://finance.biggo.jp/podcast/1e2e4de579120b7e</link>
             <guid>https://finance.biggo.jp/podcast/1e2e4de579120b7e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[監視付きロボタクシーは一瞬の流行、無人ロボタクシーは10年のトレンド]]></title>
-            <link>https://finance.biggo.jp/podcast/195ad9f991975385</link>
-            <guid>https://finance.biggo.jp/podcast/195ad9f991975385</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
