@@ -4,16 +4,16 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 13:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Tasas largas en máximos - Mercados al 21 de agosto]]></title>
-            <link>https://fintualist.com/chile/economia/mercados/tasas-largas-en-maximos-mercados-al-21-de-agosto-2/</link>
-            <guid>https://fintualist.com/chile/economia/mercados/tasas-largas-en-maximos-mercados-al-21-de-agosto-2/</guid>
-            <pubDate>Fri, 21 Aug 2026 13:36:00 GMT</pubDate>
+            <title><![CDATA[📍 Mercados en vivo - A la espera de Nvidia]]></title>
+            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
+            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
+            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Habla tú. No, habla tú. Ya, al mismo tiempo | Fintualist 289 🗞️]]></title>
@@ -32,12 +32,6 @@
             <link>https://fintualist.com/chile/cultura/el-odiado-nuevo-logo-de-instagram/</link>
             <guid>https://fintualist.com/chile/cultura/el-odiado-nuevo-logo-de-instagram/</guid>
             <pubDate>Tue, 18 Aug 2026 20:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[¿Qué “magia” ocurre al cambiarte de AFP?]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/que-magia-ocurre-al-cambiarte-de-afp/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/que-magia-ocurre-al-cambiarte-de-afp/</guid>
-            <pubDate>Tue, 18 Aug 2026 16:06:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cerca de máximos - Mercados al 14 de agosto]]></title>
@@ -128,6 +122,12 @@
             <link>https://fintualist.com/chile/economia/mercados/petroleo-a-100-mercados-al-24-de-julio-2/</link>
             <guid>https://fintualist.com/chile/economia/mercados/petroleo-a-100-mercados-al-24-de-julio-2/</guid>
             <pubDate>Fri, 24 Jul 2026 16:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Petróleo a 100 - Mercados al 24 de julio]]></title>
+            <link>https://fintualist.com/mexico/economia/mercados/petroleo-a-100-mercados-al-24-de-julio/</link>
+            <guid>https://fintualist.com/mexico/economia/mercados/petroleo-a-100-mercados-al-24-de-julio/</guid>
+            <pubDate>Fri, 24 Jul 2026 16:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
