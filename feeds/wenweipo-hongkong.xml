@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[瓊港攜手拓航天數據新賽道 打造「前店後廠」合作新格局]]></title>
+            <link>https://www.wenweipo.com/a/202608/25/AP6a8c8c89e4b0c1e5002618c8.html</link>
+            <guid>https://www.wenweipo.com/a/202608/25/AP6a8c8c89e4b0c1e5002618c8.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[海南文昌航天科技香港媒體考察團8月24日走訪文昌航天超算中心。文昌航天超算智慧科技有限公司董事長葉世陽向香港媒體介紹瓊港合作思路，提出香港和文昌「前店後廠」的航天合作構想。他透露，目前中心已與香港大學聯合研發航天大模型，關鍵技術取得突破，初步成果已落地碳中和、農業普查等實務場景，未來還計劃聯動香港多所高校，推動科研成果走向國際。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[參訪文昌航天神舟科技館 港科研力量漸成國家航天貢獻者]]></title>
+            <link>https://www.wenweipo.com/a/202608/25/AP6a8c8f22e4b0c1e5002618cb.html</link>
+            <guid>https://www.wenweipo.com/a/202608/25/AP6a8c8f22e4b0c1e5002618cb.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[海南文昌航天科技香港媒體考察團8月24日參觀文昌航天神舟科技館，館內陳列了火星車模型、按1:1比例復刻的「天和」核心艙模型、太空種子等珍貴實物與空間站返回艙VR太空體驗等互動展項，完整呈現中國航天事業的發展歷程。科技館董事長李婧婷介紹，場館立足文昌航天城資源，集航天成果展示、科普教育、愛國主義教育於一體，希望讓青少年近距離接觸航天硬核成果，並歡迎香港學生及研學團到訪交流。]]></description>
+        </item>
+        <item>
             <title><![CDATA[秀茂坪21歲青年與嫲嫲爭執持刀反鎖 揭涉盜竊案被捕]]></title>
             <link>https://www.wenweipo.com/a/202608/25/AP6a8c6ae3e4b0c1e500261801.html</link>
             <guid>https://www.wenweipo.com/a/202608/25/AP6a8c6ae3e4b0c1e500261801.html</guid>
@@ -92,20 +106,6 @@
             <guid>https://www.wenweipo.com/a/202608/24/AP6a8c3382e4b0c1e500261296.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港設計師協會（HKDA）於近日舉辦「香港設計峰會暨 BDA 頂尖品牌大獎 2026 頒獎典禮」與交流晚宴。作為香港設計師協會年度旗艦盛事，今屆峰會匯聚逾180位專業設計師、創意產業先驅及企業，建構具權威性的交流平台，以表彰設計應用、跨界配對及「設計與科技」戰略合作的卓越成就。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「東盟電影節2026」揭開序幕　逾30部精選電影將免費放映！]]></title>
-            <link>https://www.wenweipo.com/a/202608/24/AP6a8c316ae4b0c1e50026127f.html</link>
-            <guid>https://www.wenweipo.com/a/202608/24/AP6a8c316ae4b0c1e50026127f.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[由香港-東盟協會有限公司主辦的「東盟電影節2026」正式開幕，並將於全港多個場地呈獻一系列電影及文化活動。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[恒生大學迎新日歡迎逾2,500名本科新生　主題「承恒—Belong and Beyond」展開迎新活動]]></title>
-            <link>https://www.wenweipo.com/a/202608/24/AP6a8c305ae4b0c1e500261268.html</link>
-            <guid>https://www.wenweipo.com/a/202608/24/AP6a8c305ae4b0c1e500261268.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港恒生大學今日（24日）舉辦迎新日，歡迎逾2,500名一年級及高年級本科新生加入，並展開一系列迎新活動。今年迎新日以「承恒—Belong and Beyond」為主題，冀透過師生互相扶持與傳承大學精神，建立具歸屬感的校園社群，同時鼓勵新生迎接挑戰、突破界限，開展大學生活。]]></description>
         </item>
     </channel>
 </rss>
