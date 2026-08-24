@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Tom Lee’s Case for $10,000 ETH in the Next Bull Cycle]]></title>
+            <title><![CDATA[エピソード46：キャタリズ・パシフィックのBTスリングスビー]]></title>
+            <link>https://finance.biggo.jp/podcast/fd07dfaa0a2f2a79</link>
+            <guid>https://finance.biggo.jp/podcast/fd07dfaa0a2f2a79</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[トム・リーが次の強気相場でETHが1万ドルになると主張する理由]]></title>
             <link>https://finance.biggo.jp/podcast/da96ec89aaae9ac1</link>
             <guid>https://finance.biggo.jp/podcast/da96ec89aaae9ac1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -22,7 +28,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Testosterone Expert: What Actually Happens To Your Body That Women Find Attractive | Dr Darby Saxbe]]></title>
+            <title><![CDATA[テストステロンの専門家：女性が魅力的と感じる身体で実際に起こること | ダービー・サックス博士]]></title>
             <link>https://finance.biggo.jp/podcast/183a286a852a03fa</link>
             <guid>https://finance.biggo.jp/podcast/183a286a852a03fa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -46,7 +52,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[売れる広告の書き方]]></title>
+            <title><![CDATA[売れる広告の作り方：クラウド・ホプキンズの科学的広告]]></title>
             <link>https://finance.biggo.jp/podcast/7f3fca9a01583ab2</link>
             <guid>https://finance.biggo.jp/podcast/7f3fca9a01583ab2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[ベンチマークより選好を：モデルルーティング — Archana Kamath & Tyler Gillam、DigitalOcean]]></title>
             <link>https://finance.biggo.jp/podcast/d6090ab8f5054b27</link>
             <guid>https://finance.biggo.jp/podcast/d6090ab8f5054b27</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[もしもチップ設計チームが一つの体のように動いたら？ — Abduallah Mohamed、AIDAChip]]></title>
-            <link>https://finance.biggo.jp/podcast/71d5a815e6f3a261</link>
-            <guid>https://finance.biggo.jp/podcast/71d5a815e6f3a261</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
