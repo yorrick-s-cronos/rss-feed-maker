@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Rocket Lab内部：CEOサー・ピーター・ベックが語る記録的な収益、ニュートロン、フラットサテライト]]></title>
+            <link>https://finance.biggo.jp/podcast/e937d1acd0692e80</link>
+            <guid>https://finance.biggo.jp/podcast/e937d1acd0692e80</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エピソード46：キャタリズ・パシフィックのBTスリングスビー]]></title>
             <link>https://finance.biggo.jp/podcast/fd07dfaa0a2f2a79</link>
             <guid>https://finance.biggo.jp/podcast/fd07dfaa0a2f2a79</guid>
@@ -28,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[テストステロンの専門家：女性が魅力的と感じる身体で実際に起こること | ダービー・サックス博士]]></title>
+            <title><![CDATA[The Scientist Who Scans Fathers' Brains: Parenthood Shrinks Your Brain (And That’s GOOD!)]]></title>
             <link>https://finance.biggo.jp/podcast/183a286a852a03fa</link>
             <guid>https://finance.biggo.jp/podcast/183a286a852a03fa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[コーディングエージェントは自動的にスケールしない。チームも同様。 — Patrick Debois, Tessl]]></title>
             <link>https://finance.biggo.jp/podcast/e960977ac516897e</link>
             <guid>https://finance.biggo.jp/podcast/e960977ac516897e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ベンチマークより選好を：モデルルーティング — Archana Kamath & Tyler Gillam、DigitalOcean]]></title>
-            <link>https://finance.biggo.jp/podcast/d6090ab8f5054b27</link>
-            <guid>https://finance.biggo.jp/podcast/d6090ab8f5054b27</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
