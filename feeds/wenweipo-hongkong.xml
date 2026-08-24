@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[眼濕濕銘記紅館開唱難忘時刻　古仔感激華仔鼓勵 「接棒」撐港娛]]></title>
+            <link>https://www.wenweipo.com/a/202608/24/AP6a8ba372e4b0c1e5002600d4.html</link>
+            <guid>https://www.wenweipo.com/a/202608/24/AP6a8ba372e4b0c1e5002600d4.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[古天樂（古仔）一連兩場首個個人演唱會《MY FIRST SHOW》前晚在紅館圓滿結束，尾場有星級嘉賓馮德倫、古巨基、草蜢等亮相，壓軸嘉賓劉德華（華仔）一出場，即震撼整個紅館，古仔特別感激華仔的鼓勵，華仔則稱撐起未來香港娛樂圈的重任將由對方接棒。]]></description>
+        </item>
+        <item>
             <title><![CDATA[2026年8月24日（周一）早安香港]]></title>
             <link>https://www.wenweipo.com/a/202608/24/AP6a8b9273e4b0c1e50025fd74.html</link>
             <guid>https://www.wenweipo.com/a/202608/24/AP6a8b9273e4b0c1e50025fd74.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/23/AP6a8ad0ede4b0c1e50025efcd.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[兩隊香港代表分別來自香港大學及中文大學，雙雙晉身決賽對壘，最終由港大成功奪冠。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[15名高級公務員將赴京全年學習]]></title>
-            <link>https://www.wenweipo.com/a/202608/23/AP6a8ac40be4b0c1e50025ee88.html</link>
-            <guid>https://www.wenweipo.com/a/202608/23/AP6a8ac40be4b0c1e50025ee88.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[公務員事務局局長楊何蓓茵表示，公務員事務局與北京大學合辦的兩年制高級公務員公共管理碩士課程迎來第五屆，合共15名學員將於九月在北京大學展開全年沉浸式學習。]]></description>
         </item>
     </channel>
 </rss>
