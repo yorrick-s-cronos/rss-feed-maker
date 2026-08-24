@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Why Inflation Could Be Good News for Japan | Trumponomics]]></title>
+            <link>https://finance.biggo.jp/podcast/c878d89cda72789c</link>
+            <guid>https://finance.biggo.jp/podcast/c878d89cda72789c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ガジェット記憶クイズで大苦戦 | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/a11241101585199e</link>
+            <guid>https://finance.biggo.jp/podcast/a11241101585199e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[クラウドAI @Arm と中国からの視点]]></title>
+            <link>https://finance.biggo.jp/podcast/f1433996ac14f611</link>
+            <guid>https://finance.biggo.jp/podcast/f1433996ac14f611</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[資本市場向けAIシステムの構築]]></title>
             <link>https://finance.biggo.jp/podcast/6bb4ef6063747146</link>
             <guid>https://finance.biggo.jp/podcast/6bb4ef6063747146</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ジュリアン・ベックが語る、ドン・バレンタイン、ダグ・レオーネ、アルフレッド・リンからの教訓｜セコイアが創業者に見るもの]]></title>
+            <title><![CDATA[Inside Sequoia's Investment Committee | How the SpaceX & Citadel Deals Went Down | Julien Bek]]></title>
             <link>https://finance.biggo.jp/podcast/dfa9a6d52b428a40</link>
             <guid>https://finance.biggo.jp/podcast/dfa9a6d52b428a40</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -52,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[第一人者の神経科学者が語る：父親になることの衝撃的な真実——脳はどう変わるのか！]]></title>
+            <title><![CDATA[The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!]]></title>
             <link>https://finance.biggo.jp/podcast/183a286a852a03fa</link>
             <guid>https://finance.biggo.jp/podcast/183a286a852a03fa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[ベンチャーキャピタリスト佐俣アンリさん（株式会社ANRI）さんが語る「NOT A HOTELに投資した理由」]]></title>
             <link>https://finance.biggo.jp/podcast/bf656334561f0723</link>
             <guid>https://finance.biggo.jp/podcast/bf656334561f0723</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[薬剤改革：FDA長官候補ハイジ・オーバートンが機関に与える影響]]></title>
-            <link>https://finance.biggo.jp/podcast/95a5ef08fd1c4a0b</link>
-            <guid>https://finance.biggo.jp/podcast/95a5ef08fd1c4a0b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[カーテンの背後で働くエージェント：WarpのOzクラウドエージェントプラットフォーム構築 — Safia Abdalla, Warp]]></title>
-            <link>https://finance.biggo.jp/podcast/7acb561277e9016e</link>
-            <guid>https://finance.biggo.jp/podcast/7acb561277e9016e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[847 Production臨床AIノートの内部 — Sebastian Fox, Composo]]></title>
-            <link>https://finance.biggo.jp/podcast/d02a360fef5c75f7</link>
-            <guid>https://finance.biggo.jp/podcast/d02a360fef5c75f7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
