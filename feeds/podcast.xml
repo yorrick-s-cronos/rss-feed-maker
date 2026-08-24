@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[テストステロン専門家：ダッドボディの真実と、女性が父親をより魅力的に感じる理由！]]></title>
+            <title><![CDATA[彼は正しい。]]></title>
+            <link>https://finance.biggo.jp/podcast/3c4173f0fe65eff9</link>
+            <guid>https://finance.biggo.jp/podcast/3c4173f0fe65eff9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testosterone Expert: The Hidden Benefit Of Being A Dad & How It Rewrites Your Brain | Dr Darby Saxbe]]></title>
             <link>https://finance.biggo.jp/podcast/183a286a852a03fa</link>
             <guid>https://finance.biggo.jp/podcast/183a286a852a03fa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[AIエージェントのためのFinOps：誰がトークンを全部使った？ — Tisha Chawla & Susheem Koul（マイクロソフト）]]></title>
             <link>https://finance.biggo.jp/podcast/d2e914f4f785eba3</link>
             <guid>https://finance.biggo.jp/podcast/d2e914f4f785eba3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ネオクラウドの半数は消える | 中国のオープンソースを恐れるべきか | ジェリー・マードック]]></title>
-            <link>https://finance.biggo.jp/podcast/1e2e4de579120b7e</link>
-            <guid>https://finance.biggo.jp/podcast/1e2e4de579120b7e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
