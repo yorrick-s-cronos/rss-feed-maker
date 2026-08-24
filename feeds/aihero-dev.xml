@@ -4,11 +4,27 @@
         <title>www.aihero.dev</title>
         <link>https://www.aihero.dev/</link>
         <description>AI Hero - AI Engineering for Curious Professional Developers</description>
-        <lastBuildDate>Mon, 17 Aug 2026 21:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 09:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/aihero-dev.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The /resolving-merge-conflicts Skill]]></title>
+            <link>https://www.aihero.dev/skills-resolving-merge-conflicts</link>
+            <guid>https://www.aihero.dev/skills-resolving-merge-conflicts</guid>
+            <pubDate>Mon, 24 Aug 2026 09:14:47 GMT</pubDate>
+            <description><![CDATA[Finish a merge or rebase conflict, hunk by hunk.]]></description>
+            <content:encoded><![CDATA[Finish a merge or rebase conflict, hunk by hunk.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /wait-what Skill]]></title>
+            <link>https://www.aihero.dev/skills-wait-what</link>
+            <guid>https://www.aihero.dev/skills-wait-what</guid>
+            <pubDate>Mon, 24 Aug 2026 09:14:47 GMT</pubDate>
+            <description><![CDATA[Ask the agent to say that again, in plain English.]]></description>
+            <content:encoded><![CDATA[Ask the agent to say that again, in plain English.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[AI Coding Crash Course]]></title>
             <link>https://www.aihero.dev/workshops/ai-coding-crash-course</link>
@@ -42,12 +58,12 @@
             <content:encoded><![CDATA[Explore Matt Pocock's Skills v1.2.0: new documentation, Claude Code integration, the Wait What skill for Opus verbosity, and more.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The /wait-what Skill]]></title>
-            <link>https://www.aihero.dev/skills-wait-what</link>
-            <guid>https://www.aihero.dev/skills-wait-what</guid>
-            <pubDate>Wed, 05 Aug 2026 10:17:46 GMT</pubDate>
-            <description><![CDATA[Ask the agent to say that again, in plain English.]]></description>
-            <content:encoded><![CDATA[Ask the agent to say that again, in plain English.]]></content:encoded>
+            <title><![CDATA[The /domain-modeling Skill]]></title>
+            <link>https://www.aihero.dev/skills-domain-modeling</link>
+            <guid>https://www.aihero.dev/skills-domain-modeling</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:48 GMT</pubDate>
+            <description><![CDATA[Sharpen the words a project uses, and write them down.]]></description>
+            <content:encoded><![CDATA[Sharpen the words a project uses, and write them down.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /grilling Skill]]></title>
@@ -56,14 +72,6 @@
             <pubDate>Wed, 08 Jul 2026 15:28:48 GMT</pubDate>
             <description><![CDATA[The interview other skills run to stress-test a plan.]]></description>
             <content:encoded><![CDATA[The interview other skills run to stress-test a plan.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The /domain-modeling Skill]]></title>
-            <link>https://www.aihero.dev/skills-domain-modeling</link>
-            <guid>https://www.aihero.dev/skills-domain-modeling</guid>
-            <pubDate>Wed, 08 Jul 2026 15:28:48 GMT</pubDate>
-            <description><![CDATA[Sharpen the words a project uses, and write them down.]]></description>
-            <content:encoded><![CDATA[Sharpen the words a project uses, and write them down.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /writing-for-agents Skill]]></title>
@@ -82,20 +90,20 @@
             <content:encoded><![CDATA[The vocabulary for designing deep modules.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The /teach Skill]]></title>
-            <link>https://www.aihero.dev/skills-teach</link>
-            <guid>https://www.aihero.dev/skills-teach</guid>
-            <pubDate>Wed, 08 Jul 2026 15:28:44 GMT</pubDate>
-            <description><![CDATA[Learn a topic across many sessions that build on each other.]]></description>
-            <content:encoded><![CDATA[Learn a topic across many sessions that build on each other.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[The /triage Skill]]></title>
             <link>https://www.aihero.dev/skills-triage</link>
             <guid>https://www.aihero.dev/skills-triage</guid>
             <pubDate>Wed, 08 Jul 2026 15:28:44 GMT</pubDate>
             <description><![CDATA[Sort raw issues into work someone can pick up.]]></description>
             <content:encoded><![CDATA[Sort raw issues into work someone can pick up.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The /teach Skill]]></title>
+            <link>https://www.aihero.dev/skills-teach</link>
+            <guid>https://www.aihero.dev/skills-teach</guid>
+            <pubDate>Wed, 08 Jul 2026 15:28:44 GMT</pubDate>
+            <description><![CDATA[Learn a topic across many sessions that build on each other.]]></description>
+            <content:encoded><![CDATA[Learn a topic across many sessions that build on each other.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The /diagnosing-bugs Skill]]></title>
@@ -176,14 +184,6 @@
             <pubDate>Wed, 08 Jul 2026 11:13:02 GMT</pubDate>
             <description><![CDATA[Align on an idea before committing to it.]]></description>
             <content:encoded><![CDATA[Align on an idea before committing to it.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The /resolving-merge-conflicts Skill]]></title>
-            <link>https://www.aihero.dev/skills-resolving-merge-conflicts</link>
-            <guid>https://www.aihero.dev/skills-resolving-merge-conflicts</guid>
-            <pubDate>Tue, 07 Jul 2026 13:56:09 GMT</pubDate>
-            <description><![CDATA[Finish a merge or rebase conflict, hunk by hunk.]]></description>
-            <content:encoded><![CDATA[Finish a merge or rebase conflict, hunk by hunk.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How To Kill The Bloat In Claude Code's System Prompt]]></title>
