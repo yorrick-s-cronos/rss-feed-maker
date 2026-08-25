@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-25T12:28:44.623Z",
+  "lastSuccess": "2026-08-25T13:41:01.636Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
     "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
     "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
     "https://claude.com/blog/the-ai-native-sdlc-playbook",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
     "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
     "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
-    "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
-    "https://claude.com/blog/cowork-chrome-side-panel"
+    "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5"
   ],
   "consecutiveErrors": 0
 }

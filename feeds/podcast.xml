@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[元NVIDIAエンジニア：AIコストが1000分の1になる理由]]></title>
+            <link>https://finance.biggo.jp/podcast/29d3f76c7eeac4a2</link>
+            <guid>https://finance.biggo.jp/podcast/29d3f76c7eeac4a2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[コインベースがウォール街をオンチェーンに]]></title>
             <link>https://finance.biggo.jp/podcast/77a624d1ee15b152</link>
             <guid>https://finance.biggo.jp/podcast/77a624d1ee15b152</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[テストステロン専門家：なぜ脳は縮み、テストステロンは低下し、子供の後に体は変化するのか！]]></title>
             <link>https://finance.biggo.jp/podcast/183a286a852a03fa</link>
             <guid>https://finance.biggo.jp/podcast/183a286a852a03fa</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3つのシンプルで退屈なウェブサイトで月32Kドル稼ぐ]]></title>
-            <link>https://finance.biggo.jp/podcast/8262af50e484811b</link>
-            <guid>https://finance.biggo.jp/podcast/8262af50e484811b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
