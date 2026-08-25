@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[中国ロボットブーム到来 | China Decode]]></title>
+            <link>https://finance.biggo.jp/podcast/2826b649fe16d3df</link>
+            <guid>https://finance.biggo.jp/podcast/2826b649fe16d3df</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エピソード383 - モデルナ、ジェネンテックの肥満症契約、トランプ氏のFDA長官指名]]></title>
             <link>https://finance.biggo.jp/podcast/80e5eff1a1742cff</link>
             <guid>https://finance.biggo.jp/podcast/80e5eff1a1742cff</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[AI・暗号資産・マクロの結節点：なぜビットコインが投資家にとって重要なのか]]></title>
             <link>https://finance.biggo.jp/podcast/77466d0001cd72e2</link>
             <guid>https://finance.biggo.jp/podcast/77466d0001cd72e2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIエンタープライズセールスの全サイクルをステップバイステップで解説 | ジェン・アベル]]></title>
-            <link>https://finance.biggo.jp/podcast/a7bc9af51e90e656</link>
-            <guid>https://finance.biggo.jp/podcast/a7bc9af51e90e656</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
