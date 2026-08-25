@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ノースロップ・グラマンCEO、レアアースで国防産業は米政府の支援が必要と発言]]></title>
+            <link>https://finance.biggo.jp/podcast/a34d53de9e59568e</link>
+            <guid>https://finance.biggo.jp/podcast/a34d53de9e59568e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TSMCは前進を続ける]]></title>
+            <link>https://finance.biggo.jp/podcast/c9fd1e7040c74bd0</link>
+            <guid>https://finance.biggo.jp/podcast/c9fd1e7040c74bd0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[⏭️ フォワードデプロイド：2026年に効果的な音声AI]]></title>
             <link>https://finance.biggo.jp/podcast/f65f555ba247d514</link>
             <guid>https://finance.biggo.jp/podcast/f65f555ba247d514</guid>
@@ -28,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ディラン・パテル – アンソロピックとOpenAIが2028年までに世界の計算資源の大半を掌握する]]></title>
+            <title><![CDATA[Dylan Patel – "Every force is screeching towards centralization."]]></title>
             <link>https://finance.biggo.jp/podcast/38dd6d59970621da</link>
             <guid>https://finance.biggo.jp/podcast/38dd6d59970621da</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -76,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[元NVIDIAエンジニア：AIコストが1000分の1になる理由]]></title>
+            <title><![CDATA[The Man Making AI 1000x Cheaper]]></title>
             <link>https://finance.biggo.jp/podcast/29d3f76c7eeac4a2</link>
             <guid>https://finance.biggo.jp/podcast/29d3f76c7eeac4a2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[エピソード383 - モデルナ、ジェネンテックの肥満症契約、トランプ氏のFDA長官指名]]></title>
             <link>https://finance.biggo.jp/podcast/80e5eff1a1742cff</link>
             <guid>https://finance.biggo.jp/podcast/80e5eff1a1742cff</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[トランプ政権の科学アジェンダの内幕：反科学的主張、ファウチの害、DEIと中国（マイケル・クラツィオス氏と共に）]]></title>
-            <link>https://finance.biggo.jp/podcast/4efd077200b45309</link>
-            <guid>https://finance.biggo.jp/podcast/4efd077200b45309</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[植物における肉タンパク質]]></title>
-            <link>https://finance.biggo.jp/podcast/4a857497f5f04d58</link>
-            <guid>https://finance.biggo.jp/podcast/4a857497f5f04d58</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
