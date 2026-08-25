@@ -10,19 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028]]></title>
+            <title><![CDATA[⏭️ フォワードデプロイド：2026年に効果的な音声AI]]></title>
+            <link>https://finance.biggo.jp/podcast/f65f555ba247d514</link>
+            <guid>https://finance.biggo.jp/podcast/f65f555ba247d514</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2545 - ジェシー・ミケルズ]]></title>
+            <link>https://finance.biggo.jp/podcast/f9eb1efecf07d81a</link>
+            <guid>https://finance.biggo.jp/podcast/f9eb1efecf07d81a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ディラン・パテル – アンソロピックとOpenAIが2028年までに世界の計算資源の大半を掌握する]]></title>
             <link>https://finance.biggo.jp/podcast/38dd6d59970621da</link>
             <guid>https://finance.biggo.jp/podcast/38dd6d59970621da</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why 65% of Kids Are Struggling to Read]]></title>
+            <title><![CDATA[なぜ65%の子供たちが読書に苦労しているのか]]></title>
             <link>https://finance.biggo.jp/podcast/30b87c6ad62644dd</link>
             <guid>https://finance.biggo.jp/podcast/30b87c6ad62644dd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Evolution of Computers with Martin Casado and Steven Sinofsky]]></title>
+            <title><![CDATA[マーティン・カサドとスティーブン・シノフスキーと語るコンピューターの進化]]></title>
             <link>https://finance.biggo.jp/podcast/10b6a6acea1d5a9a</link>
             <guid>https://finance.biggo.jp/podcast/10b6a6acea1d5a9a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[インフレが日本にとって良い知らせとなる理由 | トランプノミクス]]></title>
             <link>https://finance.biggo.jp/podcast/c878d89cda72789c</link>
             <guid>https://finance.biggo.jp/podcast/c878d89cda72789c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[これらのガジェットが登場したときのことを覚えていますか？ | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/a11241101585199e</link>
-            <guid>https://finance.biggo.jp/podcast/a11241101585199e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[クラウドAI @Arm と中国からの視点]]></title>
-            <link>https://finance.biggo.jp/podcast/f1433996ac14f611</link>
-            <guid>https://finance.biggo.jp/podcast/f1433996ac14f611</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

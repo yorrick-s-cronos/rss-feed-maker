@@ -4,11 +4,17 @@
         <title>Cursor Blog</title>
         <link>https://cursor.com/blog</link>
         <description>Latest updates and insights from the Cursor team about AI-powered coding</description>
-        <lastBuildDate>Wed, 19 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cursor-blog.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IMDEX uses Cursor to build integrated subsurface data and analytics platform in months, not years]]></title>
+            <link>https://cursor.com/blog/imdex</link>
+            <guid>https://cursor.com/blog/imdex</guid>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cloud Agents and Cursor Harness Improvements]]></title>
             <link>https://cursor.com/changelog/08-19-26</link>
@@ -70,12 +76,6 @@
             <link>https://cursor.com/blog/wayfair</link>
             <guid>https://cursor.com/blog/wayfair</guid>
             <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Faire doubles PR throughput with Cursor Cloud Agents]]></title>
-            <link>https://cursor.com/blog/faire</link>
-            <guid>https://cursor.com/blog/faire</guid>
-            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cursor built a fleet of security agents to solve a familiar frustration]]></title>
