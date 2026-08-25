@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ep208: ゲイリー・ネイベル、エプスタイン・バーウイルスワクチン開発について語る]]></title>
+            <link>https://finance.biggo.jp/podcast/62c369a12eb2ddd9</link>
+            <guid>https://finance.biggo.jp/podcast/62c369a12eb2ddd9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ビデオキャスト：グッドウィンのソフィー・マクグラス氏 – ヘルステックとバイオファーマのトレンドを法的視点から考察]]></title>
+            <link>https://finance.biggo.jp/podcast/f94645b2949ebd80</link>
+            <guid>https://finance.biggo.jp/podcast/f94645b2949ebd80</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ParallelのParag Agrawal：AIエージェントのための新しいWebを構築する]]></title>
+            <link>https://finance.biggo.jp/podcast/325e13cd8ddcbcd5</link>
+            <guid>https://finance.biggo.jp/podcast/325e13cd8ddcbcd5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[元NVIDIAエンジニア：AIコストが1000分の1になる理由]]></title>
             <link>https://finance.biggo.jp/podcast/29d3f76c7eeac4a2</link>
             <guid>https://finance.biggo.jp/podcast/29d3f76c7eeac4a2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[コインベースがウォール街をオンチェーンに]]></title>
+            <title><![CDATA[Coinbase Launches Tokenized Stocks on Base]]></title>
             <link>https://finance.biggo.jp/podcast/77a624d1ee15b152</link>
             <guid>https://finance.biggo.jp/podcast/77a624d1ee15b152</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -94,7 +112,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[キッチンのレシピをペプシコに20億ドルで売却するまで（ft. アリソン・エルズワース、Poppi）]]></title>
+            <title><![CDATA[The exact blueprint I used to build a $2B Company in 4.5 years (ft. Allison Ellsworth, Poppi)]]></title>
             <link>https://finance.biggo.jp/podcast/a2c00545014434d5</link>
             <guid>https://finance.biggo.jp/podcast/a2c00545014434d5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[エピソード46：キャタリズ・パシフィックのBTスリングスビー]]></title>
             <link>https://finance.biggo.jp/podcast/fd07dfaa0a2f2a79</link>
             <guid>https://finance.biggo.jp/podcast/fd07dfaa0a2f2a79</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitMineがETHの5%を保有しようとしている | トム・リー]]></title>
-            <link>https://finance.biggo.jp/podcast/da96ec89aaae9ac1</link>
-            <guid>https://finance.biggo.jp/podcast/da96ec89aaae9ac1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ボリスがまた正しかった（悔しいけど）]]></title>
-            <link>https://finance.biggo.jp/podcast/3c4173f0fe65eff9</link>
-            <guid>https://finance.biggo.jp/podcast/3c4173f0fe65eff9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[テストステロン専門家：なぜ脳は縮み、テストステロンは低下し、子供の後に体は変化するのか！]]></title>
-            <link>https://finance.biggo.jp/podcast/183a286a852a03fa</link>
-            <guid>https://finance.biggo.jp/podcast/183a286a852a03fa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
