@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 21:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Temporada de earnings: ¿por qué los resultados de NVIDIA ya no generan tanto hype?]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/temporada-de-earnings-por-que-los-resultados-de-nvidia-ya-no-generan-tanto-hype/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/temporada-de-earnings-por-que-los-resultados-de-nvidia-ya-no-generan-tanto-hype/</guid>
+            <pubDate>Tue, 25 Aug 2026 21:35:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[📍 Mercados en vivo - A la espera de Nvidia]]></title>
             <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
@@ -26,12 +32,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/las-tasas-de-renta-vitalicia-y-su-efecto-en-las-pensiones-tu-ingreso-podria-ser-hasta-37-mayor/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/las-tasas-de-renta-vitalicia-y-su-efecto-en-las-pensiones-tu-ingreso-podria-ser-hasta-37-mayor/</guid>
             <pubDate>Mon, 24 Aug 2026 16:39:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moria: la serie argentina que inmortaliza a la icónica Moria Casán]]></title>
-            <link>https://fintualist.com/chile/cultura/moria-la-serie-argentina-que-inmortaliza-a-la-iconica-moria-casan/</link>
-            <guid>https://fintualist.com/chile/cultura/moria-la-serie-argentina-que-inmortaliza-a-la-iconica-moria-casan/</guid>
-            <pubDate>Mon, 24 Aug 2026 16:39:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Tienes un PPR y no sabes qué comisión te cobra?  Más de 2% ya ni siquiera te conviene]]></title>
