@@ -10,9 +10,21 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[アインシュタイン・アリーナ：オープンサイエンスのための集合的エージェント知能の活用 — ジェームズ・ゾウ、トゥギャザーAI]]></title>
+            <link>https://finance.biggo.jp/podcast/a2fb10ae176402e7</link>
+            <guid>https://finance.biggo.jp/podcast/a2fb10ae176402e7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ノースロップ・グラマンCEO、レアアースで国防産業は米政府の支援が必要と発言]]></title>
             <link>https://finance.biggo.jp/podcast/a34d53de9e59568e</link>
             <guid>https://finance.biggo.jp/podcast/a34d53de9e59568e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スマートホーム技術は大学の寮で機能するか？ | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/33b16d239d6d7e63</link>
+            <guid>https://finance.biggo.jp/podcast/33b16d239d6d7e63</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -115,18 +127,6 @@
             <title><![CDATA[Parallelのパラグ・アグラワル：AIエージェントのための新しいWebを構築する]]></title>
             <link>https://finance.biggo.jp/podcast/459aba3cc2aef669</link>
             <guid>https://finance.biggo.jp/podcast/459aba3cc2aef669</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国ロボットブーム到来 | China Decode]]></title>
-            <link>https://finance.biggo.jp/podcast/2826b649fe16d3df</link>
-            <guid>https://finance.biggo.jp/podcast/2826b649fe16d3df</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エピソード383 - モデルナ、ジェネンテックの肥満症契約、トランプ氏のFDA長官指名]]></title>
-            <link>https://finance.biggo.jp/podcast/80e5eff1a1742cff</link>
-            <guid>https://finance.biggo.jp/podcast/80e5eff1a1742cff</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

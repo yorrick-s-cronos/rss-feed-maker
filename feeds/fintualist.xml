@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 17:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[📍 Mercados en vivo - A la espera de Nvidia]]></title>
+            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
+            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[¿El problema más complejo en la industria previsional?]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/el-problema-mas-complejo-en-la-industria-previsional/</link>
@@ -28,10 +34,10 @@
             <pubDate>Mon, 24 Aug 2026 16:39:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Artista de la semana | Georges Lacombe]]></title>
-            <link>https://fintualist.com/chile/cultura/artista-de-la-semana-georges-lacombe/</link>
-            <guid>https://fintualist.com/chile/cultura/artista-de-la-semana-georges-lacombe/</guid>
-            <pubDate>Mon, 24 Aug 2026 16:05:15 GMT</pubDate>
+            <title><![CDATA[¿Tienes un PPR y no sabes qué comisión te cobra?  Más de 2% ya ni siquiera te conviene]]></title>
+            <link>https://fintualist.com/mexico/educacion-financiera/tienes-un-ppr-y-no-sabes-que-comision-te-cobra-mas-de-2-ya-ni-siquiera-te-conviene/</link>
+            <guid>https://fintualist.com/mexico/educacion-financiera/tienes-un-ppr-y-no-sabes-que-comision-te-cobra-mas-de-2-ya-ni-siquiera-te-conviene/</guid>
+            <pubDate>Wed, 19 Aug 2026 16:47:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Las mujeres tienen más acceso a los productos financieros? Estudio de género 2026 de la CMF]]></title>
@@ -122,12 +128,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/por-que-los-etf-estan-de-moda/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/por-que-los-etf-estan-de-moda/</guid>
             <pubDate>Tue, 28 Jul 2026 21:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[¿Cómo elegimos la renta fija en Fintual? El detrás de escena]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/como-elegimos-renta-fija-en-fintual-el-detras-de-escena/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/como-elegimos-renta-fija-en-fintual-el-detras-de-escena/</guid>
-            <pubDate>Tue, 28 Jul 2026 13:45:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
