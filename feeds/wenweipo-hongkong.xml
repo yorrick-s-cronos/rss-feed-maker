@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[（有片）銅鑼灣軒尼詩大廈火警 單位陷入一片火海]]></title>
+            <link>https://www.wenweipo.com/a/202608/25/AP6a8d13b3e4b0c1e5002625ff.html</link>
+            <guid>https://www.wenweipo.com/a/202608/25/AP6a8d13b3e4b0c1e5002625ff.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[今日（25日）早上近11時，軒尼詩道488號至490號軒尼詩大廈中層一單位發生火警，火勢一發不可收拾，單位陷入一片火海，窗戶不斷冒出火球及濃煙，窗框被燒至變形，居民需要緊急疏散，途人紛紛報警。警員趕至封鎖現場，由消防員出動一條喉及一隊煙帽隊撲救，約大半小時將火救熄，暫未知有否傷亡及起火原因。受火警封路影響，現場交通擠塞受阻。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[葵涌雙屍命案│死者親屬早上到達殮房認屍]]></title>
+            <link>https://www.wenweipo.com/a/202608/25/AP6a8d0ee0e4b0c1e50026253b.html</link>
+            <guid>https://www.wenweipo.com/a/202608/25/AP6a8d0ee0e4b0c1e50026253b.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[葵涌邨春葵樓前日（23日）深夜發生倫常謀殺及自殺案，一對結婚逾40載的夫婦因感情問題鬧離婚，80歲姓郭丈夫涉用硬物擊殺66歲姓曾妻子後，攀窗墮樓身亡。今日（25日）早上，死者夫婦的3名親屬在探員陪同到達富山殮房辦理認屍手續事宜，其間親屬顯得神情哀傷，眾人逗留1小時離去。]]></description>
+        </item>
+        <item>
             <title><![CDATA[破邊洲試行預約制度 陶文慧：預計中秋及國慶人數攀升]]></title>
             <link>https://www.wenweipo.com/a/202608/25/AP6a8d0816e4b0c1e500262430.html</link>
             <guid>https://www.wenweipo.com/a/202608/25/AP6a8d0816e4b0c1e500262430.html</guid>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/25/AP6a8cddfee4b0c1e500261de4.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[香港文匯報記者昨日分別在Klook網頁及微信小程式實測預約不同日子的不同時段，結果發現小程式及網頁均運作暢順，記者分別花費約兩分鐘和五分鐘完成兩個預約流程，亦即時收到郵件通知確認預約。不過卻發現，用家可以經不同平台，用同樣身份重複預約同日、同時段的名額，令每次預約最多5人的規定形同虛設。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（有片）機電署促逾90個AI項目落地　製冷機組優化、燈具檢測系統節能提效]]></title>
-            <link>https://www.wenweipo.com/a/202608/25/AP6a8c4170e4b0c1e5002613d7.html</link>
-            <guid>https://www.wenweipo.com/a/202608/25/AP6a8c4170e4b0c1e5002613d7.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[機電工程署積極推動人工智能（AI）項目於政府場景落地，擔當起「創新促成者」的角色，為本港工務部門及政府部門提供AI支援服務，目前已經成功促成超過90個AI項目落地，涉及樓宇節能、設施檢測、機場運作等。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瓊港攜手拓航天數據新賽道 打造「前店後廠」合作新格局]]></title>
-            <link>https://www.wenweipo.com/a/202608/25/AP6a8c8c89e4b0c1e5002618c8.html</link>
-            <guid>https://www.wenweipo.com/a/202608/25/AP6a8c8c89e4b0c1e5002618c8.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[海南文昌航天科技香港媒體考察團8月24日走訪文昌航天超算中心。文昌航天超算智慧科技有限公司董事長葉世陽向香港媒體介紹瓊港合作思路，提出香港和文昌「前店後廠」的航天合作構想。他透露，目前中心已與香港大學聯合研發航天大模型，關鍵技術取得突破，初步成果已落地碳中和、農業普查等實務場景，未來還計劃聯動香港多所高校，推動科研成果走向國際。]]></description>
         </item>
     </channel>
 </rss>

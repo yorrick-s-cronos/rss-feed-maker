@@ -22,12 +22,6 @@
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IMDEX consolidates geological data platforms in months with Cursor]]></title>
-            <link>https://cursor.com/blog/imdex</link>
-            <guid>https://cursor.com/blog/imdex</guid>
-            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Origin Code Hosting]]></title>
             <link>https://cursor.com/changelog/origin-code-hosting</link>
             <guid>https://cursor.com/changelog/origin-code-hosting</guid>
@@ -76,6 +70,12 @@
             <link>https://cursor.com/blog/wayfair</link>
             <guid>https://cursor.com/blog/wayfair</guid>
             <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Faire doubles PR throughput with Cursor Cloud Agents]]></title>
+            <link>https://cursor.com/blog/faire</link>
+            <guid>https://cursor.com/blog/faire</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cursor built a fleet of security agents to solve a familiar frustration]]></title>
