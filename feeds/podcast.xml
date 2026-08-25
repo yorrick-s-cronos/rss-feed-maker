@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[エピソード383 - モデルナ、ジェネンテックの肥満症契約、トランプ氏のFDA長官指名]]></title>
+            <link>https://finance.biggo.jp/podcast/80e5eff1a1742cff</link>
+            <guid>https://finance.biggo.jp/podcast/80e5eff1a1742cff</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[トランプ政権の科学アジェンダの内幕：反科学的主張、ファウチの害、DEIと中国（マイケル・クラツィオス氏と共に）]]></title>
             <link>https://finance.biggo.jp/podcast/4efd077200b45309</link>
             <guid>https://finance.biggo.jp/podcast/4efd077200b45309</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[AIエンタープライズセールスの全サイクルをステップバイステップで解説 | ジェン・アベル]]></title>
             <link>https://finance.biggo.jp/podcast/a7bc9af51e90e656</link>
             <guid>https://finance.biggo.jp/podcast/a7bc9af51e90e656</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIVP092（ビデオ）：ドミノ・ピザ（DPZ）：ロイヤルティエンジンはまだ動いているか？カイル・グリーブ＆ショーン・オマリーと共に]]></title>
-            <link>https://finance.biggo.jp/podcast/2d3b350e151c4f63</link>
-            <guid>https://finance.biggo.jp/podcast/2d3b350e151c4f63</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
