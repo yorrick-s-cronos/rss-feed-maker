@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ADI決算分析、カスタムシリコンの変化、半導体企業の負債について]]></title>
+            <link>https://finance.biggo.jp/podcast/2cf7ca17e8570c43</link>
+            <guid>https://finance.biggo.jp/podcast/2cf7ca17e8570c43</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ep208: ゲイリー・ネイベル、エプスタイン・バーウイルスワクチン開発について語る]]></title>
             <link>https://finance.biggo.jp/podcast/62c369a12eb2ddd9</link>
             <guid>https://finance.biggo.jp/podcast/62c369a12eb2ddd9</guid>
@@ -52,7 +58,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[検索は人間のために作られた。Parallelのパラグ・アグラワルはエージェントのために再構築している]]></title>
+            <title><![CDATA[Parallel’s Parag Agrawal: Building a New Web for AI Agents]]></title>
             <link>https://finance.biggo.jp/podcast/459aba3cc2aef669</link>
             <guid>https://finance.biggo.jp/podcast/459aba3cc2aef669</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[ピーター・ベック卿、ニュートロン、複合材料、再利用に向けた設計について語る]]></title>
             <link>https://finance.biggo.jp/podcast/e937d1acd0692e80</link>
             <guid>https://finance.biggo.jp/podcast/e937d1acd0692e80</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エピソード46：キャタリズ・パシフィックのBTスリングスビー]]></title>
-            <link>https://finance.biggo.jp/podcast/fd07dfaa0a2f2a79</link>
-            <guid>https://finance.biggo.jp/podcast/fd07dfaa0a2f2a79</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
