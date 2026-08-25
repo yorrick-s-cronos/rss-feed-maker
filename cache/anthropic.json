@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-25T15:33:39.661Z",
+  "lastSuccess": "2026-08-25T16:25:33.601Z",
   "articleCount": 10,
   "knownLinks": [
+    "https://www.anthropic.com/news/wellbeing-research-grants",
     "https://www.anthropic.com/news/claude-text-watermark",
     "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
     "https://www.anthropic.com/news/tino-cuellar",
@@ -10,8 +11,7 @@
     "https://www.anthropic.com/news/cognizant-anthropic",
     "https://www.anthropic.com/news/claude-opus-5",
     "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-    "https://www.anthropic.com/news/anthropic-economic-index-connector",
-    "https://www.anthropic.com/news/donation-public-first-action"
+    "https://www.anthropic.com/news/anthropic-economic-index-connector"
   ],
   "consecutiveErrors": 0
 }

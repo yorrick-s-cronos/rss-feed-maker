@@ -4,11 +4,17 @@
         <title>Anthropic News</title>
         <link>https://www.anthropic.com/news</link>
         <description>News and announcements from Anthropic.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Funding better evaluations of AI’s impact on wellbeing]]></title>
+            <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
+            <guid>https://www.anthropic.com/news/wellbeing-research-grants</guid>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Claude’s text watermark works]]></title>
             <link>https://www.anthropic.com/news/claude-text-watermark</link>
@@ -62,12 +68,6 @@
             <link>https://www.anthropic.com/news/anthropic-economic-index-connector</link>
             <guid>https://www.anthropic.com/news/anthropic-economic-index-connector</guid>
             <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthropic is donating another $20 million to Public First Action]]></title>
-            <link>https://www.anthropic.com/news/donation-public-first-action</link>
-            <guid>https://www.anthropic.com/news/donation-public-first-action</guid>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
