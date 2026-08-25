@@ -10,9 +10,33 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028]]></title>
+            <link>https://finance.biggo.jp/podcast/38dd6d59970621da</link>
+            <guid>https://finance.biggo.jp/podcast/38dd6d59970621da</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why 65% of Kids Are Struggling to Read]]></title>
+            <link>https://finance.biggo.jp/podcast/30b87c6ad62644dd</link>
+            <guid>https://finance.biggo.jp/podcast/30b87c6ad62644dd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Evolution of Computers with Martin Casado and Steven Sinofsky]]></title>
+            <link>https://finance.biggo.jp/podcast/10b6a6acea1d5a9a</link>
+            <guid>https://finance.biggo.jp/podcast/10b6a6acea1d5a9a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ADI決算分析、カスタムシリコンの変化、半導体企業の負債について]]></title>
             <link>https://finance.biggo.jp/podcast/2cf7ca17e8570c43</link>
             <guid>https://finance.biggo.jp/podcast/2cf7ca17e8570c43</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[マックス・ジュネストランド：誰よりも速く学ぶ意欲が必要だ]]></title>
+            <link>https://finance.biggo.jp/podcast/742130fbc4ba300c</link>
+            <guid>https://finance.biggo.jp/podcast/742130fbc4ba300c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -40,7 +64,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coinbase Launches Tokenized Stocks on Base]]></title>
+            <title><![CDATA[Coinbase、Baseでトークン化株式を開始]]></title>
             <link>https://finance.biggo.jp/podcast/77a624d1ee15b152</link>
             <guid>https://finance.biggo.jp/podcast/77a624d1ee15b152</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Parallel’s Parag Agrawal: Building a New Web for AI Agents]]></title>
+            <title><![CDATA[Parallelのパラグ・アグラワル：AIエージェントのための新しいWebを構築する]]></title>
             <link>https://finance.biggo.jp/podcast/459aba3cc2aef669</link>
             <guid>https://finance.biggo.jp/podcast/459aba3cc2aef669</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[クラウドAI @Arm と中国からの視点]]></title>
             <link>https://finance.biggo.jp/podcast/f1433996ac14f611</link>
             <guid>https://finance.biggo.jp/podcast/f1433996ac14f611</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[資本市場向けAIシステムの構築]]></title>
-            <link>https://finance.biggo.jp/podcast/6bb4ef6063747146</link>
-            <guid>https://finance.biggo.jp/podcast/6bb4ef6063747146</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[セコイアの投資委員会の内部 | SpaceXとシタデルの取引はどう成立したか | ジュリアン・ベック]]></title>
-            <link>https://finance.biggo.jp/podcast/dfa9a6d52b428a40</link>
-            <guid>https://finance.biggo.jp/podcast/dfa9a6d52b428a40</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The exact blueprint I used to build a $2B Company in 4.5 years (ft. Allison Ellsworth, Poppi)]]></title>
-            <link>https://finance.biggo.jp/podcast/a2c00545014434d5</link>
-            <guid>https://finance.biggo.jp/podcast/a2c00545014434d5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ピーター・ベック卿、ニュートロン、複合材料、再利用に向けた設計について語る]]></title>
-            <link>https://finance.biggo.jp/podcast/e937d1acd0692e80</link>
-            <guid>https://finance.biggo.jp/podcast/e937d1acd0692e80</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
