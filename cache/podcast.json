@@ -23,6 +23,6 @@
     "https://finance.biggo.jp/podcast/a2c00545014434d5",
     "https://finance.biggo.jp/podcast/e937d1acd0692e80"
   ],
-  "consecutiveErrors": 1,
-  "lastError": "Failed to fetch https://finance.biggo.jp/podcast: HTTP 429 Too Many Requests"
+  "consecutiveErrors": 2,
+  "lastError": "Failed to fetch https://finance.biggo.jp/podcast: The operation was aborted."
 }
