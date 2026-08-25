@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[トランプ政権の科学アジェンダの内幕：反科学的主張、ファウチの害、DEIと中国（マイケル・クラツィオス氏と共に）]]></title>
+            <link>https://finance.biggo.jp/podcast/4efd077200b45309</link>
+            <guid>https://finance.biggo.jp/podcast/4efd077200b45309</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[植物における肉タンパク質]]></title>
+            <link>https://finance.biggo.jp/podcast/4a857497f5f04d58</link>
+            <guid>https://finance.biggo.jp/podcast/4a857497f5f04d58</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[インフレが日本にとって良い知らせとなる理由 | トランプノミクス]]></title>
             <link>https://finance.biggo.jp/podcast/c878d89cda72789c</link>
             <guid>https://finance.biggo.jp/podcast/c878d89cda72789c</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[TIVP092（ビデオ）：ドミノ・ピザ（DPZ）：ロイヤルティエンジンはまだ動いているか？カイル・グリーブ＆ショーン・オマリーと共に]]></title>
             <link>https://finance.biggo.jp/podcast/2d3b350e151c4f63</link>
             <guid>https://finance.biggo.jp/podcast/2d3b350e151c4f63</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1351: エボラウイルスの脳と伝染性ナマズのがん]]></title>
-            <link>https://finance.biggo.jp/podcast/03ec0c860f9d1f7a</link>
-            <guid>https://finance.biggo.jp/podcast/03ec0c860f9d1f7a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ベンチャーキャピタリスト佐俣アンリさん（株式会社ANRI）さんが語る「NOT A HOTELに投資した理由」]]></title>
-            <link>https://finance.biggo.jp/podcast/bf656334561f0723</link>
-            <guid>https://finance.biggo.jp/podcast/bf656334561f0723</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
