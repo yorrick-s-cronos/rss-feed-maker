@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Claude Codeのメモリをオフにする]]></title>
+            <link>https://finance.biggo.jp/podcast/bb1b56f140ee671f</link>
+            <guid>https://finance.biggo.jp/podcast/bb1b56f140ee671f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[検索は人間のために作られた。Parallelのパラグ・アグラワルはエージェントのために再構築している]]></title>
             <link>https://finance.biggo.jp/podcast/459aba3cc2aef669</link>
             <guid>https://finance.biggo.jp/podcast/459aba3cc2aef669</guid>
@@ -70,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How I turned my kitchen recipe into a $2B sale to PepsiCo (ft. Allison Ellsworth, Poppi)]]></title>
+            <title><![CDATA[キッチンのレシピをペプシコに20億ドルで売却するまで（ft. アリソン・エルズワース、Poppi）]]></title>
             <link>https://finance.biggo.jp/podcast/a2c00545014434d5</link>
             <guid>https://finance.biggo.jp/podcast/a2c00545014434d5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[米国債市場は思うほど「安全」ではない | Systematic Investor | Ep.414]]></title>
             <link>https://finance.biggo.jp/podcast/365197c6247258c6</link>
             <guid>https://finance.biggo.jp/podcast/365197c6247258c6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[売れる広告の作り方：クラウド・ホプキンズの科学的広告]]></title>
-            <link>https://finance.biggo.jp/podcast/7f3fca9a01583ab2</link>
-            <guid>https://finance.biggo.jp/podcast/7f3fca9a01583ab2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
