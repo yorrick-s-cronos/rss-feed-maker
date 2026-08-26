@@ -4,11 +4,23 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Warp builds self-improving agents on Claude]]></title>
+            <link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
+            <guid>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claude in Chrome is generally available]]></title>
+            <link>https://claude.com/blog/claude-in-chrome-generally-available</link>
+            <guid>https://claude.com/blog/claude-in-chrome-generally-available</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bain & Company joins the Claude Partner Network as a Global Premier partner]]></title>
             <link>https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</link>
@@ -86,18 +98,6 @@
             <link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
             <guid>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</guid>
             <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions]]></title>
-            <link>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</link>
-            <guid>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</guid>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude Tag now reads even more of the room]]></title>
-            <link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
-            <guid>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</guid>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

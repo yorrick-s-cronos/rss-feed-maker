@@ -1,7 +1,9 @@
 {
-  "lastSuccess": "2026-08-26T16:10:21.728Z",
+  "lastSuccess": "2026-08-26T18:49:35.064Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "https://claude.com/blog/claude-in-chrome-generally-available",
     "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
     "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
     "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
@@ -14,9 +16,7 @@
     "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
     "https://claude.com/blog/ai-ci-cd-on-call",
     "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
-    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-    "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
-    "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room"
+    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
   ],
   "consecutiveErrors": 0
 }

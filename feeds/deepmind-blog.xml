@@ -10,15 +10,21 @@
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/deepmind-blog.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Introducing Gemini 3.7 Flash]]></title>
-            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</link>
-            <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</guid>
+            <title><![CDATA[Intelligent transcription with Gemini 3.5 Transcribe]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
             <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From Atari to EVE Online: Building on 15 Years of AI Research in Games]]></title>
             <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
             <guid>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</guid>
+            <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Gemini 3.7 Flash]]></title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</link>
+            <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</guid>
             <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -151,12 +157,6 @@
             <title><![CDATA[Strengthening Singapore’s AI Future: A New National Partnership]]></title>
             <link>https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/</link>
             <guid>https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gemini 3.5: frontier intelligence with action]]></title>
-            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
-            <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</guid>
             <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
