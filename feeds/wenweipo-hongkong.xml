@@ -10,6 +10,15 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[醫務衞生局發表2024／25年度《本地醫療衞生總開支帳目》]]></title>
+            <link>https://www.wenweipo.com/a/202608/26/AP6a8e6824e4b0c1e50026491c.html</link>
+            <guid>https://www.wenweipo.com/a/202608/26/AP6a8e6824e4b0c1e50026491c.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[醫務衞生局（醫衞局）今日（26日）發表2024／25年度的《本地醫療衞生總開支帳目》（《帳目》）及根據國際慣例修訂以前年度的數字以納入最新資料，《帳目》有系統地顯示香港以12個月計的醫療衞生開支流向，為評估和了解香港的醫療開支水平和趨勢提供依據。
+
+整體而言，2024／25年度的醫療開支走勢維持穩定，香港醫療衞生經常性開支為2,625.13億元，較上年度增加5.0%（或124.91億元）。開支佔本地生產總值的百分比為8.2%，與上年度的佔比相若。人均醫療衞生經常性開支為34,890元。]]></description>
+        </item>
+        <item>
             <title><![CDATA[（有片）警「凜光」打擊社交平台售賣大麻 破販毒集團拘6人]]></title>
             <link>https://www.wenweipo.com/a/202608/26/AP6a8e5bcbe4b0c1e5002647e0.html</link>
             <guid>https://www.wenweipo.com/a/202608/26/AP6a8e5bcbe4b0c1e5002647e0.html</guid>
@@ -108,13 +117,6 @@
             <guid>https://www.wenweipo.com/a/202608/25/AP6a8db39fe4b0c1e5002639ee.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[警方今日（25日）晚上7時26分接獲一名李姓男子報案，指在秀茂坪牛頭角上邨常逸樓住所，發現其18歲兒子藏有懷疑毒品。警員接報到場，在報案人兒子的睡房檢獲一支懷疑電子煙槍及3粒懷疑含有依托咪酯的電子煙彈。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全球獨角獸大會｜劉央：AI疊加全球化是中國醫療器械大勢]]></title>
-            <link>https://www.wenweipo.com/a/202608/25/AP6a8dafbde4b0c1e5002639b4.html</link>
-            <guid>https://www.wenweipo.com/a/202608/25/AP6a8dafbde4b0c1e5002639b4.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[在首屆獨角獸大會的分論壇上，西京投資管理公司主席兼投資總監、央媽聯幫家族辦公室創始人劉央發表了題為「道器相濟 匡視天下」的主題演講。這位在資產配置領域深耕三十四年、被稱為「中國女巴菲特」的她明確指出：當下中國醫療器械的大勢，就是AI疊加的全球化。]]></description>
         </item>
     </channel>
 </rss>
