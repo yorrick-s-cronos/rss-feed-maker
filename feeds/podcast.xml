@@ -10,6 +10,36 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[RKLB工場見学：衛星、宇宙船、そしてミッションコントロール]]></title>
+            <link>https://finance.biggo.jp/podcast/922b194bcc712b1d</link>
+            <guid>https://finance.biggo.jp/podcast/922b194bcc712b1d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIバイヤーをリバースエンジニアリングする — アリサ・ローゼンタール、Acrew Capital]]></title>
+            <link>https://finance.biggo.jp/podcast/76e7a2c3c82b7f3f</link>
+            <guid>https://finance.biggo.jp/podcast/76e7a2c3c82b7f3f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ユヴァル・ノア・ハラリ氏への完全版インタビュー | The Economist]]></title>
+            <link>https://finance.biggo.jp/podcast/d44d84c3e3d051bb</link>
+            <guid>https://finance.biggo.jp/podcast/d44d84c3e3d051bb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RLは強烈な薬：メタゲーミング、報酬追求、動機づけられたCoT推論 – Bronson Schoen, Apollo]]></title>
+            <link>https://finance.biggo.jp/podcast/a920ec3d8dbc61ae</link>
+            <guid>https://finance.biggo.jp/podcast/a920ec3d8dbc61ae</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[152. Kimi K3技術報告を読み解く：アーキテクチャ革新から始まる、注意力の美学、マルチ教師蒸留、そしてオープンソースMoE]]></title>
+            <link>https://finance.biggo.jp/podcast/97efa12e708c99e2</link>
+            <guid>https://finance.biggo.jp/podcast/97efa12e708c99e2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[二重標的とスマートな送達によるADCの革新]]></title>
             <link>https://finance.biggo.jp/podcast/93d3ef5845c3a88f</link>
             <guid>https://finance.biggo.jp/podcast/93d3ef5845c3a88f</guid>
@@ -97,36 +127,6 @@
             <title><![CDATA[マックス・ジュネストランド：誰よりも速く学ぶ意欲が必要だ]]></title>
             <link>https://finance.biggo.jp/podcast/742130fbc4ba300c</link>
             <guid>https://finance.biggo.jp/podcast/742130fbc4ba300c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ep208: ゲイリー・ネイベル、エプスタイン・バーウイルスワクチン開発について語る]]></title>
-            <link>https://finance.biggo.jp/podcast/62c369a12eb2ddd9</link>
-            <guid>https://finance.biggo.jp/podcast/62c369a12eb2ddd9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ビデオキャスト：グッドウィンのソフィー・マクグラス氏 – ヘルステックとバイオファーマのトレンドを法的視点から考察]]></title>
-            <link>https://finance.biggo.jp/podcast/f94645b2949ebd80</link>
-            <guid>https://finance.biggo.jp/podcast/f94645b2949ebd80</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ParallelのParag Agrawal：AIエージェントのための新しいWebを構築する]]></title>
-            <link>https://finance.biggo.jp/podcast/325e13cd8ddcbcd5</link>
-            <guid>https://finance.biggo.jp/podcast/325e13cd8ddcbcd5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIを1000倍安くする男]]></title>
-            <link>https://finance.biggo.jp/podcast/29d3f76c7eeac4a2</link>
-            <guid>https://finance.biggo.jp/podcast/29d3f76c7eeac4a2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase、Baseでトークン化株式を開始]]></title>
-            <link>https://finance.biggo.jp/podcast/77a624d1ee15b152</link>
-            <guid>https://finance.biggo.jp/podcast/77a624d1ee15b152</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
