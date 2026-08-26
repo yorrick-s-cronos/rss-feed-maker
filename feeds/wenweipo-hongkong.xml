@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[投資騙案│(有片)假專家教你投資股票 小心唱高散貨騙局]]></title>
+            <link>https://www.wenweipo.com/a/202608/26/AP6a8ef641e4b0c1e50026596d.html</link>
+            <guid>https://www.wenweipo.com/a/202608/26/AP6a8ef641e4b0c1e50026596d.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[2026年頭半年錄得20,613宗騙案，損失金額超過35億元。當中投資騙案有2,151宗，佔整體騙案數字約十分一，但所涉及的金額就高達16.6億元，即是總損失金額的約一半。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新皇崗口岸│深港救護車跨境病人交接演練 確保儘快獲得適切治療]]></title>
+            <link>https://www.wenweipo.com/a/202608/26/AP6a8eefeae4b0c1e5002658c5.html</link>
+            <guid>https://www.wenweipo.com/a/202608/26/AP6a8eefeae4b0c1e5002658c5.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[新皇崗口岸啟用在即，香港海關昨日（25日）聯同香港消防處、入境事務處及衞生署，在新皇崗口岸進行深港救護車跨境病人交接聯合演練。]]></description>
+        </item>
+        <item>
             <title><![CDATA[（有片）新皇崗口岸│陳子達視察「聯合一站式」車道測試及旅檢設施]]></title>
             <link>https://www.wenweipo.com/a/202608/26/AP6a8eec2be4b0c1e500265866.html</link>
             <guid>https://www.wenweipo.com/a/202608/26/AP6a8eec2be4b0c1e500265866.html</guid>
@@ -101,20 +115,6 @@
             <guid>https://www.wenweipo.com/a/202608/26/AP6a8eba97e4b0c1e5002653ae.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[施俊輝期盼得獎者發揮橋樑角色，在國際舞台上展現香港的活力與實力，說好香港故事，將來學有所成和貢獻所長，為香港注入新發展動能。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[城大媒體系辦傳媒體驗日 60名中學生零距離接觸業界前沿]]></title>
-            <link>https://www.wenweipo.com/a/202608/26/AP6a8eb522e4b0c1e50026537d.html</link>
-            <guid>https://www.wenweipo.com/a/202608/26/AP6a8eb522e4b0c1e50026537d.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港城市大學媒體與傳播系於本月13日舉辦傳媒行業分享會暨設施參觀活動，本次活動共有超過60名中學生參與由政務司司長領導的「共创明『Teen』」活動。城大媒體與傳播系一直致力培育本地傳媒人才，是次活動為學生打造沉浸式數碼媒體學習體驗，涵蓋主播主持、新聞採編、攝影及人工智能應用等範疇，讓參加者深入了解傳媒行業的專業成長路徑，為未來職業規劃奠下基礎。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[海關搗破儲存走私受管制藥劑製品倉庫 檢約40萬件藥劑製品拘兩人]]></title>
-            <link>https://www.wenweipo.com/a/202608/26/AP6a8eb469e4b0c1e500265368.html</link>
-            <guid>https://www.wenweipo.com/a/202608/26/AP6a8eb469e4b0c1e500265368.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[海關留意到近期社會對受管制藥劑製品的需求，於本月上旬展開連串調查鎖定一個位於上水工廈單位疑與走私藥劑製品有關。直至昨日（25日）海關採取執法行動，成功搗破懷疑儲存走私受管制藥物的倉庫拘捕兩名涉案男女，檢獲超過40萬件的懷疑受管制藥劑製品，超過六成為壯陽藥，市值逾1100萬元；但藥物的安全、素質及效能均無法獲得保證。海關正調查藥物來源及流向，不排除有更多人被捕。]]></description>
         </item>
     </channel>
 </rss>

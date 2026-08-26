@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AIで危険なほど生産的になる方法（チュートリアル3本）]]></title>
+            <link>https://finance.biggo.jp/podcast/5008c71ef914fd5a</link>
+            <guid>https://finance.biggo.jp/podcast/5008c71ef914fd5a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[RKLB工場見学：衛星、宇宙船、そしてミッションコントロール]]></title>
             <link>https://finance.biggo.jp/podcast/922b194bcc712b1d</link>
             <guid>https://finance.biggo.jp/podcast/922b194bcc712b1d</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[ADI決算分析、カスタムシリコンの変化、半導体企業の負債について]]></title>
             <link>https://finance.biggo.jp/podcast/2cf7ca17e8570c43</link>
             <guid>https://finance.biggo.jp/podcast/2cf7ca17e8570c43</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[マックス・ジュネストランド：誰よりも速く学ぶ意欲が必要だ]]></title>
-            <link>https://finance.biggo.jp/podcast/742130fbc4ba300c</link>
-            <guid>https://finance.biggo.jp/podcast/742130fbc4ba300c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
