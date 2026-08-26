@@ -4,16 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Tue, 25 Aug 2026 16:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 00:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Tuyên bố chung Việt Nam - Singapore về Chiến lược Kết nối công nghệ]]></title>
-            <link>https://mekongasean.vn/tuyen-bo-chung-viet-nam-singapore-ve-chien-luoc-ket-noi-cong-nghe-58927.html</link>
-            <guid>https://mekongasean.vn/tuyen-bo-chung-viet-nam-singapore-ve-chien-luoc-ket-noi-cong-nghe-58927.html</guid>
-            <pubDate>Tue, 25 Aug 2026 16:41:47 GMT</pubDate>
+            <title><![CDATA[Việt Nam dành ưu tiên cao nhất cho việc củng cố, phát triển quan hệ với Lào]]></title>
+            <link>https://mekongasean.vn/viet-nam-danh-uu-tien-cao-nhat-cho-viec-cung-co-phat-trien-quan-he-voi-lao-58930.html</link>
+            <guid>https://mekongasean.vn/viet-nam-danh-uu-tien-cao-nhat-cho-viec-cung-co-phat-trien-quan-he-voi-lao-58930.html</guid>
+            <pubDate>Wed, 26 Aug 2026 00:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Việt Nam - Singapore hướng đến tương lai chung tự cường]]></title>
+            <link>https://mekongasean.vn/viet-nam-singapore-huong-den-tuong-lai-chung-tu-cuong-58920.html</link>
+            <guid>https://mekongasean.vn/viet-nam-singapore-huong-den-tuong-lai-chung-tu-cuong-58920.html</guid>
+            <pubDate>Tue, 25 Aug 2026 15:53:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

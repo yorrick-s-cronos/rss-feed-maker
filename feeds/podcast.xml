@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sir Paul Marshall: Why Markets Are Getting More Competitive | Podcast | In Good Company]]></title>
+            <link>https://finance.biggo.jp/podcast/e4eb64032bddd3a9</link>
+            <guid>https://finance.biggo.jp/podcast/e4eb64032bddd3a9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[アインシュタイン・アリーナ：オープンサイエンスのための集合的エージェント知能の活用 — ジェームズ・ゾウ、トゥギャザーAI]]></title>
             <link>https://finance.biggo.jp/podcast/a2fb10ae176402e7</link>
             <guid>https://finance.biggo.jp/podcast/a2fb10ae176402e7</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[Claude Codeのメモリをオフにする]]></title>
             <link>https://finance.biggo.jp/podcast/bb1b56f140ee671f</link>
             <guid>https://finance.biggo.jp/podcast/bb1b56f140ee671f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parallelのパラグ・アグラワル：AIエージェントのための新しいWebを構築する]]></title>
-            <link>https://finance.biggo.jp/podcast/459aba3cc2aef669</link>
-            <guid>https://finance.biggo.jp/podcast/459aba3cc2aef669</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
