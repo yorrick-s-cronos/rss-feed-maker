@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Sir Paul Marshall: Why Markets Are Getting More Competitive | Podcast | In Good Company]]></title>
+            <title><![CDATA[エージェント型AIに欠けている層 — Giedrius Šteimantas（Oxylabs）]]></title>
+            <link>https://finance.biggo.jp/podcast/eb4fc351e82519e7</link>
+            <guid>https://finance.biggo.jp/podcast/eb4fc351e82519e7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[サー・ポール・マーシャル：市場がより競争的になっている理由 | ポッドキャスト | イン・グッド・カンパニー]]></title>
             <link>https://finance.biggo.jp/podcast/e4eb64032bddd3a9</link>
             <guid>https://finance.biggo.jp/podcast/e4eb64032bddd3a9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[マーケットプレイスはAIモデルよりも価値を持つことができるのか？S3E17]]></title>
             <link>https://finance.biggo.jp/podcast/3b48c82a746a86ef</link>
             <guid>https://finance.biggo.jp/podcast/3b48c82a746a86ef</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude Codeのメモリをオフにする]]></title>
-            <link>https://finance.biggo.jp/podcast/bb1b56f140ee671f</link>
-            <guid>https://finance.biggo.jp/podcast/bb1b56f140ee671f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
