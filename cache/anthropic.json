@@ -1,7 +1,9 @@
 {
-  "lastSuccess": "2026-08-27T13:21:37.812Z",
+  "lastSuccess": "2026-08-27T23:22:30.075Z",
   "articleCount": 10,
   "knownLinks": [
+    "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "https://www.anthropic.com/news/expanding-support-for-scientists",
     "https://www.anthropic.com/news/wellbeing-research-grants",
     "https://www.anthropic.com/news/claude-text-watermark",
     "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
@@ -9,9 +11,7 @@
     "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
     "https://www.anthropic.com/news/position-open-weights-models",
     "https://www.anthropic.com/news/cognizant-anthropic",
-    "https://www.anthropic.com/news/claude-opus-5",
-    "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-    "https://www.anthropic.com/news/anthropic-economic-index-connector"
+    "https://www.anthropic.com/news/claude-opus-5"
   ],
   "consecutiveErrors": 0
 }

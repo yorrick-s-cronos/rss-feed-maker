@@ -4,11 +4,17 @@
         <title>Cursor Blog</title>
         <link>https://cursor.com/blog</link>
         <description>Latest updates and insights from the Cursor team about AI-powered coding</description>
-        <lastBuildDate>Tue, 25 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cursor-blog.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Start from scratch, without a repo]]></title>
+            <link>https://cursor.com/changelog/start-from-scratch</link>
+            <guid>https://cursor.com/changelog/start-from-scratch</guid>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IMDEX uses Cursor to build integrated subsurface data and analytics platform in months, not years]]></title>
             <link>https://cursor.com/blog/imdex</link>
@@ -52,12 +58,6 @@
             <guid>https://cursor.com/blog/grok-4-6</guid>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Built for long-running agents and more ambitious interactive and visual work.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Google Workspace Plugins]]></title>
-            <link>https://cursor.com/changelog/google-workspace-plugins</link>
-            <guid>https://cursor.com/changelog/google-workspace-plugins</guid>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Vercel used Cursor to build Queues]]></title>
