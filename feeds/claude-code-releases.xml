@@ -4,11 +4,91 @@
         <title>claude-code Releases</title>
         <link>https://github.com/anthropics/claude-code/releases</link>
         <description>GitHub releases for anthropics/claude-code</description>
-        <lastBuildDate>Tue, 25 Aug 2026 22:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 23:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v2.1.247]]></title>
+            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.247</link>
+            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.247</guid>
+            <pubDate>Wed, 26 Aug 2026 23:06:39 GMT</pubDate>
+            <description><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Added the <code>SendFeedback</code> tool: when something goes wrong in a session, Claude can draft a feedback report for you to review and send from <code>/feedback</code> (turn off with the <code>feedbackDrafts</code> setting)</li>
+<li>Added <code>{id, text, cooldownSessions, priority}</code> entries, <code>tipsFile</code>, and <code>label</code> to <code>spinnerTipsOverride</code>, so organizations can rotate their own tips alongside the built-in ones</li>
+<li>Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke &quot;Yes, and switch to auto mode&quot; option</li>
+<li>Added <code>/claude-api cost-optimize</code> to profile an existing project&#39;s Claude API spend and work through cost levers (caching, token hygiene, batch, effort, model choice) one measured change at a time</li>
+<li>Updated the <code>/claude-api</code> skill with Admin API coverage (organization members, invites, workspaces, API keys, rate limit reports, workload identity federation, CMEK)</li>
+<li>Fixed fast arrow-key + Enter sequences acting on the row above the one you navigated to in history search, <code>/config</code>, <code>/mcp</code>, <code>/skills</code>, background tasks, and <code>/model</code></li>
+<li>Fixed sub-agents dying on a first-call model 404: they now use the session&#39;s fallback model chain, and the error returned to the parent includes the error type, status, request id, and model</li>
+<li>Fixed a hook or background agent that printed megabytes of error output being able to overflow the conversation and wedge the session on &quot;Prompt is too long&quot;</li>
+<li>Fixed Ctrl keyboard shortcuts not firing under non-Latin (e.g. Cyrillic) keyboard layouts in kitty-protocol terminals</li>
+<li>Fixed text like <code>&lt;35;150;7M</code> being inserted into the prompt when a mouse report arrived split across reads right after the escape prefix</li>
+<li>Fixed the Bash sandbox&#39;s after-command cleanup deleting a dotfile-managed <code>~/.claude/settings.json</code> symlink (nix/home-manager, stow) when it is repointed outside the sandbox&#39;s writable area</li>
+<li>Fixed <code>/terminal-setup</code> overwriting your entire Zed <code>keymap.json</code> instead of merging in its keybinding</li>
+<li>Fixed <code>/rename</code> silently confirming when the session registry could not be updated; it now says other sessions may still show the old name</li>
+<li>Fixed <code>/compact</code> and &quot;Summarize from here&quot; in sessions started with <code>--agent</code> summarizing under the default system prompt instead of the conversation&#39;s own</li>
+<li>Fixed a background session showing &quot;opening…&quot; forever in <code>claude agents</code> after its terminal host process died; the row now fails within seconds with the reason, and Enter restarts it</li>
+<li>Fixed unbounded memory growth when a hook&#39;s or background task&#39;s output file could not be written; the file now notes where output was lost</li>
+<li>Fixed <code>/install-github-app</code> over SSH: the copy shortcut now says how the sign-in URL was copied instead of always claiming success, and the URL appears immediately when no browser can open</li>
+<li>Fixed shell commands carried over from the foreground logging an internal error or showing a misleading <code>[exited with code -1]</code> line when they finish in background sessions</li>
+<li>Fixed a version-less marketplace plugin&#39;s live cache directory being deleted and recreated on a second-scope install, which could disrupt a running session using it</li>
+<li>Fixed Remote Control sessions started with <code>/remote-control</code> not reporting the working-tree diff to connected clients</li>
+<li>Fixed self-hosted runner sessions reporting <code>running</code> before Claude Code had started, which could trigger a premature &quot;Claude is waiting for your input&quot; notification from the Claude desktop app</li>
+<li>Fixed first-run setup exiting with &quot;Unable to connect to Anthropic services&quot; when managed settings configure Claude apps gateway sign-in and Anthropic endpoints are unreachable</li>
+<li>Fixed cloud sessions (Claude Code on the web, desktop and mobile apps) sometimes showing the previous permission mode when you switch modes right after sending a message</li>
+<li>Fixed cloud sessions going silent when the session&#39;s container restarts between turns while a background agent, shell, or monitor is still running — the resumed session now reports the lost work</li>
+<li>Improved plugin marketplace hardening: names containing control or invisible characters are rejected, and marketplace-supplied text in <code>/plugin</code> and <code>claude plugin</code> output is escape-safe</li>
+<li>Improved Bedrock, Vertex, and Foundry sessions (and any with telemetry disabled): Claude is now told when a configured MCP server failed to connect, instead of concluding its tools don&#39;t exist</li>
+<li>Changed Sonnet 5&#39;s default auto-compact window to its full 1M context, so sessions on the 1M window now auto-compact at about 967K tokens instead of about 934K</li>
+<li>Changed cross-session peer messages to collapse by default to a one-line <code>Message from @&lt;sender&gt;: &lt;first line&gt;</code> preview; Ctrl+O expands the full body</li>
+<li>Changed terminal hyperlinks in rendered markdown: link targets that point at a network or automounter path, contain a control character, or lead with an invisible character now render as plain text</li>
+<li>Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus when the last check is under a minute old</li>
+<li>Changed analytics to stay off from startup, not only after login, when managed settings force gateway login or a custom OAuth deployment is configured</li>
+<li>Changed Claude apps gateway sign-in requests to identify Claude Code (a <code>surface=claude_code</code> device-authorization parameter and a <code>claude-code/&lt;version&gt;</code> User-Agent)</li>
+<li>Changed organization sign-in enforcement to exit at start when the administrator&#39;s managed settings cannot be read, even if host-supplied or per-user Windows registry settings exist</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
+<ul>
+<li>Added the <code>SendFeedback</code> tool: when something goes wrong in a session, Claude can draft a feedback report for you to review and send from <code>/feedback</code> (turn off with the <code>feedbackDrafts</code> setting)</li>
+<li>Added <code>{id, text, cooldownSessions, priority}</code> entries, <code>tipsFile</code>, and <code>label</code> to <code>spinnerTipsOverride</code>, so organizations can rotate their own tips alongside the built-in ones</li>
+<li>Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke &quot;Yes, and switch to auto mode&quot; option</li>
+<li>Added <code>/claude-api cost-optimize</code> to profile an existing project&#39;s Claude API spend and work through cost levers (caching, token hygiene, batch, effort, model choice) one measured change at a time</li>
+<li>Updated the <code>/claude-api</code> skill with Admin API coverage (organization members, invites, workspaces, API keys, rate limit reports, workload identity federation, CMEK)</li>
+<li>Fixed fast arrow-key + Enter sequences acting on the row above the one you navigated to in history search, <code>/config</code>, <code>/mcp</code>, <code>/skills</code>, background tasks, and <code>/model</code></li>
+<li>Fixed sub-agents dying on a first-call model 404: they now use the session&#39;s fallback model chain, and the error returned to the parent includes the error type, status, request id, and model</li>
+<li>Fixed a hook or background agent that printed megabytes of error output being able to overflow the conversation and wedge the session on &quot;Prompt is too long&quot;</li>
+<li>Fixed Ctrl keyboard shortcuts not firing under non-Latin (e.g. Cyrillic) keyboard layouts in kitty-protocol terminals</li>
+<li>Fixed text like <code>&lt;35;150;7M</code> being inserted into the prompt when a mouse report arrived split across reads right after the escape prefix</li>
+<li>Fixed the Bash sandbox&#39;s after-command cleanup deleting a dotfile-managed <code>~/.claude/settings.json</code> symlink (nix/home-manager, stow) when it is repointed outside the sandbox&#39;s writable area</li>
+<li>Fixed <code>/terminal-setup</code> overwriting your entire Zed <code>keymap.json</code> instead of merging in its keybinding</li>
+<li>Fixed <code>/rename</code> silently confirming when the session registry could not be updated; it now says other sessions may still show the old name</li>
+<li>Fixed <code>/compact</code> and &quot;Summarize from here&quot; in sessions started with <code>--agent</code> summarizing under the default system prompt instead of the conversation&#39;s own</li>
+<li>Fixed a background session showing &quot;opening…&quot; forever in <code>claude agents</code> after its terminal host process died; the row now fails within seconds with the reason, and Enter restarts it</li>
+<li>Fixed unbounded memory growth when a hook&#39;s or background task&#39;s output file could not be written; the file now notes where output was lost</li>
+<li>Fixed <code>/install-github-app</code> over SSH: the copy shortcut now says how the sign-in URL was copied instead of always claiming success, and the URL appears immediately when no browser can open</li>
+<li>Fixed shell commands carried over from the foreground logging an internal error or showing a misleading <code>[exited with code -1]</code> line when they finish in background sessions</li>
+<li>Fixed a version-less marketplace plugin&#39;s live cache directory being deleted and recreated on a second-scope install, which could disrupt a running session using it</li>
+<li>Fixed Remote Control sessions started with <code>/remote-control</code> not reporting the working-tree diff to connected clients</li>
+<li>Fixed self-hosted runner sessions reporting <code>running</code> before Claude Code had started, which could trigger a premature &quot;Claude is waiting for your input&quot; notification from the Claude desktop app</li>
+<li>Fixed first-run setup exiting with &quot;Unable to connect to Anthropic services&quot; when managed settings configure Claude apps gateway sign-in and Anthropic endpoints are unreachable</li>
+<li>Fixed cloud sessions (Claude Code on the web, desktop and mobile apps) sometimes showing the previous permission mode when you switch modes right after sending a message</li>
+<li>Fixed cloud sessions going silent when the session&#39;s container restarts between turns while a background agent, shell, or monitor is still running — the resumed session now reports the lost work</li>
+<li>Improved plugin marketplace hardening: names containing control or invisible characters are rejected, and marketplace-supplied text in <code>/plugin</code> and <code>claude plugin</code> output is escape-safe</li>
+<li>Improved Bedrock, Vertex, and Foundry sessions (and any with telemetry disabled): Claude is now told when a configured MCP server failed to connect, instead of concluding its tools don&#39;t exist</li>
+<li>Changed Sonnet 5&#39;s default auto-compact window to its full 1M context, so sessions on the 1M window now auto-compact at about 967K tokens instead of about 934K</li>
+<li>Changed cross-session peer messages to collapse by default to a one-line <code>Message from @&lt;sender&gt;: &lt;first line&gt;</code> preview; Ctrl+O expands the full body</li>
+<li>Changed terminal hyperlinks in rendered markdown: link targets that point at a network or automounter path, contain a control character, or lead with an invisible character now render as plain text</li>
+<li>Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus when the last check is under a minute old</li>
+<li>Changed analytics to stay off from startup, not only after login, when managed settings force gateway login or a custom OAuth deployment is configured</li>
+<li>Changed Claude apps gateway sign-in requests to identify Claude Code (a <code>surface=claude_code</code> device-authorization parameter and a <code>claude-code/&lt;version&gt;</code> User-Agent)</li>
+<li>Changed organization sign-in enforcement to exit at start when the administrator&#39;s managed settings cannot be read, even if host-supplied or per-user Windows registry settings exist</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.1.246]]></title>
             <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.246</link>
@@ -2960,22 +3040,6 @@
 <li>Improved vim mode prompt-history search (NORMAL <code>/</code>) to hint how to reach slash commands</li>
 <li>Reduced CPU usage during streaming responses by ~37% by coalescing text updates to 100ms</li>
 <li>Reduced long-session memory growth from terminal output cache</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[v2.1.190]]></title>
-            <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.190</link>
-            <guid>https://github.com/anthropics/claude-code/releases/tag/v2.1.190</guid>
-            <pubDate>Wed, 24 Jun 2026 15:53:56 GMT</pubDate>
-            <description><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Bug fixes and reliability improvements</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2>What&#39;s changed</h2>
-<ul>
-<li>Bug fixes and reliability improvements</li>
 </ul>
 ]]></content:encoded>
         </item>

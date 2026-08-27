@@ -10,13 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[大規模モデルの隠れた推論と解釈可能性：AIは何を考えているのか？｜スタンフォード博士Aryaman Aroraとの対話【101ビデオポッドキャスト】]]></title>
+            <link>https://finance.biggo.jp/podcast/4116bea1b335fbdf</link>
+            <guid>https://finance.biggo.jp/podcast/4116bea1b335fbdf</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solar Fell 90% — How Clean Energy Won on Economics]]></title>
+            <link>https://finance.biggo.jp/podcast/ec901c4c7321a108</link>
+            <guid>https://finance.biggo.jp/podcast/ec901c4c7321a108</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vercel CTO + RSI Neolab Inherent の最初の論文]]></title>
             <link>https://finance.biggo.jp/podcast/3a9229381f6cd20e</link>
             <guid>https://finance.biggo.jp/podcast/3a9229381f6cd20e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We break down Meta's kids safety settlement | The Vergecast]]></title>
+            <title><![CDATA[メタの子ども安全和解を徹底解説 | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/1d289cb26299a180</link>
             <guid>https://finance.biggo.jp/podcast/1d289cb26299a180</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[🔬 なぜトランスフォーマーは物理学が登場すると壁に突き当たるのか — アニマ・アナンドクマー（カリフォルニア工科大学）]]></title>
+            <title><![CDATA[🔬 気象科学者たちはAIには無理だと言った。たった一度の挑戦で実現 — アニマ・アナンドクマー、カリフォルニア工科大学]]></title>
             <link>https://finance.biggo.jp/podcast/87442ef60a679a12</link>
             <guid>https://finance.biggo.jp/podcast/87442ef60a679a12</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -100,7 +112,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[50億ドルの創業者がAIをどう使っているか（3つのチュートリアル）]]></title>
+            <title><![CDATA[$50億の創業者：AIで仕事のすべてを自動化する方法（チュートリアル3本）]]></title>
             <link>https://finance.biggo.jp/podcast/5008c71ef914fd5a</link>
             <guid>https://finance.biggo.jp/podcast/5008c71ef914fd5a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[長寿の達人たちが教えてくれないこと]]></title>
             <link>https://finance.biggo.jp/podcast/22f1e449ff5d4865</link>
             <guid>https://finance.biggo.jp/podcast/22f1e449ff5d4865</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ロケットラボ本社ツアー with サー・ピーター・ベック | 工場ツアー：パートI]]></title>
-            <link>https://finance.biggo.jp/podcast/922b194bcc712b1d</link>
-            <guid>https://finance.biggo.jp/podcast/922b194bcc712b1d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIバイヤーをリバースエンジニアリングする — アリサ・ローゼンタール、Acrew Capital]]></title>
-            <link>https://finance.biggo.jp/podcast/76e7a2c3c82b7f3f</link>
-            <guid>https://finance.biggo.jp/podcast/76e7a2c3c82b7f3f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
