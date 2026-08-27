@@ -10,13 +10,49 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[大規模モデルの隠れた推論と解釈可能性：AIは何を考えているのか？｜スタンフォード博士Aryaman Aroraとの対話【101ビデオポッドキャスト】]]></title>
+            <title><![CDATA[ストライカーの市場をリードする成長の秘訣は、その文化と学びにあり]]></title>
+            <link>https://finance.biggo.jp/podcast/90084ce641186a73</link>
+            <guid>https://finance.biggo.jp/podcast/90084ce641186a73</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[なぜウォール街はイーサリアムをまだ完全には使えないのか]]></title>
+            <link>https://finance.biggo.jp/podcast/80008890c586cb95</link>
+            <guid>https://finance.biggo.jp/podcast/80008890c586cb95</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eon共同創業者オフィル・エーリックとゴネン・スタインと考える、レガシーデータ基盤の再考]]></title>
+            <link>https://finance.biggo.jp/podcast/40a996d2311d35b9</link>
+            <guid>https://finance.biggo.jp/podcast/40a996d2311d35b9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIに異を唱える男：彼らはAIについて嘘をついている、これは世界最大の詐欺だ！| エド・ジトロン]]></title>
+            <link>https://finance.biggo.jp/podcast/b2a476528168c72f</link>
+            <guid>https://finance.biggo.jp/podcast/b2a476528168c72f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[431: Nonessential Workers (mami)]]></title>
+            <link>https://finance.biggo.jp/podcast/ef51c87caa9e669b</link>
+            <guid>https://finance.biggo.jp/podcast/ef51c87caa9e669b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エリック・ワインスタイン：アメリカ科学の現状、画期的発見の隠蔽、そして物理学の危険性]]></title>
+            <link>https://finance.biggo.jp/podcast/d7fc8c57106df079</link>
+            <guid>https://finance.biggo.jp/podcast/d7fc8c57106df079</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIの解釈可能性とアラインメント：J-Space、思考の連鎖、AIの人格、幻覚、そして金門大橋【101動画ポッドキャスト】]]></title>
             <link>https://finance.biggo.jp/podcast/4116bea1b335fbdf</link>
             <guid>https://finance.biggo.jp/podcast/4116bea1b335fbdf</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Solar Fell 90% — How Clean Energy Won on Economics]]></title>
+            <title><![CDATA[太陽光発電が90%下落——クリーンエネルギーが経済で勝った理由]]></title>
             <link>https://finance.biggo.jp/podcast/ec901c4c7321a108</link>
             <guid>https://finance.biggo.jp/podcast/ec901c4c7321a108</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -91,42 +127,6 @@
             <title><![CDATA[GTM AIエージェント構築：6,000ユーザーへの展開から得た教訓 — Sait Izmit（Snowflake）]]></title>
             <link>https://finance.biggo.jp/podcast/434a06de26eb6f52</link>
             <guid>https://finance.biggo.jp/podcast/434a06de26eb6f52</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GTMオーケストレーションの構成要素 — Arman Vaziri（Ramp）]]></title>
-            <link>https://finance.biggo.jp/podcast/e1e40ba79e4daae4</link>
-            <guid>https://finance.biggo.jp/podcast/e1e40ba79e4daae4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今、AI投資をどう考えるべきか]]></title>
-            <link>https://finance.biggo.jp/podcast/fabec335d59fc843</link>
-            <guid>https://finance.biggo.jp/podcast/fabec335d59fc843</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NotionにおけるGTMへのAI活用 — Flora Liu]]></title>
-            <link>https://finance.biggo.jp/podcast/8651dec808558714</link>
-            <guid>https://finance.biggo.jp/podcast/8651dec808558714</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[$50億の創業者：AIで仕事のすべてを自動化する方法（チュートリアル3本）]]></title>
-            <link>https://finance.biggo.jp/podcast/5008c71ef914fd5a</link>
-            <guid>https://finance.biggo.jp/podcast/5008c71ef914fd5a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GTMエンジニアリング：技術的な部分 — Everett Berry, Clay]]></title>
-            <link>https://finance.biggo.jp/podcast/ff2e0d8b85095d68</link>
-            <guid>https://finance.biggo.jp/podcast/ff2e0d8b85095d68</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[長寿の達人たちが教えてくれないこと]]></title>
-            <link>https://finance.biggo.jp/podcast/22f1e449ff5d4865</link>
-            <guid>https://finance.biggo.jp/podcast/22f1e449ff5d4865</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
