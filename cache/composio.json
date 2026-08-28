@@ -1,10 +1,10 @@
 {
-  "lastSuccess": "2026-08-28T08:01:09.291Z",
+  "lastSuccess": "2026-08-28T20:29:55.383Z",
   "articleCount": 6,
   "knownLinks": [
+    "https://composio.dev/blog/building-a-daily-family-newspaper",
     "https://composio.dev/blog/your-agents-can-signup-for-composio",
     "https://composio.dev/blog/announcing-universal-cli-by-composio",
-    "https://composio.dev/blog/the-self-improving-ai-system-that-built-itself",
     "https://composio.dev/blog/introducing-tool-router-(beta)",
     "https://composio.dev/blog/how-to-build-tools-for-ai-agents-a-field-guide",
     "https://composio.dev/blog/series-a"
