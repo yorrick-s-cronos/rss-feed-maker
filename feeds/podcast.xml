@@ -10,6 +10,54 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[エージェントは2015年のマイクロサービスのようなもの — Roberto Milev & Uday Kanagala（Navan）]]></title>
+            <link>https://finance.biggo.jp/podcast/288ffd87c30147ec</link>
+            <guid>https://finance.biggo.jp/podcast/288ffd87c30147ec</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIエージェントはもはや分散システムである — Salman Munaf（TikTok）]]></title>
+            <link>https://finance.biggo.jp/podcast/244fbac17876dffe</link>
+            <guid>https://finance.biggo.jp/podcast/244fbac17876dffe</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[トークン最大化から信頼できるスループットへ — Mingsheng Hong, Ironclad]]></title>
+            <link>https://finance.biggo.jp/podcast/1b26c0fbc8755234</link>
+            <guid>https://finance.biggo.jp/podcast/1b26c0fbc8755234</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家の守護者：消費者データのためのエアギャップAI要塞 — ラクナ・スリヴァスタヴァ、DFPI]]></title>
+            <link>https://finance.biggo.jp/podcast/cb1e9f04b490e467</link>
+            <guid>https://finance.biggo.jp/podcast/cb1e9f04b490e467</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第027回 OpenAI Jalapeño：Nvidia Blackwellより優れたアクセラレータ]]></title>
+            <link>https://finance.biggo.jp/podcast/1fc4e4a0a50e4dcb</link>
+            <guid>https://finance.biggo.jp/podcast/1fc4e4a0a50e4dcb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェント基盤の半減期 — Ben Kus、Box]]></title>
+            <link>https://finance.biggo.jp/podcast/ba07218ab9708c09</link>
+            <guid>https://finance.biggo.jp/podcast/ba07218ab9708c09</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ドナルド・トランプの移民取り締まりがアメリカを弱体化させている理由 | The Economist]]></title>
+            <link>https://finance.biggo.jp/podcast/f36ec784bf315327</link>
+            <guid>https://finance.biggo.jp/podcast/f36ec784bf315327</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[アメリカ企業は中国のオープンソースモデルと協力すべきか？ | Claude Codeは2兆ドルの価値があるか？]]></title>
+            <link>https://finance.biggo.jp/podcast/c741c736cfa0433f</link>
+            <guid>https://finance.biggo.jp/podcast/c741c736cfa0433f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[実際にエンタープライズ契約を獲得するAIスタートアップは？— ブライアン・ルイス（ミレニアム）]]></title>
             <link>https://finance.biggo.jp/podcast/028a672ce801e7e2</link>
             <guid>https://finance.biggo.jp/podcast/028a672ce801e7e2</guid>
@@ -79,54 +127,6 @@
             <title><![CDATA[医薬品政策の焦点：MFNが中堅企業に拡大、ワクチン政策の新たな動き]]></title>
             <link>https://finance.biggo.jp/podcast/d9c98f98233a45bc</link>
             <guid>https://finance.biggo.jp/podcast/d9c98f98233a45bc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI支援からAIネイティブへ：フロンティア開発チームの構築 — Clare Liguori（AWS）]]></title>
-            <link>https://finance.biggo.jp/podcast/c9824f68b9a1752c</link>
-            <guid>https://finance.biggo.jp/podcast/c9824f68b9a1752c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[バイリングエンジンをvibe-codingする際に災難を避ける方法 — Andrew Garvin（Stripe）]]></title>
-            <link>https://finance.biggo.jp/podcast/77c2db635cd56620</link>
-            <guid>https://finance.biggo.jp/podcast/77c2db635cd56620</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LLMゲートウェイの本番化：アーキテクチャ、トレードオフ、そして厳しい教訓 — カニッシュ・マヌジャ（Twilio）]]></title>
-            <link>https://finance.biggo.jp/podcast/6862d0de4659455d</link>
-            <guid>https://finance.biggo.jp/podcast/6862d0de4659455d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appleが新しいMacでAIを利用させたい理由 | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/0c55ae4d34955975</link>
-            <guid>https://finance.biggo.jp/podcast/0c55ae4d34955975</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[クロスファンクショナルチームのためのAI評価 — Nachiket Paranjape & Swaroop Chitlur Haridas（DoorDash）]]></title>
-            <link>https://finance.biggo.jp/podcast/489de27a803b133a</link>
-            <guid>https://finance.biggo.jp/podcast/489de27a803b133a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MrBeast、Snapchat、AIなど：ファーママーケティングの脈動チェック]]></title>
-            <link>https://finance.biggo.jp/podcast/a795df003c74f29e</link>
-            <guid>https://finance.biggo.jp/podcast/a795df003c74f29e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[uReviewの構築：Uberのマルチエージェントコードレビューエンジン — ウィル・ボンド＆アメヤ・ケトカー、Uber]]></title>
-            <link>https://finance.biggo.jp/podcast/fb47e135379b123f</link>
-            <guid>https://finance.biggo.jp/podcast/fb47e135379b123f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[飛行中にエンジンを組み立てる：Figma MCPサーバーの立ち上げ — Jesse Lumarie（Figma）]]></title>
-            <link>https://finance.biggo.jp/podcast/00ae027a6c56d189</link>
-            <guid>https://finance.biggo.jp/podcast/00ae027a6c56d189</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

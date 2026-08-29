@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[貿發局與律政司合辦「協作共贏」走進中亞  介紹香港專業服務優勢]]></title>
+            <link>https://www.wenweipo.com/a/202608/29/AP6a92f2bae4b0c1e50026bc78.html</link>
+            <guid>https://www.wenweipo.com/a/202608/29/AP6a92f2bae4b0c1e50026bc78.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[由香港貿發局與香港特別行政區政府律政司合辦的「協作共贏 – 香港專業服務 成就企業走向全球」推廣活動，於8月24至28日舉行，期間由香港特別行政區律政司司長林定國率領高級別代表團，訪問新彊、哈薩克斯坦及烏茲別克斯坦，以深化今年6月香港特別行政區行政長官率團訪問中亞的成果。]]></description>
+        </item>
+        <item>
             <title><![CDATA[港島各界聯會第十一屆理事會暨基金會第五屆董事會就職]]></title>
             <link>https://www.wenweipo.com/a/202608/29/AP6a92ef0be4b0c1e50026bc3e.html</link>
             <guid>https://www.wenweipo.com/a/202608/29/AP6a92ef0be4b0c1e50026bc3e.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/29/AP6a92728ee4b0c1e50026b160.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（29日）上午10時29分，警方接獲一男子報案，表示其姓文（39歲）母親，危坐天水圍天晴邨晴彩樓外牆石壆。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[珍惜生命│屯門老翁墮樓 送院不治]]></title>
-            <link>https://www.wenweipo.com/a/202608/29/AP6a926f94e4b0c1e50026b117.html</link>
-            <guid>https://www.wenweipo.com/a/202608/29/AP6a926f94e4b0c1e50026b117.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（29日）清晨6時07分，警方接獲屯門石排頭路11號康德花園保安報案，指發現一名男子倒臥上址對開，懷疑他從高處墮下。]]></description>
         </item>
     </channel>
 </rss>
