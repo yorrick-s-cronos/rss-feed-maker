@@ -10,6 +10,42 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ロボットに望みを伝える — Sandhya Subramani（AWS）]]></title>
+            <link>https://finance.biggo.jp/podcast/b2230737fc47e3c1</link>
+            <guid>https://finance.biggo.jp/podcast/b2230737fc47e3c1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Only 4% Are Cutting Jobs, Pancreatic Cancer Survival Doubles, and NVIDIA’s $96.2B Quarter | EP #284]]></title>
+            <link>https://finance.biggo.jp/podcast/5f3f71c71a14fbbc</link>
+            <guid>https://finance.biggo.jp/podcast/5f3f71c71a14fbbc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[シグナル層：何でも作れる時代に何を作るか — Lena Hall（アカマイ）]]></title>
+            <link>https://finance.biggo.jp/podcast/80cd8be9eaefd497</link>
+            <guid>https://finance.biggo.jp/podcast/80cd8be9eaefd497</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[グローバル海運の部族ダンジョン：AIエージェントのグローバル規模展開 — Dmitry Buykin（マースク）]]></title>
+            <link>https://finance.biggo.jp/podcast/17f6e2dc32379cf8</link>
+            <guid>https://finance.biggo.jp/podcast/17f6e2dc32379cf8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[不確実性を受け入れよ、予測するな | アイデアラボ | 第52回]]></title>
+            <link>https://finance.biggo.jp/podcast/03c09f304e24a985</link>
+            <guid>https://finance.biggo.jp/podcast/03c09f304e24a985</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェンティックサイト：超パーソナライズされたウェブサイトの構築 — カルロス・サンチェス（アドビ）]]></title>
+            <link>https://finance.biggo.jp/podcast/1bde52860ff63644</link>
+            <guid>https://finance.biggo.jp/podcast/1bde52860ff63644</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[エージェントは2015年のマイクロサービスのようなもの — Roberto Milev & Uday Kanagala（Navan）]]></title>
             <link>https://finance.biggo.jp/podcast/288ffd87c30147ec</link>
             <guid>https://finance.biggo.jp/podcast/288ffd87c30147ec</guid>
@@ -52,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[アメリカ企業は中国のオープンソースモデルと協力すべきか？ | Claude Codeは2兆ドルの価値があるか？]]></title>
+            <title><![CDATA[ネオラボの生き残りはわずか10% | Factory CTO、エノ・レイエス]]></title>
             <link>https://finance.biggo.jp/podcast/c741c736cfa0433f</link>
             <guid>https://finance.biggo.jp/podcast/c741c736cfa0433f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -91,42 +127,6 @@
             <title><![CDATA[エピソード194 - 2026年8月28日]]></title>
             <link>https://finance.biggo.jp/podcast/710fb7ee80200536</link>
             <guid>https://finance.biggo.jp/podcast/710fb7ee80200536</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIネイティブ組織はスキルで動く：その構造化とスケーリング方法 — Imad Touil, QuantumBlack]]></title>
-            <link>https://finance.biggo.jp/podcast/8e5e77cd4d46bc6b</link>
-            <guid>https://finance.biggo.jp/podcast/8e5e77cd4d46bc6b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医療試験が失敗するとき、そしてNFLにおけるCTE]]></title>
-            <link>https://finance.biggo.jp/podcast/94c49dab32a3235f</link>
-            <guid>https://finance.biggo.jp/podcast/94c49dab32a3235f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[あなたのコードにはバグがある。Lean4には証明がある：エンジニアのための形式検証 — Varun Pant（AWS）]]></title>
-            <link>https://finance.biggo.jp/podcast/c70a1ee89ec4a726</link>
-            <guid>https://finance.biggo.jp/podcast/c70a1ee89ec4a726</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIを現実世界にどう浸透させるか — ヴァルン・シェノイ、ロングレイク]]></title>
-            <link>https://finance.biggo.jp/podcast/b3495d8ae188a7eb</link>
-            <guid>https://finance.biggo.jp/podcast/b3495d8ae188a7eb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[組織にコーディングエージェントを導入する方法（品質を犠牲にせずに）— Eyal Blum, Figma]]></title>
-            <link>https://finance.biggo.jp/podcast/cf0618b0d99301f1</link>
-            <guid>https://finance.biggo.jp/podcast/cf0618b0d99301f1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医薬品政策の焦点：MFNが中堅企業に拡大、ワクチン政策の新たな動き]]></title>
-            <link>https://finance.biggo.jp/podcast/d9c98f98233a45bc</link>
-            <guid>https://finance.biggo.jp/podcast/d9c98f98233a45bc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
