@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-08-28T20:29:48.430Z",
+  "lastSuccess": "2026-08-29T02:56:45.905Z",
   "articleCount": 15,
   "knownLinks": [
+    "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
     "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
     "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
     "https://claude.com/blog/claude-in-chrome-generally-available",
@@ -15,8 +16,7 @@
     "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
     "https://claude.com/blog/claude-code-guide-for-startups",
     "https://claude.com/blog/computer-use-skills-api-files-api",
-    "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
-    "https://claude.com/blog/ai-ci-cd-on-call"
+    "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams"
   ],
   "consecutiveErrors": 0
 }
