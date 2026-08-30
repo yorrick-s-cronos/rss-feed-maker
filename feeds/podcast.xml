@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[佐俣アンリさん後編〜LUUPとの出会い、そして15年のベンチャーキャピタル歴から導いた「結論」とは・・・]]></title>
+            <link>https://finance.biggo.jp/podcast/5e91dd94ac70fd96</link>
+            <guid>https://finance.biggo.jp/podcast/5e91dd94ac70fd96</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ロボットに望みを伝える — Sandhya Subramani（AWS）]]></title>
             <link>https://finance.biggo.jp/podcast/b2230737fc47e3c1</link>
             <guid>https://finance.biggo.jp/podcast/b2230737fc47e3c1</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[カナダ・米国貿易協定が崩壊 - これからどうなる？]]></title>
             <link>https://finance.biggo.jp/podcast/198c8100f89efd80</link>
             <guid>https://finance.biggo.jp/podcast/198c8100f89efd80</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エピソード194 - 2026年8月28日]]></title>
-            <link>https://finance.biggo.jp/podcast/710fb7ee80200536</link>
-            <guid>https://finance.biggo.jp/podcast/710fb7ee80200536</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
