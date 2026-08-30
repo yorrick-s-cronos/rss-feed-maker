@@ -10,6 +10,36 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TWiV 1353: Phage bet-hedging and EBV antibodies]]></title>
+            <link>https://finance.biggo.jp/podcast/c78e944425e808dc</link>
+            <guid>https://finance.biggo.jp/podcast/c78e944425e808dc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside OpenAI: there is no secret AGI master plan | Tara Seshan (OpenAI’s product lead)]]></title>
+            <link>https://finance.biggo.jp/podcast/5c7571ecded36533</link>
+            <guid>https://finance.biggo.jp/podcast/5c7571ecded36533</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ベッセントがドラッケンミラーにやられる：ビットコイン、AI、そして新しいマクロの時計]]></title>
+            <link>https://finance.biggo.jp/podcast/66fc06b723eb8469</link>
+            <guid>https://finance.biggo.jp/podcast/66fc06b723eb8469</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIVP093（ビデオ）：パランティア株（PLTR）：パランティアは思ったより安い！ダニエル・マーンキ & ショーン・オマリーと共に]]></title>
+            <link>https://finance.biggo.jp/podcast/fa666b25a288afbb</link>
+            <guid>https://finance.biggo.jp/podcast/fa666b25a288afbb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[これは予想外だった…]]></title>
+            <link>https://finance.biggo.jp/podcast/f310a774e0c42748</link>
+            <guid>https://finance.biggo.jp/podcast/f310a774e0c42748</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[佐俣アンリさん後編〜LUUPとの出会い、そして15年のベンチャーキャピタル歴から導いた「結論」とは・・・]]></title>
             <link>https://finance.biggo.jp/podcast/5e91dd94ac70fd96</link>
             <guid>https://finance.biggo.jp/podcast/5e91dd94ac70fd96</guid>
@@ -97,36 +127,6 @@
             <title><![CDATA[ネオラボの生き残りはわずか10% | Factory CTO、エノ・レイエス]]></title>
             <link>https://finance.biggo.jp/podcast/c741c736cfa0433f</link>
             <guid>https://finance.biggo.jp/podcast/c741c736cfa0433f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[実際にエンタープライズ契約を獲得するAIスタートアップは？— ブライアン・ルイス（ミレニアム）]]></title>
-            <link>https://finance.biggo.jp/podcast/028a672ce801e7e2</link>
-            <guid>https://finance.biggo.jp/podcast/028a672ce801e7e2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1352: ダニエル・グリフィン博士による臨床アップデート]]></title>
-            <link>https://finance.biggo.jp/podcast/df48702141d92374</link>
-            <guid>https://finance.biggo.jp/podcast/df48702141d92374</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NVIDIAがリードを失った]]></title>
-            <link>https://finance.biggo.jp/podcast/dd63b71ea6471a50</link>
-            <guid>https://finance.biggo.jp/podcast/dd63b71ea6471a50</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エヌビディアの歴史的な四半期、SaaSの復活、ベッセント対ドラッケンミラー、アメリカの債務危機、がんワクチン]]></title>
-            <link>https://finance.biggo.jp/podcast/d51138fda167cfd2</link>
-            <guid>https://finance.biggo.jp/podcast/d51138fda167cfd2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[カナダ・米国貿易協定が崩壊 - これからどうなる？]]></title>
-            <link>https://finance.biggo.jp/podcast/198c8100f89efd80</link>
-            <guid>https://finance.biggo.jp/podcast/198c8100f89efd80</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
