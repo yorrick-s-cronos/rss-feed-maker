@@ -4,28 +4,34 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Wed, 26 Aug 2026 20:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 17:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cómo se construye una AFP basada en inteligencia artificial]]></title>
+            <link>https://fintualist.com/chile/tecnologia/como-se-construye-una-afp-basada-en-inteligencia-artificial/</link>
+            <guid>https://fintualist.com/chile/tecnologia/como-se-construye-una-afp-basada-en-inteligencia-artificial/</guid>
+            <pubDate>Mon, 31 Aug 2026 17:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artista de la semana | Emil Kosa Jr.]]></title>
+            <link>https://fintualist.com/chile/cultura/artista-de-la-semana-emil-kosa-jr/</link>
+            <guid>https://fintualist.com/chile/cultura/artista-de-la-semana-emil-kosa-jr/</guid>
+            <pubDate>Mon, 31 Aug 2026 16:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[📍 Mercados en vivo - Asimilando el discurso de Warsh]]></title>
+            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
+            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[El reality de los notarios | Fintualist 290 🗞️]]></title>
             <link>https://fintualist.com/chile/newsletters/el-reality-de-los-notarios-fintualist-290/</link>
             <guid>https://fintualist.com/chile/newsletters/el-reality-de-los-notarios-fintualist-290/</guid>
             <pubDate>Wed, 26 Aug 2026 20:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La estadística detrás de las marcas de agua en los textos escritos por IA]]></title>
-            <link>https://fintualist.com/chile/tecnologia/la-estadistica-detras-de-las-marcas-de-agua-en-los-textos-escritos-por-ia/</link>
-            <guid>https://fintualist.com/chile/tecnologia/la-estadistica-detras-de-las-marcas-de-agua-en-los-textos-escritos-por-ia/</guid>
-            <pubDate>Tue, 25 Aug 2026 22:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Temporada de earnings: ¿por qué los resultados de NVIDIA ya no generan tanto hype?]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/temporada-de-earnings-por-que-los-resultados-de-nvidia-ya-no-generan-tanto-hype/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/temporada-de-earnings-por-que-los-resultados-de-nvidia-ya-no-generan-tanto-hype/</guid>
-            <pubDate>Tue, 25 Aug 2026 21:35:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿El problema más complejo en la industria previsional?]]></title>
@@ -122,12 +128,6 @@
             <link>https://fintualist.com/mexico/educacion-financiera/por-que-el-costo-de-los-seguros-de-gastos-medicos-mayores-ha-subido-tanto-en-mexico/</link>
             <guid>https://fintualist.com/mexico/educacion-financiera/por-que-el-costo-de-los-seguros-de-gastos-medicos-mayores-ha-subido-tanto-en-mexico/</guid>
             <pubDate>Thu, 30 Jul 2026 01:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Metas, diversificación, costos y disciplina: cómo alcanzar el éxito financiero según Vanguard]]></title>
-            <link>https://fintualist.com/mexico/educacion-financiera/metas-diversificacion-costos-y-disciplina-como-alcanzar-el-exito-financiero-segun-vanguard/</link>
-            <guid>https://fintualist.com/mexico/educacion-financiera/metas-diversificacion-costos-y-disciplina-como-alcanzar-el-exito-financiero-segun-vanguard/</guid>
-            <pubDate>Wed, 29 Jul 2026 20:01:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
