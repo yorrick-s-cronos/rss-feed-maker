@@ -10,6 +10,36 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ブリジット・メンドラーの新185,000平方フィートのノースウッド宇宙工場の内部]]></title>
+            <link>https://finance.biggo.jp/podcast/4f9302f0f25deb93</link>
+            <guid>https://finance.biggo.jp/podcast/4f9302f0f25deb93</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[専門ロボットが優位に立つ理由]]></title>
+            <link>https://finance.biggo.jp/podcast/c6eb4de321785375</link>
+            <guid>https://finance.biggo.jp/podcast/c6eb4de321785375</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[146 ✪ 買量・鋪貨に別れを告げ、AIが海外ブランドの成長をどう加速するか？]]></title>
+            <link>https://finance.biggo.jp/podcast/edf28eab23ad234f</link>
+            <guid>https://finance.biggo.jp/podcast/edf28eab23ad234f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ホワイトハウス首席顧問：アメリカン・ドリームは死ぬ、次は社会主義だ！| デビッド・フリードバーグ]]></title>
+            <link>https://finance.biggo.jp/podcast/2fd3f054f9579ecb</link>
+            <guid>https://finance.biggo.jp/podcast/2fd3f054f9579ecb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ZSが語る、AIが患者の医療アプローチをどう変えつつあるか——米国・中国・ドイツからの視点]]></title>
+            <link>https://finance.biggo.jp/podcast/5f5087d5b43de538</link>
+            <guid>https://finance.biggo.jp/podcast/5f5087d5b43de538</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[アンデラ・パートナーズのオリビエ・リツカ氏に聞く、ハイプサイクルを超えたバイオテック勝者の選び方]]></title>
             <link>https://finance.biggo.jp/podcast/e3d38ff0f7d37ca1</link>
             <guid>https://finance.biggo.jp/podcast/e3d38ff0f7d37ca1</guid>
@@ -97,36 +127,6 @@
             <title><![CDATA[グローバル海運の部族ダンジョン：AIエージェントのグローバル規模展開 — Dmitry Buykin（マースク）]]></title>
             <link>https://finance.biggo.jp/podcast/17f6e2dc32379cf8</link>
             <guid>https://finance.biggo.jp/podcast/17f6e2dc32379cf8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[不確実性を受け入れよ、予測するな | アイデアラボ | 第52回]]></title>
-            <link>https://finance.biggo.jp/podcast/03c09f304e24a985</link>
-            <guid>https://finance.biggo.jp/podcast/03c09f304e24a985</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェンティックサイト：超パーソナライズされたウェブサイトの構築 — カルロス・サンチェス（アドビ）]]></title>
-            <link>https://finance.biggo.jp/podcast/1bde52860ff63644</link>
-            <guid>https://finance.biggo.jp/podcast/1bde52860ff63644</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントは2015年のマイクロサービスのようなもの — Roberto Milev & Uday Kanagala（Navan）]]></title>
-            <link>https://finance.biggo.jp/podcast/288ffd87c30147ec</link>
-            <guid>https://finance.biggo.jp/podcast/288ffd87c30147ec</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIエージェントはもはや分散システムである — Salman Munaf（TikTok）]]></title>
-            <link>https://finance.biggo.jp/podcast/244fbac17876dffe</link>
-            <guid>https://finance.biggo.jp/podcast/244fbac17876dffe</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[トークン最大化から信頼できるスループットへ — Mingsheng Hong, Ironclad]]></title>
-            <link>https://finance.biggo.jp/podcast/1b26c0fbc8755234</link>
-            <guid>https://finance.biggo.jp/podcast/1b26c0fbc8755234</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
