@@ -10,13 +10,43 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[TWiV 1353: Phage bet-hedging and EBV antibodies]]></title>
+            <title><![CDATA[アンデラ・パートナーズのオリビエ・リツカ氏に聞く、ハイプサイクルを超えたバイオテック勝者の選び方]]></title>
+            <link>https://finance.biggo.jp/podcast/e3d38ff0f7d37ca1</link>
+            <guid>https://finance.biggo.jp/podcast/e3d38ff0f7d37ca1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[このSaaSがわずか2ヶ月で月6万9千ドルを達成した方法]]></title>
+            <link>https://finance.biggo.jp/podcast/422a5962ca9b9dcb</link>
+            <guid>https://finance.biggo.jp/podcast/422a5962ca9b9dcb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[債務、インフレ、FRBの信認：市場を分断する三つの亀裂｜Systematic Investor｜第415回]]></title>
+            <link>https://finance.biggo.jp/podcast/ab9b36e0e6a6d04e</link>
+            <guid>https://finance.biggo.jp/podcast/ab9b36e0e6a6d04e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[サイバーキャブ登場も、ウェイモは感心せず]]></title>
+            <link>https://finance.biggo.jp/podcast/2390d1aee6effd5a</link>
+            <guid>https://finance.biggo.jp/podcast/2390d1aee6effd5a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nano Banana、Imagen、Veo、Omni/Thinkingのリード — Dumitru Erhan、Shane Gu、Nicole Brichtova、swyx]]></title>
+            <link>https://finance.biggo.jp/podcast/5c15963e118b52bc</link>
+            <guid>https://finance.biggo.jp/podcast/5c15963e118b52bc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TWiV 1353：ファージの賭け戦略とEBV抗体]]></title>
             <link>https://finance.biggo.jp/podcast/c78e944425e808dc</link>
             <guid>https://finance.biggo.jp/podcast/c78e944425e808dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inside OpenAI: there is no secret AGI master plan | Tara Seshan (OpenAI’s product lead)]]></title>
+            <title><![CDATA[永続的なAI同僚の台頭 | タラ・セシャン（OpenAIのプロダクトリード）]]></title>
             <link>https://finance.biggo.jp/podcast/5c7571ecded36533</link>
             <guid>https://finance.biggo.jp/podcast/5c7571ecded36533</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[トークン最大化から信頼できるスループットへ — Mingsheng Hong, Ironclad]]></title>
             <link>https://finance.biggo.jp/podcast/1b26c0fbc8755234</link>
             <guid>https://finance.biggo.jp/podcast/1b26c0fbc8755234</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家の守護者：消費者データのためのエアギャップAI要塞 — ラクナ・スリヴァスタヴァ、DFPI]]></title>
-            <link>https://finance.biggo.jp/podcast/cb1e9f04b490e467</link>
-            <guid>https://finance.biggo.jp/podcast/cb1e9f04b490e467</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第027回 OpenAI Jalapeño：Nvidia Blackwellより優れたアクセラレータ]]></title>
-            <link>https://finance.biggo.jp/podcast/1fc4e4a0a50e4dcb</link>
-            <guid>https://finance.biggo.jp/podcast/1fc4e4a0a50e4dcb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェント基盤の半減期 — Ben Kus、Box]]></title>
-            <link>https://finance.biggo.jp/podcast/ba07218ab9708c09</link>
-            <guid>https://finance.biggo.jp/podcast/ba07218ab9708c09</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ドナルド・トランプの移民取り締まりがアメリカを弱体化させている理由 | The Economist]]></title>
-            <link>https://finance.biggo.jp/podcast/f36ec784bf315327</link>
-            <guid>https://finance.biggo.jp/podcast/f36ec784bf315327</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ネオラボの生き残りはわずか10% | Factory CTO、エノ・レイエス]]></title>
-            <link>https://finance.biggo.jp/podcast/c741c736cfa0433f</link>
-            <guid>https://finance.biggo.jp/podcast/c741c736cfa0433f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
