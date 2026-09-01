@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[手工耿×羅永浩！「村の金物屋に、ダダイズムの芸術家が現れた」]]></title>
+            <link>https://finance.biggo.jp/podcast/108d920dd9ca2b54</link>
+            <guid>https://finance.biggo.jp/podcast/108d920dd9ca2b54</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エピソード385 - MFN取引、リリーの買収、FDA長官候補オーバートン]]></title>
+            <link>https://finance.biggo.jp/podcast/a5e728fa5bc40d6a</link>
+            <guid>https://finance.biggo.jp/podcast/a5e728fa5bc40d6a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GLP-1受容体作動薬の歴史と科学]]></title>
             <link>https://finance.biggo.jp/podcast/0249826ad82b1fad</link>
             <guid>https://finance.biggo.jp/podcast/0249826ad82b1fad</guid>
@@ -58,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ClickHouse CEO：AIバブルは間違いだ | 収益の集中は懸念すべき]]></title>
+            <title><![CDATA[オープンモデルが過大評価される理由、それでも企業がフロンティアモデルを恐れる理由 | ClickHouse CEO アーロン・カッツ]]></title>
             <link>https://finance.biggo.jp/podcast/c7776f581972da26</link>
             <guid>https://finance.biggo.jp/podcast/c7776f581972da26</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -82,7 +94,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Top White House Advisor: Open Source AI Will Create Billionaires From $0! | David Friedberg]]></title>
+            <title><![CDATA[ホワイトハウス首席顧問：オープンソースAIがゼロから億万長者を生む！ | デビッド・フリードバーグ]]></title>
             <link>https://finance.biggo.jp/podcast/2fd3f054f9579ecb</link>
             <guid>https://finance.biggo.jp/podcast/2fd3f054f9579ecb</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[サイバーキャブ登場も、ウェイモは感心せず]]></title>
             <link>https://finance.biggo.jp/podcast/2390d1aee6effd5a</link>
             <guid>https://finance.biggo.jp/podcast/2390d1aee6effd5a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nano Banana、Imagen、Veo、Omni/Thinkingのリード — Dumitru Erhan、Shane Gu、Nicole Brichtova、swyx]]></title>
-            <link>https://finance.biggo.jp/podcast/5c15963e118b52bc</link>
-            <guid>https://finance.biggo.jp/podcast/5c15963e118b52bc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1353：ファージの賭け戦略とEBV抗体]]></title>
-            <link>https://finance.biggo.jp/podcast/c78e944425e808dc</link>
-            <guid>https://finance.biggo.jp/podcast/c78e944425e808dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
