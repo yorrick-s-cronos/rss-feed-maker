@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Mon, 31 Aug 2026 20:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[📍 Mercados en vivo - El Imacec no despega]]></title>
+            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
+            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El forward-guidance tantrum: construyendo una prima por ambigüedad]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/el-forward-guidance-tantrum-construyendo-una-prima-por-ambiguedad-2/</link>
@@ -16,7 +22,7 @@
             <pubDate>Mon, 31 Aug 2026 20:30:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hypergamblification: cuando apostar se disfraza de inversión]]></title>
+            <title><![CDATA[Hypergamblification: la inversión con cabeza de apuestas y cola de apuestas]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/hypergamblification-cuando-apostar-se-disfraza-de-inversion/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/hypergamblification-cuando-apostar-se-disfraza-de-inversion/</guid>
             <pubDate>Mon, 31 Aug 2026 19:48:41 GMT</pubDate>
@@ -26,12 +32,6 @@
             <link>https://fintualist.com/chile/tecnologia/como-se-construye-una-afp-basada-en-inteligencia-artificial/</link>
             <guid>https://fintualist.com/chile/tecnologia/como-se-construye-una-afp-basada-en-inteligencia-artificial/</guid>
             <pubDate>Mon, 31 Aug 2026 17:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artista de la semana | Emil Kosa Jr.]]></title>
-            <link>https://fintualist.com/chile/cultura/artista-de-la-semana-emil-kosa-jr/</link>
-            <guid>https://fintualist.com/chile/cultura/artista-de-la-semana-emil-kosa-jr/</guid>
-            <pubDate>Mon, 31 Aug 2026 16:41:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Temporada de earnings: ¿por qué los resultados de NVIDIA ya no generan tanto hype?]]></title>
