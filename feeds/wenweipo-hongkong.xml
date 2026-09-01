@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[「沙德爾」復活！天文台︰一號戒備信號至少維持至下午6時]]></title>
+            <link>https://www.wenweipo.com/a/202609/01/AP6a961668e4b0c1e5002706d2.html</link>
+            <guid>https://www.wenweipo.com/a/202609/01/AP6a961668e4b0c1e5002706d2.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[香港天文台發出最新熱帶氣旋警報，一號戒備信號正生效。天文台說，今日日間本港普遍吹強風的機會不大，一號戒備信號會至少維持至下午6時。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[屋苑維修黑幕：13份工程證明書竟是「死人簽署」　多方聯手嚴打圍標拘50人]]></title>
+            <link>https://www.wenweipo.com/a/202609/01/AP6a9613ede4b0c1e50027062a.html</link>
+            <guid>https://www.wenweipo.com/a/202609/01/AP6a9613ede4b0c1e50027062a.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[廉政公署、警方及競委會雷厲風行嚴打圍標非法活動，上周三開始一連兩天（8月26日及27日）採取代號「鐵盟」的聯合行動，打擊一個以工程承辦商為首的樓宇維修貪污圍標集團，拘捕50人，包括集團主腦及骨幹成員，部分人有三合會背景，涉足全港27個屋苑及大廈，工程合約估計近5億元。]]></description>
+        </item>
+        <item>
             <title><![CDATA[（多圖）消防處調景嶺綜合大樓正式開幕]]></title>
             <link>https://www.wenweipo.com/a/202608/31/AP6a95a497e4b0c1e50026ff8e.html</link>
             <guid>https://www.wenweipo.com/a/202608/31/AP6a95a497e4b0c1e50026ff8e.html</guid>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202608/31/AP6a9572e9e4b0c1e50026fa1b.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[由京港科技合作協會主辦的第一屆「全港中小學生環保創科挑戰賽」決賽暨協會就職典禮日前於香港青年協會賽馬會 M21 媒體空間圓滿舉行。本屆大會以「環保」與「科技創新」為核心，結合科大團隊的納米農耕專利系統，以納米小汽泡水作為主要技術支援，比賽吸引了全港多間中小學精英參賽，展現新一代運用科學技術解決社區與環境問題的無限潛能。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[宏福苑善後│收購業權方案期限屆滿 99.1%單位業主確認出售意向]]></title>
-            <link>https://www.wenweipo.com/a/202608/31/AP6a95695fe4b0c1e50026f8f0.html</link>
-            <guid>https://www.wenweipo.com/a/202608/31/AP6a95695fe4b0c1e50026f8f0.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[房屋局發言人今日（31日）表示，大埔宏福苑業主接受政府收購業權方案的期限今日下午5時屆滿。宏福苑A至H八座共有1,967戶業主簽署並交回「接受收購建議信件」，確認向政府出售業權意向，佔八座單位總數99.1%。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[騙徒冒香港快運發電郵 聲稱機票退款呃信用卡資料 官方澄清籲提高警覺]]></title>
-            <link>https://www.wenweipo.com/a/202608/31/AP6a956893e4b0c1e50026f8dd.html</link>
-            <guid>https://www.wenweipo.com/a/202608/31/AP6a956893e4b0c1e50026f8dd.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（31日）有不少網民在社交平台發帖，表示近日有騙徒假扮香港快運（HK Express）發詐騙電郵，聲稱機票因有改動退款，藉此誘騙手持機票，但仍未出發的旅客，在情急下輸入信用卡資料，有個別網民更表示自己剛巧買了機票，收到類似的電郵後差點上當。]]></description>
         </item>
     </channel>
 </rss>

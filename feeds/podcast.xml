@@ -10,7 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[メタの法的危機は始まったばかり]]></title>
+            <title><![CDATA[GLP-1受容体作動薬の歴史と科学]]></title>
+            <link>https://finance.biggo.jp/podcast/0249826ad82b1fad</link>
+            <guid>https://finance.biggo.jp/podcast/0249826ad82b1fad</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ヘンリー・シングルトンの仕事術]]></title>
+            <link>https://finance.biggo.jp/podcast/40d4dd94f7a76bdc</link>
+            <guid>https://finance.biggo.jp/podcast/40d4dd94f7a76bdc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[メタの法的問題は思っているより深刻だ]]></title>
             <link>https://finance.biggo.jp/podcast/829bcdbd964c34dd</link>
             <guid>https://finance.biggo.jp/podcast/829bcdbd964c34dd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -40,7 +52,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ギャビン・ベイカーと考えるAIのポジティブサムな未来]]></title>
+            <title><![CDATA[AIブームがアメリカを再工業化する方法]]></title>
             <link>https://finance.biggo.jp/podcast/5483e0ee7fc171b5</link>
             <guid>https://finance.biggo.jp/podcast/5483e0ee7fc171b5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -70,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ホワイトハウス首席顧問：彼らは私を狂人と呼んだが、社会主義が次に来ることは分かっている | デビッド・フリードバーグ]]></title>
+            <title><![CDATA[Top White House Advisor: Open Source AI Will Create Billionaires From $0! | David Friedberg]]></title>
             <link>https://finance.biggo.jp/podcast/2fd3f054f9579ecb</link>
             <guid>https://finance.biggo.jp/podcast/2fd3f054f9579ecb</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[TWiV 1353：ファージの賭け戦略とEBV抗体]]></title>
             <link>https://finance.biggo.jp/podcast/c78e944425e808dc</link>
             <guid>https://finance.biggo.jp/podcast/c78e944425e808dc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[永続的なAI同僚の台頭 | タラ・セシャン（OpenAIのプロダクトリード）]]></title>
-            <link>https://finance.biggo.jp/podcast/5c7571ecded36533</link>
-            <guid>https://finance.biggo.jp/podcast/5c7571ecded36533</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ベッセントがドラッケンミラーにやられる：ビットコイン、AI、そして新しいマクロの時計]]></title>
-            <link>https://finance.biggo.jp/podcast/66fc06b723eb8469</link>
-            <guid>https://finance.biggo.jp/podcast/66fc06b723eb8469</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

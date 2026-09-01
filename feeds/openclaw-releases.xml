@@ -546,7 +546,7 @@
 <li><a href="https://github.com/openclaw/openclaw/actions/runs/33350927855">Windows</a> signed installers verified. <a href="https://github.com/openclaw/openclaw/actions/runs/33351750147">Docker</a> images, attestations, aliases and Vercel smoke verified.</li>
 <li>ClawHub: <strong>89/89 mirrors verified.</strong> Volcengine now resolves to the official plugin; the community package remains owner-qualified. <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.1/openclaw-2026.8.1-clawhub-completion-verification.json">Completion proof</a>.</li>
 <li>macOS app/DMG signed and notarized; ZIP/DMG downloads, matching symbols and signed feed verified: <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.1/OpenClaw-2026.8.1-mac-verification.json">Mac proof</a>. Website updated; iOS/Android distribution separate.</li>
-<li>Waived, not passed: Telegram, MiniMax and catalog/subprocess flakes. Parallels stopped on guest/snapshot transport before target acceptance; nonblocking, not passed. Higher beta remains <code>2026.9.1-beta.1</code>.</li>
+<li>Waived, not passed: Telegram, MiniMax, and catalog/subprocess flakes. Parallels stopped on guest/snapshot transport before target acceptance; nonblocking, not passed. The package mistakenly published as <code>2026.9.1-beta.1</code> is actually <code>2026.8.1-beta.4</code> and should not be interpreted as newer than stable <code>2026.8.1</code>.</li>
 </ul>
 <p><strong>SDK:</strong> Shipped <code>resolveStorePath</code>, <code>resolvePluginProviders</code>, and <code>loadModelCatalog</code> contracts are restored. Intentional import retirements: <a href="https://docs.openclaw.ai/plugins/sdk-migration">migration guide</a>. Direct <code>EmbeddedRunAttemptResult</code> construction needs canonical <code>terminal</code> or <code>AgentHarnessAttemptResult</code>; host-owned side-question types also narrow. No external side-question constructor was observed; remaining type findings do not establish runtime outages.</p>
 ]]></description>
@@ -1082,17 +1082,21 @@
 <li><a href="https://github.com/openclaw/openclaw/actions/runs/33350927855">Windows</a> signed installers verified. <a href="https://github.com/openclaw/openclaw/actions/runs/33351750147">Docker</a> images, attestations, aliases and Vercel smoke verified.</li>
 <li>ClawHub: <strong>89/89 mirrors verified.</strong> Volcengine now resolves to the official plugin; the community package remains owner-qualified. <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.1/openclaw-2026.8.1-clawhub-completion-verification.json">Completion proof</a>.</li>
 <li>macOS app/DMG signed and notarized; ZIP/DMG downloads, matching symbols and signed feed verified: <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.1/OpenClaw-2026.8.1-mac-verification.json">Mac proof</a>. Website updated; iOS/Android distribution separate.</li>
-<li>Waived, not passed: Telegram, MiniMax and catalog/subprocess flakes. Parallels stopped on guest/snapshot transport before target acceptance; nonblocking, not passed. Higher beta remains <code>2026.9.1-beta.1</code>.</li>
+<li>Waived, not passed: Telegram, MiniMax, and catalog/subprocess flakes. Parallels stopped on guest/snapshot transport before target acceptance; nonblocking, not passed. The package mistakenly published as <code>2026.9.1-beta.1</code> is actually <code>2026.8.1-beta.4</code> and should not be interpreted as newer than stable <code>2026.8.1</code>.</li>
 </ul>
 <p><strong>SDK:</strong> Shipped <code>resolveStorePath</code>, <code>resolvePluginProviders</code>, and <code>loadModelCatalog</code> contracts are restored. Intentional import retirements: <a href="https://docs.openclaw.ai/plugins/sdk-migration">migration guide</a>. Direct <code>EmbeddedRunAttemptResult</code> construction needs canonical <code>terminal</code> or <code>AgentHarnessAttemptResult</code>; host-owned side-question types also narrow. No external side-question constructor was observed; remaining type findings do not establish runtime outages.</p>
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[openclaw 2026.9.1-beta.1]]></title>
+            <title><![CDATA[OpenClaw 2026.8.1-beta.4 (mistakenly published as 2026.9.1-beta.1)]]></title>
             <link>https://github.com/openclaw/openclaw/releases/tag/v2026.9.1-beta.1</link>
             <guid>https://github.com/openclaw/openclaw/releases/tag/v2026.9.1-beta.1</guid>
             <pubDate>Fri, 28 Aug 2026 20:43:46 GMT</pubDate>
-            <description><![CDATA[<h2>2026.9.1</h2>
+            <description><![CDATA[<h2>2026.8.1-beta.4 (mistakenly published as 2026.9.1-beta.1)</h2>
+<blockquote>
+<p>[!WARNING]
+This package was mistakenly published under the version <code>2026.9.1-beta.1</code>. It is actually <code>2026.8.1-beta.4</code> and should not be interpreted as newer than stable <code>2026.8.1</code>. Stable users should install or update to <code>2026.8.1</code>.</p>
+</blockquote>
 <h3>Highlights</h3>
 <ul>
 <li><strong>Gateway restart recovery:</strong> preserve admitted turns across repeated Gateway restarts so restart-safe runs continue through each checkpoint and deliver their final response. (#130491) Thanks @jalehman.</li>
@@ -2663,7 +2667,11 @@
 <li>npm Telegram beta E2E: <a href="https://github.com/openclaw/openclaw/actions/runs/33171320616">https://github.com/openclaw/openclaw/actions/runs/33171320616</a></li>
 </ul>
 ]]></description>
-            <content:encoded><![CDATA[<h2>2026.9.1</h2>
+            <content:encoded><![CDATA[<h2>2026.8.1-beta.4 (mistakenly published as 2026.9.1-beta.1)</h2>
+<blockquote>
+<p>[!WARNING]
+This package was mistakenly published under the version <code>2026.9.1-beta.1</code>. It is actually <code>2026.8.1-beta.4</code> and should not be interpreted as newer than stable <code>2026.8.1</code>. Stable users should install or update to <code>2026.8.1</code>.</p>
+</blockquote>
 <h3>Highlights</h3>
 <ul>
 <li><strong>Gateway restart recovery:</strong> preserve admitted turns across repeated Gateway restarts so restart-safe runs continue through each checkpoint and deliver their final response. (#130491) Thanks @jalehman.</li>

@@ -4,11 +4,17 @@
         <title>Anthropic News</title>
         <link>https://www.anthropic.com/news</link>
         <description>News and announcements from Anthropic.</description>
-        <lastBuildDate>Thu, 27 Aug 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Improving our alignment and security efforts]]></title>
+            <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+            <guid>https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Previewing the Model Hardware Standard]]></title>
             <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
@@ -62,12 +68,6 @@
             <link>https://www.anthropic.com/news/cognizant-anthropic</link>
             <guid>https://www.anthropic.com/news/cognizant-anthropic</guid>
             <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Claude Opus 5]]></title>
-            <link>https://www.anthropic.com/news/claude-opus-5</link>
-            <guid>https://www.anthropic.com/news/claude-opus-5</guid>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
