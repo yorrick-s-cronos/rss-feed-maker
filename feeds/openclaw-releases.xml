@@ -4,11 +4,417 @@
         <title>OpenClaw Releases</title>
         <link>https://github.com/openclaw/openclaw/releases</link>
         <description>GitHub releases for OpenClaw - AI assistant framework</description>
-        <lastBuildDate>Mon, 31 Aug 2026 03:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 16:00:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/openclaw-releases.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[openclaw 2026.8.2]]></title>
+            <link>https://github.com/openclaw/openclaw/releases/tag/v2026.8.2</link>
+            <guid>https://github.com/openclaw/openclaw/releases/tag/v2026.8.2</guid>
+            <pubDate>Tue, 01 Sep 2026 16:00:56 GMT</pubDate>
+            <description><![CDATA[<h2>2026.8.2</h2>
+<h3>Highlights</h3>
+<ul>
+<li><strong>Your Home agent, beside your work:</strong> open Home in a right or bottom dock with <code>Cmd/Ctrl+Shift+H</code>, keep your current page in view, and preview or remove its work-context snapshot or attach selected text to your message. Related #133632. (#133676)</li>
+<li><strong>A desktop companion for Linux:</strong> install the <code>.deb</code> or AppImage on x86-64 Linux, connect to a local or remote Gateway, and open Quick Chat from the system tray or an X11 keyboard shortcut. AppImage updates are signature-verified; <code>.deb</code> installs remain under your package manager. See the <a href="https://docs.openclaw.ai/platforms/linux">Linux guide</a>.</li>
+<li><strong>Start work without switching pages:</strong> create and run a background session from New Session, keep its selected local, cloud, or paired-device placement, and open it from the completion notice. Related #128037. (#128050) Thanks @Takhoffman.</li>
+<li><strong>Safer upgrades:</strong> preserve newer configuration, stop incomplete session migrations before claiming success, and recover a stopped Gateway after a failed update when the installed package or rollback is verified safe. Related #118244, #90551, #134206. (#134025, #134228, #119516) Thanks @obviyus, @stuart-minion-ai, @shakkernerd, @zyw02, @Issue-Hunter, @cursoragent, and @sercada.</li>
+<li><strong>Replies that finish the job:</strong> return a final answer after settled tool work and surface failures after an accepted turn, fixing conversations that stopped at tool output or an initial acknowledgement. Related #133960. (#133520, #133979) Thanks @fuller-stack-dev.</li>
+<li><strong>More dependable voice:</strong> keep internal reasoning out of speech, preserve tool-generated audio through delivery, and keep later browser Talk turns working after call setup. Related #90364, #83636, #134081. (#133615, #133324, #134170, #134138) Thanks @camball-strategies, @obviyus, @TurboTheTurtle, @clawSean, @Conan-Scott, and @mastertyko.</li>
+<li><strong>Browser control without a running Gateway:</strong> let supported macOS and Linux Chrome extension builds wake their paired local relay for authenticated CDP clients; this needs the updated native host and an extension build with relay wake-up support. (#128379)</li>
+<li><strong>Four new looks:</strong> personalize the Control UI with CRT, Manuscript, Rosé, or Miami, with theme choices preserved offline and applied without flashing the wrong theme during reload. Related #133416, #132785. (#133495, #133593, #133417, #132789) Thanks @vyctorbrzezowski.</li>
+</ul>
+<h3>Changes</h3>
+<ul>
+<li><p><strong>Recovery cleanup:</strong> preview retained migration originals with <code>openclaw update cleanup --dry-run</code>, then explicitly remove eligible originals while the selected Gateway is stopped; cleanup preserves current SQLite history but permanently gives up rollback to removed originals. Related #133805. (#133864)</p>
+</li>
+<li><p><strong>Session visibility default:</strong> let unsandboxed sessions work with other sessions of the same agent by default, including retained cron sessions; shared-agent operators should set <code>tools.sessions.visibility</code> to <code>tree</code> or <code>self</code> when they need narrower access, while sandbox and cross-agent restrictions remain enforced. Related #133456. (#133469)</p>
+</li>
+<li><p><strong>Cross-session conversations:</strong> render forwarded messages as distinct speech bubbles with source-session links and sending-agent identity, preserving attribution when messages steer an active conversation. (#132054, #133439)</p>
+</li>
+<li><p><strong>Session organization:</strong> group session actions into clearer menus, copy transcripts as Markdown, open sessions in tabs, windows, or splits, edit icons and colors together, and optionally hide empty session groups. Related #133480, #133629. (#133490, #133638)</p>
+</li>
+<li><p><strong>Home without switching pages:</strong> dock the selected agent’s existing Home conversation beside your work, retain its draft and attachments when opening it full page, and inspect or remove the “Working on” context before sending. Related #133632. (#133676)</p>
+</li>
+<li><p><strong>Prepared cloud projects:</strong> reuse prepared project snapshots and validated workspace hashes before starting a cloud session, and preserve the required stop, snapshot, and restart cycle for Daytona-backed projects. Related #133436, #133450. (#133447, #134026, #134043)</p>
+</li>
+<li><p><strong>Readable Beam links:</strong> share transcripts through readable <code>/beam/</code> URLs named after their sessions, with existing access checks and contextual navigation preserved. Related #125752. (#125755, #133463)</p>
+</li>
+<li><p><strong>Chrome relay wake-up:</strong> support standalone local relays that start on demand, share their paired browser with the Gateway, and remain available to other CDP clients when the Gateway disconnects; see the <a href="https://docs.openclaw.ai/tools/chrome-extension#standalone-direct-loopback-relay">Chrome extension guide</a> for supported builds and setup. (#128379)</p>
+</li>
+<li><p><strong>Plugin SDK types:</strong> type Telegram <code>botToken</code> as <code>SecretInput</code> (<code>string | SecretRef</code>), matching existing secret-reference support; plugin authors should use the resolved account <code>token</code> and read finalization-context <code>messages</code> only when <code>source === &quot;openclaw-transcript&quot;</code>. (#133988, #134238)</p>
+</li>
+<li><p><strong>Background sessions:</strong> start work from New Session without leaving the page with <code>Cmd/Ctrl+Enter</code>, retain the selected local, cloud, or paired-device placement, and open the session from its completion notice; use <code>Cmd/Ctrl+Shift+Enter</code> when Modifier+Enter is already your normal send shortcut, while explicit Draft visibility still creates a draft. Related #128037. (#128050) Thanks @Takhoffman.</p>
+</li>
+<li><p><strong>iOS composer:</strong> bring inline model, thinking, permission, attachment, and context controls closer to the web experience, keeping queued sends bound to the session settings that authorized them. (#132683) Thanks @Solvely-Colin.</p>
+</li>
+<li><p><strong>Plugin approval verification:</strong> let plugins describe an external verification choice in approval presentations while OpenClaw retains approval identity, authorization, timeouts, and the final decision. (#113517) Thanks @Guardiola31337.</p>
+</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li><strong>Optional image decoding:</strong> update the release’s managed Sharp dependency to 0.35.4 with libheif 1.23.2, fixing vulnerabilities in image decoding while preserving optional installation. See the plugin dependency caveat under Known issues.</li>
+<li><strong>Workspace permissions:</strong> apply permission changes to active runs and preserve session tool policies on cloud workers, so changing where work runs does not widen what it may do. Related #131947, #131661. (#132407, #131669) Thanks @jalehman, @anyech, and @sallyom.</li>
+<li><strong>Private diagnostics:</strong> redact values explicitly marked private in macOS app logs, keep credential values and prefixes out of routine Clawdock diagnostics, and preserve safe redaction of long secrets. Related #133736, #133535. (#133739, #133547, #134168)</li>
+<li><strong>MCP response limits:</strong> reject oversized HTTP responses and SSE events before parsing while preserving healthy long-lived streams and keepalives. Related #101554. (#123194) Thanks @SebTardif, @obviyus, and @aniruddhaadak80.</li>
+<li><strong>Source-file fidelity:</strong> preserve UTF-8 BOMs, line endings, fuzzy-match context bytes, and end-of-file state when applying patches, including formatting-only edits. Related #124390, #133319. (#124418, #133320) Thanks @synthalorian, @obviyus, and @yetval.</li>
+<li><strong>Migration safety:</strong> coordinate automatic agent-database maintenance with its current owner, check migration readiness before accepting workspace work, and preserve existing voice-call settings and disabled shared heartbeat owners during Doctor repair. Related #133478, #133951, #127596, #133389. (#133563, #133982, #134018, #133444) Thanks @omarshahine, @PollyBot13, and @obviyus.</li>
+<li><strong>Safe session recovery:</strong> preserve independently created files and symlinks during archive restore, repair supported legacy v17 agent databases, and fail updates clearly when session migration still blocks startup. Related #134163, #134206. (#133921, #134208, #134228) Thanks @EthDing, @obviyus, @abacha, and @shakkernerd.</li>
+<li><strong>Keep newer configuration:</strong> migrate a readable active configuration before considering last-known-good recovery, preserving newer valid settings rather than replacing them with an older copy. Related #90551. (#134025) Thanks @obviyus and @stuart-minion-ai.</li>
+<li><strong>Update capability consent:</strong> block a requested Gateway restart and return an actionable failure when a plugin update needs capability review; retain the previous plugin and finish with <code>openclaw update repair</code> after review. Related #134156. (#134183) Thanks @obviyus and @BrunoCerberus.</li>
+<li><strong>Hardened npm updates:</strong> complete OpenClaw’s verified package lifecycle on hosts using npm <code>ignore-scripts=true</code> without enabling scripts for unrelated packages or rolling a valid update back. Related #134177. (#134193) Thanks @obviyus and @botatdovly.</li>
+<li><strong>Update progress and recovery:</strong> show reliable progress and final outcomes, preserve offline diagnostics, refuse unsafe restarts when service state is unknown, and distinguish Gateway service setup from installing the CLI. (#133622, #133842, #132853, #133530) Thanks @jason-allen-oneal, @obviyus, and @RomneyDa.</li>
+<li><strong>Failed-update recovery:</strong> restart the managed Gateway through the selected installed CLI after a failed update when the replacement or restored installation is verified usable; retain backups and leave the Gateway stopped when rollback or package readiness remains uncertain. Related #118244. (#119516) Thanks @zyw02, @Issue-Hunter, @cursoragent, and @sercada.</li>
+<li><strong>Scheduled jobs:</strong> preserve and recover valid migrated cron jobs, avoid needless schedule-repair writes, and emit complete JSON when cron output is piped; heartbeat jobs now report the actual completed, skipped, or failed outcome after the heartbeat settles. Related #133347, #133442, #134327. (#133858, #133552, #133661, #134464) Thanks @fuller-stack-dev, @ejc3, @vincentkoc, @josephbergvinson, and @goslingmanagment.</li>
+<li><strong>Approval migration:</strong> import historical execution approvals and usage metadata, and identify malformed legacy fields without exposing their values so operators can repair the preserved source. Related #118242. (#118282, #133952) Thanks @obviyus and @sercada.</li>
+<li><strong>Plugin SDK compatibility:</strong> preserve the published conversation-binding inspection API and existing command definitions when upgrading from 2026.8.1; legacy <code>docks</code> categories remain visible under Tools without restoring retired docking features.</li>
+<li><strong>Plugin loading and updates:</strong> load packaged TypeScript plugins consistently, normalize file URLs for native loading, preserve bundled provider compatibility, and keep official plugins aligned with targeted beta updates. Related #133306, #123297, #97680. (#117199, #133337, #123416, #124415) Thanks @sunlit-deng, @easyteacher, @lonexreb, @obviyus, @bradenmcleish, @synthalorian, and @chac4l.</li>
+<li><strong>Plugin discovery:</strong> keep bundled plugins bundled when selected through load paths and prune stale path-install records that otherwise shadow the active source. Related #133935. (#133584, #133991) Thanks @ZengWen-DT, @obviyus, @lsr911, @chelsealong, @SebTardif, and @JeffSteinbok.</li>
+<li><strong>Bun Gateway compatibility:</strong> restore authenticated Gateway connections under Bun 1.4 while preserving payload limits and request scheduling. (#134282)</li>
+<li><strong>Docker image builds:</strong> prevent dependency installation from failing on missing package-lifecycle files. (#134231)</li>
+<li><strong>Installer and container access:</strong> repair npm-prefix shell initialization, surface failed install finalization, and restore in-container CLI access when Docker uses a custom host port. Related #133503. (#133869, #133504)</li>
+<li><strong>Channel recovery:</strong> resume recovery after crash-loop suppression, isolate unavailable accounts in diagnostics, and explain why an account recovery start was skipped. Related #134134, #133977, #133954. (#134165, #134044, #133973) Thanks @shakkernerd, @lsr911, @obviyus, @chelsealong, @ZengWen-DT, and @SebTardif.</li>
+<li><strong>Matrix shutdown:</strong> drain active monitor tasks before retiring shared clients, preventing shutdown deadlocks and late reuse of a closed client. (#134033) Thanks @lsr911, @obviyus, @chelsealong, @ZengWen-DT, and @SebTardif.</li>
+<li><strong>Reply completion:</strong> finish settled tool turns with a visible answer, recover failed-tool batches, report failures after accepted turns, and recognize completion replies delivered to internal requesters. Related #133292, #133960. (#133520, #133300, #133979, #133543) Thanks @fuller-stack-dev and @VACInc.</li>
+<li><strong>Subagent ownership:</strong> preserve conversation bindings and task visibility, clear stale owners, and keep status and command targets aligned with the agent that owns the work. Related #127141. (#127147, #133461, #133578, #133715)</li>
+<li><strong>Human priority and cancellation:</strong> prioritize human messages over inter-session work, stop queued Swarm collectors with their parent, and persist blocked completion alerts atomically. Related #70634, #131553, #133058. (#132738, #133076, #133192) Thanks @sylvesterkaczmarek, @obviyus, @ewrurwteurwU, @shojikumaru, @vincentkoc, and @potterdigital.</li>
+<li><strong>Conversation context:</strong> reject summaries that revive superseded tasks, stop repeated byte-triggered compaction, retain policy ownership, and carry saved conversation summaries into a fresh Codex thread when switching runtimes. Related #123668, #126900, #134224. (#123737, #127110, #133912, #134259) Thanks @wangyan2026, @obviyus, @andersonjeccel, @yu-xin-c, @fede-kamel, @lsr911, @chelsealong, @ZengWen-DT, and @SebTardif.</li>
+<li><strong>Draft and queue recovery:</strong> preserve offline drafts and restored draft text, resume draining after canceling a queued edit, and let you discard unconfirmed messages that block the queue. Related #133555, #133603. (#133628, #133575, #133440) Thanks @vincentkoc.</li>
+<li><strong>Starting chats:</strong> preserve typing on the new-session page, prevent duplicate initial prompts during workspace preparation, and avoid duplicate queued messages across clients. Related #132783, #133719. (#132773, #133861, #133542) Thanks @vyctorbrzezowski.</li>
+<li><strong>Workspace continuity:</strong> keep non-Git workspaces usable, preserve the selected worktree base branch through reconnects, and reload projects after startup identity is resolved. (#133664, #133744, #133817)</li>
+<li><strong>Chat refresh and reconnect:</strong> keep images visible while refreshed history loads, recover suspended tabs after Gateway updates, and keep the earlier-history action steady during pagination. Related #134237. (#134310, #134189, #132445) Thanks @Takhoffman and @RomneyDa.</li>
+<li><strong>Chat controls:</strong> restore text selection and simpler GitHub code copying, keep rewind confirmation controls accessible, and integrate Goal mode into the composer. Related #131201, #132786. (#133536, #133791, #132787) Thanks @RomneyDa, @Grynn, and @vyctorbrzezowski.</li>
+<li><strong>Voice privacy and delivery:</strong> exclude internal reasoning from spoken summaries, preserve accepted speech through media delivery, and retain speech and process-output delivery state through nested tools. Related #90364, #83636. (#133615, #133324, #133968, #134170, #134056) Thanks @camball-strategies, @obviyus, @TurboTheTurtle, @clawSean, and @Conan-Scott.</li>
+<li><strong>Browser Talk:</strong> keep later voice turns admitted after call setup, preserve provider conversation order, keep internal consultations out of user history, pass questions literally, and honor the configured agent for default sessions. Related #133855, #134037, #134081. (#133493, #133947, #134093, #133958, #134138) Thanks @vmbbz, @chelsealong, @lsr911, @obviyus, @ZengWen-DT, @SebTardif, @Conan-Scott, @YogevKr, and @mastertyko.</li>
+<li><strong>Microphone and transcription:</strong> explain pending microphone permission, avoid expiring a voice session while permission is pending, report transcription failures, and honor the selected transcription model. Related #133348, #133359, #133448. (#133353, #133384, #133473, #133613) Thanks @lsr911.</li>
+<li><strong>Voice settings and calls:</strong> retain canonical voice selections, discover configured providers, prevent late callbacks from creating phantom calls or obsolete replies, and preserve call capacity after storage failures. Related #112360, #129473. (#117527, #133507, #133811, #133484, #129847) Thanks @itkdm, @ruel225, @DonShelly, and @aniruddhaadak80.</li>
+<li><strong>Speech providers:</strong> resolve persona-level TTS secret references, report malformed MiniMax speech responses clearly, and consume interrupted Google voice-turn completion correctly; support the configured xAI speech origin consistently for synthesis and voice discovery while checking redirects to other origins, and handle silent transcripts correctly. Related #89607, #133351. (#89636, #123245, #133365, #134214, #134377) Thanks @SebTardif, @lsr911, @obviyus, @chelsealong, @ZengWen-DT, @pablonunoutande-source, @coaiMax, and @marmar9615-cloud.</li>
+<li><strong>iMessage and Telegram:</strong> keep iMessage replies in the current conversation and preserve Telegram’s rich button labels when building reply context. Related #133468. (#133499, #133307) Thanks @omarshahine and @obviyus.</li>
+<li><strong>Slack Enterprise approvals:</strong> deliver plugin approval requests to workspace-qualified approvers and accept their buttons only from the intended workspace. Related #133932. (#134251) Thanks @obviyus and @marmar9615-cloud.</li>
+<li><strong>Discord and LINE routing:</strong> suppress replies aimed at other Discord bots, avoid LINE introductions in unauthorized rooms, apply per-group wildcard defaults, and respect quote-as-mention policy. Related #133618. (#130327, #132628, #132918, #133619) Thanks @PollyBot13, @obviyus, and @edenfunf.</li>
+<li><strong>LINE presentation:</strong> preserve recognizable inline emoji, pace block replies using the agent’s configured human delay, and offer LINE card commands only on LINE. Related #132082, #133430. (#132083, #133443, #132895) Thanks @edenfunf.</li>
+<li><strong>Media compatibility:</strong> restore AVI playback and filenames, normalize detected Matroska and ASF media for the right handling, and decode quoted input-file charsets correctly. Related #133328, #133608. (#133329, #133383, #133386, #133610) Thanks @ly85206559.</li>
+<li><strong>Text fidelity:</strong> preserve Unicode when truncating email and runtime text, retain HTML paragraph boundaries, and avoid leaking code-span placeholders into outbound messages; preserve trailing whitespace inside inline code and keep astral Unicode letters separated when stripping model control tokens. Related #132969, #134450. (#132170, #132366, #132998, #125184, #134451, #134357) Thanks @harjothkhara, @ly85206559, @pengzh1, @yifanxiong272, and @wanyongstar.</li>
+<li><strong>Audio language detection:</strong> omit the implicit audio prompt during automatic language detection so it does not bias transcription. Related #123305. (#133674) Thanks @synthalorian and @aleps001.</li>
+<li><strong>Cloud cancellation:</strong> persist canceled queued turns, stop work without waiting for unrelated provider inspection, fence canceled bundle installation, and wait for pending SSH workspace cleanup. Related #133455. (#133241, #133476, #133976, #133472) Stop also cancels pending worker provisioning and project preparation while allowing owned cleanup to finish. (#133735)</li>
+<li><strong>Cloud lifecycle:</strong> prevent archive, delete, and recovery from hanging behind worker moves, preserve actionable execution and workspace-recovery failures, fix bootstrap archive races, and release idle desktops before reuse; settle project snapshots before enrollment, reuse prepared worker archives, and reclaim unused snapshots during idle maintenance. Related #133654, #134199. (#133551, #133663, #133655, #133451, #134200, #134043, #134181, #134326, #134088) Thanks @Takhoffman.</li>
+<li><strong>Native Codex sessions:</strong> continue selected native sessions without scanning an entire large Codex home, preserve conversations across app-server restarts, and avoid intermittent Linux startup failures. Related #133929. (#134073, #134098, #133485)</li>
+<li><strong>Provider failures:</strong> retain provider ownership in errors, explain unavailable selected Codex authentication profiles, and preserve the real retry and rate-limit outcome when a pinned model disables fallbacks. Related #134012, #113169. (#134029, #133970, #133355, #134111) Thanks @vincentkoc, @Jeehut, and @obviyus.</li>
+<li><strong>Model browsing and search:</strong> recover model browsing after catalog replacement and distinguish missing answers from malformed Google and xAI responses. Related #133166, #130550. (#133221, #130583, #133667) Thanks @chelsealong, @vincentkoc, @r3n3x, @Darren2030, and @jailbirt.</li>
+<li><strong>Usage accuracy:</strong> keep output-token counts cumulative and recoverable, restore native-session usage after <code>/new</code>, refresh native pricing without pinning defaults, and correct cached long-context costs; refresh Cerebras and Chutes estimates from provider pricing while preserving explicit user rates, and keep usage pricing on static model metadata. Related #133562, #133346, #133343. (#133605, #133441, #133695, #133349) Related #134248. (#134311, #133699)</li>
+<li><strong>Long-history performance:</strong> avoid excessive context copies, release transcript backing storage after eviction, reuse prepared batch writers, and reduce repeated Control UI history processing while preserving full-fidelity fork evidence. Related #133738, #133939, #123540, #133941. (#133753, #133565, #133680, #133965, #123541, #134238, #133988, #134252, #134209) Thanks @njuboy11 and @obviyus.</li>
+<li><strong>Concurrent session work:</strong> reuse session facts and remove repeated history scans from concurrent turns, status reads, and bounded task pages. Related #133053. (#133061, #133683, #133903, #134176, #132903) Thanks @jason-allen-oneal and @obviyus.</li>
+<li><strong>Browser reliability:</strong> retain accepted browser follow-ups through restarts, preserve contextless workers and iframe sessions, and use CDP for managed role snapshots. Related #133569, #133514. (#133457, #133571, #133614) Thanks @vincentkoc and @josephbergvinson.</li>
+<li><strong>Beam transcript fidelity:</strong> preserve uploader identity, restart delivery when the receiver changes, and omit mixed Claude tool content without losing snapshot state. (#133425, #133533, #133460)</li>
+<li><strong>Windows support:</strong> preserve PowerShell profile encoding and pnpm shim arguments, and retain resource scope across Windows path casing differences. (#133729, #133395, #134052) Thanks @ly85206559 and @vincentkoc.</li>
+<li><strong>CLI output and tools:</strong> keep Unicode session and task tables aligned, fail session tailing on follow-read errors, preserve escaped Code Mode output prefixes, and retain readable grep context and literal <code>@</code>-prefixed paths. Related #133776. (#133758, #133422, #132660, #133777, #131621, #133815) Thanks @Alix-007, @xialonglee, and @qingminglong.</li>
+<li><strong>Skills and memory wiki:</strong> recover colon-rich skill frontmatter, allow disposal of malformed proposals, and reject unsupported wiki operations and self-imported source pages; discover skill roots created after Gateway startup so newly added skills can refresh normally. Related #124486, #125139. (#122884, #124488, #123448, #125160, #134136) Thanks @xydt-tanshanshan, @obviyus, @woodym-dotcom, @wanyongstar, @rajmp999, @YouBeerMe, and @shakkernerd.</li>
+<li><strong>Settings and configuration:</strong> preserve concurrent first saves, retain owners across legacy agent imports and store changes, preserve QQBot multi-account settings, and honor per-agent tool-progress detail overrides. Related #133868, #133889, #133899. (#134072, #133920, #133788, #133948) Thanks @MrSwagatRathod, @obviyus, @lsr911, @chelsealong, @ZengWen-DT, @SebTardif, @marmar9615-cloud, and @yubingjiaocn.</li>
+<li><strong>Native authentication:</strong> preserve Anthropic native authentication when API keys are also stored, retain explicitly pinned npm versions during stale-runtime repair, and keep the correct pnpm installation owner after launcher respawn. Related #134004, #123616, #134037. (#134030, #128250, #134075) Thanks @obviyus, @rayseling, @SunnyShu0925, @sblindt, and @YogevKr.</li>
+<li><strong>macOS ChatGPT login:</strong> finish onboarding after a same-route Gateway reconnect by resubmitting a callback only when it was never dispatched, preserving the existing login session. Related #134182. (#134268) Thanks @obviyus and @Sedrak-Hovhannisyan.</li>
+<li><strong>Gateway setup and repair:</strong> require actual Gateway protocol readiness before declaring setup complete, preserve the operator’s home during sudo service installation, and allow stopping a Gateway even when its state schema is newer. Related #133273, #133953, #134000. (#133434, #133989, #134084, #133595) Thanks @obviyus, @itanyplus, and @RomneyDa.</li>
+<li><strong>Diagnostics stay on target:</strong> keep embedded triage on the installation being diagnosed, and let TLS status and connection checks read certificates without creating or repairing certificate files. Related #133842, #128598, #134222. (#134244, #134223) Thanks @obviyus.</li>
+<li><strong>Doctor maintenance:</strong> coordinate state repair with the matching managed Gateway, preserve its installed service definition, and verify it after any restart; use <code>openclaw gateway install --force</code> when you explicitly want to replace the managed launcher. Related #133957. (#134031)</li>
+<li><strong>Gateway restart after repair:</strong> release Doctor’s database handles before restarting, so completed session migrations no longer leave the Gateway blocked by Doctor’s own database leases. (#134429)</li>
+<li><strong>Update restart ordering:</strong> let the updater control Gateway restarts through Doctor repairs and plugin setup, preventing Doctor from restarting it before the update is ready. (#134470)</li>
+<li><strong>Clearer repair outcomes:</strong> report when configuration errors block state repair, fail unhealthy plugin Doctor checks, preserve newly written stability bundles, and stop warning about canonical database links and nested Git workspaces. Related #134036, #133388, #127418, #133981, #133923. (#134078, #133431, #132626, #134087, #133964) Thanks @obviyus, @YogevKr, @PollyBot13, @Alix-007, @02-dino, and @jeffsteinbok-openclaw.</li>
+<li><strong>Auth archive recovery:</strong> show completed or failed interrupted recovery even when Doctor returns early or another migration is declined, preserving failed source data. Related #133881, #133962. (#134009) Thanks @angeliti999 and @shakkernerd.</li>
+<li><strong>Provider configuration:</strong> migrate retired xAI image-model selections, ignore missing optional secret-backed command environment values, and report plugin-registry persistence differences instead of silently losing changes. Related #124527, #133561, #133901. (#126495, #133582, #133963) Thanks @Schimuneck, @obviyus, @tiniecookie, @pengzh1, @vincentkoc, @jodok, and @yubingjiaocn.</li>
+<li><strong>Automatic update policy:</strong> keep the saved update channel authoritative after a one-off package tag, cancel discovery when checks are disabled, record failed automatic updates, and preserve recovery actions across dashboard reloads; unattended installation requires a managed Gateway service. (#134566)</li>
+<li><strong>Install and channel switches:</strong> finish update-channel and installation switches using the verified installation, recover only when the installed package is safe to restart, and recognize npm installations that have no installer metadata. Related #134203. (#134397, #134475) Thanks @Patrick-Erichsen and @vyctorbrzezowski.</li>
+<li><strong>Runtime capability review:</strong> show the runtime plugin source and capabilities before model activation, keep installation and the live model check in the same setup flow, and let declining or canceling end that attempt without silently choosing another connection. (#134101) Thanks @VACInc.</li>
+<li><strong>Cloud result recovery:</strong> retain worker results before retiring stale owners, recover cloud sessions across Gateway restarts and cancellation, and scope recovery to the requested environment. Related #131713. (#132128, #133728, #134448) Thanks @jalehman and @shakkernerd.</li>
+<li><strong>Retained conversation inputs:</strong> keep retained inputs in transcript order and prevent retired prompts from reappearing after history refresh or remount. (#134261, #134059) Thanks @VACInc.</li>
+<li><strong>Model availability and routing:</strong> pair full model catalogs with native authentication results and retain the selected completion transport, so discovered models and completion requests use the intended provider. Related #134325. (#134463, #134521) Thanks @fuller-stack-dev and @goslingmanagment.</li>
+<li><strong>macOS installation and sign-in:</strong> relaunch the verified app after installation and let stalled provider sign-in exit without late authentication replies reopening a retired flow. Related #134034, #134347. (#134074, #134380) Thanks @Sedrak-Hovhannisyan and @VACInc.</li>
+<li><strong>Linux and npm installation:</strong> preserve Fedora and other RPM-owned Node packages when OpenClaw needs a separate SQLite-safe runtime, restore npm conflict recovery and failure diagnostics, and keep installer dry runs from downloading the terminal UI helper. Related #132828, #134201. (#134166, #134236, #134388) Thanks @beedell-roke, @ly85206559, @mohamedelrefaiy, @sallyom, and @SunnyShu0925.</li>
+<li><strong>IPv6 Gateway access:</strong> keep canvas, boards, and other plugin-hosted surfaces reachable when the Gateway uses bracketed IPv6 hosts, including forwarded host headers. (#134050) Thanks @yangxiansheng.</li>
+<li><strong>Browser relay admission:</strong> limit pending relay authentication and replay records per client source so one source cannot consume the shared capacity. (#134241) Thanks @mmaps.</li>
+<li><strong>Credential reloads and inspection:</strong> stop SMS webhook, media, and Twilio work when its account credentials become unavailable or are superseded, and keep inactive channel credentials out of inspection. Related #133924. (#134145, #134418) Thanks @shakkernerd.</li>
+<li><strong>LINE conversations:</strong> list configured peers and groups, keep typing indicators working for Gateway-driven replies, and avoid answering standby events while another channel owns the conversation. Related #133576, #133597, #133677. (#133599, #133679, #133577) Thanks @edenfunf.</li>
+<li><strong>Slack image downloads:</strong> honor the configured image size limit when downloaded Slack files become tool results. (#134242) Thanks @marmar9615-cloud.</li>
+<li><strong>Tool output fidelity:</strong> keep grep matches whose paths arrive as bytes and stop shell redirections or <code>rg --files</code> arguments from appearing as misleading search targets. (#133358, #133783) Thanks @darioandyoshi-tech and @ly85206559.</li>
+<li><strong>HTML exports:</strong> omit hidden messages from conversation cards while retaining their labeled debugging records; the HTML archive and JSONL download still contain hidden messages, so hiding is not redaction. (#134561)</li>
+<li><strong>Hermes migration:</strong> preserve the selected agent’s model, supported provider metadata, MCP tool restrictions, active organization skills, and disabled skill settings; partial apply failures return a complete JSON report with a nonzero exit. (#134426)</li>
+<li><strong>Plugin repair guidance:</strong> verify exact npm repair targets before suggesting a plugin update, and show a retry diagnostic when the target is unavailable. (#133617) Thanks @vladimirkrdzic.</li>
+<li><strong>Gateway session memory:</strong> bound the session data loaded for lists, health, status, lookup, and cleanup, avoid retaining unused prompt snapshots, and refresh query planning after bulk deletion. (#134395, #134554, #134488, #133925) Thanks @VACInc.</li>
+<li><strong>Failure diagnostics:</strong> retain the real reason in JSON log errors, preserve useful stdout alongside stderr on command failure, and report quiet npm timeouts or termination instead of blank errors. Related #127448, #134427, #134533. (#134534, #134428, #133845) Thanks @aniruddhaadak80 and @vincentkoc.</li>
+<li><strong>Status and restart diagnostics:</strong> honor usage and agent-scope options in full status reports, identify active work delaying a restart, and report declared configuration accurately in triage. Related #134267. (#134269, #133154, #134416) Thanks @VACInc.</li>
+<li><strong>Home and composer continuity:</strong> derive Home titles from the user message rather than its work-context snapshot, keep steady composer edits local in long conversations, and give scheduled-job controls distinct accessible names. Related #127330. (#134591, #133465, #134225) Thanks @SunnyShu0925 and @VACInc.</li>
+<li><strong>Systemd version metadata:</strong> refresh obsolete version metadata during safe restarts without replacing the installed service or suppressing the restart when metadata maintenance fails. Related #134202. (#134482) Thanks @Patrick-Erichsen and @vyctorbrzezowski.</li>
+<li><strong>Legacy state validation:</strong> reject unexpected JSON fields even when their key is empty during supported push, node-host, outgoing-image, and TUI state migrations. (#134577) Thanks @vincentkoc.</li>
+<li><strong>Command help and completion:</strong> keep hidden commands and options out of shell suggestions, retain the accepted legacy <code>message read --include-thread</code> spelling without advertising a no-op, and reject blank Gateway probe timeouts. (#134247, #134212, #134040) Thanks @marmar9615-cloud and @SunnyShu0925.</li>
+<li><strong>Session and shutdown ownership:</strong> retain the selected agent through global native-session operations, keep sends on the selected channel plugin, stop new outbound retry admission during shutdown, and reject language-server tools after their bundle is disposed. Related #127260, #134313. (#134314, #134564, #134381, #133340) Thanks @qingminglong and @VACInc.</li>
+</ul>
+<h3>Known issues</h3>
+<ul>
+<li><strong>Optional memory plugin dependency:</strong> standalone <code>@openclaw/memory-lancedb</code> installs can still resolve an older vulnerable Sharp version through an optional Transformers dependency. The plugin’s reviewed text-embedding and vector-storage path does not load that image adapter; this dependency exposure remains a packaging follow-up.</li>
+<li><strong>Hindi and Korean token labels:</strong> the native app’s token-usage label reverses the wording for used and total tokens; the counts and calculations are unchanged.</li>
+</ul>
+<h3>Upcoming deprecations</h3>
+<p>These already-deprecated Plugin SDK import paths remain available in <strong>2026.8.2</strong>. Their recorded removal target is <strong>2026-09-01</strong>; plugin authors should prepare the following migrations using the <a href="https://docs.openclaw.ai/plugins/sdk-migration">Plugin SDK migration guide</a>.</p>
+<ul>
+<li><strong><code>openclaw/plugin-sdk/config-runtime</code>:</strong> use <code>api.pluginConfig</code> for plugin configuration, <code>openclaw/plugin-sdk/config-contracts</code> for types, <code>openclaw/plugin-sdk/runtime-config-snapshot</code> for snapshot reads, and <code>openclaw/plugin-sdk/config-mutation</code> for writes. (<code>plugin-sdk-config-runtime-subpath</code>)</li>
+<li><strong><code>openclaw/plugin-sdk/channel-reply-pipeline</code>:</strong> import reply pipeline helpers from <code>openclaw/plugin-sdk/channel-outbound</code>. (<code>plugin-sdk-channel-reply-pipeline-subpath</code>)</li>
+<li><strong><code>openclaw/plugin-sdk/infra-runtime</code>:</strong> move helpers to focused imports, including <code>openclaw/plugin-sdk/delivery-queue-runtime</code>, <code>openclaw/plugin-sdk/diagnostic-runtime</code>, <code>openclaw/plugin-sdk/error-runtime</code>, <code>openclaw/plugin-sdk/exec-approvals-runtime</code>, <code>openclaw/plugin-sdk/fetch-runtime</code>, and <code>openclaw/plugin-sdk/ssrf-runtime</code>. The migration guide records that system-event snapshot inspection and consumption still have no modern public replacement. (<code>plugin-sdk-infra-runtime-subpath</code>)</li>
+<li><strong><code>openclaw/plugin-sdk/channel-lifecycle</code>:</strong> use <code>openclaw/plugin-sdk/channel-outbound</code>. (<code>plugin-sdk-channel-lifecycle-subpath</code>)</li>
+<li><strong><code>openclaw/plugin-sdk/channel-message</code>:</strong> use <code>openclaw/plugin-sdk/channel-outbound</code> and <code>openclaw/plugin-sdk/channel-inbound</code>. (<code>plugin-sdk-channel-message-subpath</code>)</li>
+</ul>
+<h3>Complete contribution record</h3>
+<p>The full contribution record is available in the tag-pinned <a href="https://github.com/openclaw/openclaw/blob/v2026.8.2/CHANGELOG.md#complete-contribution-record">CHANGELOG.md</a>.</p>
+<h3>Release verification</h3>
+<ul>
+<li><p>Immediate install from the verified GitHub npm artifact: <code>npm install -g https://github.com/openclaw/openclaw/releases/download/v2026.8.2/openclaw-2026.8.2.tgz</code>. These are the same preflight bytes accepted by npm; SHA-256 <code>20e9c2f16742dfcebfb21504e51067d31e000a19577126ff4fab117e5e87dbe2</code>.</p>
+</li>
+<li><p>npm package: <a href="https://www.npmjs.com/package/openclaw/v/2026.8.2">https://www.npmjs.com/package/openclaw/v/2026.8.2</a> — published; <code>latest</code> is <code>2026.8.2</code>, with the newer beta tag preserved.</p>
+</li>
+<li><p>Registry tarball: <a href="https://registry.npmjs.org/openclaw/-/openclaw-2026.8.2.tgz">https://registry.npmjs.org/openclaw/-/openclaw-2026.8.2.tgz</a></p>
+</li>
+<li><p>Published registry tarball integrity: <code>sha512-I9aqK1attaONePpWs2gPqh23s1s1EDcN/6icF2AAfONdtowu4156QD7g6oD7KlA2vQ9yiqnvlAVH6yduvGH9Ig==</code>; registry bytes exactly match the validated preflight artifact.</p>
+</li>
+<li><p>npm published at <code>2026-09-01T16:19:50.535Z</code>; exact version, selectors, tarball, integrity, and publication time verified with <code>npm view</code>.</p>
+</li>
+<li><p>Signed release tag: <a href="https://github.com/openclaw/openclaw/tree/v2026.8.2"><code>v2026.8.2</code></a>, release SHA <code>0965053fe6b9341776df147a6934b7485c60b5ca</code>.</p>
+</li>
+<li><p>Full release validation: <a href="https://github.com/openclaw/openclaw/actions/runs/33479039101">https://github.com/openclaw/openclaw/actions/runs/33479039101</a></p>
+</li>
+<li><p>Exact-release npm preflight: <a href="https://github.com/openclaw/openclaw/actions/runs/33490056617">https://github.com/openclaw/openclaw/actions/runs/33490056617</a></p>
+</li>
+<li><p>Core npm manual recovery: <a href="https://github.com/openclaw/openclaw/actions/runs/33528120754">https://github.com/openclaw/openclaw/actions/runs/33528120754</a> — succeeded; signed provenance published at <a href="https://search.sigstore.dev/?logIndex=2677752801">https://search.sigstore.dev/?logIndex=2677752801</a>; public registry availability and exact artifact integrity verified.</p>
+</li>
+<li><p>Matrix plugin: <a href="https://www.npmjs.com/package/@openclaw/matrix/v/2026.8.2"><code>@openclaw/matrix@2026.8.2</code></a> manually uploaded from the verified preflight tarball at <code>2026-09-01T15:52:09.217Z</code>; registry integrity matches the sealed artifact. This authenticated manual upload has no GitHub OIDC attestation. <code>latest</code> is <code>2026.8.2</code>; the newer <code>2026.9.1-beta.1</code> beta tag is preserved.</p>
+</li>
+<li><p>Matrix tarball SHA-256: <code>d295140a6869fe7fae60abf019a6f80f20d61210202e8e36dea6cf3d346c8754</code>.</p>
+</li>
+<li><p>Dependency evidence: <code>openclaw-2026.8.2-dependency-evidence.zip</code>, containing the original exact-release preflight reports. Attached and SHA-256 verified: <code>7d0bb1f0a3ba8d75f404f9daa29bec6aa65549a2e7de574da26090ad1d841037</code>.</p>
+</li>
+<li><p>Windows promotion: <a href="https://github.com/openclaw/openclaw/actions/runs/33528228670">https://github.com/openclaw/openclaw/actions/runs/33528228670</a> — workflow succeeded.</p>
+</li>
+<li><p>Linux release: <a href="https://github.com/openclaw/openclaw/actions/runs/33526566014">https://github.com/openclaw/openclaw/actions/runs/33526566014</a> — completed; published bytes match the build artifact, both package checksums pass, and the AppImage Minisign signature is verified.</p>
+</li>
+<li><p>Android release: <a href="https://github.com/openclaw/openclaw/actions/runs/33528270994">https://github.com/openclaw/openclaw/actions/runs/33528270994</a> — completed on attempt 2; public APK checksum and GitHub attestation verified against the exact release SHA.</p>
+</li>
+<li><p>macOS release: independent; approval pending.</p>
+</li>
+<li><p>Official npm plugins: all 89 published; 88 through trusted publishing and Matrix through the verified manual upload above.</p>
+</li>
+<li><p>ClawHub publication: all 89 official packages are public at <code>2026.8.2</code>, with <code>latest</code>, artifact hashes, sizes, and downloaded bytes verified against the sealed artifacts. <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.2/openclaw-2026.8.2-clawhub-public-verification.json">Complete verification record</a>, SHA-256 <code>55ce71454d77b8235438345fb6a9097203d13045e569c17d28b32f7ac069742f</code>. These authenticated manual uploads do not carry GitHub OIDC publication attestations.</p>
+</li>
+<li><p>Docker publication: <a href="https://github.com/openclaw/openclaw/actions/runs/33531315529">https://github.com/openclaw/openclaw/actions/runs/33531315529</a> — succeeded, including the Vercel mirror. Docker Hub and GHCR expose the versioned default/slim/browser images for <code>linux/amd64</code> and <code>linux/arm64</code>; stable aliases match. Public SPDX/SLSA predicates and release-SHA bindings verified.</p>
+</li>
+<li><p>Published release documentation: <a href="https://docs.openclaw.ai/releases/2026.8.2">https://docs.openclaw.ai/releases/2026.8.2</a></p>
+</li>
+<li><p>Release fixes and changelog reconciled to main: <a href="https://github.com/openclaw/openclaw/pull/135322">https://github.com/openclaw/openclaw/pull/135322</a> (merged). npm release-script recovery fix: <a href="https://github.com/openclaw/openclaw/pull/135323">https://github.com/openclaw/openclaw/pull/135323</a> (merged).</p>
+</li>
+<li><p>Docker default/slim manifest digest: <code>sha256:5d25165995041caa6a7175bec82b25ad98c44eb269bb42435da8e27ec06e6be4</code>; browser manifest digest: <code>sha256:e164a318801fad2d49dc19b99adadfa629fa5f9ffb43673e73661c1d3f9cc7de</code>.</p>
+</li>
+<li><p>ClawHub publisher source-ref repair: <a href="https://github.com/openclaw/openclaw/pull/135368">https://github.com/openclaw/openclaw/pull/135368</a> (merged); future trusted publications use the sealed candidate SHA in both source metadata fields.</p>
+</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2>2026.8.2</h2>
+<h3>Highlights</h3>
+<ul>
+<li><strong>Your Home agent, beside your work:</strong> open Home in a right or bottom dock with <code>Cmd/Ctrl+Shift+H</code>, keep your current page in view, and preview or remove its work-context snapshot or attach selected text to your message. Related #133632. (#133676)</li>
+<li><strong>A desktop companion for Linux:</strong> install the <code>.deb</code> or AppImage on x86-64 Linux, connect to a local or remote Gateway, and open Quick Chat from the system tray or an X11 keyboard shortcut. AppImage updates are signature-verified; <code>.deb</code> installs remain under your package manager. See the <a href="https://docs.openclaw.ai/platforms/linux">Linux guide</a>.</li>
+<li><strong>Start work without switching pages:</strong> create and run a background session from New Session, keep its selected local, cloud, or paired-device placement, and open it from the completion notice. Related #128037. (#128050) Thanks @Takhoffman.</li>
+<li><strong>Safer upgrades:</strong> preserve newer configuration, stop incomplete session migrations before claiming success, and recover a stopped Gateway after a failed update when the installed package or rollback is verified safe. Related #118244, #90551, #134206. (#134025, #134228, #119516) Thanks @obviyus, @stuart-minion-ai, @shakkernerd, @zyw02, @Issue-Hunter, @cursoragent, and @sercada.</li>
+<li><strong>Replies that finish the job:</strong> return a final answer after settled tool work and surface failures after an accepted turn, fixing conversations that stopped at tool output or an initial acknowledgement. Related #133960. (#133520, #133979) Thanks @fuller-stack-dev.</li>
+<li><strong>More dependable voice:</strong> keep internal reasoning out of speech, preserve tool-generated audio through delivery, and keep later browser Talk turns working after call setup. Related #90364, #83636, #134081. (#133615, #133324, #134170, #134138) Thanks @camball-strategies, @obviyus, @TurboTheTurtle, @clawSean, @Conan-Scott, and @mastertyko.</li>
+<li><strong>Browser control without a running Gateway:</strong> let supported macOS and Linux Chrome extension builds wake their paired local relay for authenticated CDP clients; this needs the updated native host and an extension build with relay wake-up support. (#128379)</li>
+<li><strong>Four new looks:</strong> personalize the Control UI with CRT, Manuscript, Rosé, or Miami, with theme choices preserved offline and applied without flashing the wrong theme during reload. Related #133416, #132785. (#133495, #133593, #133417, #132789) Thanks @vyctorbrzezowski.</li>
+</ul>
+<h3>Changes</h3>
+<ul>
+<li><p><strong>Recovery cleanup:</strong> preview retained migration originals with <code>openclaw update cleanup --dry-run</code>, then explicitly remove eligible originals while the selected Gateway is stopped; cleanup preserves current SQLite history but permanently gives up rollback to removed originals. Related #133805. (#133864)</p>
+</li>
+<li><p><strong>Session visibility default:</strong> let unsandboxed sessions work with other sessions of the same agent by default, including retained cron sessions; shared-agent operators should set <code>tools.sessions.visibility</code> to <code>tree</code> or <code>self</code> when they need narrower access, while sandbox and cross-agent restrictions remain enforced. Related #133456. (#133469)</p>
+</li>
+<li><p><strong>Cross-session conversations:</strong> render forwarded messages as distinct speech bubbles with source-session links and sending-agent identity, preserving attribution when messages steer an active conversation. (#132054, #133439)</p>
+</li>
+<li><p><strong>Session organization:</strong> group session actions into clearer menus, copy transcripts as Markdown, open sessions in tabs, windows, or splits, edit icons and colors together, and optionally hide empty session groups. Related #133480, #133629. (#133490, #133638)</p>
+</li>
+<li><p><strong>Home without switching pages:</strong> dock the selected agent’s existing Home conversation beside your work, retain its draft and attachments when opening it full page, and inspect or remove the “Working on” context before sending. Related #133632. (#133676)</p>
+</li>
+<li><p><strong>Prepared cloud projects:</strong> reuse prepared project snapshots and validated workspace hashes before starting a cloud session, and preserve the required stop, snapshot, and restart cycle for Daytona-backed projects. Related #133436, #133450. (#133447, #134026, #134043)</p>
+</li>
+<li><p><strong>Readable Beam links:</strong> share transcripts through readable <code>/beam/</code> URLs named after their sessions, with existing access checks and contextual navigation preserved. Related #125752. (#125755, #133463)</p>
+</li>
+<li><p><strong>Chrome relay wake-up:</strong> support standalone local relays that start on demand, share their paired browser with the Gateway, and remain available to other CDP clients when the Gateway disconnects; see the <a href="https://docs.openclaw.ai/tools/chrome-extension#standalone-direct-loopback-relay">Chrome extension guide</a> for supported builds and setup. (#128379)</p>
+</li>
+<li><p><strong>Plugin SDK types:</strong> type Telegram <code>botToken</code> as <code>SecretInput</code> (<code>string | SecretRef</code>), matching existing secret-reference support; plugin authors should use the resolved account <code>token</code> and read finalization-context <code>messages</code> only when <code>source === &quot;openclaw-transcript&quot;</code>. (#133988, #134238)</p>
+</li>
+<li><p><strong>Background sessions:</strong> start work from New Session without leaving the page with <code>Cmd/Ctrl+Enter</code>, retain the selected local, cloud, or paired-device placement, and open the session from its completion notice; use <code>Cmd/Ctrl+Shift+Enter</code> when Modifier+Enter is already your normal send shortcut, while explicit Draft visibility still creates a draft. Related #128037. (#128050) Thanks @Takhoffman.</p>
+</li>
+<li><p><strong>iOS composer:</strong> bring inline model, thinking, permission, attachment, and context controls closer to the web experience, keeping queued sends bound to the session settings that authorized them. (#132683) Thanks @Solvely-Colin.</p>
+</li>
+<li><p><strong>Plugin approval verification:</strong> let plugins describe an external verification choice in approval presentations while OpenClaw retains approval identity, authorization, timeouts, and the final decision. (#113517) Thanks @Guardiola31337.</p>
+</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li><strong>Optional image decoding:</strong> update the release’s managed Sharp dependency to 0.35.4 with libheif 1.23.2, fixing vulnerabilities in image decoding while preserving optional installation. See the plugin dependency caveat under Known issues.</li>
+<li><strong>Workspace permissions:</strong> apply permission changes to active runs and preserve session tool policies on cloud workers, so changing where work runs does not widen what it may do. Related #131947, #131661. (#132407, #131669) Thanks @jalehman, @anyech, and @sallyom.</li>
+<li><strong>Private diagnostics:</strong> redact values explicitly marked private in macOS app logs, keep credential values and prefixes out of routine Clawdock diagnostics, and preserve safe redaction of long secrets. Related #133736, #133535. (#133739, #133547, #134168)</li>
+<li><strong>MCP response limits:</strong> reject oversized HTTP responses and SSE events before parsing while preserving healthy long-lived streams and keepalives. Related #101554. (#123194) Thanks @SebTardif, @obviyus, and @aniruddhaadak80.</li>
+<li><strong>Source-file fidelity:</strong> preserve UTF-8 BOMs, line endings, fuzzy-match context bytes, and end-of-file state when applying patches, including formatting-only edits. Related #124390, #133319. (#124418, #133320) Thanks @synthalorian, @obviyus, and @yetval.</li>
+<li><strong>Migration safety:</strong> coordinate automatic agent-database maintenance with its current owner, check migration readiness before accepting workspace work, and preserve existing voice-call settings and disabled shared heartbeat owners during Doctor repair. Related #133478, #133951, #127596, #133389. (#133563, #133982, #134018, #133444) Thanks @omarshahine, @PollyBot13, and @obviyus.</li>
+<li><strong>Safe session recovery:</strong> preserve independently created files and symlinks during archive restore, repair supported legacy v17 agent databases, and fail updates clearly when session migration still blocks startup. Related #134163, #134206. (#133921, #134208, #134228) Thanks @EthDing, @obviyus, @abacha, and @shakkernerd.</li>
+<li><strong>Keep newer configuration:</strong> migrate a readable active configuration before considering last-known-good recovery, preserving newer valid settings rather than replacing them with an older copy. Related #90551. (#134025) Thanks @obviyus and @stuart-minion-ai.</li>
+<li><strong>Update capability consent:</strong> block a requested Gateway restart and return an actionable failure when a plugin update needs capability review; retain the previous plugin and finish with <code>openclaw update repair</code> after review. Related #134156. (#134183) Thanks @obviyus and @BrunoCerberus.</li>
+<li><strong>Hardened npm updates:</strong> complete OpenClaw’s verified package lifecycle on hosts using npm <code>ignore-scripts=true</code> without enabling scripts for unrelated packages or rolling a valid update back. Related #134177. (#134193) Thanks @obviyus and @botatdovly.</li>
+<li><strong>Update progress and recovery:</strong> show reliable progress and final outcomes, preserve offline diagnostics, refuse unsafe restarts when service state is unknown, and distinguish Gateway service setup from installing the CLI. (#133622, #133842, #132853, #133530) Thanks @jason-allen-oneal, @obviyus, and @RomneyDa.</li>
+<li><strong>Failed-update recovery:</strong> restart the managed Gateway through the selected installed CLI after a failed update when the replacement or restored installation is verified usable; retain backups and leave the Gateway stopped when rollback or package readiness remains uncertain. Related #118244. (#119516) Thanks @zyw02, @Issue-Hunter, @cursoragent, and @sercada.</li>
+<li><strong>Scheduled jobs:</strong> preserve and recover valid migrated cron jobs, avoid needless schedule-repair writes, and emit complete JSON when cron output is piped; heartbeat jobs now report the actual completed, skipped, or failed outcome after the heartbeat settles. Related #133347, #133442, #134327. (#133858, #133552, #133661, #134464) Thanks @fuller-stack-dev, @ejc3, @vincentkoc, @josephbergvinson, and @goslingmanagment.</li>
+<li><strong>Approval migration:</strong> import historical execution approvals and usage metadata, and identify malformed legacy fields without exposing their values so operators can repair the preserved source. Related #118242. (#118282, #133952) Thanks @obviyus and @sercada.</li>
+<li><strong>Plugin SDK compatibility:</strong> preserve the published conversation-binding inspection API and existing command definitions when upgrading from 2026.8.1; legacy <code>docks</code> categories remain visible under Tools without restoring retired docking features.</li>
+<li><strong>Plugin loading and updates:</strong> load packaged TypeScript plugins consistently, normalize file URLs for native loading, preserve bundled provider compatibility, and keep official plugins aligned with targeted beta updates. Related #133306, #123297, #97680. (#117199, #133337, #123416, #124415) Thanks @sunlit-deng, @easyteacher, @lonexreb, @obviyus, @bradenmcleish, @synthalorian, and @chac4l.</li>
+<li><strong>Plugin discovery:</strong> keep bundled plugins bundled when selected through load paths and prune stale path-install records that otherwise shadow the active source. Related #133935. (#133584, #133991) Thanks @ZengWen-DT, @obviyus, @lsr911, @chelsealong, @SebTardif, and @JeffSteinbok.</li>
+<li><strong>Bun Gateway compatibility:</strong> restore authenticated Gateway connections under Bun 1.4 while preserving payload limits and request scheduling. (#134282)</li>
+<li><strong>Docker image builds:</strong> prevent dependency installation from failing on missing package-lifecycle files. (#134231)</li>
+<li><strong>Installer and container access:</strong> repair npm-prefix shell initialization, surface failed install finalization, and restore in-container CLI access when Docker uses a custom host port. Related #133503. (#133869, #133504)</li>
+<li><strong>Channel recovery:</strong> resume recovery after crash-loop suppression, isolate unavailable accounts in diagnostics, and explain why an account recovery start was skipped. Related #134134, #133977, #133954. (#134165, #134044, #133973) Thanks @shakkernerd, @lsr911, @obviyus, @chelsealong, @ZengWen-DT, and @SebTardif.</li>
+<li><strong>Matrix shutdown:</strong> drain active monitor tasks before retiring shared clients, preventing shutdown deadlocks and late reuse of a closed client. (#134033) Thanks @lsr911, @obviyus, @chelsealong, @ZengWen-DT, and @SebTardif.</li>
+<li><strong>Reply completion:</strong> finish settled tool turns with a visible answer, recover failed-tool batches, report failures after accepted turns, and recognize completion replies delivered to internal requesters. Related #133292, #133960. (#133520, #133300, #133979, #133543) Thanks @fuller-stack-dev and @VACInc.</li>
+<li><strong>Subagent ownership:</strong> preserve conversation bindings and task visibility, clear stale owners, and keep status and command targets aligned with the agent that owns the work. Related #127141. (#127147, #133461, #133578, #133715)</li>
+<li><strong>Human priority and cancellation:</strong> prioritize human messages over inter-session work, stop queued Swarm collectors with their parent, and persist blocked completion alerts atomically. Related #70634, #131553, #133058. (#132738, #133076, #133192) Thanks @sylvesterkaczmarek, @obviyus, @ewrurwteurwU, @shojikumaru, @vincentkoc, and @potterdigital.</li>
+<li><strong>Conversation context:</strong> reject summaries that revive superseded tasks, stop repeated byte-triggered compaction, retain policy ownership, and carry saved conversation summaries into a fresh Codex thread when switching runtimes. Related #123668, #126900, #134224. (#123737, #127110, #133912, #134259) Thanks @wangyan2026, @obviyus, @andersonjeccel, @yu-xin-c, @fede-kamel, @lsr911, @chelsealong, @ZengWen-DT, and @SebTardif.</li>
+<li><strong>Draft and queue recovery:</strong> preserve offline drafts and restored draft text, resume draining after canceling a queued edit, and let you discard unconfirmed messages that block the queue. Related #133555, #133603. (#133628, #133575, #133440) Thanks @vincentkoc.</li>
+<li><strong>Starting chats:</strong> preserve typing on the new-session page, prevent duplicate initial prompts during workspace preparation, and avoid duplicate queued messages across clients. Related #132783, #133719. (#132773, #133861, #133542) Thanks @vyctorbrzezowski.</li>
+<li><strong>Workspace continuity:</strong> keep non-Git workspaces usable, preserve the selected worktree base branch through reconnects, and reload projects after startup identity is resolved. (#133664, #133744, #133817)</li>
+<li><strong>Chat refresh and reconnect:</strong> keep images visible while refreshed history loads, recover suspended tabs after Gateway updates, and keep the earlier-history action steady during pagination. Related #134237. (#134310, #134189, #132445) Thanks @Takhoffman and @RomneyDa.</li>
+<li><strong>Chat controls:</strong> restore text selection and simpler GitHub code copying, keep rewind confirmation controls accessible, and integrate Goal mode into the composer. Related #131201, #132786. (#133536, #133791, #132787) Thanks @RomneyDa, @Grynn, and @vyctorbrzezowski.</li>
+<li><strong>Voice privacy and delivery:</strong> exclude internal reasoning from spoken summaries, preserve accepted speech through media delivery, and retain speech and process-output delivery state through nested tools. Related #90364, #83636. (#133615, #133324, #133968, #134170, #134056) Thanks @camball-strategies, @obviyus, @TurboTheTurtle, @clawSean, and @Conan-Scott.</li>
+<li><strong>Browser Talk:</strong> keep later voice turns admitted after call setup, preserve provider conversation order, keep internal consultations out of user history, pass questions literally, and honor the configured agent for default sessions. Related #133855, #134037, #134081. (#133493, #133947, #134093, #133958, #134138) Thanks @vmbbz, @chelsealong, @lsr911, @obviyus, @ZengWen-DT, @SebTardif, @Conan-Scott, @YogevKr, and @mastertyko.</li>
+<li><strong>Microphone and transcription:</strong> explain pending microphone permission, avoid expiring a voice session while permission is pending, report transcription failures, and honor the selected transcription model. Related #133348, #133359, #133448. (#133353, #133384, #133473, #133613) Thanks @lsr911.</li>
+<li><strong>Voice settings and calls:</strong> retain canonical voice selections, discover configured providers, prevent late callbacks from creating phantom calls or obsolete replies, and preserve call capacity after storage failures. Related #112360, #129473. (#117527, #133507, #133811, #133484, #129847) Thanks @itkdm, @ruel225, @DonShelly, and @aniruddhaadak80.</li>
+<li><strong>Speech providers:</strong> resolve persona-level TTS secret references, report malformed MiniMax speech responses clearly, and consume interrupted Google voice-turn completion correctly; support the configured xAI speech origin consistently for synthesis and voice discovery while checking redirects to other origins, and handle silent transcripts correctly. Related #89607, #133351. (#89636, #123245, #133365, #134214, #134377) Thanks @SebTardif, @lsr911, @obviyus, @chelsealong, @ZengWen-DT, @pablonunoutande-source, @coaiMax, and @marmar9615-cloud.</li>
+<li><strong>iMessage and Telegram:</strong> keep iMessage replies in the current conversation and preserve Telegram’s rich button labels when building reply context. Related #133468. (#133499, #133307) Thanks @omarshahine and @obviyus.</li>
+<li><strong>Slack Enterprise approvals:</strong> deliver plugin approval requests to workspace-qualified approvers and accept their buttons only from the intended workspace. Related #133932. (#134251) Thanks @obviyus and @marmar9615-cloud.</li>
+<li><strong>Discord and LINE routing:</strong> suppress replies aimed at other Discord bots, avoid LINE introductions in unauthorized rooms, apply per-group wildcard defaults, and respect quote-as-mention policy. Related #133618. (#130327, #132628, #132918, #133619) Thanks @PollyBot13, @obviyus, and @edenfunf.</li>
+<li><strong>LINE presentation:</strong> preserve recognizable inline emoji, pace block replies using the agent’s configured human delay, and offer LINE card commands only on LINE. Related #132082, #133430. (#132083, #133443, #132895) Thanks @edenfunf.</li>
+<li><strong>Media compatibility:</strong> restore AVI playback and filenames, normalize detected Matroska and ASF media for the right handling, and decode quoted input-file charsets correctly. Related #133328, #133608. (#133329, #133383, #133386, #133610) Thanks @ly85206559.</li>
+<li><strong>Text fidelity:</strong> preserve Unicode when truncating email and runtime text, retain HTML paragraph boundaries, and avoid leaking code-span placeholders into outbound messages; preserve trailing whitespace inside inline code and keep astral Unicode letters separated when stripping model control tokens. Related #132969, #134450. (#132170, #132366, #132998, #125184, #134451, #134357) Thanks @harjothkhara, @ly85206559, @pengzh1, @yifanxiong272, and @wanyongstar.</li>
+<li><strong>Audio language detection:</strong> omit the implicit audio prompt during automatic language detection so it does not bias transcription. Related #123305. (#133674) Thanks @synthalorian and @aleps001.</li>
+<li><strong>Cloud cancellation:</strong> persist canceled queued turns, stop work without waiting for unrelated provider inspection, fence canceled bundle installation, and wait for pending SSH workspace cleanup. Related #133455. (#133241, #133476, #133976, #133472) Stop also cancels pending worker provisioning and project preparation while allowing owned cleanup to finish. (#133735)</li>
+<li><strong>Cloud lifecycle:</strong> prevent archive, delete, and recovery from hanging behind worker moves, preserve actionable execution and workspace-recovery failures, fix bootstrap archive races, and release idle desktops before reuse; settle project snapshots before enrollment, reuse prepared worker archives, and reclaim unused snapshots during idle maintenance. Related #133654, #134199. (#133551, #133663, #133655, #133451, #134200, #134043, #134181, #134326, #134088) Thanks @Takhoffman.</li>
+<li><strong>Native Codex sessions:</strong> continue selected native sessions without scanning an entire large Codex home, preserve conversations across app-server restarts, and avoid intermittent Linux startup failures. Related #133929. (#134073, #134098, #133485)</li>
+<li><strong>Provider failures:</strong> retain provider ownership in errors, explain unavailable selected Codex authentication profiles, and preserve the real retry and rate-limit outcome when a pinned model disables fallbacks. Related #134012, #113169. (#134029, #133970, #133355, #134111) Thanks @vincentkoc, @Jeehut, and @obviyus.</li>
+<li><strong>Model browsing and search:</strong> recover model browsing after catalog replacement and distinguish missing answers from malformed Google and xAI responses. Related #133166, #130550. (#133221, #130583, #133667) Thanks @chelsealong, @vincentkoc, @r3n3x, @Darren2030, and @jailbirt.</li>
+<li><strong>Usage accuracy:</strong> keep output-token counts cumulative and recoverable, restore native-session usage after <code>/new</code>, refresh native pricing without pinning defaults, and correct cached long-context costs; refresh Cerebras and Chutes estimates from provider pricing while preserving explicit user rates, and keep usage pricing on static model metadata. Related #133562, #133346, #133343. (#133605, #133441, #133695, #133349) Related #134248. (#134311, #133699)</li>
+<li><strong>Long-history performance:</strong> avoid excessive context copies, release transcript backing storage after eviction, reuse prepared batch writers, and reduce repeated Control UI history processing while preserving full-fidelity fork evidence. Related #133738, #133939, #123540, #133941. (#133753, #133565, #133680, #133965, #123541, #134238, #133988, #134252, #134209) Thanks @njuboy11 and @obviyus.</li>
+<li><strong>Concurrent session work:</strong> reuse session facts and remove repeated history scans from concurrent turns, status reads, and bounded task pages. Related #133053. (#133061, #133683, #133903, #134176, #132903) Thanks @jason-allen-oneal and @obviyus.</li>
+<li><strong>Browser reliability:</strong> retain accepted browser follow-ups through restarts, preserve contextless workers and iframe sessions, and use CDP for managed role snapshots. Related #133569, #133514. (#133457, #133571, #133614) Thanks @vincentkoc and @josephbergvinson.</li>
+<li><strong>Beam transcript fidelity:</strong> preserve uploader identity, restart delivery when the receiver changes, and omit mixed Claude tool content without losing snapshot state. (#133425, #133533, #133460)</li>
+<li><strong>Windows support:</strong> preserve PowerShell profile encoding and pnpm shim arguments, and retain resource scope across Windows path casing differences. (#133729, #133395, #134052) Thanks @ly85206559 and @vincentkoc.</li>
+<li><strong>CLI output and tools:</strong> keep Unicode session and task tables aligned, fail session tailing on follow-read errors, preserve escaped Code Mode output prefixes, and retain readable grep context and literal <code>@</code>-prefixed paths. Related #133776. (#133758, #133422, #132660, #133777, #131621, #133815) Thanks @Alix-007, @xialonglee, and @qingminglong.</li>
+<li><strong>Skills and memory wiki:</strong> recover colon-rich skill frontmatter, allow disposal of malformed proposals, and reject unsupported wiki operations and self-imported source pages; discover skill roots created after Gateway startup so newly added skills can refresh normally. Related #124486, #125139. (#122884, #124488, #123448, #125160, #134136) Thanks @xydt-tanshanshan, @obviyus, @woodym-dotcom, @wanyongstar, @rajmp999, @YouBeerMe, and @shakkernerd.</li>
+<li><strong>Settings and configuration:</strong> preserve concurrent first saves, retain owners across legacy agent imports and store changes, preserve QQBot multi-account settings, and honor per-agent tool-progress detail overrides. Related #133868, #133889, #133899. (#134072, #133920, #133788, #133948) Thanks @MrSwagatRathod, @obviyus, @lsr911, @chelsealong, @ZengWen-DT, @SebTardif, @marmar9615-cloud, and @yubingjiaocn.</li>
+<li><strong>Native authentication:</strong> preserve Anthropic native authentication when API keys are also stored, retain explicitly pinned npm versions during stale-runtime repair, and keep the correct pnpm installation owner after launcher respawn. Related #134004, #123616, #134037. (#134030, #128250, #134075) Thanks @obviyus, @rayseling, @SunnyShu0925, @sblindt, and @YogevKr.</li>
+<li><strong>macOS ChatGPT login:</strong> finish onboarding after a same-route Gateway reconnect by resubmitting a callback only when it was never dispatched, preserving the existing login session. Related #134182. (#134268) Thanks @obviyus and @Sedrak-Hovhannisyan.</li>
+<li><strong>Gateway setup and repair:</strong> require actual Gateway protocol readiness before declaring setup complete, preserve the operator’s home during sudo service installation, and allow stopping a Gateway even when its state schema is newer. Related #133273, #133953, #134000. (#133434, #133989, #134084, #133595) Thanks @obviyus, @itanyplus, and @RomneyDa.</li>
+<li><strong>Diagnostics stay on target:</strong> keep embedded triage on the installation being diagnosed, and let TLS status and connection checks read certificates without creating or repairing certificate files. Related #133842, #128598, #134222. (#134244, #134223) Thanks @obviyus.</li>
+<li><strong>Doctor maintenance:</strong> coordinate state repair with the matching managed Gateway, preserve its installed service definition, and verify it after any restart; use <code>openclaw gateway install --force</code> when you explicitly want to replace the managed launcher. Related #133957. (#134031)</li>
+<li><strong>Gateway restart after repair:</strong> release Doctor’s database handles before restarting, so completed session migrations no longer leave the Gateway blocked by Doctor’s own database leases. (#134429)</li>
+<li><strong>Update restart ordering:</strong> let the updater control Gateway restarts through Doctor repairs and plugin setup, preventing Doctor from restarting it before the update is ready. (#134470)</li>
+<li><strong>Clearer repair outcomes:</strong> report when configuration errors block state repair, fail unhealthy plugin Doctor checks, preserve newly written stability bundles, and stop warning about canonical database links and nested Git workspaces. Related #134036, #133388, #127418, #133981, #133923. (#134078, #133431, #132626, #134087, #133964) Thanks @obviyus, @YogevKr, @PollyBot13, @Alix-007, @02-dino, and @jeffsteinbok-openclaw.</li>
+<li><strong>Auth archive recovery:</strong> show completed or failed interrupted recovery even when Doctor returns early or another migration is declined, preserving failed source data. Related #133881, #133962. (#134009) Thanks @angeliti999 and @shakkernerd.</li>
+<li><strong>Provider configuration:</strong> migrate retired xAI image-model selections, ignore missing optional secret-backed command environment values, and report plugin-registry persistence differences instead of silently losing changes. Related #124527, #133561, #133901. (#126495, #133582, #133963) Thanks @Schimuneck, @obviyus, @tiniecookie, @pengzh1, @vincentkoc, @jodok, and @yubingjiaocn.</li>
+<li><strong>Automatic update policy:</strong> keep the saved update channel authoritative after a one-off package tag, cancel discovery when checks are disabled, record failed automatic updates, and preserve recovery actions across dashboard reloads; unattended installation requires a managed Gateway service. (#134566)</li>
+<li><strong>Install and channel switches:</strong> finish update-channel and installation switches using the verified installation, recover only when the installed package is safe to restart, and recognize npm installations that have no installer metadata. Related #134203. (#134397, #134475) Thanks @Patrick-Erichsen and @vyctorbrzezowski.</li>
+<li><strong>Runtime capability review:</strong> show the runtime plugin source and capabilities before model activation, keep installation and the live model check in the same setup flow, and let declining or canceling end that attempt without silently choosing another connection. (#134101) Thanks @VACInc.</li>
+<li><strong>Cloud result recovery:</strong> retain worker results before retiring stale owners, recover cloud sessions across Gateway restarts and cancellation, and scope recovery to the requested environment. Related #131713. (#132128, #133728, #134448) Thanks @jalehman and @shakkernerd.</li>
+<li><strong>Retained conversation inputs:</strong> keep retained inputs in transcript order and prevent retired prompts from reappearing after history refresh or remount. (#134261, #134059) Thanks @VACInc.</li>
+<li><strong>Model availability and routing:</strong> pair full model catalogs with native authentication results and retain the selected completion transport, so discovered models and completion requests use the intended provider. Related #134325. (#134463, #134521) Thanks @fuller-stack-dev and @goslingmanagment.</li>
+<li><strong>macOS installation and sign-in:</strong> relaunch the verified app after installation and let stalled provider sign-in exit without late authentication replies reopening a retired flow. Related #134034, #134347. (#134074, #134380) Thanks @Sedrak-Hovhannisyan and @VACInc.</li>
+<li><strong>Linux and npm installation:</strong> preserve Fedora and other RPM-owned Node packages when OpenClaw needs a separate SQLite-safe runtime, restore npm conflict recovery and failure diagnostics, and keep installer dry runs from downloading the terminal UI helper. Related #132828, #134201. (#134166, #134236, #134388) Thanks @beedell-roke, @ly85206559, @mohamedelrefaiy, @sallyom, and @SunnyShu0925.</li>
+<li><strong>IPv6 Gateway access:</strong> keep canvas, boards, and other plugin-hosted surfaces reachable when the Gateway uses bracketed IPv6 hosts, including forwarded host headers. (#134050) Thanks @yangxiansheng.</li>
+<li><strong>Browser relay admission:</strong> limit pending relay authentication and replay records per client source so one source cannot consume the shared capacity. (#134241) Thanks @mmaps.</li>
+<li><strong>Credential reloads and inspection:</strong> stop SMS webhook, media, and Twilio work when its account credentials become unavailable or are superseded, and keep inactive channel credentials out of inspection. Related #133924. (#134145, #134418) Thanks @shakkernerd.</li>
+<li><strong>LINE conversations:</strong> list configured peers and groups, keep typing indicators working for Gateway-driven replies, and avoid answering standby events while another channel owns the conversation. Related #133576, #133597, #133677. (#133599, #133679, #133577) Thanks @edenfunf.</li>
+<li><strong>Slack image downloads:</strong> honor the configured image size limit when downloaded Slack files become tool results. (#134242) Thanks @marmar9615-cloud.</li>
+<li><strong>Tool output fidelity:</strong> keep grep matches whose paths arrive as bytes and stop shell redirections or <code>rg --files</code> arguments from appearing as misleading search targets. (#133358, #133783) Thanks @darioandyoshi-tech and @ly85206559.</li>
+<li><strong>HTML exports:</strong> omit hidden messages from conversation cards while retaining their labeled debugging records; the HTML archive and JSONL download still contain hidden messages, so hiding is not redaction. (#134561)</li>
+<li><strong>Hermes migration:</strong> preserve the selected agent’s model, supported provider metadata, MCP tool restrictions, active organization skills, and disabled skill settings; partial apply failures return a complete JSON report with a nonzero exit. (#134426)</li>
+<li><strong>Plugin repair guidance:</strong> verify exact npm repair targets before suggesting a plugin update, and show a retry diagnostic when the target is unavailable. (#133617) Thanks @vladimirkrdzic.</li>
+<li><strong>Gateway session memory:</strong> bound the session data loaded for lists, health, status, lookup, and cleanup, avoid retaining unused prompt snapshots, and refresh query planning after bulk deletion. (#134395, #134554, #134488, #133925) Thanks @VACInc.</li>
+<li><strong>Failure diagnostics:</strong> retain the real reason in JSON log errors, preserve useful stdout alongside stderr on command failure, and report quiet npm timeouts or termination instead of blank errors. Related #127448, #134427, #134533. (#134534, #134428, #133845) Thanks @aniruddhaadak80 and @vincentkoc.</li>
+<li><strong>Status and restart diagnostics:</strong> honor usage and agent-scope options in full status reports, identify active work delaying a restart, and report declared configuration accurately in triage. Related #134267. (#134269, #133154, #134416) Thanks @VACInc.</li>
+<li><strong>Home and composer continuity:</strong> derive Home titles from the user message rather than its work-context snapshot, keep steady composer edits local in long conversations, and give scheduled-job controls distinct accessible names. Related #127330. (#134591, #133465, #134225) Thanks @SunnyShu0925 and @VACInc.</li>
+<li><strong>Systemd version metadata:</strong> refresh obsolete version metadata during safe restarts without replacing the installed service or suppressing the restart when metadata maintenance fails. Related #134202. (#134482) Thanks @Patrick-Erichsen and @vyctorbrzezowski.</li>
+<li><strong>Legacy state validation:</strong> reject unexpected JSON fields even when their key is empty during supported push, node-host, outgoing-image, and TUI state migrations. (#134577) Thanks @vincentkoc.</li>
+<li><strong>Command help and completion:</strong> keep hidden commands and options out of shell suggestions, retain the accepted legacy <code>message read --include-thread</code> spelling without advertising a no-op, and reject blank Gateway probe timeouts. (#134247, #134212, #134040) Thanks @marmar9615-cloud and @SunnyShu0925.</li>
+<li><strong>Session and shutdown ownership:</strong> retain the selected agent through global native-session operations, keep sends on the selected channel plugin, stop new outbound retry admission during shutdown, and reject language-server tools after their bundle is disposed. Related #127260, #134313. (#134314, #134564, #134381, #133340) Thanks @qingminglong and @VACInc.</li>
+</ul>
+<h3>Known issues</h3>
+<ul>
+<li><strong>Optional memory plugin dependency:</strong> standalone <code>@openclaw/memory-lancedb</code> installs can still resolve an older vulnerable Sharp version through an optional Transformers dependency. The plugin’s reviewed text-embedding and vector-storage path does not load that image adapter; this dependency exposure remains a packaging follow-up.</li>
+<li><strong>Hindi and Korean token labels:</strong> the native app’s token-usage label reverses the wording for used and total tokens; the counts and calculations are unchanged.</li>
+</ul>
+<h3>Upcoming deprecations</h3>
+<p>These already-deprecated Plugin SDK import paths remain available in <strong>2026.8.2</strong>. Their recorded removal target is <strong>2026-09-01</strong>; plugin authors should prepare the following migrations using the <a href="https://docs.openclaw.ai/plugins/sdk-migration">Plugin SDK migration guide</a>.</p>
+<ul>
+<li><strong><code>openclaw/plugin-sdk/config-runtime</code>:</strong> use <code>api.pluginConfig</code> for plugin configuration, <code>openclaw/plugin-sdk/config-contracts</code> for types, <code>openclaw/plugin-sdk/runtime-config-snapshot</code> for snapshot reads, and <code>openclaw/plugin-sdk/config-mutation</code> for writes. (<code>plugin-sdk-config-runtime-subpath</code>)</li>
+<li><strong><code>openclaw/plugin-sdk/channel-reply-pipeline</code>:</strong> import reply pipeline helpers from <code>openclaw/plugin-sdk/channel-outbound</code>. (<code>plugin-sdk-channel-reply-pipeline-subpath</code>)</li>
+<li><strong><code>openclaw/plugin-sdk/infra-runtime</code>:</strong> move helpers to focused imports, including <code>openclaw/plugin-sdk/delivery-queue-runtime</code>, <code>openclaw/plugin-sdk/diagnostic-runtime</code>, <code>openclaw/plugin-sdk/error-runtime</code>, <code>openclaw/plugin-sdk/exec-approvals-runtime</code>, <code>openclaw/plugin-sdk/fetch-runtime</code>, and <code>openclaw/plugin-sdk/ssrf-runtime</code>. The migration guide records that system-event snapshot inspection and consumption still have no modern public replacement. (<code>plugin-sdk-infra-runtime-subpath</code>)</li>
+<li><strong><code>openclaw/plugin-sdk/channel-lifecycle</code>:</strong> use <code>openclaw/plugin-sdk/channel-outbound</code>. (<code>plugin-sdk-channel-lifecycle-subpath</code>)</li>
+<li><strong><code>openclaw/plugin-sdk/channel-message</code>:</strong> use <code>openclaw/plugin-sdk/channel-outbound</code> and <code>openclaw/plugin-sdk/channel-inbound</code>. (<code>plugin-sdk-channel-message-subpath</code>)</li>
+</ul>
+<h3>Complete contribution record</h3>
+<p>The full contribution record is available in the tag-pinned <a href="https://github.com/openclaw/openclaw/blob/v2026.8.2/CHANGELOG.md#complete-contribution-record">CHANGELOG.md</a>.</p>
+<h3>Release verification</h3>
+<ul>
+<li><p>Immediate install from the verified GitHub npm artifact: <code>npm install -g https://github.com/openclaw/openclaw/releases/download/v2026.8.2/openclaw-2026.8.2.tgz</code>. These are the same preflight bytes accepted by npm; SHA-256 <code>20e9c2f16742dfcebfb21504e51067d31e000a19577126ff4fab117e5e87dbe2</code>.</p>
+</li>
+<li><p>npm package: <a href="https://www.npmjs.com/package/openclaw/v/2026.8.2">https://www.npmjs.com/package/openclaw/v/2026.8.2</a> — published; <code>latest</code> is <code>2026.8.2</code>, with the newer beta tag preserved.</p>
+</li>
+<li><p>Registry tarball: <a href="https://registry.npmjs.org/openclaw/-/openclaw-2026.8.2.tgz">https://registry.npmjs.org/openclaw/-/openclaw-2026.8.2.tgz</a></p>
+</li>
+<li><p>Published registry tarball integrity: <code>sha512-I9aqK1attaONePpWs2gPqh23s1s1EDcN/6icF2AAfONdtowu4156QD7g6oD7KlA2vQ9yiqnvlAVH6yduvGH9Ig==</code>; registry bytes exactly match the validated preflight artifact.</p>
+</li>
+<li><p>npm published at <code>2026-09-01T16:19:50.535Z</code>; exact version, selectors, tarball, integrity, and publication time verified with <code>npm view</code>.</p>
+</li>
+<li><p>Signed release tag: <a href="https://github.com/openclaw/openclaw/tree/v2026.8.2"><code>v2026.8.2</code></a>, release SHA <code>0965053fe6b9341776df147a6934b7485c60b5ca</code>.</p>
+</li>
+<li><p>Full release validation: <a href="https://github.com/openclaw/openclaw/actions/runs/33479039101">https://github.com/openclaw/openclaw/actions/runs/33479039101</a></p>
+</li>
+<li><p>Exact-release npm preflight: <a href="https://github.com/openclaw/openclaw/actions/runs/33490056617">https://github.com/openclaw/openclaw/actions/runs/33490056617</a></p>
+</li>
+<li><p>Core npm manual recovery: <a href="https://github.com/openclaw/openclaw/actions/runs/33528120754">https://github.com/openclaw/openclaw/actions/runs/33528120754</a> — succeeded; signed provenance published at <a href="https://search.sigstore.dev/?logIndex=2677752801">https://search.sigstore.dev/?logIndex=2677752801</a>; public registry availability and exact artifact integrity verified.</p>
+</li>
+<li><p>Matrix plugin: <a href="https://www.npmjs.com/package/@openclaw/matrix/v/2026.8.2"><code>@openclaw/matrix@2026.8.2</code></a> manually uploaded from the verified preflight tarball at <code>2026-09-01T15:52:09.217Z</code>; registry integrity matches the sealed artifact. This authenticated manual upload has no GitHub OIDC attestation. <code>latest</code> is <code>2026.8.2</code>; the newer <code>2026.9.1-beta.1</code> beta tag is preserved.</p>
+</li>
+<li><p>Matrix tarball SHA-256: <code>d295140a6869fe7fae60abf019a6f80f20d61210202e8e36dea6cf3d346c8754</code>.</p>
+</li>
+<li><p>Dependency evidence: <code>openclaw-2026.8.2-dependency-evidence.zip</code>, containing the original exact-release preflight reports. Attached and SHA-256 verified: <code>7d0bb1f0a3ba8d75f404f9daa29bec6aa65549a2e7de574da26090ad1d841037</code>.</p>
+</li>
+<li><p>Windows promotion: <a href="https://github.com/openclaw/openclaw/actions/runs/33528228670">https://github.com/openclaw/openclaw/actions/runs/33528228670</a> — workflow succeeded.</p>
+</li>
+<li><p>Linux release: <a href="https://github.com/openclaw/openclaw/actions/runs/33526566014">https://github.com/openclaw/openclaw/actions/runs/33526566014</a> — completed; published bytes match the build artifact, both package checksums pass, and the AppImage Minisign signature is verified.</p>
+</li>
+<li><p>Android release: <a href="https://github.com/openclaw/openclaw/actions/runs/33528270994">https://github.com/openclaw/openclaw/actions/runs/33528270994</a> — completed on attempt 2; public APK checksum and GitHub attestation verified against the exact release SHA.</p>
+</li>
+<li><p>macOS release: independent; approval pending.</p>
+</li>
+<li><p>Official npm plugins: all 89 published; 88 through trusted publishing and Matrix through the verified manual upload above.</p>
+</li>
+<li><p>ClawHub publication: all 89 official packages are public at <code>2026.8.2</code>, with <code>latest</code>, artifact hashes, sizes, and downloaded bytes verified against the sealed artifacts. <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.2/openclaw-2026.8.2-clawhub-public-verification.json">Complete verification record</a>, SHA-256 <code>55ce71454d77b8235438345fb6a9097203d13045e569c17d28b32f7ac069742f</code>. These authenticated manual uploads do not carry GitHub OIDC publication attestations.</p>
+</li>
+<li><p>Docker publication: <a href="https://github.com/openclaw/openclaw/actions/runs/33531315529">https://github.com/openclaw/openclaw/actions/runs/33531315529</a> — succeeded, including the Vercel mirror. Docker Hub and GHCR expose the versioned default/slim/browser images for <code>linux/amd64</code> and <code>linux/arm64</code>; stable aliases match. Public SPDX/SLSA predicates and release-SHA bindings verified.</p>
+</li>
+<li><p>Published release documentation: <a href="https://docs.openclaw.ai/releases/2026.8.2">https://docs.openclaw.ai/releases/2026.8.2</a></p>
+</li>
+<li><p>Release fixes and changelog reconciled to main: <a href="https://github.com/openclaw/openclaw/pull/135322">https://github.com/openclaw/openclaw/pull/135322</a> (merged). npm release-script recovery fix: <a href="https://github.com/openclaw/openclaw/pull/135323">https://github.com/openclaw/openclaw/pull/135323</a> (merged).</p>
+</li>
+<li><p>Docker default/slim manifest digest: <code>sha256:5d25165995041caa6a7175bec82b25ad98c44eb269bb42435da8e27ec06e6be4</code>; browser manifest digest: <code>sha256:e164a318801fad2d49dc19b99adadfa629fa5f9ffb43673e73661c1d3f9cc7de</code>.</p>
+</li>
+<li><p>ClawHub publisher source-ref repair: <a href="https://github.com/openclaw/openclaw/pull/135368">https://github.com/openclaw/openclaw/pull/135368</a> (merged); future trusted publications use the sealed candidate SHA in both source metadata fields.</p>
+</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[OpenClaw 2026.8.1]]></title>
             <link>https://github.com/openclaw/openclaw/releases/tag/v2026.8.1</link>
@@ -40132,162 +40538,6 @@ This package was mistakenly published under the version <code>2026.9.1-beta.1</c
 <li><strong>PR #88978</strong> perf(ui): skip closed slash menu rerenders. Thanks @vincentkoc.</li>
 <li><strong>PR #88982</strong> fix(test): wait for telegram timer flushes. Thanks @vincentkoc.</li>
 <li><strong>PR #88989</strong> perf(ui): guard chat transcript rerenders. Thanks @vincentkoc.</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[openclaw 2026.5.30-beta.1]]></title>
-            <link>https://github.com/openclaw/openclaw/releases/tag/v2026.5.30-beta.1</link>
-            <guid>https://github.com/openclaw/openclaw/releases/tag/v2026.5.30-beta.1</guid>
-            <pubDate>Sun, 31 May 2026 02:39:53 GMT</pubDate>
-            <description><![CDATA[<h3>Highlights</h3>
-<ul>
-<li>Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #88162, #88182)</li>
-<li>Channels and mobile delivery are steadier across Telegram, WhatsApp, iMessage, Slack, Discord, Microsoft Teams, Google Chat, Google Meet, and iOS realtime Talk. (#88096, #88105, #88183, #88231)</li>
-<li>Provider and plugin requests now bound more timers, retries, OAuth/device-code lifetimes, media downloads, local service probes, and generated-content polling paths before they can hang a run.</li>
-<li>Skills, session metadata, gateway runtime state, plugin metadata, and store writes do less repeated work on hot paths while keeping config and dispatch behavior stable.</li>
-<li>Workboard, SecretRef plugin manifests, hosted iOS push relay, and external Copilot/Tokenjuice packaging add broader orchestration, integration, and plugin delivery surfaces. (#82326, #87469, #87796, #88107, #88117)</li>
-<li>Release, CI, Docker, E2E, and diagnostics lanes now cap more logs, response bodies, readiness probes, artifact checks, and status polling so failures report bounded proof instead of stalling.</li>
-</ul>
-<h3>Changes</h3>
-<ul>
-<li>Skills: let the <code>skill_research</code> agent tool apply, reject, and quarantine explicit Skill Workshop proposals through the guarded proposal lifecycle. Thanks @shakkernerd.</li>
-<li>Skills: let Skill Workshop proposals carry approved support files under standard skill folders, with scanner, hash, and rollback safeguards. Thanks @shakkernerd.</li>
-<li>Skills: let pending Skill Workshop proposals be revised in place with versioned, dated proposal frontmatter before approval. Thanks @shakkernerd.</li>
-<li>Skills: add Skill Workshop proposals with pending <code>PROPOSAL.md</code> drafts, CLI/Gateway review actions, rollback metadata, and the <code>skill_research</code> agent tool. Thanks @shakkernerd.</li>
-<li>Plugins: externalize Tokenjuice as the official <code>@openclaw/tokenjuice</code> plugin with npm and ClawHub publish metadata.</li>
-<li>Plugins: externalize the GitHub Copilot agent runtime as the official <code>@openclaw/copilot</code> plugin with npm and ClawHub publish metadata.</li>
-<li>iOS: add hosted push relay defaults, realtime Talk playback, and a guarded WebSocket ping path for more reliable mobile sessions. (#88096, #88105, #88231)</li>
-<li>Workboard: add orchestration primitives and agent coordination tools for multi-agent planning and run tracking. (#87469)</li>
-<li>Code mode: add internal namespaces for scoped agent/global sessions and exact namespace tool dispatch. (#88043)</li>
-<li>Control UI: add a Dreaming-tab agent selector and propagate the selected agent through Dreaming status, diary, and diary actions. (#78748) Thanks @stevenepalmer.</li>
-<li>Plugins: add a SecretRef provider integration manifest contract and extract shared LLM core packages for provider/plugin reuse. (#82326, #88117)</li>
-<li>Skills: add the core skills index and centralize skills runtime loading, status, filtering, and prompt formatting.</li>
-</ul>
-<h3>Fixes</h3>
-<ul>
-<li>CLI: keep <code>plugins list --json</code> on the snapshot-only path so plugin sweeps avoid loading the full runtime status graph.</li>
-<li>Plugins: make PixVerse external-plugin ClawHub metadata explicit and keep it out of bundled dist builds.</li>
-<li>Cron: keep SQLite cron migrations compatible with legacy run-log tables, archived job stores, diagnostic cron names, and legacy one-shot delete-after-run behavior. (#88285)</li>
-<li>Providers: bound generated media downloads from OpenAI, Runway, xAI, MiniMax, BytePlus, DashScope-compatible, FAL, OpenRouter, Google, Vydra, and Comfy providers.</li>
-<li>Providers: cap GitHub Copilot OAuth request timeouts before creating abort signals.</li>
-<li>Cron: retry recurring jobs after transient model rate limits before waiting for the next scheduled slot.</li>
-<li>Agents/Codex: keep live session locks during cleanup, recover interrupted CLI tool transcripts, preserve Codex auth and compaction session identity, clear orphan tool state, cap app-server idle timers, and keep media completion delivery retryable. (#88129, #88136, #88141, #88162, #88182)</li>
-<li>Chat/UI: show Gateway chat failures as visible assistant messages in the Control UI instead of only setting an invisible error state.</li>
-<li>Channels: cap Telegram, Discord, WhatsApp, Signal, Feishu, Google Chat, Microsoft Teams, QQBot, Nostr, Zalo, Zalouser, and Nextcloud-style request/retry timers; preserve SMS approval reply routes; and retry WhatsApp QR login 408 timeouts. (#88183)</li>
-<li>Security/config parsing: reject unsafe OAuth/token lifetimes, retry-after delays, inbound timestamps, response body sizes, command timeout config, sandbox observer token TTLs, and gateway WebSocket calls after close.</li>
-<li>Providers/media: cap local service, model, usage, queue, generated media, TTS, music, workflow polling, and provider OAuth request timers across hosted and local providers.</li>
-<li>Release/CI/E2E: bound release candidate reads, beta smoke REST calls, changelog restore, kitchen-sink and bundled plugin readiness probes, secret-provider probes, Vitest routing, and mainline test flakes. (#88127, #88137, #88155, #88160)</li>
-<li>Release/CI/E2E: run the secret-provider integration proof through the repo pnpm runner so native macOS and Windows validation use the hydrated package-manager shim.</li>
-<li>Release/CI/E2E: run the Telegram desktop proof gateway through the repo pnpm runner so native macOS proof uses the hydrated package-manager shim.</li>
-<li>Docs/CI: run Mintlify anchor checks through the repo pnpm runner so docs link validation works when pnpm is only available through the hydrated package-manager shim.</li>
-<li>Agents: keep configured fallback model metadata typed so provider params, context-token caps, and media input limits do not break changed-gate typechecks.</li>
-<li>Agents: accept hidden <code>sessions_send</code> body aliases before validation while keeping the model-facing <code>message</code> schema canonical. (#88229) Thanks @zhangguiping-xydt.</li>
-<li>CI/Crabbox: keep default runner capacity spot-only and provider-neutral so OpenClaw remote validation does not silently fall back to on-demand leases or stale AWS region hints.</li>
-<li>CI/Crabbox: route Crabbox wrapper and Testbox workflow edits to their regression tests so changed-test gates do not silently run zero specs.</li>
-<li>CI/workflows: route workflow sanity helper edits to their guard tests and cover composite-action input interpolation checks.</li>
-<li>CI/tooling: route CI scope, dependency, changelog, and docs helper edits to their owner tests instead of silently skipping changed-test coverage.</li>
-<li>CI/tooling: route package, release, and install helper edits to their owner tests so changed-test gates cover publish and installer script changes.</li>
-<li>CI/tooling: route shared script library edits through their owner tests so lock, process, safety, and scan helpers do not skip changed-test coverage.</li>
-<li>CI/tooling: skip expensive import-graph scans once a changed diff already requires broad fallback, keeping local changed-test planning fast while still collecting explicit owner tests.</li>
-<li>CI/tooling: route script edits through conventional owner tests when matching <code>test/scripts</code> or <code>src/scripts</code> coverage already exists.</li>
-<li>CI/tooling: honor option terminators in the memory FD repro script so follow-on arguments are not reparsed.</li>
-<li>Release/CI/E2E: assert plugin lifecycle runtime inspect output instead of only capturing it.</li>
-<li>Release/CI/E2E: make gateway-network prove the advertised health RPC and retry early WebSocket closes without burning full open timeouts.</li>
-<li>Release/CI/E2E: honor option terminators across release, Parallels smoke, plugin gauntlet, and extension-memory scripts.</li>
-<li>Release/CI/E2E: fail plugin gateway gauntlet QA chunks when the requested suite summary is missing or invalid.</li>
-<li>Performance: prebuild QA runtime probes with generated plugin assets but without CLI startup metadata.</li>
-<li>Performance: skip declaration bundling for runtime-only CLI startup and gateway watch build profiles.</li>
-<li>Performance: reuse prepared provider handles, strict tool schemas, gateway runtime metadata, session maintenance config, plugin metadata, bundled skill allowlists, package-local plugin artifacts, single-entry store writes, and validated/serialized session prompt blobs.</li>
-</ul>
-<h3>Release verification</h3>
-<ul>
-<li>npm package: <a href="https://www.npmjs.com/package/openclaw/v/2026.5.30-beta.1">https://www.npmjs.com/package/openclaw/v/2026.5.30-beta.1</a></li>
-<li>registry tarball: <a href="https://registry.npmjs.org/openclaw/-/openclaw-2026.5.30-beta.1.tgz">https://registry.npmjs.org/openclaw/-/openclaw-2026.5.30-beta.1.tgz</a></li>
-<li>integrity: <code>sha512-uwbUzNsJ1NzVhlMEPSoLy3R36mGqdqcPEznpYQ3J1CGBJmMxoBjQ81i5O78QT7IfQ7DEnk4sbWWC+ckLfwtVVg==</code></li>
-<li>full release CI report: <a href="https://github.com/openclaw/releases/blob/main/evidence/2026.5.30-beta.1/release-evidence.md">https://github.com/openclaw/releases/blob/main/evidence/2026.5.30-beta.1/release-evidence.md</a></li>
-<li>release publish: <a href="https://github.com/openclaw/openclaw/actions/runs/26700925470">https://github.com/openclaw/openclaw/actions/runs/26700925470</a></li>
-<li>npm preflight: <a href="https://github.com/openclaw/openclaw/actions/runs/26700348538">https://github.com/openclaw/openclaw/actions/runs/26700348538</a></li>
-<li>full release validation: <a href="https://github.com/openclaw/openclaw/actions/runs/26700348878">https://github.com/openclaw/openclaw/actions/runs/26700348878</a></li>
-<li>plugin npm publish: <a href="https://github.com/openclaw/openclaw/actions/runs/26700983136">https://github.com/openclaw/openclaw/actions/runs/26700983136</a></li>
-<li>plugin ClawHub publish: <a href="https://github.com/openclaw/openclaw/actions/runs/26700984428">https://github.com/openclaw/openclaw/actions/runs/26700984428</a></li>
-<li>OpenClaw npm publish: <a href="https://github.com/openclaw/openclaw/actions/runs/26701031698">https://github.com/openclaw/openclaw/actions/runs/26701031698</a></li>
-<li>npm Telegram beta E2E: <a href="https://github.com/openclaw/openclaw/actions/runs/26701378338">https://github.com/openclaw/openclaw/actions/runs/26701378338</a></li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h3>Highlights</h3>
-<ul>
-<li>Agents and CLI-backed runtimes recover more cleanly from interrupted tool calls, stale session bindings, compaction handoffs, and media delivery retries. (#88129, #88136, #88141, #88162, #88182)</li>
-<li>Channels and mobile delivery are steadier across Telegram, WhatsApp, iMessage, Slack, Discord, Microsoft Teams, Google Chat, Google Meet, and iOS realtime Talk. (#88096, #88105, #88183, #88231)</li>
-<li>Provider and plugin requests now bound more timers, retries, OAuth/device-code lifetimes, media downloads, local service probes, and generated-content polling paths before they can hang a run.</li>
-<li>Skills, session metadata, gateway runtime state, plugin metadata, and store writes do less repeated work on hot paths while keeping config and dispatch behavior stable.</li>
-<li>Workboard, SecretRef plugin manifests, hosted iOS push relay, and external Copilot/Tokenjuice packaging add broader orchestration, integration, and plugin delivery surfaces. (#82326, #87469, #87796, #88107, #88117)</li>
-<li>Release, CI, Docker, E2E, and diagnostics lanes now cap more logs, response bodies, readiness probes, artifact checks, and status polling so failures report bounded proof instead of stalling.</li>
-</ul>
-<h3>Changes</h3>
-<ul>
-<li>Skills: let the <code>skill_research</code> agent tool apply, reject, and quarantine explicit Skill Workshop proposals through the guarded proposal lifecycle. Thanks @shakkernerd.</li>
-<li>Skills: let Skill Workshop proposals carry approved support files under standard skill folders, with scanner, hash, and rollback safeguards. Thanks @shakkernerd.</li>
-<li>Skills: let pending Skill Workshop proposals be revised in place with versioned, dated proposal frontmatter before approval. Thanks @shakkernerd.</li>
-<li>Skills: add Skill Workshop proposals with pending <code>PROPOSAL.md</code> drafts, CLI/Gateway review actions, rollback metadata, and the <code>skill_research</code> agent tool. Thanks @shakkernerd.</li>
-<li>Plugins: externalize Tokenjuice as the official <code>@openclaw/tokenjuice</code> plugin with npm and ClawHub publish metadata.</li>
-<li>Plugins: externalize the GitHub Copilot agent runtime as the official <code>@openclaw/copilot</code> plugin with npm and ClawHub publish metadata.</li>
-<li>iOS: add hosted push relay defaults, realtime Talk playback, and a guarded WebSocket ping path for more reliable mobile sessions. (#88096, #88105, #88231)</li>
-<li>Workboard: add orchestration primitives and agent coordination tools for multi-agent planning and run tracking. (#87469)</li>
-<li>Code mode: add internal namespaces for scoped agent/global sessions and exact namespace tool dispatch. (#88043)</li>
-<li>Control UI: add a Dreaming-tab agent selector and propagate the selected agent through Dreaming status, diary, and diary actions. (#78748) Thanks @stevenepalmer.</li>
-<li>Plugins: add a SecretRef provider integration manifest contract and extract shared LLM core packages for provider/plugin reuse. (#82326, #88117)</li>
-<li>Skills: add the core skills index and centralize skills runtime loading, status, filtering, and prompt formatting.</li>
-</ul>
-<h3>Fixes</h3>
-<ul>
-<li>CLI: keep <code>plugins list --json</code> on the snapshot-only path so plugin sweeps avoid loading the full runtime status graph.</li>
-<li>Plugins: make PixVerse external-plugin ClawHub metadata explicit and keep it out of bundled dist builds.</li>
-<li>Cron: keep SQLite cron migrations compatible with legacy run-log tables, archived job stores, diagnostic cron names, and legacy one-shot delete-after-run behavior. (#88285)</li>
-<li>Providers: bound generated media downloads from OpenAI, Runway, xAI, MiniMax, BytePlus, DashScope-compatible, FAL, OpenRouter, Google, Vydra, and Comfy providers.</li>
-<li>Providers: cap GitHub Copilot OAuth request timeouts before creating abort signals.</li>
-<li>Cron: retry recurring jobs after transient model rate limits before waiting for the next scheduled slot.</li>
-<li>Agents/Codex: keep live session locks during cleanup, recover interrupted CLI tool transcripts, preserve Codex auth and compaction session identity, clear orphan tool state, cap app-server idle timers, and keep media completion delivery retryable. (#88129, #88136, #88141, #88162, #88182)</li>
-<li>Chat/UI: show Gateway chat failures as visible assistant messages in the Control UI instead of only setting an invisible error state.</li>
-<li>Channels: cap Telegram, Discord, WhatsApp, Signal, Feishu, Google Chat, Microsoft Teams, QQBot, Nostr, Zalo, Zalouser, and Nextcloud-style request/retry timers; preserve SMS approval reply routes; and retry WhatsApp QR login 408 timeouts. (#88183)</li>
-<li>Security/config parsing: reject unsafe OAuth/token lifetimes, retry-after delays, inbound timestamps, response body sizes, command timeout config, sandbox observer token TTLs, and gateway WebSocket calls after close.</li>
-<li>Providers/media: cap local service, model, usage, queue, generated media, TTS, music, workflow polling, and provider OAuth request timers across hosted and local providers.</li>
-<li>Release/CI/E2E: bound release candidate reads, beta smoke REST calls, changelog restore, kitchen-sink and bundled plugin readiness probes, secret-provider probes, Vitest routing, and mainline test flakes. (#88127, #88137, #88155, #88160)</li>
-<li>Release/CI/E2E: run the secret-provider integration proof through the repo pnpm runner so native macOS and Windows validation use the hydrated package-manager shim.</li>
-<li>Release/CI/E2E: run the Telegram desktop proof gateway through the repo pnpm runner so native macOS proof uses the hydrated package-manager shim.</li>
-<li>Docs/CI: run Mintlify anchor checks through the repo pnpm runner so docs link validation works when pnpm is only available through the hydrated package-manager shim.</li>
-<li>Agents: keep configured fallback model metadata typed so provider params, context-token caps, and media input limits do not break changed-gate typechecks.</li>
-<li>Agents: accept hidden <code>sessions_send</code> body aliases before validation while keeping the model-facing <code>message</code> schema canonical. (#88229) Thanks @zhangguiping-xydt.</li>
-<li>CI/Crabbox: keep default runner capacity spot-only and provider-neutral so OpenClaw remote validation does not silently fall back to on-demand leases or stale AWS region hints.</li>
-<li>CI/Crabbox: route Crabbox wrapper and Testbox workflow edits to their regression tests so changed-test gates do not silently run zero specs.</li>
-<li>CI/workflows: route workflow sanity helper edits to their guard tests and cover composite-action input interpolation checks.</li>
-<li>CI/tooling: route CI scope, dependency, changelog, and docs helper edits to their owner tests instead of silently skipping changed-test coverage.</li>
-<li>CI/tooling: route package, release, and install helper edits to their owner tests so changed-test gates cover publish and installer script changes.</li>
-<li>CI/tooling: route shared script library edits through their owner tests so lock, process, safety, and scan helpers do not skip changed-test coverage.</li>
-<li>CI/tooling: skip expensive import-graph scans once a changed diff already requires broad fallback, keeping local changed-test planning fast while still collecting explicit owner tests.</li>
-<li>CI/tooling: route script edits through conventional owner tests when matching <code>test/scripts</code> or <code>src/scripts</code> coverage already exists.</li>
-<li>CI/tooling: honor option terminators in the memory FD repro script so follow-on arguments are not reparsed.</li>
-<li>Release/CI/E2E: assert plugin lifecycle runtime inspect output instead of only capturing it.</li>
-<li>Release/CI/E2E: make gateway-network prove the advertised health RPC and retry early WebSocket closes without burning full open timeouts.</li>
-<li>Release/CI/E2E: honor option terminators across release, Parallels smoke, plugin gauntlet, and extension-memory scripts.</li>
-<li>Release/CI/E2E: fail plugin gateway gauntlet QA chunks when the requested suite summary is missing or invalid.</li>
-<li>Performance: prebuild QA runtime probes with generated plugin assets but without CLI startup metadata.</li>
-<li>Performance: skip declaration bundling for runtime-only CLI startup and gateway watch build profiles.</li>
-<li>Performance: reuse prepared provider handles, strict tool schemas, gateway runtime metadata, session maintenance config, plugin metadata, bundled skill allowlists, package-local plugin artifacts, single-entry store writes, and validated/serialized session prompt blobs.</li>
-</ul>
-<h3>Release verification</h3>
-<ul>
-<li>npm package: <a href="https://www.npmjs.com/package/openclaw/v/2026.5.30-beta.1">https://www.npmjs.com/package/openclaw/v/2026.5.30-beta.1</a></li>
-<li>registry tarball: <a href="https://registry.npmjs.org/openclaw/-/openclaw-2026.5.30-beta.1.tgz">https://registry.npmjs.org/openclaw/-/openclaw-2026.5.30-beta.1.tgz</a></li>
-<li>integrity: <code>sha512-uwbUzNsJ1NzVhlMEPSoLy3R36mGqdqcPEznpYQ3J1CGBJmMxoBjQ81i5O78QT7IfQ7DEnk4sbWWC+ckLfwtVVg==</code></li>
-<li>full release CI report: <a href="https://github.com/openclaw/releases/blob/main/evidence/2026.5.30-beta.1/release-evidence.md">https://github.com/openclaw/releases/blob/main/evidence/2026.5.30-beta.1/release-evidence.md</a></li>
-<li>release publish: <a href="https://github.com/openclaw/openclaw/actions/runs/26700925470">https://github.com/openclaw/openclaw/actions/runs/26700925470</a></li>
-<li>npm preflight: <a href="https://github.com/openclaw/openclaw/actions/runs/26700348538">https://github.com/openclaw/openclaw/actions/runs/26700348538</a></li>
-<li>full release validation: <a href="https://github.com/openclaw/openclaw/actions/runs/26700348878">https://github.com/openclaw/openclaw/actions/runs/26700348878</a></li>
-<li>plugin npm publish: <a href="https://github.com/openclaw/openclaw/actions/runs/26700983136">https://github.com/openclaw/openclaw/actions/runs/26700983136</a></li>
-<li>plugin ClawHub publish: <a href="https://github.com/openclaw/openclaw/actions/runs/26700984428">https://github.com/openclaw/openclaw/actions/runs/26700984428</a></li>
-<li>OpenClaw npm publish: <a href="https://github.com/openclaw/openclaw/actions/runs/26701031698">https://github.com/openclaw/openclaw/actions/runs/26701031698</a></li>
-<li>npm Telegram beta E2E: <a href="https://github.com/openclaw/openclaw/actions/runs/26701378338">https://github.com/openclaw/openclaw/actions/runs/26701378338</a></li>
 </ul>
 ]]></content:encoded>
         </item>

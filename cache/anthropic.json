@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-09-01T15:18:55.890Z",
+  "lastSuccess": "2026-09-01T19:00:43.517Z",
   "articleCount": 10,
   "knownLinks": [
+    "https://www.anthropic.com/news/enterprise-frontier-safeguards",
     "https://www.anthropic.com/news/improving-alignment-security-efforts",
     "https://www.anthropic.com/news/model-hardware-standard-research-preview",
     "https://www.anthropic.com/news/expanding-support-for-scientists",
@@ -10,8 +11,7 @@
     "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
     "https://www.anthropic.com/news/tino-cuellar",
     "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-    "https://www.anthropic.com/news/position-open-weights-models",
-    "https://www.anthropic.com/news/cognizant-anthropic"
+    "https://www.anthropic.com/news/position-open-weights-models"
   ],
   "consecutiveErrors": 0
 }
