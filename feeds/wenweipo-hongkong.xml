@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[劉兆銘離世　羅淑佩致哀：將銘記其才華與奉獻精神]]></title>
+            <link>https://www.wenweipo.com/a/202609/03/AP6a98a4afe4b0c1e500274e4e.html</link>
+            <guid>https://www.wenweipo.com/a/202609/03/AP6a98a4afe4b0c1e500274e4e.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[​文化體育及旅遊局局長羅淑佩對香港資深演員及舞蹈家劉兆銘的離世表示深切哀悼，並向其家人致以慰問。]]></description>
+        </item>
+        <item>
             <title><![CDATA[食環署女職員梯間吸煙 署方：將按調查結果適當處理]]></title>
             <link>https://www.wenweipo.com/a/202609/03/AP6a984836e4b0c1e500274af8.html</link>
             <guid>https://www.wenweipo.com/a/202609/03/AP6a984836e4b0c1e500274af8.html</guid>
@@ -106,15 +113,6 @@
             <guid>https://www.wenweipo.com/a/202609/02/AP6a980a66e4b0c1e500274486.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[宏盛閣業主周女士今日由漁映樓一帶乘專車到達華貴社區會堂，出席業主大會。她表示，今次議程由「合安」提出，所屬「宏福宛」一方並無另行提交議題，事前未悉具體內容，因此先到場聽取說明，希望完整聽完整場會議，掌握有否新安排。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（有片）海關錦田破依托咪酯製毒工場拘一人 首次發現高精密液態填充機]]></title>
-            <link>https://www.wenweipo.com/a/202609/02/AP6a97fc74e4b0c1e50027433e.html</link>
-            <guid>https://www.wenweipo.com/a/202609/02/AP6a97fc74e4b0c1e50027433e.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[海關毒品調查科昨日（9月1日）在錦田展開反毒品行動期間，截查一名可疑男子及將其押至附近一個村屋地下約300呎單位搜查，搗破懷疑依托咪酯製毒工場，首次發現高精密度液態填充機；行動中，共檢獲逾3000粒依托咪酯煙彈、約13.4公斤液態依托咪酯及約3公斤依托咪酯粉末，估計市值約4200萬元。
-
-被捕男子（61歲），報稱無業，將被控一項製造危險藥物罪及一項販運危險藥物罪，明日（9月3日）在屯門裁判法院提堂。據了解，被捕人疑受販毒集團利誘，受僱在製毒工場生產依托咪酯煙彈，為了加快生產，特別設置一部半自動高精密度液態填充機，可以快速精準將設定份量的液體依托咪酯注入煙彈，以工場檢獲依托咪酯份量，可以短時間內製造16萬粒依托咪酯煙彈。]]></description>
         </item>
     </channel>
 </rss>
