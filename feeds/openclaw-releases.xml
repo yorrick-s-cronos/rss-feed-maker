@@ -196,7 +196,7 @@
 </li>
 <li><p>Android release: <a href="https://github.com/openclaw/openclaw/actions/runs/33528270994">https://github.com/openclaw/openclaw/actions/runs/33528270994</a> — completed on attempt 2; public APK checksum and GitHub attestation verified against the exact release SHA.</p>
 </li>
-<li><p>macOS release: independent; approval pending.</p>
+<li><p>macOS release: published <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.2/OpenClaw-2026.8.2.zip">ZIP</a>, <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.2/OpenClaw-2026.8.2.dmg">DMG</a>, and <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.2/OpenClaw-2026.8.2.dSYM.zip">symbols</a>. Public asset hashes match the signed, notarized preflight artifacts; download URLs verified. The corrected, signature-verified Sparkle feed is published through <a href="https://github.com/openclaw/openclaw/pull/135680">#135680</a>.</p>
 </li>
 <li><p>Official npm plugins: all 89 published; 88 through trusted publishing and Matrix through the verified manual upload above.</p>
 </li>
@@ -396,7 +396,7 @@
 </li>
 <li><p>Android release: <a href="https://github.com/openclaw/openclaw/actions/runs/33528270994">https://github.com/openclaw/openclaw/actions/runs/33528270994</a> — completed on attempt 2; public APK checksum and GitHub attestation verified against the exact release SHA.</p>
 </li>
-<li><p>macOS release: independent; approval pending.</p>
+<li><p>macOS release: published <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.2/OpenClaw-2026.8.2.zip">ZIP</a>, <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.2/OpenClaw-2026.8.2.dmg">DMG</a>, and <a href="https://github.com/openclaw/openclaw/releases/download/v2026.8.2/OpenClaw-2026.8.2.dSYM.zip">symbols</a>. Public asset hashes match the signed, notarized preflight artifacts; download URLs verified. The corrected, signature-verified Sparkle feed is published through <a href="https://github.com/openclaw/openclaw/pull/135680">#135680</a>.</p>
 </li>
 <li><p>Official npm plugins: all 89 published; 88 through trusted publishing and Matrix through the verified manual upload above.</p>
 </li>

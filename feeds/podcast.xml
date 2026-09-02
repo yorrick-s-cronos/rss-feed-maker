@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[NVIDIAとMarvellの決算、Hot Chipsの注目ポイント]]></title>
+            <link>https://finance.biggo.jp/podcast/9d02ae90eda89e52</link>
+            <guid>https://finance.biggo.jp/podcast/9d02ae90eda89e52</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[致死的三要素を超えて：オープンインターネット上のエージェンティックコマース — デビッド・レヴィン、キドゥナクラブ]]></title>
             <link>https://finance.biggo.jp/podcast/e79688327ae40886</link>
             <guid>https://finance.biggo.jp/podcast/e79688327ae40886</guid>
@@ -28,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What the AI overlords get wrong about being alive | The Vergecast]]></title>
+            <title><![CDATA[AIの支配者たちが「生きていること」について誤解していること | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/b8cf598040e6d3fd</link>
             <guid>https://finance.biggo.jp/podcast/b8cf598040e6d3fd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -106,7 +112,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ajeya Cotra – "This might be the clearest warning shot we ever get"]]></title>
+            <title><![CDATA[アジェヤ・コトラ —「これは私たちがこれまでに受ける最も明確な警告かもしれない」]]></title>
             <link>https://finance.biggo.jp/podcast/8999db5373eb765c</link>
             <guid>https://finance.biggo.jp/podcast/8999db5373eb765c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[戦略的意図：ブレークスルーを超えて - 承認から普及へ]]></title>
             <link>https://finance.biggo.jp/podcast/ba9ca6437c576f3c</link>
             <guid>https://finance.biggo.jp/podcast/ba9ca6437c576f3c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今日の最高のモデルでもまだ解けない数学の問題]]></title>
-            <link>https://finance.biggo.jp/podcast/51a10d27934d506f</link>
-            <guid>https://finance.biggo.jp/podcast/51a10d27934d506f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
