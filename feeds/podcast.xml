@@ -10,15 +10,57 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[オーロラ・カンナビス取締役会、キュラリーフの買収提案の拒否を推奨]]></title>
+            <link>https://finance.biggo.jp/podcast/613cc45d2b7692d8</link>
+            <guid>https://finance.biggo.jp/podcast/613cc45d2b7692d8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ディパン・パテル氏が語る、パーミラの「職人技」的アプローチによるプライベートエクイティ]]></title>
+            <link>https://finance.biggo.jp/podcast/c34d815f43dd623d</link>
+            <guid>https://finance.biggo.jp/podcast/c34d815f43dd623d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI Cuts Off Elon's Cursor, Humanity's First Star Probe, and Trump's Nuclear Mars Ship | EP #285]]></title>
+            <link>https://finance.biggo.jp/podcast/983002e04666d3f2</link>
+            <guid>https://finance.biggo.jp/podcast/983002e04666d3f2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fable 5.1、Astraの再帰的深度、そして住宅所有のためのAI]]></title>
+            <link>https://finance.biggo.jp/podcast/31f2e2cde8e4c07b</link>
+            <guid>https://finance.biggo.jp/podcast/31f2e2cde8e4c07b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米国のデータセンターで何が起きているのか？ | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/324b8b6e93ba02d5</link>
+            <guid>https://finance.biggo.jp/podcast/324b8b6e93ba02d5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[感染症ポッドキャスト #114]]></title>
+            <link>https://finance.biggo.jp/podcast/3888f42a897a3776</link>
+            <guid>https://finance.biggo.jp/podcast/3888f42a897a3776</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[推論の最前線：毎秒100トークンから10,000トークンへ — Cerebras CTOショーン・リー]]></title>
             <link>https://finance.biggo.jp/podcast/0984a9c92a3b53fd</link>
             <guid>https://finance.biggo.jp/podcast/0984a9c92a3b53fd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I was stuck at $100 for 2 years until I made one change. Now my app makes $10K/month]]></title>
+            <title><![CDATA[AIアプリで月1万ドルを達成するのに2年かかった]]></title>
             <link>https://finance.biggo.jp/podcast/0314fb5ca804f872</link>
             <guid>https://finance.biggo.jp/podcast/0314fb5ca804f872</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JRE MMA ショー #185 ゲスト：イーシン・ユーイング]]></title>
+            <link>https://finance.biggo.jp/podcast/b7f90cbd6d87ecc0</link>
+            <guid>https://finance.biggo.jp/podcast/b7f90cbd6d87ecc0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -28,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[スコット・ギャロウェイ：富が友情に与えた影響｜オフィスアワーズ]]></title>
+            <title><![CDATA[金持ちになりたい？都市に移ろう。| オフィスアワー]]></title>
             <link>https://finance.biggo.jp/podcast/172c1a2907a09b38</link>
             <guid>https://finance.biggo.jp/podcast/172c1a2907a09b38</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -40,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Moderna Builds a Cancer Vaccine for One Person at a Time]]></title>
+            <title><![CDATA[モデルナはいかにして一人ひとりに合わせたがんワクチンを開発するか]]></title>
             <link>https://finance.biggo.jp/podcast/c712125d9e7f1bf5</link>
             <guid>https://finance.biggo.jp/podcast/c712125d9e7f1bf5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +100,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to manage your team like a top 0.1% CEO (7 ways)]]></title>
+            <title><![CDATA[トップ0.1%のCEOのようにチームを率いる方法（7つの方法）]]></title>
             <link>https://finance.biggo.jp/podcast/9f29545e1a54da43</link>
             <guid>https://finance.biggo.jp/podcast/9f29545e1a54da43</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -85,48 +127,6 @@
             <title><![CDATA[パレート証券ヘルスケアカンファレンス：ハンザ・バイオファーマ、12月19日のFDA PDUFA期日を控え、IgG除去療法で腎移植の対象患者拡大を目指す]]></title>
             <link>https://finance.biggo.jp/podcast/73057c6d342380f8</link>
             <guid>https://finance.biggo.jp/podcast/73057c6d342380f8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIVP094（ビデオ）：Comfort Systems（FIX）：見送った5倍株 Comfort Systems w/ Kyle Grieve & Shawn O'Malley]]></title>
-            <link>https://finance.biggo.jp/podcast/5756a2ac3328ca87</link>
-            <guid>https://finance.biggo.jp/podcast/5756a2ac3328ca87</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[重症アレルギーを細胞源からリセットする]]></title>
-            <link>https://finance.biggo.jp/podcast/584cf019b423020a</link>
-            <guid>https://finance.biggo.jp/podcast/584cf019b423020a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジョン・ディアCEO：自動運転トラクターと農業のAI時代 | ポッドキャスト | イン・グッド・カンパニー]]></title>
-            <link>https://finance.biggo.jp/podcast/fb2ad56e2c026c72</link>
-            <guid>https://finance.biggo.jp/podcast/fb2ad56e2c026c72</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NVIDIAとMarvellの決算、Hot Chipsの注目ポイント]]></title>
-            <link>https://finance.biggo.jp/podcast/9d02ae90eda89e52</link>
-            <guid>https://finance.biggo.jp/podcast/9d02ae90eda89e52</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[致死的三要素を超えて：オープンインターネット上のエージェンティックコマース — デビッド・レヴィン、キドゥナクラブ]]></title>
-            <link>https://finance.biggo.jp/podcast/e79688327ae40886</link>
-            <guid>https://finance.biggo.jp/podcast/e79688327ae40886</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[静的スクリーンの終焉：インテント駆動UXの設計 — Gus Iwanaga（commercetools）]]></title>
-            <link>https://finance.biggo.jp/podcast/910a1992e711b67d</link>
-            <guid>https://finance.biggo.jp/podcast/910a1992e711b67d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[さようなら、ティム・クック]]></title>
-            <link>https://finance.biggo.jp/podcast/58bc539368e54b90</link>
-            <guid>https://finance.biggo.jp/podcast/58bc539368e54b90</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
