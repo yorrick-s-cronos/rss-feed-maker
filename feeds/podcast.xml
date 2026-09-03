@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[アンドリュー・ハバーマン：脳と体を最適化する私の正確なルーティン、これらを毎日すべて行っています！]]></title>
+            <link>https://finance.biggo.jp/podcast/be9803de36fd6145</link>
+            <guid>https://finance.biggo.jp/podcast/be9803de36fd6145</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[初期Facebookリーダー：役職名は捨てて、これをやろう | Julie Zhuo]]></title>
+            <link>https://finance.biggo.jp/podcast/c4e292b2f0c8f712</link>
+            <guid>https://finance.biggo.jp/podcast/c4e292b2f0c8f712</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[153. 曾鳴と語る産業史観：残酷な真実、消えゆく企業、優秀≠卓越、「OAI・Anthropicはネイティブ時代の大勝者にはおそらくなれない」]]></title>
+            <link>https://finance.biggo.jp/podcast/f39caa447353a679</link>
+            <guid>https://finance.biggo.jp/podcast/f39caa447353a679</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[オーロラ・カンナビス取締役会、キュラリーフの買収提案の拒否を推奨]]></title>
             <link>https://finance.biggo.jp/podcast/613cc45d2b7692d8</link>
             <guid>https://finance.biggo.jp/podcast/613cc45d2b7692d8</guid>
@@ -22,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAIがイーロンのCursorを遮断、人類初の恒星探査機、そしてトランプの核火星船 | EP #285]]></title>
+            <title><![CDATA[アルファ・ケンタウリへの1500万ドルのミッション、サム・アルトマンの4ヶ月AGI、初の完全AI設計チップ | EP #285]]></title>
             <link>https://finance.biggo.jp/podcast/983002e04666d3f2</link>
             <guid>https://finance.biggo.jp/podcast/983002e04666d3f2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -46,21 +64,21 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI’s New AI Chip Changes Everything — Sean Lie, Cerebras CTO]]></title>
+            <title><![CDATA[AIチップがNVIDIAのボトルネックを打ち破る可能性 — Cerebras CTO、ショーン・リー]]></title>
             <link>https://finance.biggo.jp/podcast/0984a9c92a3b53fd</link>
             <guid>https://finance.biggo.jp/podcast/0984a9c92a3b53fd</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JRE MMA ショー #185 ゲスト：イーシン・ユーイング]]></title>
-            <link>https://finance.biggo.jp/podcast/b7f90cbd6d87ecc0</link>
-            <guid>https://finance.biggo.jp/podcast/b7f90cbd6d87ecc0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AIアプリで月1万ドルを達成するのに2年かかった]]></title>
             <link>https://finance.biggo.jp/podcast/0314fb5ca804f872</link>
             <guid>https://finance.biggo.jp/podcast/0314fb5ca804f872</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JRE MMA ショー #185 ゲスト：イーシン・ユーイング]]></title>
+            <link>https://finance.biggo.jp/podcast/b7f90cbd6d87ecc0</link>
+            <guid>https://finance.biggo.jp/podcast/b7f90cbd6d87ecc0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -109,24 +127,6 @@
             <title><![CDATA[遺伝子治療がまだ実現していない理由]]></title>
             <link>https://finance.biggo.jp/podcast/96301d2d38942f0d</link>
             <guid>https://finance.biggo.jp/podcast/96301d2d38942f0d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特許切れ、記録に残る：嚢胞性線維症治療へのアクセスを求める患者たちの闘いの物語]]></title>
-            <link>https://finance.biggo.jp/podcast/fa45abc65224b0fe</link>
-            <guid>https://finance.biggo.jp/podcast/fa45abc65224b0fe</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[パレート証券ヘルスケアカンファレンス：オレキソは、ほとんどの用途で経鼻送達が他のモダリティより優れていると考える - ナロキソンプログラムをFDAに間もなく申請予定]]></title>
-            <link>https://finance.biggo.jp/podcast/93726751fe1b889d</link>
-            <guid>https://finance.biggo.jp/podcast/93726751fe1b889d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[パレート証券ヘルスケアカンファレンス：ハンザ・バイオファーマ、12月19日のFDA PDUFA期日を控え、IgG除去療法で腎移植の対象患者拡大を目指す]]></title>
-            <link>https://finance.biggo.jp/podcast/73057c6d342380f8</link>
-            <guid>https://finance.biggo.jp/podcast/73057c6d342380f8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
