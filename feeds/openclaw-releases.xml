@@ -1309,14 +1309,14 @@
 <li>integrity: <code>sha512-0Ve0631CdgkJDwd4NNG1BawIdF5yCL2sO+Tts8amStw+H6vKURTj0K4rOa4+hFpJk1Dnw5LyKl5twzwX1VtA2w==</code></li>
 <li>release SHA: <code>ad6fe23aecb9b833d68139b0ddc9f239b894d2f1</code></li>
 <li>full release CI report: <a href="https://github.com/openclaw/releases/blob/main/evidence/2026.9.1/release-evidence.md">https://github.com/openclaw/releases/blob/main/evidence/2026.9.1/release-evidence.md</a></li>
-<li>release publish: <a href="https://github.com/openclaw/openclaw/actions/runs/33789437311">https://github.com/openclaw/openclaw/actions/runs/33789437311</a></li>
+<li>release publish: <a href="https://github.com/openclaw/openclaw/actions/runs/33800171390">https://github.com/openclaw/openclaw/actions/runs/33800171390</a></li>
 <li>npm preflight: <a href="https://github.com/openclaw/openclaw/actions/runs/33770377411">https://github.com/openclaw/openclaw/actions/runs/33770377411</a></li>
 <li>full release validation: <a href="https://github.com/openclaw/openclaw/actions/runs/33770042189">https://github.com/openclaw/openclaw/actions/runs/33770042189</a></li>
-<li>plugin npm publish: <a href="https://github.com/openclaw/openclaw/actions/runs/33790195048">https://github.com/openclaw/openclaw/actions/runs/33790195048</a></li>
-<li>plugin ClawHub publish: not verified after a required ClawHub failure: <a href="https://github.com/openclaw/openclaw/actions/runs/33790199804">https://github.com/openclaw/openclaw/actions/runs/33790199804</a></li>
+<li>plugin npm publish: <a href="https://github.com/openclaw/openclaw/actions/runs/33800760316">https://github.com/openclaw/openclaw/actions/runs/33800760316</a></li>
+<li>plugin ClawHub submission: <a href="https://github.com/openclaw/openclaw/actions/runs/33800765267">https://github.com/openclaw/openclaw/actions/runs/33800765267</a>; public artifact verification follows successful release-parent completion</li>
 <li>plugin ClawHub bootstrap: not needed</li>
 <li>Telegram integration checks: waived by the release owner for 2026.9.1 (source QA, Package Acceptance, published-package E2E); not run.</li>
-<li>Android APK: monitor the native qualification and publication jobs at <a href="https://github.com/openclaw/openclaw/actions/runs/33789437311">https://github.com/openclaw/openclaw/actions/runs/33789437311</a></li>
+<li>Android APK: monitor the native qualification and publication jobs at <a href="https://github.com/openclaw/openclaw/actions/runs/33800171390">https://github.com/openclaw/openclaw/actions/runs/33800171390</a></li>
 </ul>
 ]]></description>
             <content:encoded><![CDATA[<h2>2026.9.1</h2>
@@ -2614,14 +2614,14 @@
 <li>integrity: <code>sha512-0Ve0631CdgkJDwd4NNG1BawIdF5yCL2sO+Tts8amStw+H6vKURTj0K4rOa4+hFpJk1Dnw5LyKl5twzwX1VtA2w==</code></li>
 <li>release SHA: <code>ad6fe23aecb9b833d68139b0ddc9f239b894d2f1</code></li>
 <li>full release CI report: <a href="https://github.com/openclaw/releases/blob/main/evidence/2026.9.1/release-evidence.md">https://github.com/openclaw/releases/blob/main/evidence/2026.9.1/release-evidence.md</a></li>
-<li>release publish: <a href="https://github.com/openclaw/openclaw/actions/runs/33789437311">https://github.com/openclaw/openclaw/actions/runs/33789437311</a></li>
+<li>release publish: <a href="https://github.com/openclaw/openclaw/actions/runs/33800171390">https://github.com/openclaw/openclaw/actions/runs/33800171390</a></li>
 <li>npm preflight: <a href="https://github.com/openclaw/openclaw/actions/runs/33770377411">https://github.com/openclaw/openclaw/actions/runs/33770377411</a></li>
 <li>full release validation: <a href="https://github.com/openclaw/openclaw/actions/runs/33770042189">https://github.com/openclaw/openclaw/actions/runs/33770042189</a></li>
-<li>plugin npm publish: <a href="https://github.com/openclaw/openclaw/actions/runs/33790195048">https://github.com/openclaw/openclaw/actions/runs/33790195048</a></li>
-<li>plugin ClawHub publish: not verified after a required ClawHub failure: <a href="https://github.com/openclaw/openclaw/actions/runs/33790199804">https://github.com/openclaw/openclaw/actions/runs/33790199804</a></li>
+<li>plugin npm publish: <a href="https://github.com/openclaw/openclaw/actions/runs/33800760316">https://github.com/openclaw/openclaw/actions/runs/33800760316</a></li>
+<li>plugin ClawHub submission: <a href="https://github.com/openclaw/openclaw/actions/runs/33800765267">https://github.com/openclaw/openclaw/actions/runs/33800765267</a>; public artifact verification follows successful release-parent completion</li>
 <li>plugin ClawHub bootstrap: not needed</li>
 <li>Telegram integration checks: waived by the release owner for 2026.9.1 (source QA, Package Acceptance, published-package E2E); not run.</li>
-<li>Android APK: monitor the native qualification and publication jobs at <a href="https://github.com/openclaw/openclaw/actions/runs/33789437311">https://github.com/openclaw/openclaw/actions/runs/33789437311</a></li>
+<li>Android APK: monitor the native qualification and publication jobs at <a href="https://github.com/openclaw/openclaw/actions/runs/33800171390">https://github.com/openclaw/openclaw/actions/runs/33800171390</a></li>
 </ul>
 ]]></content:encoded>
         </item>

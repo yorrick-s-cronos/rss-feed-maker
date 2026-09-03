@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Will Apple release a robotic lamp? | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/f359d4db843ccd31</link>
+            <guid>https://finance.biggo.jp/podcast/f359d4db843ccd31</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国はAIを投げ売りしてシリコンバレーを潰そうとしている — ジョシュ・タイランジェル]]></title>
+            <link>https://finance.biggo.jp/podcast/b699d460d014b258</link>
+            <guid>https://finance.biggo.jp/podcast/b699d460d014b258</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[バイブチェック：GPT-6 ASTRA]]></title>
+            <link>https://finance.biggo.jp/podcast/96c752854d6e9792</link>
+            <guid>https://finance.biggo.jp/podcast/96c752854d6e9792</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ジョー・ローガン・エクスペリエンス #2549 - ジャレド・ダイアモンド]]></title>
             <link>https://finance.biggo.jp/podcast/1426c6a4edd1dfe0</link>
             <guid>https://finance.biggo.jp/podcast/1426c6a4edd1dfe0</guid>
@@ -34,15 +52,15 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[YC創業者ポール・グレアムとの対談]]></title>
-            <link>https://finance.biggo.jp/podcast/d47097987d1dee57</link>
-            <guid>https://finance.biggo.jp/podcast/d47097987d1dee57</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[なぜペイパル・マフィアは起業を続けたのか]]></title>
             <link>https://finance.biggo.jp/podcast/37d928ce3356691e</link>
             <guid>https://finance.biggo.jp/podcast/37d928ce3356691e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[YC創業者ポール・グレアムとの対談]]></title>
+            <link>https://finance.biggo.jp/podcast/d47097987d1dee57</link>
+            <guid>https://finance.biggo.jp/podcast/d47097987d1dee57</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -109,24 +127,6 @@
             <title><![CDATA[153. 曾鳴と語る産業史観：残酷な真実、消えゆく企業、優秀≠卓越、「OAI・Anthropicはネイティブ時代の大勝者にはおそらくなれない」]]></title>
             <link>https://finance.biggo.jp/podcast/f39caa447353a679</link>
             <guid>https://finance.biggo.jp/podcast/f39caa447353a679</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[オーロラ・カンナビス取締役会、キュラリーフの買収提案の拒否を推奨]]></title>
-            <link>https://finance.biggo.jp/podcast/613cc45d2b7692d8</link>
-            <guid>https://finance.biggo.jp/podcast/613cc45d2b7692d8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[アルファ・ケンタウリへの1500万ドルのミッション、サム・アルトマンの4ヶ月AGI、初の完全AI設計チップ | EP #285]]></title>
-            <link>https://finance.biggo.jp/podcast/983002e04666d3f2</link>
-            <guid>https://finance.biggo.jp/podcast/983002e04666d3f2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fable 5.1、Astraの再帰的深度、そして住宅所有のためのAI]]></title>
-            <link>https://finance.biggo.jp/podcast/31f2e2cde8e4c07b</link>
-            <guid>https://finance.biggo.jp/podcast/31f2e2cde8e4c07b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
