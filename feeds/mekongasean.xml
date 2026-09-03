@@ -4,22 +4,22 @@
         <title>Mekong ASEAN</title>
         <link>https://mekongasean.vn/</link>
         <description>Tạp chí điện tử MEKONG - ASEAN</description>
-        <lastBuildDate>Thu, 03 Sep 2026 07:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 14:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>vi</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Thủ tướng: Cập nhật kịch bản tăng trưởng từng tháng, từng quý, chủ động gỡ điểm nghẽn]]></title>
+            <link>https://mekongasean.vn/thu-tuong-cap-nhat-kich-ban-tang-truong-tung-thang-tung-quy-chu-dong-go-diem-nghen-59203.html</link>
+            <guid>https://mekongasean.vn/thu-tuong-cap-nhat-kich-ban-tang-truong-tung-thang-tung-quy-chu-dong-go-diem-nghen-59203.html</guid>
+            <pubDate>Thu, 03 Sep 2026 14:04:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Phát biểu của Tổng Bí thư, Chủ tịch nước tại hội nghị quán triệt nghị quyết của Bộ Chính trị]]></title>
             <link>https://mekongasean.vn/phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-quan-triet-nghi-quyet-cua-bo-chinh-tri-59188.html</link>
             <guid>https://mekongasean.vn/phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-quan-triet-nghi-quyet-cua-bo-chinh-tri-59188.html</guid>
             <pubDate>Thu, 03 Sep 2026 07:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singapore dẫn đầu làn sóng FDI đăng ký mới vào Việt Nam]]></title>
-            <link>https://mekongasean.vn/singapore-dan-dau-lan-song-fdi-dang-ky-moi-vao-viet-nam-59171.html</link>
-            <guid>https://mekongasean.vn/singapore-dan-dau-lan-song-fdi-dang-ky-moi-vao-viet-nam-59171.html</guid>
-            <pubDate>Thu, 03 Sep 2026 02:44:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

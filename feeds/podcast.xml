@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2549 - ジャレド・ダイアモンド]]></title>
+            <link>https://finance.biggo.jp/podcast/1426c6a4edd1dfe0</link>
+            <guid>https://finance.biggo.jp/podcast/1426c6a4edd1dfe0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[コーディングからナレッジワークエージェントへ — Karan Vaidya, Composio]]></title>
             <link>https://finance.biggo.jp/podcast/0bfa86d7066ac28a</link>
             <guid>https://finance.biggo.jp/podcast/0bfa86d7066ac28a</guid>
@@ -34,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AIエージェントがクレジットカードを再発明する理由]]></title>
+            <title><![CDATA[なぜペイパル・マフィアは起業を続けたのか]]></title>
             <link>https://finance.biggo.jp/podcast/37d928ce3356691e</link>
             <guid>https://finance.biggo.jp/podcast/37d928ce3356691e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[Fable 5.1、Astraの再帰的深度、そして住宅所有のためのAI]]></title>
             <link>https://finance.biggo.jp/podcast/31f2e2cde8e4c07b</link>
             <guid>https://finance.biggo.jp/podcast/31f2e2cde8e4c07b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国のデータセンターで何が起きているのか？ | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/324b8b6e93ba02d5</link>
-            <guid>https://finance.biggo.jp/podcast/324b8b6e93ba02d5</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
