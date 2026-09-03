@@ -4,11 +4,17 @@
         <title>Microsoft AI Blog</title>
         <link>https://microsoft.ai/blog/</link>
         <description>We make responsible AI to empower people's lives.</description>
-        <lastBuildDate>Thu, 13 Aug 2026 19:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 14:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/microsoft-ai.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MAI-Transcribe-2 is the fastest, most accurate and cheapest speech recognition model in the world]]></title>
+            <link>https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/</link>
+            <guid>https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/</guid>
+            <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing MAI-Cyber-1-Flash inside MDASH]]></title>
             <link>https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/</link>
@@ -122,12 +128,6 @@
             <link>https://microsoft.ai/news/introducing-mai-image-2/</link>
             <guid>https://microsoft.ai/news/introducing-mai-image-2/</guid>
             <pubDate>Thu, 19 Mar 2026 16:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Copilot Health]]></title>
-            <link>https://microsoft.ai/news/introducing-copilot-health/</link>
-            <guid>https://microsoft.ai/news/introducing-copilot-health/</guid>
-            <pubDate>Thu, 12 Mar 2026 12:27:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

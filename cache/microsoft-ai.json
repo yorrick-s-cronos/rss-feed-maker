@@ -1,10 +1,11 @@
 {
-  "lastSuccess": "2026-09-03T12:21:41.458Z",
+  "lastSuccess": "2026-09-03T16:45:45.743Z",
   "articleCount": 20,
   "knownLinks": [
-    "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/",
+    "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/",
     "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
     "https://microsoft.ai/news/introducing-mai-thinking-1/",
+    "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/",
     "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/",
     "https://microsoft.ai/news/optimizing-the-frontier-performance-curve/",
     "https://microsoft.ai/news/hill-climbing-mai-models-for-github-copilot-and-excel/",
@@ -20,8 +21,7 @@
     "https://microsoft.ai/news/mai-image-2-efficient/",
     "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/",
     "https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/",
-    "https://microsoft.ai/news/introducing-mai-image-2/",
-    "https://microsoft.ai/news/introducing-copilot-health/"
+    "https://microsoft.ai/news/introducing-mai-image-2/"
   ],
   "consecutiveErrors": 0
 }

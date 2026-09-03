@@ -1,8 +1,9 @@
 {
-  "lastSuccess": "2026-09-03T12:22:03.538Z",
+  "lastSuccess": "2026-09-03T16:46:11.247Z",
   "articleCount": 25,
   "knownLinks": [
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
     "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
     "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
@@ -25,8 +26,7 @@
     "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
     "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
     "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
   ],
   "consecutiveErrors": 0
 }
