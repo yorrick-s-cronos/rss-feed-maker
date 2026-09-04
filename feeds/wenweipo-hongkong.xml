@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[簡樸房登記成效顯著　逾七萬分間單位申請]]></title>
+            <link>https://www.wenweipo.com/a/202609/04/AP6a9a07e5e4b01d54a281bbdf.html</link>
+            <guid>https://www.wenweipo.com/a/202609/04/AP6a9a07e5e4b01d54a281bbdf.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[為期一年的簡樸房登記期於今年3月1日開始，其中最大力度的早鳥優惠剛於周一（8月31日）截止。]]></description>
+        </item>
+        <item>
             <title><![CDATA[東九龍打擊停牌期間駕駛 截私家車拘一男司機揭為通緝人士]]></title>
             <link>https://www.wenweipo.com/a/202609/03/AP6a9996ede4b0c1e500276d15.html</link>
             <guid>https://www.wenweipo.com/a/202609/03/AP6a9996ede4b0c1e500276d15.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202609/03/AP6a9968d7e4b0c1e500276891.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[運輸及物流局局長陳美寶今日（3日）聯同13名立法會議員訪問北京，考察當地企業及交通管理設施，路政署署長邱國鼎和運輸署署長謝詠誼亦有隨行。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（有片）香港樓又貴又細　但仲有人肯製？｜時事點睇]]></title>
-            <link>https://www.wenweipo.com/a/202609/03/AP6a99687ee4b0c1e50027688c.html</link>
-            <guid>https://www.wenweipo.com/a/202609/03/AP6a99687ee4b0c1e50027688c.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[香港房屋政策之弊，早已不是單純的「供不應求」四字所能概括的結構性困局。根據政府統計處在2021年人口普查中公布，全港「家庭住戶的人均居所樓面面積中位數」是16平方米，即約172平方呎。16平方米低於鄰近區域和先進城市，差距介乎18%-40%多。]]></description>
         </item>
     </channel>
 </rss>
