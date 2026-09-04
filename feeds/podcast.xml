@@ -10,7 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Will Apple release a robotic lamp? | The Vergecast]]></title>
+            <title><![CDATA[讓機器人學習“人類的第一語言”：觸覺，如何成為具身智慧的關鍵能力？]]></title>
+            <link>https://finance.biggo.jp/podcast/b0ff5e0247745347</link>
+            <guid>https://finance.biggo.jp/podcast/b0ff5e0247745347</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[望遠鏡ランチの運営方法]]></title>
+            <link>https://finance.biggo.jp/podcast/f297c3575ff4ec0e</link>
+            <guid>https://finance.biggo.jp/podcast/f297c3575ff4ec0e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Appleはロボットランプを発売するのか？| The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/f359d4db843ccd31</link>
             <guid>https://finance.biggo.jp/podcast/f359d4db843ccd31</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -52,15 +64,15 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[なぜペイパル・マフィアは起業を続けたのか]]></title>
-            <link>https://finance.biggo.jp/podcast/37d928ce3356691e</link>
-            <guid>https://finance.biggo.jp/podcast/37d928ce3356691e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[YC創業者ポール・グレアムとの対談]]></title>
             <link>https://finance.biggo.jp/podcast/d47097987d1dee57</link>
             <guid>https://finance.biggo.jp/podcast/d47097987d1dee57</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[なぜペイパル・マフィアは起業を続けたのか]]></title>
+            <link>https://finance.biggo.jp/podcast/37d928ce3356691e</link>
+            <guid>https://finance.biggo.jp/podcast/37d928ce3356691e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -115,18 +127,6 @@
             <title><![CDATA[アンドリュー・ハバーマン：深い眠りにつけない本当の理由と、疲れて目覚める原因]]></title>
             <link>https://finance.biggo.jp/podcast/be9803de36fd6145</link>
             <guid>https://finance.biggo.jp/podcast/be9803de36fd6145</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[初期Facebookリーダー：役職名は捨てて、これをやろう | Julie Zhuo]]></title>
-            <link>https://finance.biggo.jp/podcast/c4e292b2f0c8f712</link>
-            <guid>https://finance.biggo.jp/podcast/c4e292b2f0c8f712</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[153. 曾鳴と語る産業史観：残酷な真実、消えゆく企業、優秀≠卓越、「OAI・Anthropicはネイティブ時代の大勝者にはおそらくなれない」]]></title>
-            <link>https://finance.biggo.jp/podcast/f39caa447353a679</link>
-            <guid>https://finance.biggo.jp/podcast/f39caa447353a679</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
