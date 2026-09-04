@@ -10,6 +10,18 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[港鐵北角站滲漏 渠務署緊急維修站外污水渠]]></title>
+            <link>https://www.wenweipo.com/a/202609/04/AP6a9a8183e4b01d54a281cdb2.html</link>
+            <guid>https://www.wenweipo.com/a/202609/04/AP6a9a8183e4b01d54a281cdb2.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[城大迎新營事件完成調查 涉事學生認錯受罰 校方設熱線支援 冀外界予改過空間]]></title>
+            <link>https://www.wenweipo.com/a/202609/04/AP6a9a76fae4b01d54a281cbe9.html</link>
+            <guid>https://www.wenweipo.com/a/202609/04/AP6a9a76fae4b01d54a281cbe9.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[六合彩50周年金多寶明攪珠　料頭獎2.28億勢破紀錄]]></title>
             <link>https://www.wenweipo.com/a/202609/04/AP6a9a3a2de4b01d54a281c30e.html</link>
             <guid>https://www.wenweipo.com/a/202609/04/AP6a9a3a2de4b01d54a281c30e.html</guid>
@@ -19,18 +31,6 @@
             <title><![CDATA[國泰航空：因應中東局勢　取消至11月30日往返迪拜及利雅得航班]]></title>
             <link>https://www.wenweipo.com/a/202609/04/AP6a9a3176e4b01d54a281c25c.html</link>
             <guid>https://www.wenweipo.com/a/202609/04/AP6a9a3176e4b01d54a281c25c.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天文台取消所有熱帶氣旋警告信號]]></title>
-            <link>https://www.wenweipo.com/a/202609/04/AP6a99fb4fe4b01d54a281b9fd.html</link>
-            <guid>https://www.wenweipo.com/a/202609/04/AP6a99fb4fe4b01d54a281b9fd.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[（有片）李家超冀傳媒把握本港「內聯外通」優勢　向世界說好中國故事香港故事]]></title>
-            <link>https://www.wenweipo.com/a/202609/03/AP6a9964d8e4b0c1e500276839.html</link>
-            <guid>https://www.wenweipo.com/a/202609/03/AP6a9964d8e4b0c1e500276839.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -70,6 +70,12 @@
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[（有片）海拔3800米　直擊武警高原山地綜合演練現場]]></title>
+            <link>https://www.wenweipo.com/a/202609/04/AP6a9a5817e4b01d54a281c6df.html</link>
+            <guid>https://www.wenweipo.com/a/202609/04/AP6a9a5817e4b01d54a281c6df.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[帕勞方面反覆炒作中國導彈試驗　外交部：其圖謀不會得逞]]></title>
             <link>https://www.wenweipo.com/a/202609/03/AP6a992b19e4b0c1e500276191.html</link>
             <guid>https://www.wenweipo.com/a/202609/03/AP6a992b19e4b0c1e500276191.html</guid>
@@ -79,12 +85,6 @@
             <title><![CDATA[烏稱敖德薩市再遭襲　已致17人受傷]]></title>
             <link>https://www.wenweipo.com/a/202609/03/AP6a991ca8e4b0c1e500275f4f.html</link>
             <guid>https://www.wenweipo.com/a/202609/03/AP6a991ca8e4b0c1e500275f4f.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[（有片）載荷「拉滿」！直擊陸航直升機直-10海上實彈射擊現場]]></title>
-            <link>https://www.wenweipo.com/a/202609/03/AP6a98a891e4b0c1e500274ebf.html</link>
-            <guid>https://www.wenweipo.com/a/202609/03/AP6a98a891e4b0c1e500274ebf.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
