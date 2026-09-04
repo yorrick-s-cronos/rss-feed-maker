@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[歐洲殿堂級馬術劇場《CAVALLUNA》啟德首演倒計時　各項籌備工作正順利推進]]></title>
+            <link>https://www.wenweipo.com/a/202609/04/AP6a9ad875e4b01d54a281d6d1.html</link>
+            <guid>https://www.wenweipo.com/a/202609/04/AP6a9ad875e4b01d54a281d6d1.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[歐洲規模最大及最受歡迎之一的馬術劇場匯演《CAVALLUNA 馬術X劇場 穿梭異境》即將於9月8日，以及9月10日至13日在啟德體藝館盛大上演。為迎接這項首度落戶香港的國際級製作，多匹來自歐洲的精銳名駒及迷你小馬已順利抵港，並進駐啟德體育園（體育園），為演出作最後準備。]]></description>
+        </item>
+        <item>
             <title><![CDATA[理大與德適科技成立聯合實驗室 推動AI醫療創新]]></title>
             <link>https://www.wenweipo.com/a/202609/04/AP6a9ace34e4b01d54a281d605.html</link>
             <guid>https://www.wenweipo.com/a/202609/04/AP6a9ace34e4b01d54a281d605.html</guid>
@@ -110,13 +117,6 @@
             <guid>https://www.wenweipo.com/a/202609/04/AP6a9a9a77e4b01d54a281d202.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[財經事務及庫務局（財庫局）局長許正宇今日（4日）在香港與斯洛文尼亞共和國駐華大使馬博洋進行雙邊會議，並代表香港特別行政區（特區）政府與斯洛文尼亞政府簽署全面性避免雙重課稅協定（協定）。許正宇表示，這是香港第60份協定，亦是本屆政府簽訂的第15份，今年的第5份，標誌着特區政府積極拓展協定網絡的工作進入新里程。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[水警海關西貢反走私 檢405萬元私煙扣查貨車]]></title>
-            <link>https://www.wenweipo.com/a/202609/04/AP6a9a920ce4b01d54a281d0ea.html</link>
-            <guid>https://www.wenweipo.com/a/202609/04/AP6a9a920ce4b01d54a281d0ea.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[警方懷疑近日有人在西貢水域一帶進行走私活動，經過深入調查及情報分析後，水警總區特遣隊、水警東分區，聯同海關海域行動課人員今日（4日）凌晨在有關海域進行反走私行動，偵破一宗懷疑走私案件。]]></description>
         </item>
     </channel>
 </rss>
