@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Astra: より整合的だが、監視可能性は低下？+ @binarybit のロボティクス週間]]></title>
+            <link>https://finance.biggo.jp/podcast/7f57b6ae09609ec8</link>
+            <guid>https://finance.biggo.jp/podcast/7f57b6ae09609ec8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[金が史上最高値に上昇すると予想される理由]]></title>
             <link>https://finance.biggo.jp/podcast/a0c5b290c7bf5416</link>
             <guid>https://finance.biggo.jp/podcast/a0c5b290c7bf5416</guid>
@@ -28,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Transformers Can't Think In Physics — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding]]></title>
+            <title><![CDATA[トランスフォーマーは物理を考えられない — アニマ・アナンドクマー＆ベネディクト・ジェニック、加速的理解]]></title>
             <link>https://finance.biggo.jp/podcast/111670bc22657d84</link>
             <guid>https://finance.biggo.jp/podcast/111670bc22657d84</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -70,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[「役に立たない」趣味でお金を稼ぐ方法]]></title>
+            <title><![CDATA[趣味が変すぎてお金にならないと思っているなら、これを観てください]]></title>
             <link>https://finance.biggo.jp/podcast/479de67a531db6dc</link>
             <guid>https://finance.biggo.jp/podcast/479de67a531db6dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[中国はAIを投げ売りしてシリコンバレーを潰そうとしている — ジョシュ・タイランジェル]]></title>
             <link>https://finance.biggo.jp/podcast/b699d460d014b258</link>
             <guid>https://finance.biggo.jp/podcast/b699d460d014b258</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[バイブチェック：GPT-6 ASTRA]]></title>
-            <link>https://finance.biggo.jp/podcast/96c752854d6e9792</link>
-            <guid>https://finance.biggo.jp/podcast/96c752854d6e9792</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
