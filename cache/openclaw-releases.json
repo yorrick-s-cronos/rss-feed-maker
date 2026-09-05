@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-09-05T18:40:20.836Z",
+  "lastSuccess": "2026-09-05T20:49:42.641Z",
   "articleCount": 50,
   "knownLinks": [
+    "https://github.com/openclaw/openclaw/releases/tag/v2026.9.2",
     "https://github.com/openclaw/openclaw/releases/tag/v2026.9.1",
     "https://github.com/openclaw/openclaw/releases/tag/v2026.8.2",
     "https://github.com/openclaw/openclaw/releases/tag/v2026.8.1",
@@ -50,8 +51,7 @@
     "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.2",
     "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.1",
     "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.4",
-    "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.3",
-    "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.2"
+    "https://github.com/openclaw/openclaw/releases/tag/v2026.5.31-beta.3"
   ],
   "consecutiveErrors": 0
 }
