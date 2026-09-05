@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ナポレオンの精神]]></title>
+            <link>https://finance.biggo.jp/podcast/fd8f8eed484ecc09</link>
+            <guid>https://finance.biggo.jp/podcast/fd8f8eed484ecc09</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[サイバーキャブの日が到来、ロボタクシーが投資対象に]]></title>
+            <link>https://finance.biggo.jp/podcast/27a6630663c667d3</link>
+            <guid>https://finance.biggo.jp/podcast/27a6630663c667d3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自社データセンターの構築方法と、なぜすべてのスタートアップがそれをすべきなのか]]></title>
+            <link>https://finance.biggo.jp/podcast/e3ba47caa37edce0</link>
+            <guid>https://finance.biggo.jp/podcast/e3ba47caa37edce0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GPT-6がAGIに到達？テック熱狂2.0、サンフランシスコの邸宅不足、NYCの学校でのAI禁止、ベネズエラ石油取引]]></title>
             <link>https://finance.biggo.jp/podcast/87c5903e3e903777</link>
             <guid>https://finance.biggo.jp/podcast/87c5903e3e903777</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[エボックス・セラピューティクスがエクソソームでCNS疾患を標的とする方法]]></title>
             <link>https://finance.biggo.jp/podcast/ffb30592cbe05740</link>
             <guid>https://finance.biggo.jp/podcast/ffb30592cbe05740</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[機器人觸覺的爆發前夜：五大技術路線、資料困局與模型之爭｜機器人系列]]></title>
-            <link>https://finance.biggo.jp/podcast/b0ff5e0247745347</link>
-            <guid>https://finance.biggo.jp/podcast/b0ff5e0247745347</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[これが天体望遠鏡牧場の運営方法だ]]></title>
-            <link>https://finance.biggo.jp/podcast/f297c3575ff4ec0e</link>
-            <guid>https://finance.biggo.jp/podcast/f297c3575ff4ec0e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appleはロボットランプを発売するのか？| The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/f359d4db843ccd31</link>
-            <guid>https://finance.biggo.jp/podcast/f359d4db843ccd31</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

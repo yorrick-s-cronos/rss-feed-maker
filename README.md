@@ -22,7 +22,7 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | [www.aihero.dev](https://www.aihero.dev/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/aihero-dev.xml) | ✅ 50 articles |
 | [Podcast AI要約｜投資・金融番組のポイント整理 — BigGo ファイナンス](https://finance.biggo.jp/podcast) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml) | ✅ 20 articles |
 | [Groq News](https://groq.com/news/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/groq-news.xml) | ✅ 24 articles |
-| [HumanLayer Blog](https://www.humanlayer.dev/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/humanlayer.xml) | ✅ 10 articles |
+| [HumanLayer Blog](https://www.humanlayer.dev/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/humanlayer.xml) | ✅ 11 articles |
 | [Anthropic News](https://www.anthropic.com/news) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml) | ✅ 10 articles |
 | [Stability AI News](https://stability.ai/news) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/stability-ai.xml) | ✅ 20 articles |
 | [Claude Blog](https://claude.com/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml) | ✅ 15 articles |
