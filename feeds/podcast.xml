@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[GPT-6がAGIに到達？テック熱狂2.0、サンフランシスコの邸宅不足、NYCの学校でのAI禁止、ベネズエラ石油取引]]></title>
+            <link>https://finance.biggo.jp/podcast/87c5903e3e903777</link>
+            <guid>https://finance.biggo.jp/podcast/87c5903e3e903777</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Astra: より整合的だが、監視可能性は低下？+ @binarybit のロボティクス週間]]></title>
             <link>https://finance.biggo.jp/podcast/7f57b6ae09609ec8</link>
             <guid>https://finance.biggo.jp/podcast/7f57b6ae09609ec8</guid>
@@ -34,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[トランスフォーマーは物理を考えられない — アニマ・アナンドクマー＆ベネディクト・ジェニック、加速的理解]]></title>
+            <title><![CDATA[溶けない高速チップ — アニマ・アナンドクマー & ベネディクト・ジェニック、加速する理解]]></title>
             <link>https://finance.biggo.jp/podcast/111670bc22657d84</link>
             <guid>https://finance.biggo.jp/podcast/111670bc22657d84</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -76,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How this ex-cop turned real mob stories into a $1M business]]></title>
+            <title><![CDATA[元警官がリアルなマフィアの話を100万ドルのビジネスに変えた方法]]></title>
             <link>https://finance.biggo.jp/podcast/479de67a531db6dc</link>
             <guid>https://finance.biggo.jp/podcast/479de67a531db6dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -106,7 +112,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ロボットに「人間の第一言語」を学ばせる：触覚はいかにして具現化知能の鍵となる能力になるのか？]]></title>
+            <title><![CDATA[機器人觸覺的爆發前夜：五大技術路線、資料困局與模型之爭｜機器人系列]]></title>
             <link>https://finance.biggo.jp/podcast/b0ff5e0247745347</link>
             <guid>https://finance.biggo.jp/podcast/b0ff5e0247745347</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[Appleはロボットランプを発売するのか？| The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/f359d4db843ccd31</link>
             <guid>https://finance.biggo.jp/podcast/f359d4db843ccd31</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国はAIを投げ売りしてシリコンバレーを潰そうとしている — ジョシュ・タイランジェル]]></title>
-            <link>https://finance.biggo.jp/podcast/b699d460d014b258</link>
-            <guid>https://finance.biggo.jp/podcast/b699d460d014b258</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
