@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[企業が「ループの連鎖」になる理由 | アニッシュ・アチャリア（a16z）]]></title>
+            <link>https://finance.biggo.jp/podcast/44b6e54f17c8bab2</link>
+            <guid>https://finance.biggo.jp/podcast/44b6e54f17c8bab2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[債券市場の「暴落」は罠——AIエージェントが暗号資産を点火しようとしている]]></title>
+            <link>https://finance.biggo.jp/podcast/1bb02d7311b86baf</link>
+            <guid>https://finance.biggo.jp/podcast/1bb02d7311b86baf</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why AI is running out of Power]]></title>
+            <link>https://finance.biggo.jp/podcast/ad263f7fa64dcac5</link>
+            <guid>https://finance.biggo.jp/podcast/ad263f7fa64dcac5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TIVP095（ビデオ）：Applovin（APP）：30倍株が半減以下に——Kyle Grieve & Shawn O'Malley と考察]]></title>
             <link>https://finance.biggo.jp/podcast/8484fa14218c143f</link>
             <guid>https://finance.biggo.jp/podcast/8484fa14218c143f</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[問題に留まり続けた人々]]></title>
             <link>https://finance.biggo.jp/podcast/f5db21b35bbb14fb</link>
             <guid>https://finance.biggo.jp/podcast/f5db21b35bbb14fb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[オープンモデルがAIの経済を変える]]></title>
-            <link>https://finance.biggo.jp/podcast/a5cb188cf1f042bc</link>
-            <guid>https://finance.biggo.jp/podcast/a5cb188cf1f042bc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIエージェントに百万トークンのコンテキストが必要な理由 — Thomas Wolf & Olive Song、MiniMax]]></title>
-            <link>https://finance.biggo.jp/podcast/d04219da517738ed</link>
-            <guid>https://finance.biggo.jp/podcast/d04219da517738ed</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[元警官がリアルなマフィアの話を100万ドルのビジネスに変えた方法]]></title>
-            <link>https://finance.biggo.jp/podcast/479de67a531db6dc</link>
-            <guid>https://finance.biggo.jp/podcast/479de67a531db6dc</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
