@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ガスライティングの専門家：この質問で、見えないところに潜むサイコパスを見抜け！| リアン・テン・ブリンク博士]]></title>
+            <link>https://finance.biggo.jp/podcast/8d8c3e801649f702</link>
+            <guid>https://finance.biggo.jp/podcast/8d8c3e801649f702</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[コードベースを理解しているふりをやめよう]]></title>
             <link>https://finance.biggo.jp/podcast/538041ad708ee9dd</link>
             <guid>https://finance.biggo.jp/podcast/538041ad708ee9dd</guid>
@@ -34,7 +40,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why AI doom is a myth | Anish Acharya (a16z)]]></title>
+            <title><![CDATA[AI破滅論が神話である理由 | アニッシュ・アチャリア（a16z）]]></title>
             <link>https://finance.biggo.jp/podcast/44b6e54f17c8bab2</link>
             <guid>https://finance.biggo.jp/podcast/44b6e54f17c8bab2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[医薬品の修正：米FDA長官指名候補ハイジ・オーバートンの経歴とCOVID-19ワクチン試験の変更]]></title>
             <link>https://finance.biggo.jp/podcast/1d8a83523c362620</link>
             <guid>https://finance.biggo.jp/podcast/1d8a83523c362620</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[溶けない高速チップ — アニマ・アナンドクマー & ベネディクト・ジェニック、加速する理解]]></title>
-            <link>https://finance.biggo.jp/podcast/111670bc22657d84</link>
-            <guid>https://finance.biggo.jp/podcast/111670bc22657d84</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
