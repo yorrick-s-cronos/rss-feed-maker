@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[コードベースを理解しているふりをやめよう]]></title>
+            <link>https://finance.biggo.jp/podcast/538041ad708ee9dd</link>
+            <guid>https://finance.biggo.jp/podcast/538041ad708ee9dd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[サロマトリックスのデビッド・クレイグが語る、機関投資家なしでバーチャルバイオテックを資金調達する方法]]></title>
+            <link>https://finance.biggo.jp/podcast/3bd3419b51483a9d</link>
+            <guid>https://finance.biggo.jp/podcast/3bd3419b51483a9d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWiV 1355: 40億年のAIトレーニングデータ]]></title>
             <link>https://finance.biggo.jp/podcast/d476bfd8c4b91681</link>
             <guid>https://finance.biggo.jp/podcast/d476bfd8c4b91681</guid>
@@ -22,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[仕事が一連のループになりつつある理由 | アニッシュ・アチャリア（a16z）]]></title>
+            <title><![CDATA[Why AI doom is a myth | Anish Acharya (a16z)]]></title>
             <link>https://finance.biggo.jp/podcast/44b6e54f17c8bab2</link>
             <guid>https://finance.biggo.jp/podcast/44b6e54f17c8bab2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[溶けない高速チップ — アニマ・アナンドクマー & ベネディクト・ジェニック、加速する理解]]></title>
             <link>https://finance.biggo.jp/podcast/111670bc22657d84</link>
             <guid>https://finance.biggo.jp/podcast/111670bc22657d84</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今週の話題：逃げ出した700のエージェント]]></title>
-            <link>https://finance.biggo.jp/podcast/a253999f7d9d3176</link>
-            <guid>https://finance.biggo.jp/podcast/a253999f7d9d3176</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ウェイモが新たに3都市でサービス開始、UBTECHは特注ヒューマノイドを開発]]></title>
-            <link>https://finance.biggo.jp/podcast/13faae2725ace8bf</link>
-            <guid>https://finance.biggo.jp/podcast/13faae2725ace8bf</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
