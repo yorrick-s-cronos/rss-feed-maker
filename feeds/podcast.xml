@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[UCバークレーのGokul Upadhyayula氏とEric Betzig氏、MOSAIC顕微鏡が捉えた生細胞の詳細な動画を解釈するAIを構築中]]></title>
+            <link>https://finance.biggo.jp/podcast/e9c29b855c5e5e98</link>
+            <guid>https://finance.biggo.jp/podcast/e9c29b855c5e5e98</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[マイクロンの神話：実はそれほどアメリカ的ではない]]></title>
             <link>https://finance.biggo.jp/podcast/751c9582378f2a26</link>
             <guid>https://finance.biggo.jp/podcast/751c9582378f2a26</guid>
@@ -58,13 +64,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saronic CEO: We’re Rebuilding American Shipbuilding]]></title>
+            <title><![CDATA[Saronic CEO：アメリカの造船業を再建する]]></title>
             <link>https://finance.biggo.jp/podcast/ab7f4333a7e3807d</link>
             <guid>https://finance.biggo.jp/podcast/ab7f4333a7e3807d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How we built and launched Grok Bot | Roman Ugarte (SpaceXAI)]]></title>
+            <title><![CDATA[Grok Botの構築とローンチの舞台裏｜Roman Ugarte（SpaceXAI）]]></title>
             <link>https://finance.biggo.jp/podcast/e757254b53fd089c</link>
             <guid>https://finance.biggo.jp/podcast/e757254b53fd089c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -76,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why the World Order Is Collapsing and American Power Is Rising]]></title>
+            <title><![CDATA[世界秩序が崩壊し、アメリカの力が台頭する理由]]></title>
             <link>https://finance.biggo.jp/podcast/e24f72a2bd72a56e</link>
             <guid>https://finance.biggo.jp/podcast/e24f72a2bd72a56e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[エージェントハーネス、RLM、オンデバイスAI | YCペーパークラブ]]></title>
             <link>https://finance.biggo.jp/podcast/dea1f7f13b42496a</link>
             <guid>https://finance.biggo.jp/podcast/dea1f7f13b42496a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIアシスタント市場はバブルではない理由 | エンジニア1人あたりAIツールに7.5万ドル支出 | Town CEO]]></title>
-            <link>https://finance.biggo.jp/podcast/47e17ebed57d5108</link>
-            <guid>https://finance.biggo.jp/podcast/47e17ebed57d5108</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
