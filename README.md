@@ -30,7 +30,7 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | [Google DeepMind Blog](https://deepmind.google/discover/blog/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/deepmind-blog.xml) | ✅ 25 articles |
 | [El Fintualist](https://fintualist.com/chile/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml) | ✅ 20 articles |
 | [Paul Graham Essays](https://www.paulgraham.com/articles.html) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/paul-graham.xml) | ✅ 20 articles |
-| [文匯香港](https://www.wenweipo.com/hongkong) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml) | ✅ 14 articles |
+| [文匯香港](https://www.wenweipo.com/hongkong) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml) | ✅ 15 articles |
 
 ### External RSS (4)
 
