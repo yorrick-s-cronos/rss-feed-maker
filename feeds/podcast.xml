@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[好感度の専門家：これをやめなさい、それが理由で人は静かにあなたを避ける！ | ヴァネッサ・ヴァン・エドワーズ]]></title>
+            <title><![CDATA[Coinbaseの「何でも取引所」：CEOブライアン・アームストロングが語るエージェント型金融、ステーブルコイン、トークン化]]></title>
+            <link>https://finance.biggo.jp/podcast/fb688142bb824db1</link>
+            <guid>https://finance.biggo.jp/podcast/fb688142bb824db1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ヴァネッサ・ヴァン・エドワーズ：人に好かれる不思議なコツ]]></title>
             <link>https://finance.biggo.jp/podcast/b4bbe77fb3ee019c</link>
             <guid>https://finance.biggo.jp/podcast/b4bbe77fb3ee019c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[エージェントに文脈が足りない：「その通りです！」を修正する方法 — Brandon Waselnuk（Unblocked）]]></title>
             <link>https://finance.biggo.jp/podcast/dac47635824b4720</link>
             <guid>https://finance.biggo.jp/podcast/dac47635824b4720</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIベンチマークがなぜ難しくなり続けるのか]]></title>
-            <link>https://finance.biggo.jp/podcast/d46d58d908c5b916</link>
-            <guid>https://finance.biggo.jp/podcast/d46d58d908c5b916</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
