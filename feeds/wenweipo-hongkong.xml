@@ -10,6 +10,20 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[市民注意！雷暴警告現正生效 預料有幾陣驟雨]]></title>
+            <link>https://www.wenweipo.com/a/202609/14/AP6aa75a4be4b01d54a28311eb.html</link>
+            <guid>https://www.wenweipo.com/a/202609/14/AP6aa75a4be4b01d54a28311eb.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[天文台今日（14日）早上9時50分發出雷暴警告，有效時間至今日早上11時45分，預料新界東部、香港島及九龍有局部地區雷暴。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[李家超：五年規劃描繪的經濟和社會發展願景　是保障提升民生福祉最穩固根基]]></title>
+            <link>https://www.wenweipo.com/a/202609/14/AP6aa74089e4b01d54a2830d36.html</link>
+            <guid>https://www.wenweipo.com/a/202609/14/AP6aa74089e4b01d54a2830d36.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[香港首個五年規劃及2026年施政報告將於本周三（16日）同日出爐。行政長官李家超撰文回顧香港首次開展此項工作，並在不足一年內「從零到有」完成規劃文本，展現特區政府公共治理能力的突破。]]></description>
+        </item>
+        <item>
             <title><![CDATA[文匯獨家︱香港博士獎學金申請破萬！1萬人爭400名額　96.5%為非本地生源]]></title>
             <link>https://www.wenweipo.com/a/202609/14/AP6aa736f0e4b01d54a2830c61.html</link>
             <guid>https://www.wenweipo.com/a/202609/14/AP6aa736f0e4b01d54a2830c61.html</guid>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202609/13/AP6aa6636ee4b01d54a282fbc6.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[由香港大學「菁英聚‧港大」計劃、光子工作室群及Tencent WeTech Academy攜手舉辦的「AI冒險之旅：當人工智能遇見遊戲」課程，今年已踏入第三年。課程在規模及多元化程度上均見顯著增長，參與人數較去年大幅增加一倍，更廣泛吸納來自香港、內地及世界各地的優秀青年學子，令課堂成為真正跨地域交流平台。課程以遊戲互動為切入點，讓學生不僅了解AI底層技術，更能從實際操作中感受其在圖像生成、3D建模、動畫創作、智能體設計及數據挖掘等多個遊戲開發環節的廣泛應用。課程工具在去年基礎上進一步融入更多中國傳統文化元素，豐富AI創作素材的文化維度，讓技術探索與文化想像在課堂中相互激發，帶領學生在前沿應用中感受東方美學的嶄新詮釋。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(有片) 飛天蠄蟧潛油麻地唐樓單位爆竊 逃走失足撞斷樹枝墮地就擒]]></title>
-            <link>https://www.wenweipo.com/a/202609/13/AP6aa65de5e4b01d54a282fb54.html</link>
-            <guid>https://www.wenweipo.com/a/202609/13/AP6aa65de5e4b01d54a282fb54.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（13日）下午1時45分，警方接獲油麻地上海街122號一唐樓單位的住戶報案，指上址單位內有聲響，懷疑有賊人潛入爆竊。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特首公布團隊襟章領呔設計 由THEi師生打造 融入「一五」元素呼應五年規劃]]></title>
-            <link>https://www.wenweipo.com/a/202609/13/AP6aa65a56e4b01d54a282faf4.html</link>
-            <guid>https://www.wenweipo.com/a/202609/13/AP6aa65a56e4b01d54a282faf4.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[《香港第一個五年規劃》及新一份《施政報告》發布在即，行政長官李家超在社交平台揭曉當日與團隊佩戴的領呔、絲巾及襟章，分別由香港高等教育科技學院（THEi）師生設計。其中，團隊襟章由THEi高科院時裝設計（榮譽）文學士課程師生團隊攜手打造，以藍色為主調，融合中文字「一」及「五」。雙正方相疊，寓意香港匯聚社會四方八面的資源與多元人才，積極發揮「背靠祖國、聯通世界」的獨特優勢，在國際舞台上綻放光芒，邁向繁榮五年新篇章。]]></description>
         </item>
     </channel>
 </rss>
