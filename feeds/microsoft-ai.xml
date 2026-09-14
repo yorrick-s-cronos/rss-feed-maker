@@ -4,11 +4,17 @@
         <title>Microsoft AI Blog</title>
         <link>https://microsoft.ai/blog/</link>
         <description>We make responsible AI to empower people's lives.</description>
-        <lastBuildDate>Fri, 04 Sep 2026 16:02:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 13:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/microsoft-ai.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Humanist AI in practice: A public consultation on our Code of Conduct for MAI Models]]></title>
+            <link>https://microsoft.ai/news/mai-code-of-conduct/</link>
+            <guid>https://microsoft.ai/news/mai-code-of-conduct/</guid>
+            <pubDate>Mon, 14 Sep 2026 13:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pushing the quality-cost frontier with MAI-Image-2.6]]></title>
             <link>https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/</link>
@@ -94,15 +100,15 @@
             <pubDate>Tue, 02 Jun 2026 12:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing MAI-Transcribe-1.5]]></title>
-            <link>https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/</link>
-            <guid>https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/</guid>
-            <pubDate>Tue, 02 Jun 2026 09:54:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Building a hill-climbing machine: Launching seven new MAI models]]></title>
             <link>https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/</link>
             <guid>https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/</guid>
+            <pubDate>Tue, 02 Jun 2026 09:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing MAI-Transcribe-1.5]]></title>
+            <link>https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/</link>
+            <guid>https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/</guid>
             <pubDate>Tue, 02 Jun 2026 09:54:00 GMT</pubDate>
         </item>
         <item>
@@ -122,12 +128,6 @@
             <link>https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/</link>
             <guid>https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/</guid>
             <pubDate>Thu, 02 Apr 2026 13:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State of the Art Speech Recognition with MAI-Transcribe-1]]></title>
-            <link>https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/</link>
-            <guid>https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/</guid>
-            <pubDate>Thu, 02 Apr 2026 13:51:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-09-14T08:18:43.934Z",
+  "lastSuccess": "2026-09-14T15:26:51.795Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://microsoft.ai/news/mai-code-of-conduct/",
     "https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/",
     "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/",
     "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
@@ -16,12 +17,11 @@
     "https://microsoft.ai/news/introducing-mai-image-2-5/",
     "https://microsoft.ai/news/our-values-in-operation-health/",
     "https://microsoft.ai/news/microsoft-build-2026-mai-keynote-transcript/",
-    "https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/",
     "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+    "https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/",
     "https://microsoft.ai/news/introducingmai-code-1-flash/",
     "https://microsoft.ai/news/mai-image-2-efficient/",
-    "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/",
-    "https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/"
+    "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/"
   ],
   "consecutiveErrors": 0
 }
