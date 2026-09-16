@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AIの黙示録に関する疑問に答える]]></title>
+            <link>https://finance.biggo.jp/podcast/8990b8793fed5a50</link>
+            <guid>https://finance.biggo.jp/podcast/8990b8793fed5a50</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The $20 Agent, $200M Liability — Rune Kvist of AI Underwriting Company]]></title>
+            <link>https://finance.biggo.jp/podcast/1a68f105b5170327</link>
+            <guid>https://finance.biggo.jp/podcast/1a68f105b5170327</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[デジタルヘルスまとめ：OuraがIPOを計画、FDAの在宅医療、アルツハイマー病検出のためのデジタルツール]]></title>
+            <link>https://finance.biggo.jp/podcast/3271ca36fd0c8a0c</link>
+            <guid>https://finance.biggo.jp/podcast/3271ca36fd0c8a0c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Rogan Experience #2555 - Ron White]]></title>
+            <link>https://finance.biggo.jp/podcast/5e0b8a385dea571f</link>
+            <guid>https://finance.biggo.jp/podcast/5e0b8a385dea571f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2022年のようなチャンキングはやめよう — Yuval Belfer氏、AI21 Labs]]></title>
             <link>https://finance.biggo.jp/podcast/9042a120b9640981</link>
             <guid>https://finance.biggo.jp/podcast/9042a120b9640981</guid>
@@ -40,7 +64,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lightfieldが描くAIネイティブビジネスのビジョン]]></title>
+            <title><![CDATA[AIがいかにしてソフトウェアを第一原理から書き換えているか]]></title>
             <link>https://finance.biggo.jp/podcast/907cea14a23afcb9</link>
             <guid>https://finance.biggo.jp/podcast/907cea14a23afcb9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -76,7 +100,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[i got internet famous... if i started again from scratch, here's what I'd do this time]]></title>
+            <title><![CDATA[ソーシャルメディアで成長するための8つの意外なルール]]></title>
             <link>https://finance.biggo.jp/podcast/8fda4352bdeee44f</link>
             <guid>https://finance.biggo.jp/podcast/8fda4352bdeee44f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[Circleが次世代のオンチェーン金融に向けて構築したArc]]></title>
             <link>https://finance.biggo.jp/podcast/2896d320f0d40e38</link>
             <guid>https://finance.biggo.jp/podcast/2896d320f0d40e38</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RNA治療薬で内臓脂肪を標的に]]></title>
-            <link>https://finance.biggo.jp/podcast/acb94d0fa7f8177c</link>
-            <guid>https://finance.biggo.jp/podcast/acb94d0fa7f8177c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジョン・マクニール：テスラとスペースXを支えるアルゴリズム | ポッドキャスト | In Good Company]]></title>
-            <link>https://finance.biggo.jp/podcast/3cad869e5865ff23</link>
-            <guid>https://finance.biggo.jp/podcast/3cad869e5865ff23</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HCW 2026：先月IPOを果たしたBlossomHill、精密腫瘍学に挑む——この分野で殿堂入り級の実績を持つ科学創設者兼CEO、Jean Cui氏がプログラムを語る]]></title>
-            <link>https://finance.biggo.jp/podcast/d24cad6d790b1508</link>
-            <guid>https://finance.biggo.jp/podcast/d24cad6d790b1508</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ep. 031 - 緊急エピソード：我々は終わるのか？ | Jordan Nanos、Doug O'Laughlin、Max Kan、Joey Brookhart]]></title>
-            <link>https://finance.biggo.jp/podcast/99625c4d22645a03</link>
-            <guid>https://finance.biggo.jp/podcast/99625c4d22645a03</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
