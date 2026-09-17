@@ -10,13 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AI緊急事態：AIラボは皆に嘘をついている、誰も来るべき事態に備えていない！ | Roman Yampolskiy]]></title>
+            <link>https://finance.biggo.jp/podcast/db116a41f6d44d85</link>
+            <guid>https://finance.biggo.jp/podcast/db116a41f6d44d85</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブラッド・ガーストナー：AIバブルは存在しない、半導体がナスダックを席巻、そしてAIの離陸問題]]></title>
+            <link>https://finance.biggo.jp/podcast/ad4cfbbfb3533114</link>
+            <guid>https://finance.biggo.jp/podcast/ad4cfbbfb3533114</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[精神医学、精神病院、精神疾患、ECT、ロボトミー、フロイトとユング | Lex Fridman Podcast #502]]></title>
             <link>https://finance.biggo.jp/podcast/63b5e8eec6db5fce</link>
             <guid>https://finance.biggo.jp/podcast/63b5e8eec6db5fce</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brad Gerstner Wants 40 Million Americans to Take This Heart Scan]]></title>
+            <title><![CDATA[ブラッド・ガースナー：年間5万人の命を救う可能性のある100ドル検査]]></title>
             <link>https://finance.biggo.jp/podcast/07e91997c4cd5e8c</link>
             <guid>https://finance.biggo.jp/podcast/07e91997c4cd5e8c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[エージェント検索におけるBM25の不合理なほどの有効性 — Jo Kristian Bergum、Hornet.dev]]></title>
             <link>https://finance.biggo.jp/podcast/37dd7df25de95e9e</link>
             <guid>https://finance.biggo.jp/podcast/37dd7df25de95e9e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pinecone 2.0 — Edo Liberty、Pinecone]]></title>
-            <link>https://finance.biggo.jp/podcast/8db7fa2f26e8e252</link>
-            <guid>https://finance.biggo.jp/podcast/8db7fa2f26e8e252</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[オンライン成長に対するあなたの考え方を完全にリセットする17分]]></title>
-            <link>https://finance.biggo.jp/podcast/8fda4352bdeee44f</link>
-            <guid>https://finance.biggo.jp/podcast/8fda4352bdeee44f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
