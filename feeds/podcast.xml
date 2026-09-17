@@ -10,7 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[AI緊急事態：AIラボは皆に嘘をついている、誰も来るべき事態に備えていない！ | Roman Yampolskiy]]></title>
+            <title><![CDATA[ラグジュアリー、鉱業、そして点と点をつなぐ力]]></title>
+            <link>https://finance.biggo.jp/podcast/efe31bdf39c70482</link>
+            <guid>https://finance.biggo.jp/podcast/efe31bdf39c70482</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DatabricksのAli Ghodsi、CEOになるつもりはなかった——今や最高峰の一人に]]></title>
+            <link>https://finance.biggo.jp/podcast/4ba0dc4cb222646f</link>
+            <guid>https://finance.biggo.jp/podcast/4ba0dc4cb222646f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matt PocockとAIスキル]]></title>
+            <link>https://finance.biggo.jp/podcast/c9cefb3cd9ae513d</link>
+            <guid>https://finance.biggo.jp/podcast/c9cefb3cd9ae513d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[432: Market Price 2nm Norimaki (hak)]]></title>
+            <link>https://finance.biggo.jp/podcast/fb668ce5aaf17be1</link>
+            <guid>https://finance.biggo.jp/podcast/fb668ce5aaf17be1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIの非常事態：AI研究所は全員に嘘をついている、絶滅の確率は99％だと彼は言う | Roman Yampolskiy]]></title>
             <link>https://finance.biggo.jp/podcast/db116a41f6d44d85</link>
             <guid>https://finance.biggo.jp/podcast/db116a41f6d44d85</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[AIがいかにしてソフトウェアを第一原理から書き換えているか]]></title>
             <link>https://finance.biggo.jp/podcast/907cea14a23afcb9</link>
             <guid>https://finance.biggo.jp/podcast/907cea14a23afcb9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェントのためにウェブを再構築する — Liad Yosef、MCP Apps]]></title>
-            <link>https://finance.biggo.jp/podcast/2a17ef439549fac4</link>
-            <guid>https://finance.biggo.jp/podcast/2a17ef439549fac4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[この24歳はAIに賭けて350億ドルを失った方法]]></title>
-            <link>https://finance.biggo.jp/podcast/eff65f476008b7ed</link>
-            <guid>https://finance.biggo.jp/podcast/eff65f476008b7ed</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェント型ウェブのための検索エンジン — ExaのWill Bryk氏]]></title>
-            <link>https://finance.biggo.jp/podcast/6bf2ca0f3123446f</link>
-            <guid>https://finance.biggo.jp/podcast/6bf2ca0f3123446f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェント検索におけるBM25の不合理なほどの有効性 — Jo Kristian Bergum、Hornet.dev]]></title>
-            <link>https://finance.biggo.jp/podcast/37dd7df25de95e9e</link>
-            <guid>https://finance.biggo.jp/podcast/37dd7df25de95e9e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
