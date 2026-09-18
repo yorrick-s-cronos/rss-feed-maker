@@ -10,9 +10,39 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[アメリカの40兆ドル債務が債券市場を崩壊させる | 今週のまとめ]]></title>
+            <title><![CDATA[Ep. 033 - データセンター禁止措置300件、遅延プロジェクトは3件のみ：モラトリアムの実態を解説（データセンター、エネルギー）]]></title>
+            <link>https://finance.biggo.jp/podcast/91601b9c89bbfbe8</link>
+            <guid>https://finance.biggo.jp/podcast/91601b9c89bbfbe8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[リスク、不確実性、医療意思決定 — クリス・ウィッティ教授]]></title>
+            <link>https://finance.biggo.jp/podcast/4665b6a8fb651d18</link>
+            <guid>https://finance.biggo.jp/podcast/4665b6a8fb651d18</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPhone 18 Proのカメラの真実 | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/1f4e91095c3c6c38</link>
+            <guid>https://finance.biggo.jp/podcast/1f4e91095c3c6c38</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジャレッド・アイザックマン：NASAとアメリカ宇宙探査の新時代]]></title>
+            <link>https://finance.biggo.jp/podcast/30a96d2517137eeb</link>
+            <guid>https://finance.biggo.jp/podcast/30a96d2517137eeb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is China Winning the AI Race Against the U.S.? | The Week]]></title>
             <link>https://finance.biggo.jp/podcast/6b856edab3a828f3</link>
             <guid>https://finance.biggo.jp/podcast/6b856edab3a828f3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[トータルリコール：エージェントメモリとハーネスエンジニアリング — Ignacio Martinez、Oracle]]></title>
+            <link>https://finance.biggo.jp/podcast/058b1a986565ade9</link>
+            <guid>https://finance.biggo.jp/podcast/058b1a986565ade9</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -34,13 +64,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[サム・アルトマンのコーチ：努力を美化するのはやめよう]]></title>
+            <title><![CDATA[Sam Altman's coach: no startup fails from lack of effort]]></title>
             <link>https://finance.biggo.jp/podcast/251f1c2177d736f7</link>
             <guid>https://finance.biggo.jp/podcast/251f1c2177d736f7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bending Spoonsがシリコンバレーを飲み込む | CEOルカ・フェラーリ]]></title>
+            <title><![CDATA[Luca Ferrari: How Bending Spoons Built Tech’s Acquisition Playbook]]></title>
             <link>https://finance.biggo.jp/podcast/203624e4a75db892</link>
             <guid>https://finance.biggo.jp/podcast/203624e4a75db892</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[ワシントンDCから生中継：バイオセキュリティリスクと中国について語るとき、私たちは本当は何を意味しているのか？]]></title>
             <link>https://finance.biggo.jp/podcast/02332d0540be771b</link>
             <guid>https://finance.biggo.jp/podcast/02332d0540be771b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米国、サウジアラビアにF-35を243億ドルで売却へ]]></title>
-            <link>https://finance.biggo.jp/podcast/237f93c9367eb7c3</link>
-            <guid>https://finance.biggo.jp/podcast/237f93c9367eb7c3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI創業者たちが減速を呼びかける本当の理由 | 対談]]></title>
-            <link>https://finance.biggo.jp/podcast/615423c174b559af</link>
-            <guid>https://finance.biggo.jp/podcast/615423c174b559af</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[討論：AGIの減速とそれがAI競争に何を意味するか｜EP#291]]></title>
-            <link>https://finance.biggo.jp/podcast/5afff93b90b769dd</link>
-            <guid>https://finance.biggo.jp/podcast/5afff93b90b769dd</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appleの新型iPhoneとWatchは前モデルより優れている | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/504e9b4d76bb2bea</link>
-            <guid>https://finance.biggo.jp/podcast/504e9b4d76bb2bea</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIウェルフェアの最新動向＋AI変革における経営幹部の育成]]></title>
-            <link>https://finance.biggo.jp/podcast/78dbb13d835a79fe</link>
-            <guid>https://finance.biggo.jp/podcast/78dbb13d835a79fe</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
