@@ -10,7 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Ep. 033 - データセンター禁止措置300件、遅延プロジェクトは3件のみ：モラトリアムの実態を解説（データセンター、エネルギー）]]></title>
+            <title><![CDATA[Why Static Evals Become Obsolete in Production — Ramin Hasani, Liquid A]]></title>
+            <link>https://finance.biggo.jp/podcast/4e83b4c190d4eaf0</link>
+            <guid>https://finance.biggo.jp/podcast/4e83b4c190d4eaf0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Would AI Companies Want to Slow Down?]]></title>
+            <link>https://finance.biggo.jp/podcast/1faba3d8b3acb2b3</link>
+            <guid>https://finance.biggo.jp/podcast/1faba3d8b3acb2b3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep. 033 - How SpaceX Escaped a Datacenter Ban: Moratoriums Explained (Datacenter, Energy)]]></title>
             <link>https://finance.biggo.jp/podcast/91601b9c89bbfbe8</link>
             <guid>https://finance.biggo.jp/podcast/91601b9c89bbfbe8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is China Winning the AI Race Against the U.S.? | The Week]]></title>
+            <title><![CDATA[中国はAI競争で米国に勝ちつつあるのか？｜今週のまとめ]]></title>
             <link>https://finance.biggo.jp/podcast/6b856edab3a828f3</link>
             <guid>https://finance.biggo.jp/podcast/6b856edab3a828f3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -64,13 +76,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sam Altman's coach: no startup fails from lack of effort]]></title>
+            <title><![CDATA[Advice from Sam Altman’s coach that’ll piss off every hustle culture bro]]></title>
             <link>https://finance.biggo.jp/podcast/251f1c2177d736f7</link>
             <guid>https://finance.biggo.jp/podcast/251f1c2177d736f7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Luca Ferrari: How Bending Spoons Built Tech’s Acquisition Playbook]]></title>
+            <title><![CDATA[ルカ・フェラーリ：Bending Spoonsはいかにしてテック業界の買収プレイブックを築いたか]]></title>
             <link>https://finance.biggo.jp/podcast/203624e4a75db892</link>
             <guid>https://finance.biggo.jp/podcast/203624e4a75db892</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -106,7 +118,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[愚かなモデルを使うのはやめてください]]></title>
+            <title><![CDATA[Everyone's Wrong About Model Intelligence]]></title>
             <link>https://finance.biggo.jp/podcast/d2c063a4b7dbe4d0</link>
             <guid>https://finance.biggo.jp/podcast/d2c063a4b7dbe4d0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[ニック・シャーリー：政府の不正を暴き、カリフォルニアを訴え、メディアに挑む]]></title>
             <link>https://finance.biggo.jp/podcast/ccde2269e519293c</link>
             <guid>https://finance.biggo.jp/podcast/ccde2269e519293c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[外灘大会オフライン円卓会議｜財布をAIに預けられるか？エージェント取引爆発前夜の信頼インフラを語る]]></title>
-            <link>https://finance.biggo.jp/podcast/f1aa181b9217f679</link>
-            <guid>https://finance.biggo.jp/podcast/f1aa181b9217f679</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ワシントンDCから生中継：バイオセキュリティリスクと中国について語るとき、私たちは本当は何を意味しているのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/02332d0540be771b</link>
-            <guid>https://finance.biggo.jp/podcast/02332d0540be771b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
