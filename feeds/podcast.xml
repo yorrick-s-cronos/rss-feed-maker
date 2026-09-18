@@ -10,6 +10,48 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Please stop using stupid models]]></title>
+            <link>https://finance.biggo.jp/podcast/d2c063a4b7dbe4d0</link>
+            <guid>https://finance.biggo.jp/podcast/d2c063a4b7dbe4d0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ニック・シャーリー：政府の不正を暴き、カリフォルニアを訴え、メディアに挑む]]></title>
+            <link>https://finance.biggo.jp/podcast/ccde2269e519293c</link>
+            <guid>https://finance.biggo.jp/podcast/ccde2269e519293c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[外灘大会オフライン円卓会議｜財布をAIに預けられるか？エージェント取引爆発前夜の信頼インフラを語る]]></title>
+            <link>https://finance.biggo.jp/podcast/f1aa181b9217f679</link>
+            <guid>https://finance.biggo.jp/podcast/f1aa181b9217f679</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ワシントンDCから生中継：バイオセキュリティリスクと中国について語るとき、私たちは本当は何を意味しているのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/02332d0540be771b</link>
+            <guid>https://finance.biggo.jp/podcast/02332d0540be771b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米国、サウジアラビアにF-35を243億ドルで売却へ]]></title>
+            <link>https://finance.biggo.jp/podcast/237f93c9367eb7c3</link>
+            <guid>https://finance.biggo.jp/podcast/237f93c9367eb7c3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI創業者たちが減速を呼びかける本当の理由 | 対談]]></title>
+            <link>https://finance.biggo.jp/podcast/615423c174b559af</link>
+            <guid>https://finance.biggo.jp/podcast/615423c174b559af</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[討論：AGIの減速とそれがAI競争に何を意味するか｜EP#291]]></title>
+            <link>https://finance.biggo.jp/podcast/5afff93b90b769dd</link>
+            <guid>https://finance.biggo.jp/podcast/5afff93b90b769dd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Appleの新型iPhoneとWatchは前モデルより優れている | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/504e9b4d76bb2bea</link>
             <guid>https://finance.biggo.jp/podcast/504e9b4d76bb2bea</guid>
@@ -28,13 +70,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[スタートアップはビットからアトムへ移行している]]></title>
+            <title><![CDATA[2026年のスタートアップの現状]]></title>
             <link>https://finance.biggo.jp/podcast/aa13fb5c2e88a96b</link>
             <guid>https://finance.biggo.jp/podcast/aa13fb5c2e88a96b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI動画モデルFalが二度テストする必要があったもの]]></title>
+            <title><![CDATA[スタジオがついに生成ビデオを受け入れ始めた理由]]></title>
             <link>https://finance.biggo.jp/podcast/47086a533e837db1</link>
             <guid>https://finance.biggo.jp/podcast/47086a533e837db1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -49,12 +91,6 @@
             <title><![CDATA[ワシントンDC発ライブ：FDAは臨床試験を米国に呼び戻せるか？]]></title>
             <link>https://finance.biggo.jp/podcast/3a1bea392832515f</link>
             <guid>https://finance.biggo.jp/podcast/3a1bea392832515f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ワシントンからの生中継：バイオセキュリティリスクと中国について語るとき、私たちは本当は何を意味しているのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/ac67024ae1e83970</link>
-            <guid>https://finance.biggo.jp/podcast/ac67024ae1e83970</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -91,42 +127,6 @@
             <title><![CDATA[Instinctが100億ドル評価で10億ドル調達 | 「フロンティアのペースを保つ」がなぜナンセンスか | Mistralが30億ユーロ調達]]></title>
             <link>https://finance.biggo.jp/podcast/e973a7eb8e2a5b58</link>
             <guid>https://finance.biggo.jp/podcast/e973a7eb8e2a5b58</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[コードなきコード：Zapier CEOウェイド・フォスターが語るヘッドレステools、Zapier MCP、Automation Bench]]></title>
-            <link>https://finance.biggo.jp/podcast/3b3fdd9d7482e364</link>
-            <guid>https://finance.biggo.jp/podcast/3b3fdd9d7482e364</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homa: The End of TCP for AI Clusters — John Ousterhout, Stanford]]></title>
-            <link>https://finance.biggo.jp/podcast/59f4f0d15c1662b5</link>
-            <guid>https://finance.biggo.jp/podcast/59f4f0d15c1662b5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ラグジュアリー、鉱業、そして点と点をつなぐ力]]></title>
-            <link>https://finance.biggo.jp/podcast/efe31bdf39c70482</link>
-            <guid>https://finance.biggo.jp/podcast/efe31bdf39c70482</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DatabricksのAli Ghodsi、CEOになるつもりはなかった——今や最高峰の一人に]]></title>
-            <link>https://finance.biggo.jp/podcast/4ba0dc4cb222646f</link>
-            <guid>https://finance.biggo.jp/podcast/4ba0dc4cb222646f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matt PocockとAIスキル]]></title>
-            <link>https://finance.biggo.jp/podcast/c9cefb3cd9ae513d</link>
-            <guid>https://finance.biggo.jp/podcast/c9cefb3cd9ae513d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[432: Market Price 2nm Norimaki (hak)]]></title>
-            <link>https://finance.biggo.jp/podcast/fb668ce5aaf17be1</link>
-            <guid>https://finance.biggo.jp/podcast/fb668ce5aaf17be1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
