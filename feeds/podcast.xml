@@ -10,19 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Why Static Evals Become Obsolete in Production — Ramin Hasani, Liquid A]]></title>
+            <title><![CDATA[出生前cfDNA検査が未診断の母体がんを明らかにする仕組み]]></title>
+            <link>https://finance.biggo.jp/podcast/4cfc834382b0503f</link>
+            <guid>https://finance.biggo.jp/podcast/4cfc834382b0503f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[なぜ静的評価は本番環境で陳腐化するのか — Ramin Hasani、Liquid A]]></title>
             <link>https://finance.biggo.jp/podcast/4e83b4c190d4eaf0</link>
             <guid>https://finance.biggo.jp/podcast/4e83b4c190d4eaf0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Would AI Companies Want to Slow Down?]]></title>
+            <title><![CDATA[Databricks CEO on What We’re Getting Wrong About Existential Risk]]></title>
             <link>https://finance.biggo.jp/podcast/1faba3d8b3acb2b3</link>
             <guid>https://finance.biggo.jp/podcast/1faba3d8b3acb2b3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ep. 033 - How SpaceX Escaped a Datacenter Ban: Moratoriums Explained (Datacenter, Energy)]]></title>
+            <title><![CDATA[Ep. 033 - Datacenter Moratoriums Are Political Theater (Datacenter, Energy)]]></title>
             <link>https://finance.biggo.jp/podcast/91601b9c89bbfbe8</link>
             <guid>https://finance.biggo.jp/podcast/91601b9c89bbfbe8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -76,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Advice from Sam Altman’s coach that’ll piss off every hustle culture bro]]></title>
+            <title><![CDATA[サム・アルトマンのコーチからのアドバイス——ハッスル文化の信奉者を激怒させる内容]]></title>
             <link>https://finance.biggo.jp/podcast/251f1c2177d736f7</link>
             <guid>https://finance.biggo.jp/podcast/251f1c2177d736f7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -118,15 +124,9 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Everyone's Wrong About Model Intelligence]]></title>
+            <title><![CDATA[モデル知能について誰もが間違っている]]></title>
             <link>https://finance.biggo.jp/podcast/d2c063a4b7dbe4d0</link>
             <guid>https://finance.biggo.jp/podcast/d2c063a4b7dbe4d0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ニック・シャーリー：政府の不正を暴き、カリフォルニアを訴え、メディアに挑む]]></title>
-            <link>https://finance.biggo.jp/podcast/ccde2269e519293c</link>
-            <guid>https://finance.biggo.jp/podcast/ccde2269e519293c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
