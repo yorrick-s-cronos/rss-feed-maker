@@ -10,6 +10,60 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ロビンフッドのヴラド・テネフ、トークン化の台頭、トランプ・アカウント、10万のAIトレーディングエージェントについて語る]]></title>
+            <link>https://finance.biggo.jp/podcast/72a89fcf4dce08f6</link>
+            <guid>https://finance.biggo.jp/podcast/72a89fcf4dce08f6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[重み折りたたみ、CUDAストリーム、そしてモデルが逆さまに話すようになったバグ — Filip Makraduli]]></title>
+            <link>https://finance.biggo.jp/podcast/5bfddbee31a095f7</link>
+            <guid>https://finance.biggo.jp/podcast/5bfddbee31a095f7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[見えにくい場所に潜んでいた2つのバグ：vLLMデバッグ推理物語 — Asaf Gardin & Yuval Belfer]]></title>
+            <link>https://finance.biggo.jp/podcast/43eb9cc76c7dda63</link>
+            <guid>https://finance.biggo.jp/podcast/43eb9cc76c7dda63</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェント向けフロンティアAI推論クラウド — Byung-Gon (Gon) Chun氏、FriendliAI]]></title>
+            <link>https://finance.biggo.jp/podcast/9ad80c40c00d4421</link>
+            <guid>https://finance.biggo.jp/podcast/9ad80c40c00d4421</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小規模モデル向けの大規模クラスタ — Daniel Svonava、Superlinked]]></title>
+            <link>https://finance.biggo.jp/podcast/e901eb7fce7d96fe</link>
+            <guid>https://finance.biggo.jp/podcast/e901eb7fce7d96fe</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推論エンジニアリングの最新動向 — Philip Kiely氏（Baseten）]]></title>
+            <link>https://finance.biggo.jp/podcast/09df700055e504b7</link>
+            <guid>https://finance.biggo.jp/podcast/09df700055e504b7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[垂直的なモビリティ：MVPから兆パラメータ規模のワークロードまでの推論 — CoreWeaveのSitanshu Gupta氏]]></title>
+            <link>https://finance.biggo.jp/podcast/7c2800ae2504c952</link>
+            <guid>https://finance.biggo.jp/podcast/7c2800ae2504c952</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Gardner has two 1000-baggers in his portfolio. He tells you how to do it]]></title>
+            <link>https://finance.biggo.jp/podcast/fe4f17a953d668c5</link>
+            <guid>https://finance.biggo.jp/podcast/fe4f17a953d668c5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LLM性能ベンチマークは信頼できるのか？ — GoogleのAshok Chandrasekar氏とJason Kramberger氏]]></title>
+            <link>https://finance.biggo.jp/podcast/10ba8fb3f5612cf3</link>
+            <guid>https://finance.biggo.jp/podcast/10ba8fb3f5612cf3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[本番環境におけるLLM推論のルーティング：エンジンシグナルからポリシーまで — OpenAIのQianru Lao氏とLu Zhang氏]]></title>
             <link>https://finance.biggo.jp/podcast/afa4b13a445a4639</link>
             <guid>https://finance.biggo.jp/podcast/afa4b13a445a4639</guid>
@@ -22,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[エネルギーはAIの最大のボトルネックなのか？そして計画中のデータセンターは実際にどれだけ建設されるのか？]]></title>
+            <title><![CDATA[「反データセンターは中国の心理作戦」｜実際に建設されるのはどれだけか？｜Positron AI共同創業者]]></title>
             <link>https://finance.biggo.jp/podcast/3161c0fd3843d9c0</link>
             <guid>https://finance.biggo.jp/podcast/3161c0fd3843d9c0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -73,60 +127,6 @@
             <title><![CDATA[Databricks CEO、存在リスクについて我々が誤解していること]]></title>
             <link>https://finance.biggo.jp/podcast/1faba3d8b3acb2b3</link>
             <guid>https://finance.biggo.jp/podcast/1faba3d8b3acb2b3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ep. 033 - データセンターの一時停止は政治的パフォーマンス（データセンター、エネルギー）]]></title>
-            <link>https://finance.biggo.jp/podcast/91601b9c89bbfbe8</link>
-            <guid>https://finance.biggo.jp/podcast/91601b9c89bbfbe8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[リスク、不確実性、医療意思決定 — クリス・ウィッティ教授]]></title>
-            <link>https://finance.biggo.jp/podcast/4665b6a8fb651d18</link>
-            <guid>https://finance.biggo.jp/podcast/4665b6a8fb651d18</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iPhone 18 Proのカメラの真実 | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/1f4e91095c3c6c38</link>
-            <guid>https://finance.biggo.jp/podcast/1f4e91095c3c6c38</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジャレッド・アイザックマン：NASAとアメリカ宇宙探査の新時代]]></title>
-            <link>https://finance.biggo.jp/podcast/30a96d2517137eeb</link>
-            <guid>https://finance.biggo.jp/podcast/30a96d2517137eeb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国はAI競争で米国に勝ちつつあるのか？｜今週のまとめ]]></title>
-            <link>https://finance.biggo.jp/podcast/6b856edab3a828f3</link>
-            <guid>https://finance.biggo.jp/podcast/6b856edab3a828f3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[トータルリコール：エージェントメモリとハーネスエンジニアリング — Ignacio Martinez、Oracle]]></title>
-            <link>https://finance.biggo.jp/podcast/058b1a986565ade9</link>
-            <guid>https://finance.biggo.jp/podcast/058b1a986565ade9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[サイケデリック医薬品をめぐる現在のディールメイキング環境を評価する]]></title>
-            <link>https://finance.biggo.jp/podcast/1723d031e86b65fe</link>
-            <guid>https://finance.biggo.jp/podcast/1723d031e86b65fe</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHTSAはCybercabを地上に留めるのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/2c378d26fac7193c</link>
-            <guid>https://finance.biggo.jp/podcast/2c378d26fac7193c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[バイオ医薬品業界で広がる予測市場の内幕]]></title>
-            <link>https://finance.biggo.jp/podcast/efd286140777e6d1</link>
-            <guid>https://finance.biggo.jp/podcast/efd286140777e6d1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
