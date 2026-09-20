@@ -10,6 +10,42 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[このシンプルなウィジェットが月5万ドルを生む]]></title>
+            <link>https://finance.biggo.jp/podcast/2d2c6e4acfb8ec6c</link>
+            <guid>https://finance.biggo.jp/podcast/2d2c6e4acfb8ec6c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brad Gerstner: The Great Wealth Transfer to 70 Million American Kids]]></title>
+            <link>https://finance.biggo.jp/podcast/45fa6046bb9c3e2f</link>
+            <guid>https://finance.biggo.jp/podcast/45fa6046bb9c3e2f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Original Sin of Hip-Hop | Nas, Ben Horowitz, Steve Stoute & Grandmaster Caz]]></title>
+            <link>https://finance.biggo.jp/podcast/395d3d414f34664b</link>
+            <guid>https://finance.biggo.jp/podcast/395d3d414f34664b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snap初のPMが語る90分の忖度なしプロダクト論 | ピーター・セリス]]></title>
+            <link>https://finance.biggo.jp/podcast/085ae9cbd0e038d1</link>
+            <guid>https://finance.biggo.jp/podcast/085ae9cbd0e038d1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市場は暴落せず、人類も滅亡しなかった——だが暗号資産がブレイクアウトした]]></title>
+            <link>https://finance.biggo.jp/podcast/9e15a5945085e53b</link>
+            <guid>https://finance.biggo.jp/podcast/9e15a5945085e53b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIVP098（動画）：Alphabet（GOOGL）：依然として過小評価されている可能性のあるメガキャップ w/ Kyle Grieve & Shawn O’Malley]]></title>
+            <link>https://finance.biggo.jp/podcast/635f2323a61a8d9b</link>
+            <guid>https://finance.biggo.jp/podcast/635f2323a61a8d9b</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWiV 1359: SSPE、麻疹が残す長い影]]></title>
             <link>https://finance.biggo.jp/podcast/a5430fc98b92a2e7</link>
             <guid>https://finance.biggo.jp/podcast/a5430fc98b92a2e7</guid>
@@ -91,42 +127,6 @@
             <title><![CDATA[「反データセンターは中国の心理作戦」｜実際に建設されるのはどれだけか？｜Positron AI共同創業者]]></title>
             <link>https://finance.biggo.jp/podcast/3161c0fd3843d9c0</link>
             <guid>https://finance.biggo.jp/podcast/3161c0fd3843d9c0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waymoは世界を制し、TeslaはNHTSAの試験を受ける]]></title>
-            <link>https://finance.biggo.jp/podcast/f6d5b0779a0fc189</link>
-            <guid>https://finance.biggo.jp/podcast/f6d5b0779a0fc189</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1358: ダニエル・グリフィン医師による臨床アップデート]]></title>
-            <link>https://finance.biggo.jp/podcast/cd3a0b31b3d33ae1</link>
-            <guid>https://finance.biggo.jp/podcast/cd3a0b31b3d33ae1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深掘り】大手デベロッパー5社のうち生き残るのは1社だけ？中国不動産業界10年の興亡史！]]></title>
-            <link>https://finance.biggo.jp/podcast/330cdbc409a9de3c</link>
-            <guid>https://finance.biggo.jp/podcast/330cdbc409a9de3c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ビル・ガーリー：ファインマンを探して]]></title>
-            <link>https://finance.biggo.jp/podcast/9a438329df03911a</link>
-            <guid>https://finance.biggo.jp/podcast/9a438329df03911a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[初の「型安全」モデル?? Jevについて話そう]]></title>
-            <link>https://finance.biggo.jp/podcast/7c062f09b308f845</link>
-            <guid>https://finance.biggo.jp/podcast/7c062f09b308f845</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[出生前cfDNA検査が未診断の母体がんを明らかにする仕組み]]></title>
-            <link>https://finance.biggo.jp/podcast/4cfc834382b0503f</link>
-            <guid>https://finance.biggo.jp/podcast/4cfc834382b0503f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
