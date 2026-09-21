@@ -10,7 +10,19 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[リック・ルービン：ジェイ・Zが30分でやったことには言葉を失った！]]></title>
+            <title><![CDATA[SECの新たなイノベーション適用除外がRobinhoodにもたらすもの]]></title>
+            <link>https://finance.biggo.jp/podcast/4691062f7e0b2bb5</link>
+            <guid>https://finance.biggo.jp/podcast/4691062f7e0b2bb5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[サム・ウォルトンの仕事術]]></title>
+            <link>https://finance.biggo.jp/podcast/8f297ae3d26f5c38</link>
+            <guid>https://finance.biggo.jp/podcast/8f297ae3d26f5c38</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[リック・ルービン：AIが決して再現できない唯一の人間的資質と未来を守る方法]]></title>
             <link>https://finance.biggo.jp/podcast/3888ec31f432b265</link>
             <guid>https://finance.biggo.jp/podcast/3888ec31f432b265</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[小規模モデル向けの大規模クラスタ — Daniel Svonava、Superlinked]]></title>
             <link>https://finance.biggo.jp/podcast/e901eb7fce7d96fe</link>
             <guid>https://finance.biggo.jp/podcast/e901eb7fce7d96fe</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推論エンジニアリングの最新動向 — Philip Kiely氏（Baseten）]]></title>
-            <link>https://finance.biggo.jp/podcast/09df700055e504b7</link>
-            <guid>https://finance.biggo.jp/podcast/09df700055e504b7</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[垂直的なモビリティ：MVPから兆パラメータ規模のワークロードまでの推論 — CoreWeaveのSitanshu Gupta氏]]></title>
-            <link>https://finance.biggo.jp/podcast/7c2800ae2504c952</link>
-            <guid>https://finance.biggo.jp/podcast/7c2800ae2504c952</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
