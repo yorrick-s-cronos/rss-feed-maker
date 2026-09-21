@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[リック・ルービン：ジェイ・Zが30分でやったことには言葉を失った！]]></title>
+            <link>https://finance.biggo.jp/podcast/3888ec31f432b265</link>
+            <guid>https://finance.biggo.jp/podcast/3888ec31f432b265</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moonwalk BiosciencesのAlex Aravanis医師（医学博士・理学博士）に聞く、肥満症治療における新たな機会の模索]]></title>
+            <link>https://finance.biggo.jp/podcast/50b67bab4249bb13</link>
+            <guid>https://finance.biggo.jp/podcast/50b67bab4249bb13</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jevは驚異的だ]]></title>
+            <link>https://finance.biggo.jp/podcast/4ab439b36c368c06</link>
+            <guid>https://finance.biggo.jp/podcast/4ab439b36c368c06</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AppLovin CEO アダム・フォルーギ：92%の下落を生き延び、広告をML 1.0と捉え、500億ドルのゲーム広告市場に挑む]]></title>
             <link>https://finance.biggo.jp/podcast/e16d1dc1b241e3b7</link>
             <guid>https://finance.biggo.jp/podcast/e16d1dc1b241e3b7</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[垂直的なモビリティ：MVPから兆パラメータ規模のワークロードまでの推論 — CoreWeaveのSitanshu Gupta氏]]></title>
             <link>https://finance.biggo.jp/podcast/7c2800ae2504c952</link>
             <guid>https://finance.biggo.jp/podcast/7c2800ae2504c952</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[デビッド・ガードナーはポートフォリオに1000倍株を2つ持っている。その方法を彼が教えます]]></title>
-            <link>https://finance.biggo.jp/podcast/fe4f17a953d668c5</link>
-            <guid>https://finance.biggo.jp/podcast/fe4f17a953d668c5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LLM性能ベンチマークは信頼できるのか？ — GoogleのAshok Chandrasekar氏とJason Kramberger氏]]></title>
-            <link>https://finance.biggo.jp/podcast/10ba8fb3f5612cf3</link>
-            <guid>https://finance.biggo.jp/podcast/10ba8fb3f5612cf3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本番環境におけるLLM推論のルーティング：エンジンシグナルからポリシーまで — OpenAIのQianru Lao氏とLu Zhang氏]]></title>
-            <link>https://finance.biggo.jp/podcast/afa4b13a445a4639</link>
-            <guid>https://finance.biggo.jp/podcast/afa4b13a445a4639</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
