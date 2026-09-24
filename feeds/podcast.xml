@@ -10,6 +10,72 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[E252｜シリコンバレーの睡眠ガジェット：富裕層の玩具か、それとも予防医療への入口か？｜Eight Sleep創業者との対話]]></title>
+            <link>https://finance.biggo.jp/podcast/2e2cd25993fe4da9</link>
+            <guid>https://finance.biggo.jp/podcast/2e2cd25993fe4da9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Luca Ferrari, Bending Spoons CEO：4万ドルからのスタート、プロダクトマーケットフィットの買収、そしてプライベートエクイティを凌ぐ戦略]]></title>
+            <link>https://finance.biggo.jp/podcast/11e2195a0854496f</link>
+            <guid>https://finance.biggo.jp/podcast/11e2195a0854496f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep. 033 - ClusterMAX 3.0が登場！Neocloudランキング（Neocloud、GPU）]]></title>
+            <link>https://finance.biggo.jp/podcast/ed6f4014f6d59661</link>
+            <guid>https://finance.biggo.jp/podcast/ed6f4014f6d59661</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市場はFRBの利上げを織り込み過ぎているのかもしれない]]></title>
+            <link>https://finance.biggo.jp/podcast/6f60bab45603c5e5</link>
+            <guid>https://finance.biggo.jp/podcast/6f60bab45603c5e5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Workiva CFOが語るAI導入の労働コストへの影響]]></title>
+            <link>https://finance.biggo.jp/podcast/1d7156c0cd2dd92d</link>
+            <guid>https://finance.biggo.jp/podcast/1d7156c0cd2dd92d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple CarPlayは過大評価されているのか？ | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/85f480337a9a889a</link>
+            <guid>https://finance.biggo.jp/podcast/85f480337a9a889a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[脚型ロボットで宅配の「最後の50フィート」を解決する]]></title>
+            <link>https://finance.biggo.jp/podcast/6fbea6b971ac4af4</link>
+            <guid>https://finance.biggo.jp/podcast/6fbea6b971ac4af4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[マルチエージェントシステムの整合とコンピュートの金融化]]></title>
+            <link>https://finance.biggo.jp/podcast/119651e0eb933430</link>
+            <guid>https://finance.biggo.jp/podcast/119651e0eb933430</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maggie Appletonとデザインエンジニアリング]]></title>
+            <link>https://finance.biggo.jp/podcast/1152d4d93050a520</link>
+            <guid>https://finance.biggo.jp/podcast/1152d4d93050a520</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anthropicは本当にOpusを修正した]]></title>
+            <link>https://finance.biggo.jp/podcast/d88fb484e898ec12</link>
+            <guid>https://finance.biggo.jp/podcast/d88fb484e898ec12</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Rogan Experience #2557 - Yakov Smirnoff]]></title>
+            <link>https://finance.biggo.jp/podcast/b07983cbe09679a6</link>
+            <guid>https://finance.biggo.jp/podcast/b07983cbe09679a6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ゼロからSOTAへ：3B状態空間ビジョンモデルの学習 — Krishna Prasad Srinivasan、Sarvam]]></title>
             <link>https://finance.biggo.jp/podcast/308759a9aca91bee</link>
             <guid>https://finance.biggo.jp/podcast/308759a9aca91bee</guid>
@@ -46,7 +112,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amjad Masad on the Future of Learning]]></title>
+            <title><![CDATA[Amjad Masadが語る学習の未来]]></title>
             <link>https://finance.biggo.jp/podcast/33659ebbef50a1ea</link>
             <guid>https://finance.biggo.jp/podcast/33659ebbef50a1ea</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -61,72 +127,6 @@
             <title><![CDATA[ショート動画におけるモダリティの不一致と独自性の帰属 — Aditya Gautam、Meta]]></title>
             <link>https://finance.biggo.jp/podcast/0b9df1e473b4bed9</link>
             <guid>https://finance.biggo.jp/podcast/0b9df1e473b4bed9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🔬Applying Chain-of-Thought to DNA??? - Eric Nguyen (CEO, Radical Numerics)]]></title>
-            <link>https://finance.biggo.jp/podcast/88bac3b525d3c032</link>
-            <guid>https://finance.biggo.jp/podcast/88bac3b525d3c032</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[スキル問題：ビジョン言語モデルのデプロイはやめて、スキルとして使おう — Hugging FaceのMerve Noyan氏]]></title>
-            <link>https://finance.biggo.jp/podcast/e0d4f1a2c99ed2de</link>
-            <guid>https://finance.biggo.jp/podcast/e0d4f1a2c99ed2de</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[失われた人間の対話術]]></title>
-            <link>https://finance.biggo.jp/podcast/9f3952d560d58330</link>
-            <guid>https://finance.biggo.jp/podcast/9f3952d560d58330</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIエージェントのためのドキュメントコンテキスト層を構築する — Jerry Liu、LlamaIndex]]></title>
-            <link>https://finance.biggo.jp/podcast/63b6233c976108bf</link>
-            <guid>https://finance.biggo.jp/podcast/63b6233c976108bf</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ウクライナ精鋭ドローン部隊の内幕：特別レポート | The Economist]]></title>
-            <link>https://finance.biggo.jp/podcast/bdcfa6de3a324867</link>
-            <guid>https://finance.biggo.jp/podcast/bdcfa6de3a324867</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新たなミームコイン取引の攻略法を徹底解説]]></title>
-            <link>https://finance.biggo.jp/podcast/37cf1ae8746c0fa2</link>
-            <guid>https://finance.biggo.jp/podcast/37cf1ae8746c0fa2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[アンドレ・ペロルド：HighVista Strategiesで指数関数的変化を乗り越える投資]]></title>
-            <link>https://finance.biggo.jp/podcast/7bf96984f087d3e3</link>
-            <guid>https://finance.biggo.jp/podcast/7bf96984f087d3e3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How a Breast-Milk-Derived Peptide Could Change Bladder Cancer Care]]></title>
-            <link>https://finance.biggo.jp/podcast/747824311f134d2b</link>
-            <guid>https://finance.biggo.jp/podcast/747824311f134d2b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[アレクサンダー・ストゥブ大統領：新たな世界秩序を決めるのは誰か？ | ポッドキャスト | In Good Company]]></title>
-            <link>https://finance.biggo.jp/podcast/09d5857075e741a0</link>
-            <guid>https://finance.biggo.jp/podcast/09d5857075e741a0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[スティーブ・ヒルトン＆スペンサー・プラット：カリフォルニアの立て直し、ガソリン価格の引き下げ、投票不正、そしてカリフォルニア共和党]]></title>
-            <link>https://finance.biggo.jp/podcast/d4e77908454f38a5</link>
-            <guid>https://finance.biggo.jp/podcast/d4e77908454f38a5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🔬 地球温暖化の1%は高度を変えることで解決可能 — ジョン・プラット、Googleフェロー]]></title>
-            <link>https://finance.biggo.jp/podcast/b988ca90557d33b0</link>
-            <guid>https://finance.biggo.jp/podcast/b988ca90557d33b0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
