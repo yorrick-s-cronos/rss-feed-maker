@@ -10,6 +10,60 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AI安全性におけるゼロ・トゥ・ワン：HalcyonのMike McCormickが語る30の新組織の立ち上げと創業者ボトルネック]]></title>
+            <link>https://finance.biggo.jp/podcast/ff7b3abb6af3cd60</link>
+            <guid>https://finance.biggo.jp/podcast/ff7b3abb6af3cd60</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[患者がなぜ安楽死を選ぶのか、そしてワクチン監視の盲点]]></title>
+            <link>https://finance.biggo.jp/podcast/244a1c4b35c5acaf</link>
+            <guid>https://finance.biggo.jp/podcast/244a1c4b35c5acaf</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スマホにライトはない | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/fa9c47217e305d6d</link>
+            <guid>https://finance.biggo.jp/podcast/fa9c47217e305d6d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[薬事規制の修正：米国FDA長官候補ハイディ・オーバートンの公聴会から得られる教訓]]></title>
+            <link>https://finance.biggo.jp/podcast/a7f2d2fda2141ec7</link>
+            <guid>https://finance.biggo.jp/podcast/a7f2d2fda2141ec7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[天井を高く：Alで意図・品質・芸術性をどう拡張するか | Katie Dill（Stripe）]]></title>
+            <link>https://finance.biggo.jp/podcast/d879ed36c7a067d8</link>
+            <guid>https://finance.biggo.jp/podcast/d879ed36c7a067d8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[投資アナリストが反応 - ファイナンスTikTok（パート13）]]></title>
+            <link>https://finance.biggo.jp/podcast/19281d6f3efc1f8a</link>
+            <guid>https://finance.biggo.jp/podcast/19281d6f3efc1f8a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[カナダとイランが共和党の中間選挙敗北を招く可能性 | The Week]]></title>
+            <link>https://finance.biggo.jp/podcast/c5ca05c4bace3091</link>
+            <guid>https://finance.biggo.jp/podcast/c5ca05c4bace3091</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marty Cagan：過去25年間の10の後悔]]></title>
+            <link>https://finance.biggo.jp/podcast/5a8b52402cf4f4d5</link>
+            <guid>https://finance.biggo.jp/podcast/5a8b52402cf4f4d5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[コーディングが解決された時代のプロダクトとは | Geoff Charles（Ramp CPO）]]></title>
+            <link>https://finance.biggo.jp/podcast/c3421897905ffb7f</link>
+            <guid>https://finance.biggo.jp/podcast/c3421897905ffb7f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[LLMにSpotifyを話させる — SpotifyのYves Raimond氏とJacqueline Wood氏]]></title>
             <link>https://finance.biggo.jp/podcast/5a7e61597380e74f</link>
             <guid>https://finance.biggo.jp/podcast/5a7e61597380e74f</guid>
@@ -34,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[誰よりも早く卓越した人材を見抜く方法]]></title>
+            <title><![CDATA[なぜ私たちはCosignを開発したのか]]></title>
             <link>https://finance.biggo.jp/podcast/3794f6e80f6c6d31</link>
             <guid>https://finance.biggo.jp/podcast/3794f6e80f6c6d31</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -46,7 +100,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[98 days until 2027...Do this and you’ll thank yourself on Jan 1st]]></title>
+            <title><![CDATA[2027年を待たずに復活する方法]]></title>
             <link>https://finance.biggo.jp/podcast/54f79b6e5b279582</link>
             <guid>https://finance.biggo.jp/podcast/54f79b6e5b279582</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -73,60 +127,6 @@
             <title><![CDATA[小児近視治療の市場投入を目指すTheialifeの挑戦]]></title>
             <link>https://finance.biggo.jp/podcast/658b4d3dc9a2a2ce</link>
             <guid>https://finance.biggo.jp/podcast/658b4d3dc9a2a2ce</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Bond Market May Be the Stock Market's Biggest Risk]]></title>
-            <link>https://finance.biggo.jp/podcast/14afec91046713cc</link>
-            <guid>https://finance.biggo.jp/podcast/14afec91046713cc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI動画の最終形はワールドモデル — Runway共同創業者アナスタシス・ジャーマニディス]]></title>
-            <link>https://finance.biggo.jp/podcast/31fd3dbb89b31c1c</link>
-            <guid>https://finance.biggo.jp/podcast/31fd3dbb89b31c1c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opus 5.5を最大限に活用する方法]]></title>
-            <link>https://finance.biggo.jp/podcast/6234f57bf1038489</link>
-            <guid>https://finance.biggo.jp/podcast/6234f57bf1038489</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CFOが直面する借入時期の難しい判断]]></title>
-            <link>https://finance.biggo.jp/podcast/f20aeac736cf8a2e</link>
-            <guid>https://finance.biggo.jp/podcast/f20aeac736cf8a2e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MetaとSnapがあなたの顔を巡って激突 | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/d71bedffa3fb45e3</link>
-            <guid>https://finance.biggo.jp/podcast/d71bedffa3fb45e3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[みんながもっと出荷している。それは本当に意味があるのか？ | Claire Vo]]></title>
-            <link>https://finance.biggo.jp/podcast/dc3685aa07cf2328</link>
-            <guid>https://finance.biggo.jp/podcast/dc3685aa07cf2328</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[研究ラボのようにプロダクトチームを運営する方法 | Dan Shipper（Every）]]></title>
-            <link>https://finance.biggo.jp/podcast/73c03d792dd7ac9d</link>
-            <guid>https://finance.biggo.jp/podcast/73c03d792dd7ac9d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[アメリカのカナダ関税で中国が最大の勝者になる — ファリード・ザカリア]]></title>
-            <link>https://finance.biggo.jp/podcast/90a8ef10e3910e01</link>
-            <guid>https://finance.biggo.jp/podcast/90a8ef10e3910e01</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FDAのオーバートン時代と、上海からの報告]]></title>
-            <link>https://finance.biggo.jp/podcast/df8787d46205a714</link>
-            <guid>https://finance.biggo.jp/podcast/df8787d46205a714</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
