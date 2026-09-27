@@ -10,13 +10,43 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AIが生成したコードはすでに人間のコードと競合している — Daksh Gupta氏、Greptile]]></title>
+            <link>https://finance.biggo.jp/podcast/e0c502d3f5b75332</link>
+            <guid>https://finance.biggo.jp/podcast/e0c502d3f5b75332</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[モデルの邪魔をするな — Kevin Hou、Google DeepMind]]></title>
+            <link>https://finance.biggo.jp/podcast/316ffdea38e9fe6c</link>
+            <guid>https://finance.biggo.jp/podcast/316ffdea38e9fe6c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Self-Improving software factories: The new open source model — Zach Lloyd, Warp]]></title>
+            <link>https://finance.biggo.jp/podcast/c01c12f9f35987c7</link>
+            <guid>https://finance.biggo.jp/podcast/c01c12f9f35987c7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claudeで8時間でこのサイトを作った。今では月40Kドルを稼いでいる]]></title>
+            <link>https://finance.biggo.jp/podcast/8741b4bfb38c2632</link>
+            <guid>https://finance.biggo.jp/podcast/8741b4bfb38c2632</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GLM-5.2: Frontier Intelligence, Open Weights — Zixuan Li, Z.ai]]></title>
+            <link>https://finance.biggo.jp/podcast/4d8bef11b1131161</link>
+            <guid>https://finance.biggo.jp/podcast/4d8bef11b1131161</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[工場ではなくオーケストラ——最速のビルダーはいかに働くか：Charlie Holtz（Conductor）]]></title>
             <link>https://finance.biggo.jp/podcast/0ee50e95347f903d</link>
             <guid>https://finance.biggo.jp/podcast/0ee50e95347f903d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[スケールすべきはモデルではなく判断力 — RedditのAndrew Orobator氏]]></title>
+            <title><![CDATA[自動運転コードベースを支えるエンジニアリングのプリミティブ — Andrew Orobator、Reddit]]></title>
             <link>https://finance.biggo.jp/podcast/9a91f4717ad1f669</link>
             <guid>https://finance.biggo.jp/podcast/9a91f4717ad1f669</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,13 +64,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ソフトウェアファクトリー構築に本当に必要なもの — Tereza Tížková、Factory]]></title>
+            <title><![CDATA[ソフトウェアファクトリーの台頭 — Tereza Tížková、Factory]]></title>
             <link>https://finance.biggo.jp/podcast/fc962796f8bf3ede</link>
             <guid>https://finance.biggo.jp/podcast/fc962796f8bf3ede</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We're the bottleneck, but we don't have to be — Ido Salomon, MCP Apps]]></title>
+            <title><![CDATA[ボトルネックは私たち自身、でもそうならなくてもいい — Ido Salomon、MCP Apps]]></title>
             <link>https://finance.biggo.jp/podcast/d511aded8d4da944</link>
             <guid>https://finance.biggo.jp/podcast/d511aded8d4da944</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -52,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ソフトウェアファクトリーはいかにして自己改善するか — WarpのSuraj Gupta氏]]></title>
+            <title><![CDATA[自己改善型エージェントソフトウェアファクトリーの構築 — Suraj Gupta、Warp]]></title>
             <link>https://finance.biggo.jp/podcast/ec31da1c0b20f117</link>
             <guid>https://finance.biggo.jp/podcast/ec31da1c0b20f117</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[荒金雅子さん(DEI推進コンサルタント )が語る「日本企業の取り組み事例」そして「インポスター症候群」とは？]]></title>
             <link>https://finance.biggo.jp/podcast/dbc3df838c2a7884</link>
             <guid>https://finance.biggo.jp/podcast/dbc3df838c2a7884</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude CodeとCodexを人間の研究者と競わせた — Prime IntellectのElie Bakouch氏]]></title>
-            <link>https://finance.biggo.jp/podcast/9e5804fc109d7887</link>
-            <guid>https://finance.biggo.jp/podcast/9e5804fc109d7887</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[リフレクションでRLを打ち負かす：GEPAと「何でも最適化」 — Lakshya A. Agrawal, GEPA]]></title>
-            <link>https://finance.biggo.jp/podcast/ed1333589ceb4842</link>
-            <guid>https://finance.biggo.jp/podcast/ed1333589ceb4842</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[長期的なエージェントにはプロンプトだけでなく実験が必要 — Erina Karati]]></title>
-            <link>https://finance.biggo.jp/podcast/95e8c43f35789a5d</link>
-            <guid>https://finance.biggo.jp/podcast/95e8c43f35789a5d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自己改善するエージェントの作り方 — Zubin Aysola、Weights & Biases]]></title>
-            <link>https://finance.biggo.jp/podcast/f34ddf874012b8cc</link>
-            <guid>https://finance.biggo.jp/podcast/f34ddf874012b8cc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[実験を自律実行するAIリサーチエージェント — Tim Sweeney、Weights & Biases]]></title>
-            <link>https://finance.biggo.jp/podcast/b0237fc9f688434d</link>
-            <guid>https://finance.biggo.jp/podcast/b0237fc9f688434d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
