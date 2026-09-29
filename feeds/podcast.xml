@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ep. 389 - IgA腎症、オバートン公聴会、リバースマージャーの新たな姿]]></title>
+            <link>https://finance.biggo.jp/podcast/ca2f87289ec91ecd</link>
+            <guid>https://finance.biggo.jp/podcast/ca2f87289ec91ecd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ダニエル・エク：Spotify後の人生、医療の歪んだインセンティブ、病気の早期発見、AIの可能性]]></title>
+            <link>https://finance.biggo.jp/podcast/4be207e6c89b19a0</link>
+            <guid>https://finance.biggo.jp/podcast/4be207e6c89b19a0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[腫瘍溶解性ウイルスでがん腫瘍を治す物語！]]></title>
             <link>https://finance.biggo.jp/podcast/612aa0fa04c7720d</link>
             <guid>https://finance.biggo.jp/podcast/612aa0fa04c7720d</guid>
@@ -22,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[次のスター・トレックを誰かに作ってもらうために350万ドルを提供した | Moonshots Live]]></title>
+            <title><![CDATA[次のスター・トレックを誰かに作らせるために350万ドルをどうやって贈与したか | Moonshots Live]]></title>
             <link>https://finance.biggo.jp/podcast/5cdba9f149c9c351</link>
             <guid>https://finance.biggo.jp/podcast/5cdba9f149c9c351</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[同じパターンがInstagram Stories、Reels、Google AI Modeを生んだ | ロビー・スタイン（Google Search）]]></title>
             <link>https://finance.biggo.jp/podcast/aae3be7abd10d205</link>
             <guid>https://finance.biggo.jp/podcast/aae3be7abd10d205</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Cowen曰く、強気でいる許可はあなたにある]]></title>
-            <link>https://finance.biggo.jp/podcast/8c5580dd0b5981fc</link>
-            <guid>https://finance.biggo.jp/podcast/8c5580dd0b5981fc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[148 ✪ よく食べ、よく眠る：ケンタッキーKPROがライトミール市場に参入、アトゥールプラネットの寝具イノベーション]]></title>
-            <link>https://finance.biggo.jp/podcast/641f8c73ca3d919b</link>
-            <guid>https://finance.biggo.jp/podcast/641f8c73ca3d919b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
