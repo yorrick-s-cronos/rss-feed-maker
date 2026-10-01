@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Shawn Ryan: Spies Are Planted On Podcasts To Control What You Believe]]></title>
+            <link>https://finance.biggo.jp/podcast/3e9c38e7674dbfb7</link>
+            <guid>https://finance.biggo.jp/podcast/3e9c38e7674dbfb7</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブレインコーチ：AIが思考する時代に頭を鋭く保つ方法 | ジム・クウィック]]></title>
+            <link>https://finance.biggo.jp/podcast/6683c8499456d101</link>
+            <guid>https://finance.biggo.jp/podcast/6683c8499456d101</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep. 390 - アムステルダムから生中継：Grand Rounds Europeの収穫]]></title>
+            <link>https://finance.biggo.jp/podcast/724155e2373a303e</link>
+            <guid>https://finance.biggo.jp/podcast/724155e2373a303e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[HPE、ネットワーク事業の好調な見通しを受け業績予想を引き上げ]]></title>
             <link>https://finance.biggo.jp/podcast/15c0f7337e4e62af</link>
             <guid>https://finance.biggo.jp/podcast/15c0f7337e4e62af</guid>
@@ -34,13 +52,13 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAIのComputer Useは今や人間より速い — Ari Weinstein & Nikunj Handa]]></title>
+            <title><![CDATA[OpenAIの新エージェントスタック：Computer Use、Decisions API、UltraFast、Dots—Ari Weinstein & Nikunj Handa]]></title>
             <link>https://finance.biggo.jp/podcast/a80f683ae5f036ba</link>
             <guid>https://finance.biggo.jp/podcast/a80f683ae5f036ba</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[サム・アルトマンがDotsを使って時間を取り戻す方法]]></title>
+            <title><![CDATA[サム・アルトマンがDotsをどう使ってOpenAIと自身の生活を運営しているか]]></title>
             <link>https://finance.biggo.jp/podcast/f5e480009262a4ce</link>
             <guid>https://finance.biggo.jp/podcast/f5e480009262a4ce</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[最高AI責任者（CAIO）の役割：科学者・アーキテクト・コーチ — WSO2のラニア・ハラフ]]></title>
             <link>https://finance.biggo.jp/podcast/c7e768723256089a</link>
             <guid>https://finance.biggo.jp/podcast/c7e768723256089a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ヨーロッパが兵器を十分な速さで製造できない理由]]></title>
-            <link>https://finance.biggo.jp/podcast/11e678b3012b42be</link>
-            <guid>https://finance.biggo.jp/podcast/11e678b3012b42be</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[コードレビューの終焉：データが実際に示すもの — Laurie Voss、Arize AI]]></title>
-            <link>https://finance.biggo.jp/podcast/6de2edbc9a704378</link>
-            <guid>https://finance.biggo.jp/podcast/6de2edbc9a704378</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[この会話を聞けば、すぐにでもAIアシスタントが欲しくなるかもしれない]]></title>
-            <link>https://finance.biggo.jp/podcast/16b9453ac3281c04</link>
-            <guid>https://finance.biggo.jp/podcast/16b9453ac3281c04</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
