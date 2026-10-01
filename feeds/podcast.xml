@@ -10,7 +10,43 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Shawn Ryan: Spies Are Planted On Podcasts To Control What You Believe]]></title>
+            <title><![CDATA[AI:AM: トランプ・習会談は意味があったのか？何がユートピアと見なされるのか？＋AWSのGPUは3倍のコスト、AIが希少疾患を診断]]></title>
+            <link>https://finance.biggo.jp/podcast/52b0b76078682e3c</link>
+            <guid>https://finance.biggo.jp/podcast/52b0b76078682e3c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMDがFei-Fei Li氏のWorld Labsを82億ドルで買収 | MetaがMongoDB CEOを引き抜き | Bessemerが57.5億ドルを調達]]></title>
+            <link>https://finance.biggo.jp/podcast/b0ef52aa95e60c33</link>
+            <guid>https://finance.biggo.jp/podcast/b0ef52aa95e60c33</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7x Midas Investor Annie Lamont | “90% Isn’t Worth It”]]></title>
+            <link>https://finance.biggo.jp/podcast/7eed79e1069f8c42</link>
+            <guid>https://finance.biggo.jp/podcast/7eed79e1069f8c42</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[デビッド・ジョージが語るグロース投資とAI、そしてパワー・ローがかつてなく強まっている理由 | Ep. 58]]></title>
+            <link>https://finance.biggo.jp/podcast/01cc4292bf90d928</link>
+            <guid>https://finance.biggo.jp/podcast/01cc4292bf90d928</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Natera、がん検査の未来に向けた10億ドル規模の研究開発への賭け]]></title>
+            <link>https://finance.biggo.jp/podcast/70cbdbbb54dfc1f8</link>
+            <guid>https://finance.biggo.jp/podcast/70cbdbbb54dfc1f8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[アジアクレジットをより注意深く見るべき理由]]></title>
+            <link>https://finance.biggo.jp/podcast/56c8174cfa0ef332</link>
+            <guid>https://finance.biggo.jp/podcast/56c8174cfa0ef332</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ショーン・ライアン：アメリカは超大国であり続けられないかもしれない、中国は我々が自滅するのを注視している]]></title>
             <link>https://finance.biggo.jp/podcast/3e9c38e7674dbfb7</link>
             <guid>https://finance.biggo.jp/podcast/3e9c38e7674dbfb7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -91,42 +127,6 @@
             <title><![CDATA[感染症 Puscast #116]]></title>
             <link>https://finance.biggo.jp/podcast/db58ef74a524f3cc</link>
             <guid>https://finance.biggo.jp/podcast/db58ef74a524f3cc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[チップの物理的限界に近づいている]]></title>
-            <link>https://finance.biggo.jp/podcast/8d5ccd59423c6451</link>
-            <guid>https://finance.biggo.jp/podcast/8d5ccd59423c6451</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthropicが生物学に参入、24か月以内に人工子宮、そしてスケーラブルなゲノム編集 | Ben Lamm氏と共に]]></title>
-            <link>https://finance.biggo.jp/podcast/49bce1e36c0dfe58</link>
-            <guid>https://finance.biggo.jp/podcast/49bce1e36c0dfe58</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ファミリービジネスが世代を超えた成功を計画する方法]]></title>
-            <link>https://finance.biggo.jp/podcast/4562a1015fe01ae2</link>
-            <guid>https://finance.biggo.jp/podcast/4562a1015fe01ae2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[兆ドル規模のAI構築の内幕]]></title>
-            <link>https://finance.biggo.jp/podcast/ab3a795af8647562</link>
-            <guid>https://finance.biggo.jp/podcast/ab3a795af8647562</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ソフトウェア開発におけるAIの現状：400以上の組織からのデータ — DXのJustin Reock氏]]></title>
-            <link>https://finance.biggo.jp/podcast/75a5a1c4b638f4d6</link>
-            <guid>https://finance.biggo.jp/podcast/75a5a1c4b638f4d6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[最高AI責任者（CAIO）の役割：科学者・アーキテクト・コーチ — WSO2のラニア・ハラフ]]></title>
-            <link>https://finance.biggo.jp/podcast/c7e768723256089a</link>
-            <guid>https://finance.biggo.jp/podcast/c7e768723256089a</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
