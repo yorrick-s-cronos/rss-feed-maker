@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[國慶黃金周︱首日截至晚上9時逾89萬人次出入境]]></title>
+            <link>https://www.wenweipo.com/a/202610/01/AP6abe825fe4b01d54a285901b.html</link>
+            <guid>https://www.wenweipo.com/a/202610/01/AP6abe825fe4b01d54a285901b.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[一連七日的內地國慶黃金周首日，入境處表示截至晚上9時，本港有超過89.7萬人次經各管制站出入境。當中，有逾52.1萬人次入境，內地旅客佔近27萬人次，最多內地旅客經落馬洲支線管制站入境。至於出境方面，有逾37.6萬人次，本港居民佔23.8萬人次，最多港人經羅湖口岸出境。]]></description>
+        </item>
+        <item>
             <title><![CDATA[西環域多利道私家車電單車相撞 鐵騎士重創昏迷]]></title>
             <link>https://www.wenweipo.com/a/202610/01/AP6abe7e38e4b01d54a2858fe4.html</link>
             <guid>https://www.wenweipo.com/a/202610/01/AP6abe7e38e4b01d54a2858fe4.html</guid>
@@ -31,7 +38,7 @@
             <description><![CDATA[為慶祝中華人民共和國成立77周年，香港警務處國家安全處「NSpeed國安號」宣傳車，今日（10月1日）國慶日到灣仔金紫荊廣場與民同樂，吸引不少市民參觀及打卡留念。]]></description>
         </item>
         <item>
-            <title><![CDATA[國慶煙花匯演｜維港兩岸吸引約38萬人觀賞]]></title>
+            <title><![CDATA[國慶煙花匯演｜維港兩岸吸引約38萬人觀賞 劊3年新高]]></title>
             <link>https://www.wenweipo.com/a/202610/01/AP6abe6ffce4b01d54a2858e73.html</link>
             <guid>https://www.wenweipo.com/a/202610/01/AP6abe6ffce4b01d54a2858e73.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202610/01/AP6abe3a3ae4b01d54a28588a0.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今日（10月1日）中午12時31分，警方接獲銅鑼灣禮頓道8號一酒店的44歲韓籍男住客報案，指一名年約40歲女子，懷疑盜去上址一隻約值8.6萬元的勞力士手錶及一些共約值100元的雜物。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[國慶黃金周首日　截至下午4時本港逾60萬人次出入境]]></title>
-            <link>https://www.wenweipo.com/a/202610/01/AP6abe3869e4b01d54a285888b.html</link>
-            <guid>https://www.wenweipo.com/a/202610/01/AP6abe3869e4b01d54a285888b.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[入境處表示，截至下午4時，本港有超過60.1萬人次經各管制站出入境。]]></description>
         </item>
     </channel>
 </rss>

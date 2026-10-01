@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-10-01T15:50:49.214Z",
+  "lastSuccess": "2026-10-01T20:41:38.105Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://microsoft.ai/news/our-first-streaming-transcription-model/",
     "https://microsoft.ai/news/mai-code-of-conduct/",
     "https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/",
     "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/",
@@ -20,8 +21,7 @@
     "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
     "https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/",
     "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "https://microsoft.ai/news/mai-image-2-efficient/",
-    "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/"
+    "https://microsoft.ai/news/mai-image-2-efficient/"
   ],
   "consecutiveErrors": 0
 }
