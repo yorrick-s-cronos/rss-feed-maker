@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AIコーディングエージェントが大規模コードベースを破壊しつつある — SourcegraphのDan Adler氏]]></title>
+            <link>https://finance.biggo.jp/podcast/77ca186991a8221a</link>
+            <guid>https://finance.biggo.jp/podcast/77ca186991a8221a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[キーワード検索は終焉を迎える。あなたのカタログはAIエージェントに対応しているか？ — PayPal]]></title>
+            <link>https://finance.biggo.jp/podcast/15ffe865510c5778</link>
+            <guid>https://finance.biggo.jp/podcast/15ffe865510c5778</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[この信じられないアプリのアイデアが月5万ドルを稼ぐ]]></title>
             <link>https://finance.biggo.jp/podcast/42755ea5760276da</link>
             <guid>https://finance.biggo.jp/podcast/42755ea5760276da</guid>
@@ -34,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why most actions on the internet will soon be taken by AI (OpenAI’s head of ChatGPT, Tibo Sottiaux)]]></title>
+            <title><![CDATA[なぜインターネット上のほとんどの行動はまもなくAIによって行われるのか（OpenAIのChatGPT責任者、ティボ・ソティオー）]]></title>
             <link>https://finance.biggo.jp/podcast/deca7a71ad136e7c</link>
             <guid>https://finance.biggo.jp/podcast/deca7a71ad136e7c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[10月10日、シリコンバレー101年次テックカンファレンスがオフライン開催！｜World Labs、OpenAI、Anthropic、Google DeepMind、Meta、Nvidia、注目のNeolabsとスタートアップが集結]]></title>
             <link>https://finance.biggo.jp/podcast/df27651c51b40b70</link>
             <guid>https://finance.biggo.jp/podcast/df27651c51b40b70</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VS CodeはAIで月次リリースから週次リリースへどう移行したか — Harald Kirschner]]></title>
-            <link>https://finance.biggo.jp/podcast/dc04c477802e1d6f</link>
-            <guid>https://finance.biggo.jp/podcast/dc04c477802e1d6f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜすべての企業が自社のインテリジェンスを保有すべきなのか]]></title>
-            <link>https://finance.biggo.jp/podcast/d02be89b3d0efcc4</link>
-            <guid>https://finance.biggo.jp/podcast/d02be89b3d0efcc4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
