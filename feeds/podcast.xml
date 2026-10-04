@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[この信じられないアプリのアイデアが月5万ドルを稼ぐ]]></title>
+            <link>https://finance.biggo.jp/podcast/42755ea5760276da</link>
+            <guid>https://finance.biggo.jp/podcast/42755ea5760276da</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人間は非同期APIである — Melanie Warrick氏、Temporal]]></title>
+            <link>https://finance.biggo.jp/podcast/a2fc6a3e2c4ff050</link>
+            <guid>https://finance.biggo.jp/podcast/a2fc6a3e2c4ff050</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[チケットの80%を解決するAIサポートエージェントを自作した話 — AssemblyAI]]></title>
+            <link>https://finance.biggo.jp/podcast/c664289882de31b6</link>
+            <guid>https://finance.biggo.jp/podcast/c664289882de31b6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[金利と市場の広がりは銀行崩壊クラッシュを警告しているのか]]></title>
             <link>https://finance.biggo.jp/podcast/cda7ba04ae20665c</link>
             <guid>https://finance.biggo.jp/podcast/cda7ba04ae20665c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAIのChatGPT責任者：AIは再び新時代へ | Tibo Sottiaux]]></title>
+            <title><![CDATA[Why most actions on the internet will soon be taken by AI (OpenAI’s head of ChatGPT, Tibo Sottiaux)]]></title>
             <link>https://finance.biggo.jp/podcast/deca7a71ad136e7c</link>
             <guid>https://finance.biggo.jp/podcast/deca7a71ad136e7c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[なぜすべての企業が自社のインテリジェンスを保有すべきなのか]]></title>
             <link>https://finance.biggo.jp/podcast/d02be89b3d0efcc4</link>
             <guid>https://finance.biggo.jp/podcast/d02be89b3d0efcc4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[原子を発見し、Wayveに乗り、Uberの自律化の時計が加速するのを見た]]></title>
-            <link>https://finance.biggo.jp/podcast/479146e37c8fc597</link>
-            <guid>https://finance.biggo.jp/podcast/479146e37c8fc597</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crusoe CEO：AIを支えるインフラ構築をめぐる300億ドル競争]]></title>
-            <link>https://finance.biggo.jp/podcast/31d7a44dc153eb5f</link>
-            <guid>https://finance.biggo.jp/podcast/31d7a44dc153eb5f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一つの脳、あらゆる身体：Google DeepMindのKeerthanaが語るGemini Robotics 2、クロスエンボディメント、ヒューマノイド]]></title>
-            <link>https://finance.biggo.jp/podcast/971370a660dd78ff</link>
-            <guid>https://finance.biggo.jp/podcast/971370a660dd78ff</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
