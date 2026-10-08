@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[特區政府強烈反對《2026年美國販運人口報告》]]></title>
+            <link>https://www.wenweipo.com/a/202610/09/AP6ac821d6e4b01d54a2866791.html</link>
+            <guid>https://www.wenweipo.com/a/202610/09/AP6ac821d6e4b01d54a2866791.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[​香港特別行政區政府（特區政府）今日（9日）強烈反對美國國務院《2026年美國販運人口報告》（報告）中關於香港毫無事實根據的評論及抹黑，並予以嚴厲譴責。]]></description>
+        </item>
+        <item>
             <title><![CDATA[西九演藝中心明年開幕    李小龍、黃飛鴻「打」開藝術想像]]></title>
             <link>https://www.wenweipo.com/a/202610/09/AP6ac7cadee4b01d54a28662b3.html</link>
             <guid>https://www.wenweipo.com/a/202610/09/AP6ac7cadee4b01d54a28662b3.html</guid>
@@ -108,13 +115,6 @@
             <guid>https://www.wenweipo.com/a/202610/08/AP6ac773cde4b01d54a2865af9.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[腎病綜合症是兒童最常見的腎小球疾病，一般於兩至三歲發病，確切成因未明。香港中文大學醫學院領導一項多中心國際研究發現，現時主要用於較年長患童的生物製劑「利妥昔單抗」，若用於六歲以下腎病綜合症患童，可減少每年復發次數，病情緩解期可持續逾八個月。惟年幼患童出現不良反應及併發症風險較年長患童高。團隊建議，對於病情複雜、類固醇治療未如理想的年幼患童，在專科醫生密切監察下，利妥昔單抗可作為重要的二綫治療方案。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[爆竊團夥掠石梨貝濾水廠銅線及水泵轉售 「銳眼」助警拘5男包括回收舖店東]]></title>
-            <link>https://www.wenweipo.com/a/202610/08/AP6ac76e81e4b01d54a2865a70.html</link>
-            <guid>https://www.wenweipo.com/a/202610/08/AP6ac76e81e4b01d54a2865a70.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[警方於7至9月期間接獲相關部門報案，指石梨貝濾水廠總值約35萬元的多組銅線及48個銅製水泵部件被竊。]]></description>
         </item>
     </channel>
 </rss>
