@@ -4,100 +4,76 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Claude Haiku 5.5]]></title>
+            <link>https://www.anthropic.com/claude-haiku-5-5</link>
+            <guid>https://www.anthropic.com/claude-haiku-5-5</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Automating eval design and hillclimbing with Claude]]></title>
+            <link>https://claude.dev/blog/automating-eval-design-and-hillclimbing/</link>
+            <guid>https://claude.dev/blog/automating-eval-design-and-hillclimbing/</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases]]></title>
+            <link>https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases</link>
+            <guid>https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claude now works with Google Docs, Sheets, and Slides]]></title>
+            <link>https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides</link>
+            <guid>https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We’re expanding the Claude Startups program to help founders build]]></title>
+            <link>https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build</link>
+            <guid>https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Expanding the Cyber Verification Program]]></title>
+            <link>https://www.anthropic.com/news/cyber-verification-program</link>
+            <guid>https://www.anthropic.com/news/cyber-verification-program</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claude Code in the cloud: a field guide to cloud sessions]]></title>
+            <link>https://claude.dev/blog/claude-code-in-the-cloud/</link>
+            <guid>https://claude.dev/blog/claude-code-in-the-cloud/</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Cresta turned CX expertise into an agent builder on the Claude Agent SDK]]></title>
-            <link>https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
-            <guid>https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</guid>
+            <link>https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
+            <guid>https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</guid>
             <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Customize Claude Code with mods]]></title>
-            <link>https://claude.com/blog/claude-code-mods</link>
-            <guid>https://claude.com/blog/claude-code-mods</guid>
+            <title><![CDATA[Getting started with Claude Code mods]]></title>
+            <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
+            <guid>https://claude.dev/blog/getting-started-with-claude-code-mods/</guid>
             <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Claude for Government is now generally available]]></title>
-            <link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
-            <guid>https://claude.com/blog/claude-for-government-is-now-generally-available</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Customize Claude Code with mods]]></title>
+            <link>https://claude.com/resources/articles/claude-code-mods</link>
+            <guid>https://claude.com/resources/articles/claude-code-mods</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Anthropic's sales team rebuilt inbound with Claude Managed Agents]]></title>
-            <link>https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
-            <guid>https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</guid>
+            <link>https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
+            <guid>https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</guid>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agents you can coach: how Asana builds human-agent teams with Claude]]></title>
-            <link>https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</link>
-            <guid>https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Giving companies more control over their AI agents, with NVIDIA]]></title>
-            <link>https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia</link>
-            <guid>https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia</guid>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build plugins for Claude]]></title>
-            <link>https://claude.com/blog/build-plugins-for-claude</link>
-            <guid>https://claude.com/blog/build-plugins-for-claude</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude Tag now supports personal connectors in channels]]></title>
-            <link>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</link>
-            <guid>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</guid>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.]]></title>
-            <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
-            <guid>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace]]></title>
-            <link>https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
-            <guid>https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to prepare for AI-driven code modernization projects]]></title>
-            <link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
-            <guid>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude Marketplace: one place to discover plugins, agents, and services from our partners]]></title>
-            <link>https://claude.com/blog/claude-marketplace</link>
-            <guid>https://claude.com/blog/claude-marketplace</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5]]></title>
-            <link>https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5</link>
-            <guid>https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5</guid>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Projects redesigned: from folder to conversation]]></title>
-            <link>https://claude.com/blog/projects-redesigned</link>
-            <guid>https://claude.com/blog/projects-redesigned</guid>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude Cowork and chat are now one Claude]]></title>
-            <link>https://claude.com/blog/cowork-is-now-claude</link>
-            <guid>https://claude.com/blog/cowork-is-now-claude</guid>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
