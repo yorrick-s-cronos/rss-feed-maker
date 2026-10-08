@@ -14,8 +14,10 @@
  */
 
 import RSSParser from "rss-parser";
+import { spawnSync } from "child_process";
 import { writeFileSync, mkdirSync } from "fs";
 import { join } from "path";
+import { deriveConfigName } from "./config-builder.js";
 import { fetchGitHubAPI, tolerantFetch } from "./fetcher.js";
 import { parseArticles } from "./parser.js";
 import { validateQuick } from "./validator.js";
@@ -225,9 +227,23 @@ async function discoverExistingRSS(url: string): Promise<string | null> {
   return null;
 }
 
+/** Parse an http(s) URL; returns its normalized form or null. */
+function normalizeHttpUrl(raw: string | undefined): string | null {
+  try {
+    const parsed = new URL(raw ?? "");
+    return parsed.protocol === "http:" || parsed.protocol === "https:"
+      ? parsed.href
+      : null;
+  } catch {
+    return null;
+  }
+}
+
 async function main() {
-  const url = process.argv[2];
-  if (!url || !url.startsWith("http")) {
+  // The URL comes from an issue body (untrusted). Normalize it and only ever
+  // pass it as an argv element, never through a shell.
+  const url = normalizeHttpUrl(process.argv[2]);
+  if (!url) {
     console.error("Usage: bun run src/add-smart.ts <url>");
     console.error("  Supports: GitHub repos, CHANGELOG.md URLs, blog URLs");
     process.exit(1);
@@ -269,12 +285,18 @@ async function main() {
     process.exit(0);
   }
 
-  // Fall back to LLM-based add-feed
+  // Fall back to LLM-based add-feed (argv array: no shell involved)
   console.log("🌐 No existing RSS found, using LLM-based parser...\n");
 
-  // Dynamic import to avoid loading LLM deps when not needed
-  const { execSync } = await import("child_process");
-  execSync(`bun run src/add-feed.ts "${url}"`, { stdio: "inherit" });
+  const result = spawnSync(
+    process.execPath,
+    ["run", join(import.meta.dir, "add-feed.ts"), url],
+    { stdio: "inherit" }
+  );
+  if (result.error) throw result.error;
+  if (result.status !== 0) {
+    throw new Error(`add-feed.ts exited with status ${result.status ?? "unknown"}`);
+  }
 }
 
 async function addRssMirrorFeed(originalUrl: string, feedUrl: string): Promise<void> {
@@ -341,15 +363,6 @@ async function addRssMirrorFeed(originalUrl: string, feedUrl: string): Promise<v
   console.log(
     `\n📖 Subscribe: https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/${name}.xml`
   );
-}
-
-function deriveConfigName(url: string): string {
-  const parsed = new URL(url);
-  const parts = parsed.hostname.split(".");
-  const slug = parts.length > 2
-    ? parts.slice(-2).join("-")
-    : parts.join("-");
-  return slug.replace(/[^a-z0-9]/gi, "-").replace(/-+/g, "-").replace(/^-|-$/g, "");
 }
 
 main().catch((err) => {
