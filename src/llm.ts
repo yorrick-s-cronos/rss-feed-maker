@@ -1,14 +1,23 @@
 /**
- * LLM integration: HTML → FeedConfig via GitHub Models API.
+ * LLM integration: HTML → FeedConfig via any OpenAI-compatible
+ * chat-completions API (Route33 by default).
+ *
+ * Environment:
+ *   LLM_API_KEY   required — API key for the endpoint
+ *   LLM_BASE_URL  optional — default https://api.route33.ai/v1
+ *   LLM_MODEL     optional — default deepseek/deepseek-v4-flash-0731
  */
 
+import * as cheerio from "cheerio";
 import type { FeedConfig } from "./types.js";
 
-const GITHUB_MODELS_URL =
-  "https://models.github.ai/inference/chat/completions";
-const MODEL = "openai/gpt-4o-mini";
+const DEFAULT_BASE_URL = "https://api.route33.ai/v1";
+const DEFAULT_MODEL = "deepseek/deepseek-v4-flash-0731";
 const MAX_RETRIES = 3;
-const MAX_HTML_CHARS = 12_000; // Truncate HTML to fit GitHub Models 8K token limit
+const MAX_HTML_CHARS = 60_000;
+// Reasoning models spend part of the budget on hidden reasoning tokens.
+const MAX_TOKENS = 8_000;
+const REQUEST_TIMEOUT_MS = 180_000;
 
 const SYSTEM_PROMPT = `You are an expert at analyzing HTML structure to extract blog article listings.
 
@@ -53,90 +62,213 @@ Rules:
 6. Set \`createdAt\` to today's date in ISO format.
 7. If the page is a CHANGELOG or release notes in "Keep a Changelog" format (## headings for versions, ### for categories), set \`parserMode\` to "changelog" and provide \`changelogExtraction\` with \`linkTemplate\` if the source is a GitHub repo.
 8. Selectors must be valid Cheerio/css-select syntax. If a class name contains ":" (for example Tailwind "hover:underline"), escape the colon as "\\\\:" in JSON, or prefer a stable structural selector such as article, a[href], h1-h3, time, or data-* attributes.
-9. Avoid Tailwind utility classes and generated/hash-like classes when stable tags or attributes are available.`;
+9. Avoid Tailwind utility classes and generated/hash-like classes when stable tags or attributes are available.
+10. Point \`date\` at the element holding the publication date. For numeric dates, set \`dateFormat\` and read the day/month order from the listing itself: a first number above 12 (e.g. 30/09/2026) means day-first ("dd/MM/yyyy"), a second number above 12 means month-first ("MM/dd/yyyy"). Use the separator the page uses (e.g. "dd.MM.yyyy").`;
+
+interface LlmSettings {
+  apiKey: string | undefined;
+  baseUrl: string;
+  model: string;
+}
+
+function envValue(name: string): string | undefined {
+  const value = process.env[name]?.trim();
+  return value ? value : undefined;
+}
+
+export function llmSettings(): LlmSettings {
+  return {
+    apiKey: envValue("LLM_API_KEY"),
+    baseUrl: (envValue("LLM_BASE_URL") ?? DEFAULT_BASE_URL).replace(/\/+$/, ""),
+    model: envValue("LLM_MODEL") ?? DEFAULT_MODEL,
+  };
+}
+
+export interface PreparedHtml {
+  html: string;
+  scope: "main" | "body";
+  title: string;
+  description: string;
+  lang: string;
+  truncated: boolean;
+}
+
+const NOISE_ELEMENTS = "script, style, noscript, svg, template, iframe, link, meta";
+const NOISE_ATTRIBUTE = /^(srcset|sizes|style|loading|decoding|width|height|on\w+)$|^data-astro-cid-/i;
 
 /**
- * Generate a FeedConfig from a blog URL's HTML using LLM.
+ * Reduce a page to the part that holds the article list: the <main> element
+ * when it has links, otherwise <body>. Scripts, styles, SVGs and bulky
+ * attributes (srcset, inline styles, …) are removed so the listing fits in
+ * the prompt even when the site header is large.
+ */
+export function prepareHtmlForLLM(html: string, maxChars = MAX_HTML_CHARS): PreparedHtml {
+  const $ = cheerio.load(html);
+  const title = $("title").first().text().trim();
+  const description = $('meta[name="description"]').attr("content")?.trim() ?? "";
+  const lang = $("html").attr("lang")?.trim() ?? "";
+
+  $(NOISE_ELEMENTS).remove();
+  const main = $("main").first();
+  const useMain = main.length > 0 && main.find("a[href]").length >= 3;
+  const root = useMain ? main : $("body");
+
+  root.find("*").each((_, el) => {
+    const attribs = (el as { attribs?: Record<string, string> }).attribs;
+    if (!attribs) return;
+    for (const name of Object.keys(attribs)) {
+      if (NOISE_ATTRIBUTE.test(name)) delete attribs[name];
+    }
+  });
+
+  const markup = ($.html(root) || $.html()).replace(/\s{2,}/g, " ").trim();
+  const truncated = markup.length > maxChars;
+  return {
+    html: truncated ? markup.slice(0, maxChars) + "\n<!-- truncated -->" : markup,
+    scope: useMain ? "main" : "body",
+    title,
+    description,
+    lang,
+    truncated,
+  };
+}
+
+/** Parse the JSON object in a model reply, tolerating code fences or prose around it. */
+export function extractJsonObject(text: string): unknown {
+  const trimmed = text.trim();
+  try {
+    return JSON.parse(trimmed);
+  } catch {
+    const start = trimmed.indexOf("{");
+    const end = trimmed.lastIndexOf("}");
+    if (start === -1 || end <= start) {
+      throw new Error(`LLM reply contains no JSON object: ${trimmed.slice(0, 120)}`);
+    }
+    return JSON.parse(trimmed.slice(start, end + 1));
+  }
+}
+
+class FatalLlmError extends Error {}
+
+/**
+ * Generate a FeedConfig from a blog URL's HTML using the LLM.
  *
  * @param feedback Optional message describing why the previous config failed
- *                 at the parse step (e.g. selectors matched 0 articles). When
- *                 provided, it's surfaced to the LLM so it can correct itself
- *                 instead of producing the same bad selectors again.
+ *                 (e.g. selectors matched 0 articles), surfaced to the LLM so
+ *                 it can correct itself instead of repeating the mistake.
  */
 export async function generateConfig(
   url: string,
   html: string,
   feedback?: string
 ): Promise<FeedConfig> {
-  const token = process.env.GITHUB_TOKEN;
-  if (!token) {
+  const { apiKey, baseUrl, model } = llmSettings();
+  if (!apiKey) {
     throw new Error(
-      "GITHUB_TOKEN not set. Required for GitHub Models API access."
+      "LLM_API_KEY not set. Required to generate feed configs (OpenAI-compatible API, default Route33)."
     );
   }
 
-  // Strip scripts, styles, comments, and other noise to reduce token count
-  let cleaned = html
-    .replace(/<script[\s\S]*?<\/script>/gi, "")
-    .replace(/<style[\s\S]*?<\/style>/gi, "")
-    .replace(/<noscript[\s\S]*?<\/noscript>/gi, "")
-    .replace(/<!--[\s\S]*?-->/g, "")
-    .replace(/<svg[\s\S]*?<\/svg>/gi, "")
-    .replace(/<footer[\s\S]*?<\/footer>/gi, "")
-    .replace(/\s{2,}/g, " ")
-    .trim();
-
-  // Truncate to fit in context
-  const truncated =
-    cleaned.length > MAX_HTML_CHARS
-      ? cleaned.slice(0, MAX_HTML_CHARS) + "\n<!-- truncated -->"
-      : cleaned;
+  const page = prepareHtmlForLLM(html);
+  const scope =
+    page.scope === "main" ? "the page's <main> element" : "the page <body>";
+  const pageContext =
+    `URL: ${url}\n` +
+    `Page title: ${page.title || "(none)"}\n` +
+    `Meta description: ${page.description || "(none)"}\n` +
+    `<html lang>: ${page.lang || "(none)"}\n\n` +
+    `HTML (${scope}, simplified: scripts, styles, SVGs and image srcset/size ` +
+    `attributes removed${page.truncated ? "; truncated" : ""}). Your selectors ` +
+    `are evaluated against the full original page:\n${page.html}`;
 
   let lastError = "";
+  let replyProblem = ""; // why the model's previous answer was unusable
+  let minimalRequest = false;
 
   for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
-    const preamble =
-      attempt === 0
-        ? feedback
-          ? `${feedback}\n\nAnalyze this blog page and output a corrected FeedConfig JSON.`
-          : `Analyze this blog page and output a FeedConfig JSON.`
-        : `Previous attempt failed: ${lastError}\n\nPlease fix and try again.`;
-    const userPrompt = `${preamble}\n\nURL: ${url}\n\nHTML:\n${truncated}`;
+    const parts: string[] = [];
+    if (feedback) parts.push(feedback);
+    if (replyProblem) parts.push(`Your previous reply was unusable: ${replyProblem}`);
+    parts.push(
+      feedback || replyProblem
+        ? "Analyze this blog page and output a corrected FeedConfig JSON."
+        : "Analyze this blog page and output a FeedConfig JSON."
+    );
+    const preamble = parts.join("\n\n");
+
+    const body: Record<string, unknown> = {
+      model,
+      messages: [
+        { role: "system", content: SYSTEM_PROMPT },
+        { role: "user", content: `${preamble}\n\n${pageContext}` },
+      ],
+      max_tokens: MAX_TOKENS,
+    };
+    if (!minimalRequest) {
+      // Optional parameters; some models reject them (e.g. a fixed temperature).
+      body.temperature = 0.1;
+      body.response_format = { type: "json_object" };
+    }
 
     try {
-      const res = await fetch(GITHUB_MODELS_URL, {
+      const res = await fetch(`${baseUrl}/chat/completions`, {
         method: "POST",
         headers: {
-          Authorization: `Bearer ${token}`,
+          Authorization: `Bearer ${apiKey}`,
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({
-          model: MODEL,
-          messages: [
-            { role: "system", content: SYSTEM_PROMPT },
-            { role: "user", content: userPrompt },
-          ],
-          response_format: { type: "json_object" },
-          temperature: 0.1,
-          max_tokens: 2000,
-        }),
+        body: JSON.stringify(body),
+        signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
       });
+      const raw = await res.text();
 
+      if (res.status === 401 || res.status === 403) {
+        throw new FatalLlmError(
+          `LLM API rejected the request (${res.status}) — check LLM_API_KEY and that model "${model}" is allowed: ${raw.slice(0, 200)}`
+        );
+      }
+      if (res.status === 400 && !minimalRequest) {
+        minimalRequest = true;
+        throw new Error(
+          `API error 400 (retrying without temperature/response_format): ${raw.slice(0, 200)}`
+        );
+      }
       if (!res.ok) {
-        const text = await res.text().catch(() => "");
-        throw new Error(`API error ${res.status}: ${text.slice(0, 200)}`);
+        throw new Error(`API error ${res.status}: ${raw.slice(0, 200)}`);
       }
 
-      const data = (await res.json()) as {
-        choices: { message: { content: string } }[];
+      let data: {
+        choices?: { message?: { content?: string | null }; finish_reason?: string }[];
       };
-      const content = data.choices?.[0]?.message?.content;
-      if (!content) throw new Error("Empty response from API");
+      try {
+        data = JSON.parse(raw);
+      } catch {
+        throw new Error(
+          `LLM endpoint returned non-JSON (${res.headers.get("content-type") ?? "unknown content-type"}): ${raw.slice(0, 120)}`
+        );
+      }
 
-      const config = JSON.parse(content) as FeedConfig;
+      const choice = data.choices?.[0];
+      const content = choice?.message?.content;
+      if (!content?.trim()) {
+        throw new Error(
+          choice?.finish_reason === "length"
+            ? `LLM ran out of tokens before answering (max_tokens=${MAX_TOKENS})`
+            : "Empty response from LLM"
+        );
+      }
+
+      let config: FeedConfig;
+      try {
+        config = extractJsonObject(content) as FeedConfig;
+      } catch (err) {
+        replyProblem = `it was not valid JSON (${(err as Error).message})`;
+        throw err;
+      }
 
       // Basic validation
       if (!config.name || !config.url || !config.selectors?.articleList) {
+        replyProblem = "missing required fields (name, url, selectors.articleList)";
         throw new Error(
           "Invalid config: missing required fields (name, url, selectors.articleList)"
         );
@@ -144,9 +276,10 @@ export async function generateConfig(
 
       return config;
     } catch (err) {
+      if (err instanceof FatalLlmError) throw err;
       lastError = (err as Error).message;
       console.error(
-        `  ⚠️ LLM attempt ${attempt + 1}/${MAX_RETRIES} failed: ${lastError}`
+        `  ⚠️ LLM attempt ${attempt + 1}/${MAX_RETRIES} (${model}) failed: ${lastError}`
       );
       if (attempt < MAX_RETRIES - 1) {
         await new Promise((r) => setTimeout(r, 2000));

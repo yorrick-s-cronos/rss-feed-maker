@@ -3,14 +3,14 @@
  * Self-healing: re-generate a feed's config when the parser is broken.
  *
  * Usage:
- *   GITHUB_TOKEN=xxx bun run src/heal-feed.ts ollama
+ *   LLM_API_KEY=xxx bun run src/heal-feed.ts ollama
  */
 
 import { existsSync, readFileSync, writeFileSync } from "fs";
 import { join } from "path";
 import type { FeedConfig } from "./types.js";
 import { fetchHTML } from "./fetcher.js";
-import { generateConfig } from "./llm.js";
+import { buildConfig } from "./config-builder.js";
 import { parseArticles } from "./parser.js";
 import { validateQuick } from "./validator.js";
 
@@ -54,27 +54,23 @@ async function main() {
     `⚠️  Current config broken: ${currentArticles.length} articles, ${currentValidation.errors.length} errors`
   );
 
-  // 3. Generate new config via LLM
-  console.log("🤖 Generating new config via LLM...");
-  const newConfig = await generateConfig(oldConfig.url, html);
-
-  // Preserve original metadata
-  newConfig.name = oldConfig.name;
-  newConfig.createdAt = oldConfig.createdAt;
-  newConfig.lastHealed = new Date().toISOString();
-
-  // 4. Validate new config
-  const newArticles = await parseArticles(html, newConfig);
-  const newValidation = validateQuick(newArticles);
-
-  if (!newValidation.valid || newArticles.length === 0) {
-    console.error("❌ New config also doesn't work:");
-    console.error("   Articles:", newArticles.length);
-    console.error("   Errors:", newValidation.errors);
+  // 3. Generate and verify a new config via LLM
+  let newConfig: FeedConfig;
+  let newArticles;
+  try {
+    ({ config: newConfig, articles: newArticles } = await buildConfig(oldConfig.url, html));
+  } catch (err) {
+    console.error(`❌ New config also doesn't work: ${(err as Error).message}`);
     process.exit(1);
   }
 
-  // 5. Save updated config
+  // Preserve original identity and metadata
+  newConfig.name = oldConfig.name;
+  newConfig.feed = oldConfig.feed;
+  newConfig.createdAt = oldConfig.createdAt;
+  newConfig.lastHealed = new Date().toISOString();
+
+  // 4. Save updated config
   writeFileSync(configPath, JSON.stringify(newConfig, null, 2));
 
   console.log(`\n✅ Feed healed!`);
