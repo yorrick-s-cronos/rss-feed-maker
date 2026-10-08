@@ -8,14 +8,15 @@
     "author": "Groq"
   },
   "selectors": {
-    "articleList": "article.card",
-    "title": "h2, h3, .card-title, a",
-    "date": "time, .date, span[class*='date']",
-    "description": "p, .card-excerpt, .excerpt",
+    "articleList": "li[data-post-key]",
+    "title": "h2",
+    "date": "time",
     "link": {
       "source": "attr:href",
       "prefix": "https://groq.com"
     }
   },
-  "createdAt": "2026-03-15T00:00:00Z"
+  "parserMode": "css",
+  "createdAt": "2026-03-15T00:00:00Z",
+  "lastHealed": "2026-10-08T17:33:15.260Z"
 }
