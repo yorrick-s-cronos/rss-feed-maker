@@ -131,21 +131,78 @@ function parseEmbeddedDate(raw: string): Date | undefined {
   return undefined;
 }
 
+// A numeric day/month/year date such as 08/10/2026 or 8.10.2026, anywhere in a string.
+const NUMERIC_DMY_DATE = /(?<!\d)\d{1,2}[\/.\-]\d{1,2}[\/.\-]\d{4}(?!\d)/;
+// Candidates for numeric formats, including year-first ones (2026-10-08).
+const NUMERIC_DATE_CANDIDATES = /(?<!\d)\d{1,4}[\/.\-]\d{1,2}[\/.\-]\d{1,4}(?!\d)/g;
+// Formats made only of d/M/y tokens and one separator: dd/MM/yyyy, d.M.yyyy, yyyy-MM-dd…
+const NUMERIC_FORMAT = /^[dMy]+([\/.\-])[dMy]+\1[dMy]+$/;
+
+/** True when a date-fns format string carries a time of day (outside quoted literals). */
+function formatHasTime(format: string): boolean {
+  return /[HhKkmsSaAbBXxOZzTtp]/.test(format.replace(/'[^']*'/g, ""));
+}
+
+/**
+ * Parse `text` with an explicit date-fns format. Finds the date inside
+ * surrounding text ("Research · 08/10/2026", "Research08/10/2026",
+ * "Product · March 5, 2026"). Date-only results are UTC midnight, so the
+ * calendar date never depends on the machine's timezone.
+ */
+function parseWithFormat(text: string, format: string): Date | undefined {
+  const finish = (d: Date) => (formatHasTime(format) ? d : asUtcDateOnly(d));
+
+  const direct = parseWithDateFns(text, format);
+  if (direct) return finish(direct);
+
+  if (NUMERIC_FORMAT.test(format.trim())) {
+    for (const candidate of text.match(NUMERIC_DATE_CANDIDATES) ?? []) {
+      const parsed = parseWithDateFns(candidate, format);
+      if (parsed) return finish(parsed);
+    }
+    return undefined;
+  }
+
+  // Textual formats: slide a window as wide as the format over the words.
+  const words = text.split(" ");
+  const width = format.trim().split(/\s+/).length;
+  for (let i = 0; i + width <= words.length; i++) {
+    const parsed = parseWithDateFns(words.slice(i, i + width).join(" "), format);
+    if (parsed) return finish(parsed);
+  }
+  return undefined;
+}
+
+/**
+ * Native Date parsing reads date-only text such as "October 8, 2026" as local
+ * midnight; pin those to UTC midnight. ISO date-only strings ("2026-10-08")
+ * are already UTC and text with a time of day is left untouched.
+ */
+function normalizeNativeDate(text: string, date: Date): Date {
+  if (/\d{1,2}:\d{2}/.test(text)) return date;
+  if (/^\d{4}(-\d{2}(-\d{2})?)?$/.test(text)) return date;
+  return asUtcDateOnly(date);
+}
+
 function parseDate(raw: string, format?: string): Date | undefined {
   if (!raw) return undefined;
-  const trimmed = raw.trim();
+  const text = raw.replace(/\s+/g, " ").trim();
+  if (!text) return undefined;
 
-  // Try explicit format first
   if (format) {
-    const parsed = parseWithDateFns(trimmed, format);
+    const parsed = parseWithFormat(text, format);
     if (parsed) return parsed;
+    // The configured format is authoritative for numeric dates: never let the
+    // loose parsers below guess the day/month order (08/10/2026 would become
+    // 10 August instead of 8 October).
+    if (NUMERIC_DMY_DATE.test(text)) return undefined;
   }
 
   // Try native Date parsing
-  const d = new Date(trimmed);
-  if (isValidDate(d)) return d;
+  const d = new Date(text);
+  if (isValidDate(d)) return normalizeNativeDate(text, d);
 
-  return parseEmbeddedDate(trimmed);
+  return parseEmbeddedDate(text);
 }
 
 /**
@@ -645,9 +702,10 @@ export async function parseArticles(html: string, config: FeedConfig): Promise<A
 
       // Extract date (optional)
       let date: Date | undefined;
+      let rawDate: string | undefined;
       if (selectors.date) {
-        const dateRaw = extractText($el.find(selectors.date), ".");
-        date = parseDate(dateRaw, config.dateFormat);
+        rawDate = extractText($el.find(selectors.date), ".") || undefined;
+        if (rawDate) date = parseDate(rawDate, config.dateFormat);
       }
 
       // Extract description (optional)
@@ -656,7 +714,7 @@ export async function parseArticles(html: string, config: FeedConfig): Promise<A
         description = extractText($el.find(selectors.description), ".");
       }
 
-      articles.push({ title, link, date, description });
+      articles.push({ title, link, date, description, rawDate });
     });
   });
 

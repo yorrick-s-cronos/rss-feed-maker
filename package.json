@@ -11,6 +11,7 @@
     "validate": "bun run src/run-all.ts --validate-only",
     "heal": "bun run src/heal-feed.ts",
     "readme": "bun run src/update-readme.ts",
+    "test": "bun test",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

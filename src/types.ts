@@ -63,6 +63,7 @@ export interface Article {
   date?: Date;
   description?: string;
   content?: string; // full HTML content (for content:encoded)
+  rawDate?: string; // date text as found on the page (CSS mode); used to infer dateFormat
 }
 
 export interface ValidationResult {
