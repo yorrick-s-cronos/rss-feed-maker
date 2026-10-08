@@ -2,7 +2,9 @@ name: Update Feeds
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # Not on the hour: GitHub delays or drops scheduled runs at the start of
+    # every hour under load.
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -32,10 +34,17 @@ jobs:
           git add feeds/ cache/ README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "chore: update feeds"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update feeds"
+          # add_feed/heal_feed may have pushed meanwhile: rebase and retry.
+          for attempt in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push attempt $attempt failed, retrying..."
+            sleep $((attempt * 10))
+          done
+          exit 1
       - name: Check for failing feeds and auto-heal
         if: always()
         uses: actions/github-script@v8
@@ -58,15 +67,20 @@ jobs:
               const snapshotPath = path.join(cacheDir, file);
               const snapshot = JSON.parse(fs.readFileSync(snapshotPath, 'utf8'));
               const feedName = file.replace('.json', '');
+              const n = snapshot.consecutiveErrors || 0;
               
-              if (snapshot.consecutiveErrors >= 3) {
-                console.log(`⚠️ Feed ${feedName} has ${snapshot.consecutiveErrors} consecutive errors`);
-                failingFeeds.push(feedName);
+              // Heal on the 3rd consecutive failure, then back off exponentially
+              // (4, 8, 16, …) so a feed that stays broken can't spend LLM credits
+              // on every run.
+              const due = n === 3 || (n > 3 && (n & (n - 1)) === 0);
+              if (n >= 3) {
+                console.log(`⚠️ Feed ${feedName} has ${n} consecutive errors${due ? '' : ' (heal not due yet)'}`);
               }
+              if (due) failingFeeds.push(feedName);
             }
             
             if (failingFeeds.length === 0) {
-              console.log('✅ No feeds with >=3 consecutive errors');
+              console.log('✅ No feeds due for auto-heal');
               return;
             }
             

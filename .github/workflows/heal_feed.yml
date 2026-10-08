@@ -22,13 +22,32 @@ jobs:
         continue-on-error: true
         run: bun run src/heal-feed.ts "$FEED_NAME"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FEED_NAME: ${{ inputs.feed_name }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
       - id: commit
         if: steps.heal.outcome == 'success'
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "fix: heal feed ${{ inputs.feed_name }}"
+        env:
+          FEED_NAME: ${{ inputs.feed_name }}
+        run: |
+          git config --global user.name "ai-rss-feeds[bot]"
+          git config --global user.email "ai-rss-feeds[bot]@users.noreply.github.com"
+          git add configs/
+          if git diff --staged --quiet; then
+            echo "changes_detected=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "changes_detected=true" >> "$GITHUB_OUTPUT"
+          git commit -m "fix: heal feed $FEED_NAME"
+          # The hourly update and add_feed push to main too: rebase and retry.
+          for attempt in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push attempt $attempt failed, retrying..."
+            sleep $((attempt * 10))
+          done
+          exit 1
 
       - name: Report result on original issue
         if: always()

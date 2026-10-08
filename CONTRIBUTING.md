@@ -23,16 +23,17 @@ Open a [new feed issue](https://github.com/yorrick-s-cronos/rss-feed-maker/issue
 ### Technical Limitations
 
 - **Static HTML only** — our parser uses Cheerio (server-side HTML parsing). JavaScript-rendered pages are not supported.
-- **GitHub Models token limit** — very large pages may need manual config tuning.
+- **LLM context** — the LLM sees the page's `<main>` (or `<body>`), cleaned and capped at 60K characters; very large pages may need manual config tuning.
 
 ## Contributing Code
 
 PRs are welcome! The project uses TypeScript + Bun. Run `bun install` to get started.
 
 ```bash
-bun run update          # Update all feeds
-bun run validate        # Validate without writing
-bun run add <url>       # Add a new feed
-bun run readme          # Regenerate README tables
-bun typecheck           # Type check
+bun run update                     # Update all feeds
+bun run validate                   # Validate without writing
+LLM_API_KEY=xxx bun run add <url>  # Add a new feed (see README → LLM Configuration)
+bun run readme                     # Regenerate README tables
+bun test                           # Unit tests
+bun run typecheck                  # Type check
 ```

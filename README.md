@@ -95,7 +95,7 @@ The defining choice: **LLM is a compiler, not an interpreter** — pay the model
   ┌─ one-time (per blog) ─────────┐     ┌─ hourly (GitHub Actions) ──────────┐
   │                                │     │                                    │
   │  blog HTML ──▶ LLM ──▶ config  │────▶│  config + cheerio ──▶ Article[]   │
-  │  (GPT analyzes DOM,            │     │           │                        │
+  │  (LLM analyzes DOM,            │     │           │                        │
   │   emits CSS selectors)         │     │           ▼                        │
   │                                │     │   validator (6 layers)             │
   │   configs/<name>.json          │     │   1 structure   2 dedup            │
@@ -136,15 +136,33 @@ bun run update:one cursor-blog
 # Validate without writing
 bun run validate
 
-# Add a new feed (requires GITHUB_TOKEN for LLM-based blogs)
-GITHUB_TOKEN=xxx bun run add https://example.com/blog
+# Add a new feed (blogs without native RSS need LLM_API_KEY)
+LLM_API_KEY=xxx bun run add https://example.com/blog
 
-# Heal a broken feed (requires GITHUB_TOKEN for LLM)
-GITHUB_TOKEN=xxx bun run heal cursor-blog
+# Heal a broken feed (requires LLM_API_KEY)
+LLM_API_KEY=xxx bun run heal cursor-blog
+
+# Run the tests / type check
+bun test
+bun run typecheck
 
 # Regenerate the feed table in this README
 bun run readme
 ```
+
+### LLM Configuration
+
+Selector generation (`add` and `heal`) works with any OpenAI-compatible chat-completions API, [Route33](https://route33.ai) by default. The hourly update never calls the LLM.
+
+| Variable | Default | In GitHub Actions |
+|----------|---------|-------------------|
+| `LLM_API_KEY` | — (required) | repository **secret** |
+| `LLM_BASE_URL` | `https://api.route33.ai/v1` | repository variable (optional) |
+| `LLM_MODEL` | `deepseek/deepseek-v4-flash-0731` | repository variable (optional) |
+
+The LLM only sees the page's `<main>` element (or `<body>`), stripped of scripts, styles and SVGs. Its selectors are always re-checked against the real page before a config is saved, and the day/month order of numeric dates is read from the listing itself rather than trusted from the model.
+
+Auto-heal runs on a feed's 3rd consecutive failure and then backs off (4th, 8th, 16th, … failure), so a permanently broken site can't burn LLM credits on every run.
 
 ### Adding a GitHub Releases Feed
 
@@ -185,13 +203,16 @@ src/
 ├── date-enricher.ts  → Fill missing dates via <meta>/JSON-LD on detail pages
 ├── validator.ts      → 6-layer validation
 ├── generator.ts      → Article[] → RSS 2.0 XML
-├── llm.ts            → GitHub Models API integration
+├── llm.ts            → OpenAI-compatible LLM client (Route33 by default)
+├── config-builder.ts → LLM config generation + deterministic verification (add & heal)
 ├── snapshot.ts       → Regression tracking
 ├── run-all.ts        → Batch update CLI
 ├── add-smart.ts      → New feed CLI (auto-detects GitHub vs blog URL)
-├── add-feed.ts       → Legacy LLM-only add (used by add-smart for blogs)
+├── add-feed.ts       → LLM-based add (used by add-smart for blogs)
 ├── heal-feed.ts      → Self-healing CLI
+├── *.test.ts         → Unit tests (bun test)
 └── update-readme.ts  → Regenerates the feed table in README.md
+test/fixtures/ → Saved blog pages used by the tests
 ```
 
 ## 🙏 Credits

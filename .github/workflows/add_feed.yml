@@ -10,7 +10,6 @@ on:
 permissions:
   contents: write
   issues: write
-  models: read
 
 jobs:
   add-feed:
@@ -46,9 +45,13 @@ jobs:
           if [ -n "$NATIVE_URL" ]; then
             echo "native_url=$NATIVE_URL" >> $GITHUB_OUTPUT
           fi
-          # Identify the config created by this run, only if it's actually new
+          # add-feed.ts reports the config it wrote; fall back to the newest config file
+          REPORTED=$(echo "$OUTPUT" | grep -E '^config_name=[a-z0-9-]+$' | tail -1 | sed 's/^config_name=//' || true)
           NEW=$(ls -t configs/*.json 2>/dev/null | head -1 || echo "")
-          if [ -n "$NEW" ] && [ "$NEW" != "$PREV" ]; then
+          if [ -n "$REPORTED" ] && [ -f "configs/$REPORTED.json" ]; then
+            echo "config_name=$REPORTED" >> $GITHUB_OUTPUT
+            echo "Config created: configs/$REPORTED.json"
+          elif [ -n "$NEW" ] && [ "$NEW" != "$PREV" ]; then
             echo "config_name=$(basename "$NEW" .json)" >> $GITHUB_OUTPUT
             echo "Config created: $NEW"
           elif [ -z "$NATIVE_URL" ]; then
@@ -57,6 +60,9 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ github.token }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
           FEED_SOURCE_URL: ${{ steps.url.outputs.url }}
 
       - name: Verify feed URL
@@ -101,10 +107,17 @@ jobs:
           git add configs/ feeds/ cache/ README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "feat: add feed for $FEED_SOURCE_URL"
-            git push
+            exit 0
           fi
+          git commit -m "feat: add feed for $FEED_SOURCE_URL"
+          # Other workflows (hourly update, heal) push to main too: rebase and retry.
+          for attempt in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push attempt $attempt failed, retrying..."
+            sleep $((attempt * 10))
+          done
+          exit 1
 
       - name: Comment on issue
         uses: actions/github-script@v8
@@ -188,7 +201,11 @@ jobs:
             let errorHint = '';
             try {
               const logContent = fs.readFileSync('/tmp/add-smart.log', 'utf8');
-              if (logContent.includes('Cloudflare') || logContent.includes('cf-mitigated')) {
+              if (logContent.includes('LLM_API_KEY not set')) {
+                errorHint = '\n\n⚠️ The repository secret `LLM_API_KEY` is missing, so no LLM is available to generate selectors.';
+              } else if (logContent.includes('LLM API rejected the request')) {
+                errorHint = '\n\n⚠️ The LLM API rejected the request — check the `LLM_API_KEY` secret and the `LLM_MODEL` variable.';
+              } else if (logContent.includes('Cloudflare') || logContent.includes('cf-mitigated')) {
                 errorHint = '\n\n⚠️ This site is protected by Cloudflare bot detection. Static HTTP requests cannot access it.';
               } else if (logContent.includes('Unknown pseudo-class')) {
                 errorHint = '\n\n⚠️ The generated CSS selector was invalid for Cheerio. Apply the `retry-feed` label after selector retry fixes are merged.';
