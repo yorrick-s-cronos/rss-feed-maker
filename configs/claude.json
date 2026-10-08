@@ -8,16 +8,17 @@
     "author": "Anthropic"
   },
   "selectors": {
-    "articleList": ".blog_cms_item",
-    "title": ".card_blog_title",
-    "date": ".card_blog_content .u-text-style-caption",
-    "description": "",
+    "articleList": "div[data-card-group='true'] > a",
+    "title": "h3",
+    "date": "span[class$='meta']",
+    "description": "p[class$='excerpt']",
     "link": {
       "source": "attr:href",
-      "selector": "a[href^='/blog/']",
       "prefix": "https://claude.com"
     }
   },
-  "dateFormat": "MMMM d, yyyy",
-  "createdAt": "2026-04-25T00:00:00Z"
+  "parserMode": "css",
+  "dateFormat": "MMM d, yyyy",
+  "createdAt": "2026-04-25T00:00:00Z",
+  "lastHealed": "2026-10-08T17:33:22.698Z"
 }
