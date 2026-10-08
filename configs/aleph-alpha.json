@@ -1,0 +1,21 @@
+{
+  "name": "aleph-alpha",
+  "url": "https://aleph-alpha.com/en/blog/",
+  "feed": {
+    "title": "Aleph Alpha Blog",
+    "description": "Research, engineering and perspectives from the Aleph Alpha team.",
+    "language": "en"
+  },
+  "selectors": {
+    "articleList": "section ul > li",
+    "title": "h3",
+    "date": "p span:last-child",
+    "link": {
+      "source": "attr:href",
+      "prefix": "https://aleph-alpha.com"
+    }
+  },
+  "parserMode": "css",
+  "dateFormat": "dd/MM/yyyy",
+  "createdAt": "2026-10-08T17:29:17.079Z"
+}
