@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[マターコンパイラー：AI科学者、自律型ラボ、そして合成超知能 — Periodic Labs]]></title>
+            <link>https://finance.biggo.jp/podcast/ba9315831866a1c5</link>
+            <guid>https://finance.biggo.jp/podcast/ba9315831866a1c5</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[コンテキストウィンドウを大きくしてもエージェントは救えない — AWSのElizabeth Fuentes Leone氏]]></title>
+            <link>https://finance.biggo.jp/podcast/e920e9e3a4c16739</link>
+            <guid>https://finance.biggo.jp/podcast/e920e9e3a4c16739</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIエージェントスマホが加速的に爆発？買い替えの壁、オンデバイスAI、次世代入口の争い]]></title>
             <link>https://finance.biggo.jp/podcast/8e160a19d31c916f</link>
             <guid>https://finance.biggo.jp/podcast/8e160a19d31c916f</guid>
@@ -28,13 +40,19 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[You’re Being Recorded More Than You Think]]></title>
+            <title><![CDATA[あなたは思っている以上に録音されている]]></title>
             <link>https://finance.biggo.jp/podcast/9fe82f21e002b9aa</link>
             <guid>https://finance.biggo.jp/podcast/9fe82f21e002b9aa</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ep. 036 - Anthropic Subscriptions Beat OpenAI 5x, Depending on Your Workload (Tokenomics)]]></title>
+            <title><![CDATA[ついにやった。]]></title>
+            <link>https://finance.biggo.jp/podcast/031ad5b20d9217bd</link>
+            <guid>https://finance.biggo.jp/podcast/031ad5b20d9217bd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep. 036 - ワークロード次第でAnthropicのサブスクはOpenAIの5倍に（トークノミクス）]]></title>
             <link>https://finance.biggo.jp/podcast/173039423dab79be</link>
             <guid>https://finance.biggo.jp/podcast/173039423dab79be</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It's the best time ever to buy great headphones | The Vergecast]]></title>
+            <title><![CDATA[高品質なヘッドホンを買うのに最高のタイミング | The Vergecast]]></title>
             <link>https://finance.biggo.jp/podcast/8ce08d35198803b1</link>
             <guid>https://finance.biggo.jp/podcast/8ce08d35198803b1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[Sam Newmanと共に構築するレジリエントシステム]]></title>
             <link>https://finance.biggo.jp/podcast/b4bfc2e735711e40</link>
             <guid>https://finance.biggo.jp/podcast/b4bfc2e735711e40</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[イーライリリー会長兼CEOデイビッド・リックス、GLP-1、アルツハイマー、事業開発などについて語る]]></title>
-            <link>https://finance.biggo.jp/podcast/95936ff96486f8bd</link>
-            <guid>https://finance.biggo.jp/podcast/95936ff96486f8bd</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIエージェントでソフトウェア開発のあり方を再設計——SonarとMcKinseyのパネル討論]]></title>
-            <link>https://finance.biggo.jp/podcast/e89ce4121542c733</link>
-            <guid>https://finance.biggo.jp/podcast/e89ce4121542c733</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ep211: アルデム・パタプーティアン、触覚・痛み・神経科学の新発見を語る]]></title>
-            <link>https://finance.biggo.jp/podcast/5a556dff5ae2413d</link>
-            <guid>https://finance.biggo.jp/podcast/5a556dff5ae2413d</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
