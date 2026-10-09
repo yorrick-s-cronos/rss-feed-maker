@@ -10,6 +10,12 @@
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Building effective agent automations]]></title>
+            <link>https://claude.dev/blog/building-effective-agent-automations/</link>
+            <guid>https://claude.dev/blog/building-effective-agent-automations/</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Block orchestrates Claude Fable across thousands of pull requests]]></title>
             <link>https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests</link>
             <guid>https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests</guid>
@@ -68,12 +74,6 @@
             <link>https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
             <guid>https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</guid>
             <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting started with Claude Code mods]]></title>
-            <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
-            <guid>https://claude.dev/blog/getting-started-with-claude-code-mods/</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
