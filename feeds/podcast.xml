@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[「文句も言わずに仕事をしてくれる」——イーサン・モリック、AIがインターンを代替する現実を語る]]></title>
+            <link>https://finance.biggo.jp/podcast/9d43a05225f56cad</link>
+            <guid>https://finance.biggo.jp/podcast/9d43a05225f56cad</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TypeScriptをRustで書き直すのに42万ドル]]></title>
+            <link>https://finance.biggo.jp/podcast/d85a28cac27779d3</link>
+            <guid>https://finance.biggo.jp/podcast/d85a28cac27779d3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントはいかに意思決定するか：GoodfireのEric Bigelow氏が語るクリティカルトークン、相転移、インコンテキスト学習]]></title>
+            <link>https://finance.biggo.jp/podcast/9690f5c9f47c8483</link>
+            <guid>https://finance.biggo.jp/podcast/9690f5c9f47c8483</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TWiV 1364: ダニエル・グリフィン医師による臨床アップデート]]></title>
+            <link>https://finance.biggo.jp/podcast/8a7d5c0c33e331ec</link>
+            <guid>https://finance.biggo.jp/podcast/8a7d5c0c33e331ec</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Claudeは意識を持つのか？法王の拒否、モデル福祉運動、OpenAIの数学への反発、フランスの暴動]]></title>
             <link>https://finance.biggo.jp/podcast/c0a91c03775d0073</link>
             <guid>https://finance.biggo.jp/podcast/c0a91c03775d0073</guid>
@@ -22,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AIはすべての病気を治せるのか？ — プシュミート・コーリ、Google DeepMind & サル・カンディード、Biohub]]></title>
+            <title><![CDATA[生物学の苦い教訓：AIのスケーリングだけでは不十分な理由 — Pushmeet K（DeepMind）＆Sal C（Biohub）]]></title>
             <link>https://finance.biggo.jp/podcast/9f261408b9f0cd37</link>
             <guid>https://finance.biggo.jp/podcast/9f261408b9f0cd37</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[サイモン・ウェセリー、ADHDと自閉症のレビューについて語る]]></title>
             <link>https://finance.biggo.jp/podcast/517184f4b3725594</link>
             <guid>https://finance.biggo.jp/podcast/517184f4b3725594</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[株式市場のバリュエーションをめぐる混乱しがちな真実]]></title>
-            <link>https://finance.biggo.jp/podcast/fcee0007e6338406</link>
-            <guid>https://finance.biggo.jp/podcast/fcee0007e6338406</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nvidiaが6兆ドル到達：AIブームはバブルか？ | The Week]]></title>
-            <link>https://finance.biggo.jp/podcast/00332c08be3d8c96</link>
-            <guid>https://finance.biggo.jp/podcast/00332c08be3d8c96</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slackでエージェントを活用する]]></title>
-            <link>https://finance.biggo.jp/podcast/c5d616e20eddda99</link>
-            <guid>https://finance.biggo.jp/podcast/c5d616e20eddda99</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Codexハーネスを基盤に構築する — OpenAI ドミニク・クンデル]]></title>
-            <link>https://finance.biggo.jp/podcast/834abe5f2d8c5b50</link>
-            <guid>https://finance.biggo.jp/podcast/834abe5f2d8c5b50</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
