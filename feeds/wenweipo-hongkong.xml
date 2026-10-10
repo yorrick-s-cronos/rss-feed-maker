@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[最平1150港元起！「愛達·花城號」明年香港母港營運19航次　5日4夜玩盡越南韓國]]></title>
+            <link>https://www.wenweipo.com/a/202610/10/AP6ac97f3ee4b01d54a28688d1.html</link>
+            <guid>https://www.wenweipo.com/a/202610/10/AP6ac97f3ee4b01d54a28688d1.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[適逢2027年為香港回歸祖國30周年，國產大型郵輪公司愛達郵輪昨日宣布，旗下中國第二艘國產大型郵輪「愛達·花城號」特別選定於明年以香港為母港，預計營運19個航次，行程覆蓋韓國、越南等多個東南亞及東北亞地區。]]></description>
+        </item>
+        <item>
             <title><![CDATA[「大灣區青年管弦樂團」成立四周年音樂會在港舉行　逾百青年樂手同台獻藝]]></title>
             <link>https://www.wenweipo.com/a/202610/09/AP6ac8f85fe4b01d54a2867fca.html</link>
             <guid>https://www.wenweipo.com/a/202610/09/AP6ac8f85fe4b01d54a2867fca.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202610/09/AP6ac8c972e4b01d54a2867ba5.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[國家作為2026年亞太經合組織(APEC)東道主，民青局特別組織中國香港代表團出席，當中包括來自不同領域的創業青年代表。大會以「Entrepreneurship Engine, Youth-led Change: for an Prosperous Asia-Pacific for All」為題，通過分享青年創業經驗、促進青年企業家與投資人對話，以及深化區域合作，激發亞太各經濟體青年創業者的創新活力，將青年的抱負轉化為商業實踐。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[年度跨部門山火暨攀山拯救演習 模擬獅子山25行山客遇上山火]]></title>
-            <link>https://www.wenweipo.com/a/202610/09/AP6ac8c6dbe4b01d54a2867b7e.html</link>
-            <guid>https://www.wenweipo.com/a/202610/09/AP6ac8c6dbe4b01d54a2867b7e.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[政府多個部門今日（9日）進行跨部門山火及攀山拯救行動演習。參與演習的部門及機構包括消防處、香港警務處、政府飛行服務隊、漁農自然護理署、醫療輔助隊、民眾安全服務隊、民政事務總署、社會福利署和醫院管理局，共動員約150人。]]></description>
         </item>
     </channel>
 </rss>
