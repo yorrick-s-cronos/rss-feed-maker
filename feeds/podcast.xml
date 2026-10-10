@@ -10,13 +10,37 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[「文句も言わずに仕事をしてくれる」——イーサン・モリック、AIがインターンを代替する現実を語る]]></title>
+            <title><![CDATA[ノートPCからパイプラインへ：GitHub Copilotでカスタムエージェントをスケールさせる]]></title>
+            <link>https://finance.biggo.jp/podcast/af0b09e8f894592f</link>
+            <guid>https://finance.biggo.jp/podcast/af0b09e8f894592f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[致命的な三要素はすでにあなたのノートPC上にある — Michael Patterson（Coder）]]></title>
+            <link>https://finance.biggo.jp/podcast/38abdbb1c90a3916</link>
+            <guid>https://finance.biggo.jp/podcast/38abdbb1c90a3916</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Waymo、ウォール街へ]]></title>
+            <link>https://finance.biggo.jp/podcast/767d9927cf0ab4ca</link>
+            <guid>https://finance.biggo.jp/podcast/767d9927cf0ab4ca</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[セールスマシンの構築法 | Max Freeman、Ramp]]></title>
+            <link>https://finance.biggo.jp/podcast/7a937f3b283d22ec</link>
+            <guid>https://finance.biggo.jp/podcast/7a937f3b283d22ec</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スコット・ギャロウェイ：AIは大学を廃れさせない]]></title>
             <link>https://finance.biggo.jp/podcast/9d43a05225f56cad</link>
             <guid>https://finance.biggo.jp/podcast/9d43a05225f56cad</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TypeScriptをRustで書き直すのに42万ドル]]></title>
+            <title><![CDATA[ついにTypeScriptをRustに移植した]]></title>
             <link>https://finance.biggo.jp/podcast/d85a28cac27779d3</link>
             <guid>https://finance.biggo.jp/podcast/d85a28cac27779d3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[なぜ賢い投資家は狂った決断を下すのか — アレックス・エドマンズ | アイデアラボ | 第54回]]></title>
             <link>https://finance.biggo.jp/podcast/6d22db4eebc77e06</link>
             <guid>https://finance.biggo.jp/podcast/6d22db4eebc77e06</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beam：アメリカを代表するオープンモデル——ReflectionAI共同創業者兼CEO Misha Laskin氏]]></title>
-            <link>https://finance.biggo.jp/podcast/2223d3615e58da09</link>
-            <guid>https://finance.biggo.jp/podcast/2223d3615e58da09</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェント向けCLI設計——人間向けではない：AirbyteのPedro Lopez氏]]></title>
-            <link>https://finance.biggo.jp/podcast/507bb3973b89c37a</link>
-            <guid>https://finance.biggo.jp/podcast/507bb3973b89c37a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[薬物規制の行方：米FDAのペプチド騒動、透明性向上、イボガイン臨床試験計画]]></title>
-            <link>https://finance.biggo.jp/podcast/2864cf3ee80eac1f</link>
-            <guid>https://finance.biggo.jp/podcast/2864cf3ee80eac1f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[サイモン・ウェセリー、ADHDと自閉症のレビューについて語る]]></title>
-            <link>https://finance.biggo.jp/podcast/517184f4b3725594</link>
-            <guid>https://finance.biggo.jp/podcast/517184f4b3725594</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
