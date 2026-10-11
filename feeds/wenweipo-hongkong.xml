@@ -10,6 +10,13 @@
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[（有片）記者實測舊皇崗口岸兩地車10分鐘過關　新皇崗口岸有望壓縮至2分鐘]]></title>
+            <link>https://www.wenweipo.com/a/202610/12/AP6acc0fb8e4b01d54a286c84a.html</link>
+            <guid>https://www.wenweipo.com/a/202610/12/AP6acc0fb8e4b01d54a286c84a.html</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[新皇崗口岸將於今日（12日）上午6時30分正式開通，屆時舊皇崗口岸將會關閉。點新聞記者今早5時左右抵達舊皇崗口岸，體驗乘坐兩地牌車通關前往深圳。]]></description>
+        </item>
+        <item>
             <title><![CDATA[(有片) 記者手記 │ 走過阿斯塔納：遇見傳統與未來]]></title>
             <link>https://www.wenweipo.com/a/202610/12/AP6aca350ae4b01d54a2869ec7.html</link>
             <guid>https://www.wenweipo.com/a/202610/12/AP6aca350ae4b01d54a2869ec7.html</guid>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202610/11/AP6acb585fe4b01d54a286bc57.html</guid>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[今屆以「鏈接全球智造，賦能長效採購」為主題，消費電子展及遊戲展兩大專業展同期舉行，涵蓋電腦周邊、電競外設、影音視聽、汽車電子、個人代步、攝影配件及電池電源產品等類別，合共逾4,000個展位，雲集超過2,100家亞洲優質供應商。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[男子烏蛟騰行山暈倒昏迷 直升機送院惜不治]]></title>
-            <link>https://www.wenweipo.com/a/202610/11/AP6acb5284e4b01d54a286bb9e.html</link>
-            <guid>https://www.wenweipo.com/a/202610/11/AP6acb5284e4b01d54a286bb9e.html</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今日（11日）下午，兩名男子在大埔烏蛟騰行山，至下午3時許，當兩人行至船灣下苗田時，其中姓何（66歲）男子突然不適暈倒，同行親友見狀，隨即報警求助。]]></description>
         </item>
     </channel>
 </rss>
