@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ep. 392 - バイオテック市場：嵐の前の静けさ？]]></title>
+            <link>https://finance.biggo.jp/podcast/e743b51ac27ac701</link>
+            <guid>https://finance.biggo.jp/podcast/e743b51ac27ac701</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[あるPersonal Agent起業家の思考｜Ambi創業者・子皓との対談]]></title>
+            <link>https://finance.biggo.jp/podcast/3cee26778b0f91aa</link>
+            <guid>https://finance.biggo.jp/podcast/3cee26778b0f91aa</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[トランプのプーチンとのディーゼル取引が共和党を悩ませる]]></title>
+            <link>https://finance.biggo.jp/podcast/944517f5aa892e26</link>
+            <guid>https://finance.biggo.jp/podcast/944517f5aa892e26</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[単一データセンターの驚くべきコスト、土地からチップまで]]></title>
+            <link>https://finance.biggo.jp/podcast/f358a4c83aa1d30c</link>
+            <guid>https://finance.biggo.jp/podcast/f358a4c83aa1d30c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ロッキード・マーティン、陸軍防空コンテスト向けに新型Patriotを公開]]></title>
             <link>https://finance.biggo.jp/podcast/a27578183bbf79e5</link>
             <guid>https://finance.biggo.jp/podcast/a27578183bbf79e5</guid>
@@ -58,7 +82,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI研究における再帰的自己改善の現状]]></title>
+            <title><![CDATA[再帰的自己改善の背後にある数学]]></title>
             <link>https://finance.biggo.jp/podcast/75a859f9c7fed9d4</link>
             <guid>https://finance.biggo.jp/podcast/75a859f9c7fed9d4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -88,7 +112,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3 times life put me in my place]]></title>
+            <title><![CDATA[最も恥ずかしい瞬間から学んだ教訓]]></title>
             <link>https://finance.biggo.jp/podcast/0a8839066e85c577</link>
             <guid>https://finance.biggo.jp/podcast/0a8839066e85c577</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[なぜサイファーパンクがZcash最大の実力者になりつつあるのか]]></title>
             <link>https://finance.biggo.jp/podcast/92c190584b57c9e8</link>
             <guid>https://finance.biggo.jp/podcast/92c190584b57c9e8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UFO隠蔽工作の分析者：存在しないと言われているエイリアン計画！｜Eric Weinstein]]></title>
-            <link>https://finance.biggo.jp/podcast/10060aa75bd93af4</link>
-            <guid>https://finance.biggo.jp/podcast/10060aa75bd93af4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIEの構築：swyxによる公開Q&Aとフィードバックセッション]]></title>
-            <link>https://finance.biggo.jp/podcast/41d89d9af27235f0</link>
-            <guid>https://finance.biggo.jp/podcast/41d89d9af27235f0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude Managed Agentsでリサーチエージェントを構築する（全4回の第2回）— Anthropic]]></title>
-            <link>https://finance.biggo.jp/podcast/e8887fe141d3b81d</link>
-            <guid>https://finance.biggo.jp/podcast/e8887fe141d3b81d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude Managed Agents Q&A：評価、CI/CD、マルチテナンシー（全4回の第4回）— Anthropic]]></title>
-            <link>https://finance.biggo.jp/podcast/43ed895d83ecddd4</link>
-            <guid>https://finance.biggo.jp/podcast/43ed895d83ecddd4</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
