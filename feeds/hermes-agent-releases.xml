@@ -483,13 +483,13 @@
 <li><strong>@ethernet8023</strong> (96 PRs) — the unified package manager, signed desktop bundles, stable release pipeline, local-model engines</li>
 <li><strong>@unsupportedpastels</strong> (60 PRs) — CLI/TUI interrupt and admission handling, cron reliability, Discord voice, Docker extras</li>
 <li><strong>@jquesnelle</strong> (22 PRs) — local models: the managed llama.cpp runtime, recommendations and engine pins</li>
+<li><strong>@helix4u</strong> (20 PRs) — desktop interrupt, terminal and session fixes, installer ordering</li>
 <li><strong>@benbarclay</strong>, <strong>@victor-kyriazakos</strong>, <strong>@rewbs</strong>, <strong>@yoniebans</strong>, <strong>@rob-maron</strong>, <strong>@c2h5oh</strong>, <strong>@notwitcheer</strong>, <strong>@shannonsands</strong> — relay and dashboard auth, Slack and Bedrock, managed search and connector tokens, install E2E, model catalogs, CI and linting, docs</li>
 </ul>
 <h3>Top Community Contributors (by merged PR count)</h3>
 <ul>
 <li><strong>@Adolanium</strong> (44 PRs) — performance fixes, the in-app browser comment tool, session import, and a run of catalog plugins</li>
 <li><strong>@apoapostolov</strong> (29), <strong>@TakeshiTGAL</strong> (22), <strong>@100yenadmin</strong> (19), <strong>@olric3015</strong> (18), <strong>@aydnOktay</strong> (12), <strong>@cygnostik</strong> (12), <strong>@anpicasso</strong> (12), <strong>@itpartypattaya</strong> (11), <strong>@jacobhausler</strong> (9) — the plugin catalog&#39;s biggest authors: reasoning and composer tools, Japanese government data, plan mode and boardstate, stream-speed and ledgers, desk tools, reMarkable and desktop realms, Kiro and approvals, hermes-dreaming and holographic, workflows and Beads</li>
-<li><strong>@helix4u</strong> (20 PRs) — desktop interrupt, terminal and session fixes, installer ordering</li>
 <li><strong>@Finn763</strong> (14), <strong>@liuhao1024</strong> (13), <strong>@xxxigm</strong> (12), <strong>@dskwe</strong> (10), <strong>@KoNit-K</strong> (8), <strong>@chelsealong</strong> (8), <strong>@686f6c61</strong> (7) — desktop, Windows, SSH and Linux reliability, local-runtime memory pricing, Bot Screen paste, model catalog fixes</li>
 <li><strong>@jonpol01</strong> (13 PRs) — compaction correctness and exact-bytes file patching</li>
 </ul>
@@ -1244,13 +1244,13 @@
 <li><strong>@ethernet8023</strong> (96 PRs) — the unified package manager, signed desktop bundles, stable release pipeline, local-model engines</li>
 <li><strong>@unsupportedpastels</strong> (60 PRs) — CLI/TUI interrupt and admission handling, cron reliability, Discord voice, Docker extras</li>
 <li><strong>@jquesnelle</strong> (22 PRs) — local models: the managed llama.cpp runtime, recommendations and engine pins</li>
+<li><strong>@helix4u</strong> (20 PRs) — desktop interrupt, terminal and session fixes, installer ordering</li>
 <li><strong>@benbarclay</strong>, <strong>@victor-kyriazakos</strong>, <strong>@rewbs</strong>, <strong>@yoniebans</strong>, <strong>@rob-maron</strong>, <strong>@c2h5oh</strong>, <strong>@notwitcheer</strong>, <strong>@shannonsands</strong> — relay and dashboard auth, Slack and Bedrock, managed search and connector tokens, install E2E, model catalogs, CI and linting, docs</li>
 </ul>
 <h3>Top Community Contributors (by merged PR count)</h3>
 <ul>
 <li><strong>@Adolanium</strong> (44 PRs) — performance fixes, the in-app browser comment tool, session import, and a run of catalog plugins</li>
 <li><strong>@apoapostolov</strong> (29), <strong>@TakeshiTGAL</strong> (22), <strong>@100yenadmin</strong> (19), <strong>@olric3015</strong> (18), <strong>@aydnOktay</strong> (12), <strong>@cygnostik</strong> (12), <strong>@anpicasso</strong> (12), <strong>@itpartypattaya</strong> (11), <strong>@jacobhausler</strong> (9) — the plugin catalog&#39;s biggest authors: reasoning and composer tools, Japanese government data, plan mode and boardstate, stream-speed and ledgers, desk tools, reMarkable and desktop realms, Kiro and approvals, hermes-dreaming and holographic, workflows and Beads</li>
-<li><strong>@helix4u</strong> (20 PRs) — desktop interrupt, terminal and session fixes, installer ordering</li>
 <li><strong>@Finn763</strong> (14), <strong>@liuhao1024</strong> (13), <strong>@xxxigm</strong> (12), <strong>@dskwe</strong> (10), <strong>@KoNit-K</strong> (8), <strong>@chelsealong</strong> (8), <strong>@686f6c61</strong> (7) — desktop, Windows, SSH and Linux reliability, local-runtime memory pricing, Bot Screen paste, model catalog fixes</li>
 <li><strong>@jonpol01</strong> (13 PRs) — compaction correctness and exact-bytes file patching</li>
 </ul>
