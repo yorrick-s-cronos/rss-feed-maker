@@ -20,7 +20,7 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | [Google DeepMind Blog](https://deepmind.google/discover/blog/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/deepmind-blog.xml) | ✅ 25 articles |
 | [Microsoft AI Blog](https://microsoft.ai/blog/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/microsoft-ai.xml) | ✅ 20 articles |
 | [Composio Blog](https://composio.dev/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/composio.xml) | ✅ 3 articles |
-| [Groq News](https://groq.com/news/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/groq-news.xml) | ✅ 39 articles |
+| [Groq News](https://groq.com/news/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/groq-news.xml) | ✅ 40 articles |
 | [Mekong ASEAN](https://mekongasean.vn/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml) | ✅ 2 articles |
 | [Cursor Blog](https://cursor.com/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cursor-blog.xml) | ✅ 19 articles |
 | [Anthropic Newsroom](https://www.anthropic.com/news) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic-news.xml) | ✅ 14 articles |
