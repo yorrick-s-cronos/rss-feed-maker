@@ -1,0 +1,20 @@
+{
+  "name": "anthropic-news",
+  "url": "https://www.anthropic.com/news",
+  "feed": {
+    "title": "Anthropic Newsroom",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "language": "en"
+  },
+  "selectors": {
+    "articleList": "a:has(time)",
+    "title": "h2, h4, span[class*='title']",
+    "date": "time",
+    "description": "p",
+    "link": {
+      "source": "attr:href",
+      "prefix": "https://www.anthropic.com"
+    }
+  },
+  "createdAt": "2026-10-15T16:44:43.107Z"
+}
