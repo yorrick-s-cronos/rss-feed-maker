@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[美光躍進の裏側：米国メモリー唯一の担い手の生存競争、資本の駆け引き、AIによる再生]]></title>
+            <link>https://finance.biggo.jp/podcast/123e551fa598a3b2</link>
+            <guid>https://finance.biggo.jp/podcast/123e551fa598a3b2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[テック株安が成長を脅かす中で米国債が急騰]]></title>
             <link>https://finance.biggo.jp/podcast/8abc567fff1add42</link>
             <guid>https://finance.biggo.jp/podcast/8abc567fff1add42</guid>
@@ -46,7 +52,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【スポンサード】臨床試験におけるAIの新たな章]]></title>
+            <title><![CDATA[臨床試験におけるAIの新たな章 [スポンサード]]]></title>
             <link>https://finance.biggo.jp/podcast/6787ac2a738f7fe0</link>
             <guid>https://finance.biggo.jp/podcast/6787ac2a738f7fe0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[スマホ依存の専門家：あなたのフィードはスロットマシンと全く同じ仕組み！｜サハール・ユセフ博士]]></title>
             <link>https://finance.biggo.jp/podcast/fa4aec9013a1db30</link>
             <guid>https://finance.biggo.jp/podcast/fa4aec9013a1db30</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国オックスフォード拠点のOMass Therapeuticsが本日3億1,000万ドルのシリーズCを発表、低分子プラットフォームを前進——第1相段階にある主力のMC2（メラノコルチン2）受容体拮抗薬を含む]]></title>
-            <link>https://finance.biggo.jp/podcast/e95ed57ca68914a8</link>
-            <guid>https://finance.biggo.jp/podcast/e95ed57ca68914a8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
