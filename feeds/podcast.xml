@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【深掘り】韓国の出生率を急上昇させた型破りな手法、中国は学ぶべきか？]]></title>
+            <link>https://finance.biggo.jp/podcast/3b1216533cca7cdc</link>
+            <guid>https://finance.biggo.jp/podcast/3b1216533cca7cdc</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CoreWeave株急落、AIトレードの亀裂、Anthropic IPOの危険信号、ビル・ゲイツの終末論]]></title>
+            <link>https://finance.biggo.jp/podcast/4ab013b4303c42d3</link>
+            <guid>https://finance.biggo.jp/podcast/4ab013b4303c42d3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[目利きのテスターたち：何度でも戻ってきてしまうAIツール]]></title>
+            <link>https://finance.biggo.jp/podcast/6d84f9c6b690be03</link>
+            <guid>https://finance.biggo.jp/podcast/6d84f9c6b690be03</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIエージェントが3日がかりのポートフォリオ構築を数分に短縮——ApolloのJack McDonald氏、RowspaceのMichael Manapat氏]]></title>
+            <link>https://finance.biggo.jp/podcast/928be87246fed58d</link>
+            <guid>https://finance.biggo.jp/podcast/928be87246fed58d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[アップルはいかにして中国のテック大国化を支えたか]]></title>
             <link>https://finance.biggo.jp/podcast/eadaa30c89a8e3cd</link>
             <guid>https://finance.biggo.jp/podcast/eadaa30c89a8e3cd</guid>
@@ -103,30 +127,6 @@
             <title><![CDATA[お金を稼ぐのをやめられない人の6つの特徴]]></title>
             <link>https://finance.biggo.jp/podcast/28858cc2ea91db83</link>
             <guid>https://finance.biggo.jp/podcast/28858cc2ea91db83</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIクレジットの利回り上昇は投資家にとって好機か？]]></title>
-            <link>https://finance.biggo.jp/podcast/2c037fe8d9f4ce4b</link>
-            <guid>https://finance.biggo.jp/podcast/2c037fe8d9f4ce4b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ベビーKJはいかにして個人向けCRISPR治療の最初の患者となったか]]></title>
-            <link>https://finance.biggo.jp/podcast/095ffb5e6b1a108d</link>
-            <guid>https://finance.biggo.jp/podcast/095ffb5e6b1a108d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[トランプはアメリカの農家を失おうとしているのか？｜トランポノミクス]]></title>
-            <link>https://finance.biggo.jp/podcast/7528bd46e88f590c</link>
-            <guid>https://finance.biggo.jp/podcast/7528bd46e88f590c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GLP-1市場に次に訪れる大きな地殻変動とは？（全3回の第1回）]]></title>
-            <link>https://finance.biggo.jp/podcast/728ded9a7d3e854c</link>
-            <guid>https://finance.biggo.jp/podcast/728ded9a7d3e854c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
