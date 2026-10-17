@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[この「破天荒な事業」はやらざるを得ないのか？｜Articuler.ai 創業者 Jason との対談]]></title>
+            <link>https://finance.biggo.jp/podcast/efbd795c5d294e51</link>
+            <guid>https://finance.biggo.jp/podcast/efbd795c5d294e51</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIの請求書は高すぎる：トークノミクス入門 — Eugene Cheah氏、Featherless AI]]></title>
+            <link>https://finance.biggo.jp/podcast/e8bb74ebe5740bc9</link>
+            <guid>https://finance.biggo.jp/podcast/e8bb74ebe5740bc9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[マネーロンダリング対策のためのメモリ対応エージェントハーネス — Nacho Martinez（Oracle）]]></title>
             <link>https://finance.biggo.jp/podcast/a93b12807837b161</link>
             <guid>https://finance.biggo.jp/podcast/a93b12807837b161</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[XPENG、YOYOロボタクシーサービスを発表]]></title>
             <link>https://finance.biggo.jp/podcast/fb3b7075ababf16d</link>
             <guid>https://finance.biggo.jp/podcast/fb3b7075ababf16d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[暗号資産の強気相場に現実チェックが入った]]></title>
-            <link>https://finance.biggo.jp/podcast/5bafb908920c6046</link>
-            <guid>https://finance.biggo.jp/podcast/5bafb908920c6046</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本番システムがAIの次なる大きな課題となる理由]]></title>
-            <link>https://finance.biggo.jp/podcast/b5538c879f4b7588</link>
-            <guid>https://finance.biggo.jp/podcast/b5538c879f4b7588</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

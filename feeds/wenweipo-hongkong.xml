@@ -4,11 +4,46 @@
         <title>文匯香港</title>
         <link>https://www.wenweipo.com/hongkong</link>
         <description>文匯報 - 香港新聞</description>
-        <lastBuildDate>Sat, 17 Oct 2026 09:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 13:01:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[(有片) 新蒲崗Tesla撞電單車 鐵騎士手傷送院]]></title>
+            <link>https://www.wenweipo.com/a/202610/17/AP6ad3719be4b01d54a2878dda.html</link>
+            <guid>https://www.wenweipo.com/a/202610/17/AP6ad3719be4b01d54a2878dda.html</guid>
+            <pubDate>Sat, 17 Oct 2026 13:01:14 GMT</pubDate>
+            <description><![CDATA[今日（17日）下午3時許，一輛Tesla電動車與一輛電單車，在駛至新蒲崗雙喜街及大有街交界，懷疑收掣不及碰撞。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[「中海幸福社區」首個服務中心開幕　結合企業資源 共建幸福社區]]></title>
+            <link>https://www.wenweipo.com/a/202610/17/AP6ad366d7e4b01d54a2878d01.html</link>
+            <guid>https://www.wenweipo.com/a/202610/17/AP6ad366d7e4b01d54a2878d01.html</guid>
+            <pubDate>Sat, 17 Oct 2026 12:15:17 GMT</pubDate>
+            <description><![CDATA[中國海外集團及中國海外愛心基金會於深水埗蘇屋邨舉行「中海幸福社區」首個服務中心開幕禮，標誌着「中國海外」全新社區民生服務計劃正式啟動。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[iPhone開售引發信用卡爭議 方保僑：建議蘋果全面啟用3DS功能]]></title>
+            <link>https://www.wenweipo.com/a/202610/17/AP6ad359f0e4b01d54a2878c08.html</link>
+            <guid>https://www.wenweipo.com/a/202610/17/AP6ad359f0e4b01d54a2878c08.html</guid>
+            <pubDate>Sat, 17 Oct 2026 11:20:14 GMT</pubDate>
+            <description><![CDATA[對於此次iPhone開售引發的信用卡爭議，香港資訊科技商會榮譽會長方保僑表示，必須分開兩種情況來分析：]]></description>
+        </item>
+        <item>
+            <title><![CDATA[(有片) 將軍澳電視城雜物起火 消防趕至撲熄]]></title>
+            <link>https://www.wenweipo.com/a/202610/17/AP6ad35211e4b01d54a2878b56.html</link>
+            <guid>https://www.wenweipo.com/a/202610/17/AP6ad35211e4b01d54a2878b56.html</guid>
+            <pubDate>Sat, 17 Oct 2026 10:46:39 GMT</pubDate>
+            <description><![CDATA[今日（17日）下午近3時，當局接獲報案，指將軍澳駿才街77號TVB電視廣播城有戶外雜物起火。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[記者直擊｜重陽假期開啟！新皇崗口岸迎人潮　旅客體驗如何？]]></title>
+            <link>https://www.wenweipo.com/a/202610/17/AP6ad348dae4b01d54a2878a56.html</link>
+            <guid>https://www.wenweipo.com/a/202610/17/AP6ad348dae4b01d54a2878a56.html</guid>
+            <pubDate>Sat, 17 Oct 2026 10:07:20 GMT</pubDate>
+            <description><![CDATA[本港一連三日的重陽節小長假今日（17日）開啟，新皇崗口岸迎來開通後的首個過關人潮高峰。]]></description>
+        </item>
         <item>
             <title><![CDATA[逾110人報案稱遭盜卡預購iPhone Duo 涉款460萬 警批蘋果未啟用3DS交易驗證]]></title>
             <link>https://www.wenweipo.com/a/202610/17/AP6ad33e30e4b01d54a2878918.html</link>
@@ -78,41 +113,6 @@
             <guid>https://www.wenweipo.com/a/202610/17/AP6ad309fee4b01d54a287838f.html</guid>
             <pubDate>Sat, 17 Oct 2026 05:39:10 GMT</pubDate>
             <description><![CDATA[蘋果公司最新推出的摺疊式手機iPhone Duo於昨晚（16日）8時起接受網上預購，據了解警方接獲逾百名市民報案，表示信用卡被盜用購買iPhone，涉款至少數百萬元。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[昂船洲船隻起火 市民或受飄散煙霧異味影響 消防籲關門窗]]></title>
-            <link>https://www.wenweipo.com/a/202610/17/AP6ad3093fe4b01d54a287837c.html</link>
-            <guid>https://www.wenweipo.com/a/202610/17/AP6ad3093fe4b01d54a287837c.html</guid>
-            <pubDate>Sat, 17 Oct 2026 05:35:57 GMT</pubDate>
-            <description><![CDATA[消防處於今日（17日）上午11時23分發出「昂船洲火警特別通知」，指於今日早上9時52分接獲報告，昂船洲有一艘已泊岸的船隻發生火警，消防人員正進行滅火行動。消防處提醒市民，若受到隨風飄散的煙霧和異味影響，請盡量留在室內及關閉門窗，並保持鎮定。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港聖約翰救傷隊港島總部亮燈　慶祝成立110周年]]></title>
-            <link>https://www.wenweipo.com/a/202610/17/AP6ad307d9e4b01d54a2878369.html</link>
-            <guid>https://www.wenweipo.com/a/202610/17/AP6ad307d9e4b01d54a2878369.html</guid>
-            <pubDate>Sat, 17 Oct 2026 05:30:00 GMT</pubDate>
-            <description><![CDATA[香港聖約翰救傷隊昨日（16日）在位於大坑道的港島總部，舉行「傳承於心·攜手同行」亮燈儀式，正式啟動聖約翰港島總部外牆的燈飾，並同時慶祝救傷隊成立110周年。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（有片）警「雙錘」打擊黑幫黃賭毒行動拘53人]]></title>
-            <link>https://www.wenweipo.com/a/202610/17/AP6ad2fb95e4b01d54a287824a.html</link>
-            <guid>https://www.wenweipo.com/a/202610/17/AP6ad2fb95e4b01d54a287824a.html</guid>
-            <pubDate>Sat, 17 Oct 2026 04:37:40 GMT</pubDate>
-            <description><![CDATA[港島總區刑事部為打擊兩個三合會團夥跨區黃賭毒猖獗罪行，早前透過派出探員假扮顧客或買家搜集情報後，過去一星期聯同各警區及入境處展開代號 「雙錘」反三合會行動，偵破公屋毒品儲存及包裝中心、樓上私人會所或酒吧掩飾賣淫場所、非法賭檔，行動中共拘53人，包括三合會骨幹成員，檢獲大量賣淫相關用品、賭博工具及逾3.6公斤大麻類物品，毒品總值約100萬元。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[校長講堂｜仰望星空 腳踏實地——航天熱潮下的教育使命]]></title>
-            <link>https://www.wenweipo.com/a/202610/17/AP6ad227a4e4b01d54a287712a.html</link>
-            <guid>https://www.wenweipo.com/a/202610/17/AP6ad227a4e4b01d54a287712a.html</guid>
-            <pubDate>Sat, 17 Oct 2026 04:00:00 GMT</pubDate>
-            <description><![CDATA[2026年9月9日「天宮課堂港澳專場」再度點燃了無數香港學生心中對宇宙的嚮往。當神舟二十三號乘組的航天員在距離地球約四百公里的天宮空間站，透過直播向港澳學生娓娓道來太空生活的點滴，我在校內直播現場，看著學生們目不轉睛、神情專注，心中百感交集——這一刻，正是教育最美麗的模樣。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[土瓜灣6男女闖單位槌傷女住戶掠現金及手機]]></title>
-            <link>https://www.wenweipo.com/a/202610/17/AP6ad2eeede4b01d54a287815a.html</link>
-            <guid>https://www.wenweipo.com/a/202610/17/AP6ad2eeede4b01d54a287815a.html</guid>
-            <pubDate>Sat, 17 Oct 2026 03:43:40 GMT</pubDate>
-            <description><![CDATA[今日（17日）上午7時許，3男3女到達土瓜灣永耀街3號唐樓一單位拍門，43歲姓郭女住戶開門後，遭對方用鐵槌襲擊及絆倒地上受傷，眾人繼而掠去3,000元現金及一部手機逃去，傷者致電男友人，由男友人代為報警求助，清醒由救護車送伊利沙伯醫院治理。大批警員接報到場調查，現場遺下染有血漬紙巾，初步相信女事主與對方認識及曾發生糾紛；案件列作襲擊造成身體受傷害及盜竊案處理，交由九龍城警區刑事調查隊第三隊跟進，正追緝涉案在逃男女。]]></description>
         </item>
     </channel>
 </rss>
