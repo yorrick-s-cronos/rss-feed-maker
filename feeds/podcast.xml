@@ -10,6 +10,24 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[マネーロンダリング対策のためのメモリ対応エージェントハーネス — Nacho Martinez（Oracle）]]></title>
+            <link>https://finance.biggo.jp/podcast/a93b12807837b161</link>
+            <guid>https://finance.biggo.jp/podcast/a93b12807837b161</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIは市場をどこまで支えられるのか？ Christian Mueller-Glissmann氏を迎えて | U Got Options | 第13回]]></title>
+            <link>https://finance.biggo.jp/podcast/70fad242e2ef9e5c</link>
+            <guid>https://finance.biggo.jp/podcast/70fad242e2ef9e5c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TWiV 1366: Daniel Griffin医師による臨床アップデート]]></title>
+            <link>https://finance.biggo.jp/podcast/28258abbd66e3dc8</link>
+            <guid>https://finance.biggo.jp/podcast/28258abbd66e3dc8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【深掘り】韓国の出生率を急上昇させた型破りな手法、中国は学ぶべきか？]]></title>
             <link>https://finance.biggo.jp/podcast/3b1216533cca7cdc</link>
             <guid>https://finance.biggo.jp/podcast/3b1216533cca7cdc</guid>
@@ -109,24 +127,6 @@
             <title><![CDATA[本番システムがAIの次なる大きな課題となる理由]]></title>
             <link>https://finance.biggo.jp/podcast/b5538c879f4b7588</link>
             <guid>https://finance.biggo.jp/podcast/b5538c879f4b7588</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[テバのウェルトルーザ上市とノボのGLP-1戦略を読み解く]]></title>
-            <link>https://finance.biggo.jp/podcast/0feade2789eb03f6</link>
-            <guid>https://finance.biggo.jp/podcast/0feade2789eb03f6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vercelのデプロイの60%がAIエージェントによるものに]]></title>
-            <link>https://finance.biggo.jp/podcast/2879379bc32e54be</link>
-            <guid>https://finance.biggo.jp/podcast/2879379bc32e54be</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[お金を稼ぐのをやめられない人の6つの特徴]]></title>
-            <link>https://finance.biggo.jp/podcast/28858cc2ea91db83</link>
-            <guid>https://finance.biggo.jp/podcast/28858cc2ea91db83</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
