@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TWiV 1367：DNAを切断せずにB型肝炎ウイルスを沈黙させる]]></title>
+            <link>https://finance.biggo.jp/podcast/87cce750f4964fa3</link>
+            <guid>https://finance.biggo.jp/podcast/87cce750f4964fa3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[東証 池田直隆さんが語る「東証PBR改革」]]></title>
+            <link>https://finance.biggo.jp/podcast/975e5a43efb5eafb</link>
+            <guid>https://finance.biggo.jp/podcast/975e5a43efb5eafb</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIエージェントのせいでユーザーがResyからBANされた件 — Keycard、JPMorgan Chase、AAuth]]></title>
             <link>https://finance.biggo.jp/podcast/ffc9a3762591e409</link>
             <guid>https://finance.biggo.jp/podcast/ffc9a3762591e409</guid>
@@ -115,18 +127,6 @@
             <title><![CDATA[アップルはいかにして中国のテック大国化を支えたか]]></title>
             <link>https://finance.biggo.jp/podcast/eadaa30c89a8e3cd</link>
             <guid>https://finance.biggo.jp/podcast/eadaa30c89a8e3cd</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ウォーシュ氏が「重大な」AIを称賛、トランプ大統領報道官は5日で退任]]></title>
-            <link>https://finance.biggo.jp/podcast/1ebfa11e5a74a366</link>
-            <guid>https://finance.biggo.jp/podcast/1ebfa11e5a74a366</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エピソード199 - 2026年10月16日]]></title>
-            <link>https://finance.biggo.jp/podcast/465b6114a5e4ca35</link>
-            <guid>https://finance.biggo.jp/podcast/465b6114a5e4ca35</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
