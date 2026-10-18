@@ -1,5 +1,5 @@
 {
-  "lastSuccess": "2026-10-18T14:36:54.407Z",
+  "lastSuccess": "2026-10-18T18:08:31.301Z",
   "articleCount": 14,
   "knownLinks": [
     "https://www.anthropic.com/news/cyber-verification-program",
@@ -7,6 +7,7 @@
     "https://www.anthropic.com/claude-sonnet-5-5",
     "https://www.anthropic.com/claude-opus-5-5",
     "https://www.anthropic.com/features/ebola-response",
+    "https://www.anthropic.com/news/public-benefit-fund",
     "https://www.anthropic.com/news/an-update-on-independent-evaluators",
     "https://www.anthropic.com/news/2026-us-midterms",
     "https://www.anthropic.com/news/singapore-office-opening",
@@ -14,8 +15,7 @@
     "https://www.anthropic.com/news/genesis-mission-commitment",
     "https://www.anthropic.com/news/anthropic-cyber-mission",
     "https://www.anthropic.com/news/claude-frontier-academy",
-    "https://www.anthropic.com/news/barclays-scales-claude",
-    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+    "https://www.anthropic.com/news/barclays-scales-claude"
   ],
   "consecutiveErrors": 0
 }

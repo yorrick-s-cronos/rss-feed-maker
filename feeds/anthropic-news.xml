@@ -4,11 +4,17 @@
         <title>Anthropic Newsroom</title>
         <link>https://www.anthropic.com/news</link>
         <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-        <lastBuildDate>Thu, 15 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic-news.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Investing in the public benefit]]></title>
+            <link>https://www.anthropic.com/news/public-benefit-fund</link>
+            <guid>https://www.anthropic.com/news/public-benefit-fund</guid>
+            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An update on independent evaluators]]></title>
             <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
@@ -77,12 +83,6 @@
             <guid>https://www.anthropic.com/claude-sonnet-5-5</guid>
             <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Claude discovers a novel enzyme system with CRISPR-like repeats]]></title>
-            <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
-            <guid>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Claude Opus 5.5]]></title>

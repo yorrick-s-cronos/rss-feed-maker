@@ -10,13 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[This app is making $2,000 PER DAY]]></title>
+            <link>https://finance.biggo.jp/podcast/4873b81dd6555acd</link>
+            <guid>https://finance.biggo.jp/podcast/4873b81dd6555acd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【十字路】新たな起業機会がClaude CodeとCodexの周辺で生まれつつある｜Tregとの対談【動画ポッドキャスト】]]></title>
+            <link>https://finance.biggo.jp/podcast/41e8fa59207733bf</link>
+            <guid>https://finance.biggo.jp/podcast/41e8fa59207733bf</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIバブルは弾けず、ヘッジファンドのレバレッジが崩れた]]></title>
             <link>https://finance.biggo.jp/podcast/dd779904555cba3c</link>
             <guid>https://finance.biggo.jp/podcast/dd779904555cba3c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[モデルの実際の仕組みをめぐる、視野が広がる対話 | Emmanuel Ameisen（Anthropic）]]></title>
+            <title><![CDATA[AIモデルは実際どう動くのか？｜Claudeの思考を覗く科学者]]></title>
             <link>https://finance.biggo.jp/podcast/d3f29fead1920cd1</link>
             <guid>https://finance.biggo.jp/podcast/d3f29fead1920cd1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[AIの請求書は高すぎる：トークノミクス入門 — Eugene Cheah氏、Featherless AI]]></title>
             <link>https://finance.biggo.jp/podcast/e8bb74ebe5740bc9</link>
             <guid>https://finance.biggo.jp/podcast/e8bb74ebe5740bc9</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[マネーロンダリング対策のためのメモリ対応エージェントハーネス — Nacho Martinez（Oracle）]]></title>
-            <link>https://finance.biggo.jp/podcast/a93b12807837b161</link>
-            <guid>https://finance.biggo.jp/podcast/a93b12807837b161</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIは市場をどこまで支えられるのか？ Christian Mueller-Glissmann氏を迎えて | U Got Options | 第13回]]></title>
-            <link>https://finance.biggo.jp/podcast/70fad242e2ef9e5c</link>
-            <guid>https://finance.biggo.jp/podcast/70fad242e2ef9e5c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
