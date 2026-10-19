@@ -4,11 +4,17 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Sun, 18 Oct 2026 16:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 00:49:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[直擊港人北上求醫：藥費八分之一、隔日可手術！香港如何留住病人？]]></title>
+            <link>https://www.wenweipo.com/a/202610/19/AP6ad56919e4b01d54a287b6fe.html</link>
+            <guid>https://www.wenweipo.com/a/202610/19/AP6ad56919e4b01d54a287b6fe.html</guid>
+            <pubDate>Mon, 19 Oct 2026 00:49:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[(有片) 跨境求醫系列一 │ 北上求醫折射香港醫療短板 肺癌患者陳先生：每次來回都很累 但這是我救命的藥]]></title>
             <link>https://www.wenweipo.com/a/202610/19/AP6ad4c6c8e4b01d54a287ac22.html</link>
@@ -50,18 +56,6 @@
             <link>https://www.wenweipo.com/a/202610/18/AP6ad4563fe4b01d54a2879f88.html</link>
             <guid>https://www.wenweipo.com/a/202610/18/AP6ad4563fe4b01d54a2879f88.html</guid>
             <pubDate>Sun, 18 Oct 2026 05:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[八達通回應新皇崗口岸叫車難：配合車隊系統調優]]></title>
-            <link>https://www.wenweipo.com/a/202610/18/AP6ad4413de4b01d54a2879d51.html</link>
-            <guid>https://www.wenweipo.com/a/202610/18/AP6ad4413de4b01d54a2879d51.html</guid>
-            <pubDate>Sun, 18 Oct 2026 03:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[長榮航空香港站市區預辦登機服務下周二起重新啟用]]></title>
-            <link>https://www.wenweipo.com/a/202610/18/AP6ad439ace4b01d54a2879c72.html</link>
-            <guid>https://www.wenweipo.com/a/202610/18/AP6ad439ace4b01d54a2879c72.html</guid>
-            <pubDate>Sun, 18 Oct 2026 03:14:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[新華社：寫在APEC領導人非正式會議倒計時一個月之際]]></title>
