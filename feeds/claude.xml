@@ -4,11 +4,17 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Fri, 16 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Redesigning source control at Anthropic]]></title>
+            <link>https://www.anthropic.com/engineering/redesigning-source-control</link>
+            <guid>https://www.anthropic.com/engineering/redesigning-source-control</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How an Anthropic BDR in Japan runs his day with Claude Managed Agents]]></title>
             <link>https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day</link>
@@ -68,12 +74,6 @@
             <link>https://claude.dev/blog/automating-eval-design-and-hillclimbing/</link>
             <guid>https://claude.dev/blog/automating-eval-design-and-hillclimbing/</guid>
             <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases]]></title>
-            <link>https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases</link>
-            <guid>https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
