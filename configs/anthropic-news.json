@@ -7,8 +7,8 @@
     "language": "en"
   },
   "selectors": {
-    "articleList": "a:has(time)",
-    "title": "h2, h4, span[class*='title']",
+    "articleList": "li[data-listing-row]",
+    "title": "h3",
     "date": "time",
     "description": "p",
     "link": {
@@ -16,5 +16,7 @@
       "prefix": "https://www.anthropic.com"
     }
   },
-  "createdAt": "2026-10-15T16:44:43.107Z"
+  "parserMode": "css",
+  "createdAt": "2026-10-15T16:44:43.107Z",
+  "lastHealed": "2026-10-20T23:55:33.195Z"
 }
