@@ -8,15 +8,16 @@
     "author": "Anthropic"
   },
   "selectors": {
-    "articleList": "ul.PublicationList-module-scss-module__KxYrHG__list",
-    "title": "span.PublicationList-module-scss-module__KxYrHG__title",
-    "date": "time.PublicationList-module-scss-module__KxYrHG__date",
+    "articleList": "li[data-listing-row]",
+    "title": "h3",
+    "date": "time",
+    "description": "div[class*=\"description\"] p",
     "link": {
       "source": "attr:href",
-      "selector": "a",
       "prefix": "https://www.anthropic.com"
     }
   },
-  "dateFormat": "MMMM d, yyyy",
-  "createdAt": "2026-05-10T00:00:00Z"
+  "parserMode": "css",
+  "createdAt": "2026-05-10T00:00:00Z",
+  "lastHealed": "2026-10-20T23:55:36.611Z"
 }
