@@ -10,6 +10,42 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[XPeng次世代パイロット（NGP）実地レポート]]></title>
+            <link>https://finance.biggo.jp/podcast/f7657326897f5588</link>
+            <guid>https://finance.biggo.jp/podcast/f7657326897f5588</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[マッハ5のジェット機開発に挑むスタートアップ]]></title>
+            <link>https://finance.biggo.jp/podcast/b46ebdbdb27c455f</link>
+            <guid>https://finance.biggo.jp/podcast/b46ebdbdb27c455f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Deep Dive on Super Intelligence, Reinforcement Learning, and Bionic Limbs]]></title>
+            <link>https://finance.biggo.jp/podcast/136fd9af11edcecd</link>
+            <guid>https://finance.biggo.jp/podcast/136fd9af11edcecd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[家なし、クレジットカード債務増大：Z世代のマネートラップ — モーガン・ハウセルと共に]]></title>
+            <link>https://finance.biggo.jp/podcast/8217a5e287c428b8</link>
+            <guid>https://finance.biggo.jp/podcast/8217a5e287c428b8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AfD共同党首アリス・ヴァイデル、ウクライナ・移民・ドイツの未来について語る｜The Economist]]></title>
+            <link>https://finance.biggo.jp/podcast/7b5d9b20c5542655</link>
+            <guid>https://finance.biggo.jp/podcast/7b5d9b20c5542655</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[トレイシー・ブリット・クール：バフェットの参謀長から家族経営企業の買収へ]]></title>
+            <link>https://finance.biggo.jp/podcast/aba45a8f81061613</link>
+            <guid>https://finance.biggo.jp/podcast/aba45a8f81061613</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ある日、トークンに$1,000：レガシーコードのためのAIウォールーム — Ford Prior、GEICO]]></title>
             <link>https://finance.biggo.jp/podcast/8a24b8f8f9a41967</link>
             <guid>https://finance.biggo.jp/podcast/8a24b8f8f9a41967</guid>
@@ -91,42 +127,6 @@
             <title><![CDATA[シリコンバレーの「永久的下層階級」パニックは間違っている — オリバー・バークマンと共に]]></title>
             <link>https://finance.biggo.jp/podcast/d750a92f8f628935</link>
             <guid>https://finance.biggo.jp/podcast/d750a92f8f628935</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[戦略的意図：血液検査はアルツハイマー病診断のボトルネックを解消できるか？]]></title>
-            <link>https://finance.biggo.jp/podcast/f80d9c0f768b39e8</link>
-            <guid>https://finance.biggo.jp/podcast/f80d9c0f768b39e8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3時間のエリザベス・ホームズドキュメンタリーを私たちが観たので、あなたは観なくていい]]></title>
-            <link>https://finance.biggo.jp/podcast/e811bc0d8b6078eb</link>
-            <guid>https://finance.biggo.jp/podcast/e811bc0d8b6078eb</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第039回 - [回答] 私たちの数字は「異常」だ。これがその証拠。（データセンター）]]></title>
-            <link>https://finance.biggo.jp/podcast/0db40fc05db8e3a3</link>
-            <guid>https://finance.biggo.jp/podcast/0db40fc05db8e3a3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[待つ投資家に報いるトレンドフォロー | Systematic Investor | Ep.422]]></title>
-            <link>https://finance.biggo.jp/podcast/54d774ed7afd330a</link>
-            <guid>https://finance.biggo.jp/podcast/54d774ed7afd330a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ChatGPTに健康相談を任せてよいのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/657362188437a8e4</link>
-            <guid>https://finance.biggo.jp/podcast/657362188437a8e4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Armが切り開くロボティクスと自動運転車のスケーリング]]></title>
-            <link>https://finance.biggo.jp/podcast/bece600ad9bba360</link>
-            <guid>https://finance.biggo.jp/podcast/bece600ad9bba360</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
