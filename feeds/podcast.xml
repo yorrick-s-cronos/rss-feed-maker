@@ -10,13 +10,43 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ある日、トークンに$1,000：レガシーコードのためのAIウォールーム — Ford Prior、GEICO]]></title>
+            <link>https://finance.biggo.jp/podcast/8a24b8f8f9a41967</link>
+            <guid>https://finance.biggo.jp/podcast/8a24b8f8f9a41967</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIが調査時間を7日から15分に短縮——VanguardのGareth Yoder氏]]></title>
+            <link>https://finance.biggo.jp/podcast/295249c786cdda2d</link>
+            <guid>https://finance.biggo.jp/podcast/295249c786cdda2d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[転移性乳癌に対する既製の細胞免疫療法の開発]]></title>
+            <link>https://finance.biggo.jp/podcast/6eae7c836f271f71</link>
+            <guid>https://finance.biggo.jp/podcast/6eae7c836f271f71</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[速いモデルは本当に速いのか？仕事全体で測れ — MiniMaxのMorgan Suo氏]]></title>
+            <link>https://finance.biggo.jp/podcast/d2a71bf32275ec9e</link>
+            <guid>https://finance.biggo.jp/podcast/d2a71bf32275ec9e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エリック・シュミット：我々は超知能の準備ができているのか？｜ポッドキャスト｜イン・グッド・カンパニー]]></title>
+            <link>https://finance.biggo.jp/podcast/b7484288bbf96443</link>
+            <guid>https://finance.biggo.jp/podcast/b7484288bbf96443</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[155. 科沃斯の銭程と語る——父と子、企業二代目の事業承継のサンプルとその肌理、ロボット、そして私の内なる探求]]></title>
             <link>https://finance.biggo.jp/podcast/82b067b032a3cfd3</link>
             <guid>https://finance.biggo.jp/podcast/82b067b032a3cfd3</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[スマホに「新しい物語」が必要だ：Agentインタラクションと次世代エントリーの争い｜豆包スマホ第2世代を実測]]></title>
+            <title><![CDATA[AIスマートフォンの現実と未来：業界加速の裏にある技術進化と次世代エントリー争い]]></title>
             <link>https://finance.biggo.jp/podcast/c79c4aa06bd72385</link>
             <guid>https://finance.biggo.jp/podcast/c79c4aa06bd72385</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[Armが切り開くロボティクスと自動運転車のスケーリング]]></title>
             <link>https://finance.biggo.jp/podcast/bece600ad9bba360</link>
             <guid>https://finance.biggo.jp/podcast/bece600ad9bba360</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[プログラマブル・データセンター — Evan Conrad、SF Compute]]></title>
-            <link>https://finance.biggo.jp/podcast/e92dc11d13249772</link>
-            <guid>https://finance.biggo.jp/podcast/e92dc11d13249772</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[トト・ヴォルフはいかにしてF1で最も価値あるチームを築いたか]]></title>
-            <link>https://finance.biggo.jp/podcast/0e1e66a32a97bbfa</link>
-            <guid>https://finance.biggo.jp/podcast/0e1e66a32a97bbfa</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIハッカーがサイバーセキュリティをどう変えるか]]></title>
-            <link>https://finance.biggo.jp/podcast/6364e4c9897ec8fe</link>
-            <guid>https://finance.biggo.jp/podcast/6364e4c9897ec8fe</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ロボット・データ・ファクトリーの内側：MeckaのJosh Gaoが語る、人間をセンサー化してロボットを訓練する方法]]></title>
-            <link>https://finance.biggo.jp/podcast/5ff88ea8c64099d2</link>
-            <guid>https://finance.biggo.jp/podcast/5ff88ea8c64099d2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[生命の世界モデル：BiohubのAlex Rivesが語る仮想細胞、計測、そして18億ドルのデータ推進]]></title>
-            <link>https://finance.biggo.jp/podcast/43541781fd21ef00</link>
-            <guid>https://finance.biggo.jp/podcast/43541781fd21ef00</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
