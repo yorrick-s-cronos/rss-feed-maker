@@ -10,37 +10,67 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Your Company Needs an AI Lab]]></title>
+            <link>https://finance.biggo.jp/podcast/46241689cae3515a</link>
+            <guid>https://finance.biggo.jp/podcast/46241689cae3515a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I quit my job to build this micro-saas. Now it makes $30K/month]]></title>
+            <link>https://finance.biggo.jp/podcast/4b179d35e0a91da6</link>
+            <guid>https://finance.biggo.jp/podcast/4b179d35e0a91da6</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Rogan Experience #2569 - Bill Thompson]]></title>
+            <link>https://finance.biggo.jp/podcast/60c414582d8dfc61</link>
+            <guid>https://finance.biggo.jp/podcast/60c414582d8dfc61</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Larsonと考えるエンジニアリングマネジメントの新ルール]]></title>
+            <link>https://finance.biggo.jp/podcast/0630e3f55bf0de8c</link>
+            <guid>https://finance.biggo.jp/podcast/0630e3f55bf0de8c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPhone Duoについて私たちが本当に感じていること]]></title>
+            <link>https://finance.biggo.jp/podcast/f78d23a6594aaee9</link>
+            <guid>https://finance.biggo.jp/podcast/f78d23a6594aaee9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[XPeng次世代パイロット（NGP）実地レポート]]></title>
             <link>https://finance.biggo.jp/podcast/f7657326897f5588</link>
             <guid>https://finance.biggo.jp/podcast/f7657326897f5588</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[マッハ5のジェット機開発に挑むスタートアップ]]></title>
+            <title><![CDATA[彼らは世界最速の戦闘機を開発している]]></title>
             <link>https://finance.biggo.jp/podcast/b46ebdbdb27c455f</link>
             <guid>https://finance.biggo.jp/podcast/b46ebdbdb27c455f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI Deep Dive on Super Intelligence, Reinforcement Learning, and Bionic Limbs]]></title>
+            <title><![CDATA[超知能、強化学習、バイオニック義肢に関するAI深掘り]]></title>
             <link>https://finance.biggo.jp/podcast/136fd9af11edcecd</link>
             <guid>https://finance.biggo.jp/podcast/136fd9af11edcecd</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[家なし、クレジットカード債務増大：Z世代のマネートラップ — モーガン・ハウセルと共に]]></title>
+            <title><![CDATA[若者は借金が少ない、しかし落とし穴がある — モーガン・ハウセルと共に]]></title>
             <link>https://finance.biggo.jp/podcast/8217a5e287c428b8</link>
             <guid>https://finance.biggo.jp/podcast/8217a5e287c428b8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AfD共同党首アリス・ヴァイデル、ウクライナ・移民・ドイツの未来について語る｜The Economist]]></title>
+            <title><![CDATA[AfD共同党首アリス・ヴァイデルの完全版インタビュー｜The Economist]]></title>
             <link>https://finance.biggo.jp/podcast/7b5d9b20c5542655</link>
             <guid>https://finance.biggo.jp/podcast/7b5d9b20c5542655</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[トレイシー・ブリット・クール：バフェットの参謀長から家族経営企業の買収へ]]></title>
+            <title><![CDATA[トレイシー・ブリット・クール：オーガニック利益35%成長と「早すぎる売却」への反論]]></title>
             <link>https://finance.biggo.jp/podcast/aba45a8f81061613</link>
             <guid>https://finance.biggo.jp/podcast/aba45a8f81061613</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -58,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[転移性乳癌に対する既製の細胞免疫療法の開発]]></title>
+            <title><![CDATA[転移性乳がん向けの既製細胞ベース免疫療法の開発]]></title>
             <link>https://finance.biggo.jp/podcast/6eae7c836f271f71</link>
             <guid>https://finance.biggo.jp/podcast/6eae7c836f271f71</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -97,36 +127,6 @@
             <title><![CDATA[Opus 5.5は、より賢いモデルが本当に必要だと証明している]]></title>
             <link>https://finance.biggo.jp/podcast/adb48c0db48a20af</link>
             <guid>https://finance.biggo.jp/podcast/adb48c0db48a20af</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terafab騒動：Timのスクープが波紋、しかし話題の巨大工場の次は？]]></title>
-            <link>https://finance.biggo.jp/podcast/413519823ab243c8</link>
-            <guid>https://finance.biggo.jp/podcast/413519823ab243c8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ある銀行が自社製コーディングエージェントを開発、大成功を収める — MonzoのFelipe Felisola Caso氏とFrancesco Galletta氏]]></title>
-            <link>https://finance.biggo.jp/podcast/fd0f06dd01fe6618</link>
-            <guid>https://finance.biggo.jp/podcast/fd0f06dd01fe6618</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIが数学界を二分している｜The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/98a2a886920f63b3</link>
-            <guid>https://finance.biggo.jp/podcast/98a2a886920f63b3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joe Rogan Experience #2568 - Ross Edgley]]></title>
-            <link>https://finance.biggo.jp/podcast/7d82b13210c54833</link>
-            <guid>https://finance.biggo.jp/podcast/7d82b13210c54833</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[シリコンバレーの「永久的下層階級」パニックは間違っている — オリバー・バークマンと共に]]></title>
-            <link>https://finance.biggo.jp/podcast/d750a92f8f628935</link>
-            <guid>https://finance.biggo.jp/podcast/d750a92f8f628935</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

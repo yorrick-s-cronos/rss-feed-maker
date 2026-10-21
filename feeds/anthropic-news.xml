@@ -4,11 +4,18 @@
         <title>Anthropic Newsroom</title>
         <link>https://www.anthropic.com/news</link>
         <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-        <lastBuildDate>Sun, 18 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic-news.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust]]></title>
+            <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
+            <guid>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.]]></description>
+        </item>
         <item>
             <title><![CDATA[Investing in the public benefit]]></title>
             <link>https://www.anthropic.com/news/public-benefit-fund</link>
@@ -140,6 +147,7 @@
             <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
             <guid>https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
             <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic.]]></description>
         </item>
         <item>
             <title><![CDATA[Improving our alignment and security efforts]]></title>
@@ -168,13 +176,6 @@
             <guid>https://www.anthropic.com/news/wellbeing-research-grants</guid>
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[How Claude’s text watermark works]]></title>
-            <link>https://www.anthropic.com/news/claude-text-watermark</link>
-            <guid>https://www.anthropic.com/news/claude-text-watermark</guid>
-            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.]]></description>
         </item>
     </channel>
 </rss>

@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-10-21T15:18:27.363Z",
+  "lastSuccess": "2026-10-21T20:11:47.051Z",
   "articleCount": 24,
   "knownLinks": [
+    "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
     "https://www.anthropic.com/news/public-benefit-fund",
     "https://www.anthropic.com/news/an-update-on-independent-evaluators",
     "https://www.anthropic.com/news/2026-us-midterms",
@@ -24,8 +25,7 @@
     "https://www.anthropic.com/news/improving-alignment-security-efforts",
     "https://www.anthropic.com/news/model-hardware-standard-research-preview",
     "https://www.anthropic.com/news/expanding-support-for-scientists",
-    "https://www.anthropic.com/news/wellbeing-research-grants",
-    "https://www.anthropic.com/news/claude-text-watermark"
+    "https://www.anthropic.com/news/wellbeing-research-grants"
   ],
   "consecutiveErrors": 0
 }

@@ -4,11 +4,29 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Mon, 19 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HCLTech joins the Claude Partner Network as a Global Premier partner]]></title>
+            <link>https://claude.com/resources/articles/hcltech-joins-claude-partner-network</link>
+            <guid>https://claude.com/resources/articles/hcltech-joins-claude-partner-network</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Claude Duet]]></title>
+            <link>https://claude.com/resources/articles/claude-duet</link>
+            <guid>https://claude.com/resources/articles/claude-duet</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claude Security now scans continuously and tracks fixes]]></title>
+            <link>https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes</link>
+            <guid>https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Redesigning source control at Anthropic]]></title>
             <link>https://www.anthropic.com/engineering/redesigning-source-control</link>
@@ -56,24 +74,6 @@
             <link>https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests</link>
             <guid>https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests</guid>
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build live dashboards and animate explainers with Claude]]></title>
-            <link>https://claude.com/resources/articles/dashboards-and-motion</link>
-            <guid>https://claude.com/resources/articles/dashboards-and-motion</guid>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude Haiku 5.5]]></title>
-            <link>https://www.anthropic.com/claude-haiku-5-5</link>
-            <guid>https://www.anthropic.com/claude-haiku-5-5</guid>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automating eval design and hillclimbing with Claude]]></title>
-            <link>https://claude.dev/blog/automating-eval-design-and-hillclimbing/</link>
-            <guid>https://claude.dev/blog/automating-eval-design-and-hillclimbing/</guid>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
