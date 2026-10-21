@@ -10,6 +10,36 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[155. 科沃斯の銭程と語る——父と子、企業二代目の事業承継のサンプルとその肌理、ロボット、そして私の内なる探求]]></title>
+            <link>https://finance.biggo.jp/podcast/82b067b032a3cfd3</link>
+            <guid>https://finance.biggo.jp/podcast/82b067b032a3cfd3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スマホに「新しい物語」が必要だ：Agentインタラクションと次世代エントリーの争い｜豆包スマホ第2世代を実測]]></title>
+            <link>https://finance.biggo.jp/podcast/c79c4aa06bd72385</link>
+            <guid>https://finance.biggo.jp/podcast/c79c4aa06bd72385</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[同じGPUで出力50%増——オペレーターが重要な理由：SemiAnalysisのOliver Kennon氏]]></title>
+            <link>https://finance.biggo.jp/podcast/bbe25fc2d4a8a84e</link>
+            <guid>https://finance.biggo.jp/podcast/bbe25fc2d4a8a84e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opus 5.5は、より賢いモデルが本当に必要だと証明している]]></title>
+            <link>https://finance.biggo.jp/podcast/adb48c0db48a20af</link>
+            <guid>https://finance.biggo.jp/podcast/adb48c0db48a20af</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Terafab騒動：Timのスクープが波紋、しかし話題の巨大工場の次は？]]></title>
+            <link>https://finance.biggo.jp/podcast/413519823ab243c8</link>
+            <guid>https://finance.biggo.jp/podcast/413519823ab243c8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ある銀行が自社製コーディングエージェントを開発、大成功を収める — MonzoのFelipe Felisola Caso氏とFrancesco Galletta氏]]></title>
             <link>https://finance.biggo.jp/podcast/fd0f06dd01fe6618</link>
             <guid>https://finance.biggo.jp/podcast/fd0f06dd01fe6618</guid>
@@ -97,36 +127,6 @@
             <title><![CDATA[生命の世界モデル：BiohubのAlex Rivesが語る仮想細胞、計測、そして18億ドルのデータ推進]]></title>
             <link>https://finance.biggo.jp/podcast/43541781fd21ef00</link>
             <guid>https://finance.biggo.jp/podcast/43541781fd21ef00</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12か月のコンプライアンス待ちなしでAIを5大銀行に導入 — CiscoのAl Chen氏]]></title>
-            <link>https://finance.biggo.jp/podcast/4a8c13adb83a4577</link>
-            <guid>https://finance.biggo.jp/podcast/4a8c13adb83a4577</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ロボットデータ工場の内側：MeckaのJosh Gaoが語る、人間をセンサー化してロボットを訓練する方法]]></title>
-            <link>https://finance.biggo.jp/podcast/5d7773072c1f69bf</link>
-            <guid>https://finance.biggo.jp/podcast/5d7773072c1f69bf</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[投資家の優位性は頭の中にある — Anekha Sokhal、Moshi]]></title>
-            <link>https://finance.biggo.jp/podcast/aaaa152e7518255d</link>
-            <guid>https://finance.biggo.jp/podcast/aaaa152e7518255d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIエージェントはなぜ独自の銀行口座を必要とするのか — CoinbaseのLincoln Murr氏]]></title>
-            <link>https://finance.biggo.jp/podcast/4bdded5927cc223a</link>
-            <guid>https://finance.biggo.jp/podcast/4bdded5927cc223a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TenexはいかにしてAIネイティブなエンジニアリングチームを築くのか — Alex Lieberman & CJ Hess]]></title>
-            <link>https://finance.biggo.jp/podcast/e2eb530d1dcaad69</link>
-            <guid>https://finance.biggo.jp/podcast/e2eb530d1dcaad69</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
