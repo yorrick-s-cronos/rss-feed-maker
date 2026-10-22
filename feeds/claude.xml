@@ -16,6 +16,12 @@
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The full Claude Platform, available on Google Cloud]]></title>
+            <link>https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed</link>
+            <guid>https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[HCLTech joins the Claude Partner Network as a Global Premier partner]]></title>
             <link>https://claude.com/resources/articles/hcltech-joins-claude-partner-network</link>
             <guid>https://claude.com/resources/articles/hcltech-joins-claude-partner-network</guid>
@@ -68,12 +74,6 @@
             <link>https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai</link>
             <guid>https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai</guid>
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building effective agent automations]]></title>
-            <link>https://claude.dev/blog/building-effective-agent-automations/</link>
-            <guid>https://claude.dev/blog/building-effective-agent-automations/</guid>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
