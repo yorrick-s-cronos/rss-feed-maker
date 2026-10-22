@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-10-22T15:20:43.140Z",
+  "lastSuccess": "2026-10-22T20:09:23.741Z",
   "articleCount": 24,
   "knownLinks": [
+    "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
     "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
     "https://www.anthropic.com/news/public-benefit-fund",
     "https://www.anthropic.com/news/an-update-on-independent-evaluators",
@@ -24,8 +25,7 @@
     "https://www.anthropic.com/news/enterprise-frontier-safeguards",
     "https://www.anthropic.com/news/improving-alignment-security-efforts",
     "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "https://www.anthropic.com/news/expanding-support-for-scientists",
-    "https://www.anthropic.com/news/wellbeing-research-grants"
+    "https://www.anthropic.com/news/expanding-support-for-scientists"
   ],
   "consecutiveErrors": 0
 }

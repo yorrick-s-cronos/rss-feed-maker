@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-10-22T15:20:18.214Z",
+  "lastSuccess": "2026-10-22T20:09:18.081Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://microsoft.ai/news/building-medical-superintelligence/",
     "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
     "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/",
     "https://microsoft.ai/news/our-first-streaming-transcription-model/",
@@ -20,8 +21,7 @@
     "https://microsoft.ai/news/our-values-in-operation-health/",
     "https://microsoft.ai/news/microsoft-build-2026-mai-keynote-transcript/",
     "https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/",
-    "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
-    "https://microsoft.ai/news/introducingmai-code-1-flash/"
+    "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
   ],
   "consecutiveErrors": 0
 }

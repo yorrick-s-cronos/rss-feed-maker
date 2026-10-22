@@ -1,9 +1,9 @@
 {
-  "lastSuccess": "2026-10-22T15:20:48.448Z",
+  "lastSuccess": "2026-10-22T20:09:29.179Z",
   "articleCount": 10,
   "knownLinks": [
-    "https://aleph-alpha.com/en/blog/mind-the-tokenizer/",
     "https://aleph-alpha.com/en/blog/why-rl-environments-have-always-been-an-infra-problem/",
+    "https://aleph-alpha.com/en/blog/mind-the-tokenizer/",
     "https://aleph-alpha.com/en/blog/balancing-experts-at-two-scales/",
     "https://aleph-alpha.com/en/blog/priorbpb/",
     "https://aleph-alpha.com/en/blog/specialized-llms-punch-above-their-weight/",
