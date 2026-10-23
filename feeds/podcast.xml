@@ -10,6 +10,66 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[GSKがFDAで2件の承認を獲得、Rocheの150億ドル取引、そしてポイント・オブ・ケア・マーケティングの台頭]]></title>
+            <link>https://finance.biggo.jp/podcast/d332a3669f84f597</link>
+            <guid>https://finance.biggo.jp/podcast/d332a3669f84f597</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[投資家がAIエクスポージャーを削減する理由]]></title>
+            <link>https://finance.biggo.jp/podcast/3427d8dbfe852507</link>
+            <guid>https://finance.biggo.jp/podcast/3427d8dbfe852507</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2つのビジネスアイデア、堀とXで見つけた最高のネタ]]></title>
+            <link>https://finance.biggo.jp/podcast/2f28fecdbfb7fcf0</link>
+            <guid>https://finance.biggo.jp/podcast/2f28fecdbfb7fcf0</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep212: Tim Shannon、標的タンパク質分解薬の創薬について]]></title>
+            <link>https://finance.biggo.jp/podcast/515ffa03d679796f</link>
+            <guid>https://finance.biggo.jp/podcast/515ffa03d679796f</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ep. 040 - ASMLがハイブリッドボンディング装置を開発中、特許も取得済み（AIサプライチェーン）]]></title>
+            <link>https://finance.biggo.jp/podcast/dbb7b6d3b71305c1</link>
+            <guid>https://finance.biggo.jp/podcast/dbb7b6d3b71305c1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[インターネットが攻撃されている。次は暗号資産か？]]></title>
+            <link>https://finance.biggo.jp/podcast/4fae857c9a76bd54</link>
+            <guid>https://finance.biggo.jp/podcast/4fae857c9a76bd54</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Harrison: Intapp Tripled in Size — Then AI Changed Everything]]></title>
+            <link>https://finance.biggo.jp/podcast/5a9564d8178468c4</link>
+            <guid>https://finance.biggo.jp/podcast/5a9564d8178468c4</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cloudflare CTOのDane Knecht氏と語る、エージェント型ウェブのセキュリティ民主化]]></title>
+            <link>https://finance.biggo.jp/podcast/37cc9bde7040a6a2</link>
+            <guid>https://finance.biggo.jp/podcast/37cc9bde7040a6a2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[銀行が自前の基盤モデルを訓練して不正検知に挑む — Wells FargoのFreddy Lecue氏]]></title>
+            <link>https://finance.biggo.jp/podcast/a3ec6838226c2ad1</link>
+            <guid>https://finance.biggo.jp/podcast/a3ec6838226c2ad1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[インテルが先行量産、TSMCは2030年待ち？High-NA EUV百万枚の裏にある大博打！]]></title>
+            <link>https://finance.biggo.jp/podcast/db4fa0a18bc51085</link>
+            <guid>https://finance.biggo.jp/podcast/db4fa0a18bc51085</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIエージェントに安全にアプリへサインアップさせる方法 — WorkOSのIsabelle Williams氏]]></title>
             <link>https://finance.biggo.jp/podcast/10faa05eaa3fa193</link>
             <guid>https://finance.biggo.jp/podcast/10faa05eaa3fa193</guid>
@@ -25,6 +85,12 @@
             <title><![CDATA[GLP-1による筋肉減少：肥満治療における次の主戦場（全3回の第2回）]]></title>
             <link>https://finance.biggo.jp/podcast/1cef62f7edee8d4c</link>
             <guid>https://finance.biggo.jp/podcast/1cef62f7edee8d4c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[供給回復にもかかわらず原油価格が急騰する理由]]></title>
+            <link>https://finance.biggo.jp/podcast/3fcadf3d1fc51966</link>
+            <guid>https://finance.biggo.jp/podcast/3fcadf3d1fc51966</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
@@ -61,72 +127,6 @@
             <title><![CDATA[優れたAIモデルではエンジニアリングチームは改善しない — JellyfishのNicholas Arcolano氏]]></title>
             <link>https://finance.biggo.jp/podcast/9e4833b689b0f021</link>
             <guid>https://finance.biggo.jp/podcast/9e4833b689b0f021</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JRE MMAショー #187 ロバート・ウィテカー出演回]]></title>
-            <link>https://finance.biggo.jp/podcast/fc88fe1a743069a2</link>
-            <guid>https://finance.biggo.jp/podcast/fc88fe1a743069a2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Field Medical、より多くの患者を治療する新PFA技術を開発]]></title>
-            <link>https://finance.biggo.jp/podcast/2cadfe98be58d952</link>
-            <guid>https://finance.biggo.jp/podcast/2cadfe98be58d952</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[アルバータ州、残留を選択 - 住民投票結果を解説]]></title>
-            <link>https://finance.biggo.jp/podcast/c83acb3b8bd6c5f8</link>
-            <guid>https://finance.biggo.jp/podcast/c83acb3b8bd6c5f8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a16zが今まさに投資したいフロンティアのアイデア | マーク・アンドリーセン、ベン・ホロウィッツ、クリス・ディクソン]]></title>
-            <link>https://finance.biggo.jp/podcast/0d4d784358ababcc</link>
-            <guid>https://finance.biggo.jp/podcast/0d4d784358ababcc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIコンピュートがなぜ長方形でやってくるのか — ModalのErik Bernhardsson氏]]></title>
-            <link>https://finance.biggo.jp/podcast/a795754a7fc44558</link>
-            <guid>https://finance.biggo.jp/podcast/a795754a7fc44558</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2045年のCPUはどうなるのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/db135a193cccf7a0</link>
-            <guid>https://finance.biggo.jp/podcast/db135a193cccf7a0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIデザインの世界でどう目立つか]]></title>
-            <link>https://finance.biggo.jp/podcast/01d04b9e39ae5b8e</link>
-            <guid>https://finance.biggo.jp/podcast/01d04b9e39ae5b8e</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scrip Awardsポッドキャスト – Parabilis CEO Mathai Mammenインタビュー]]></title>
-            <link>https://finance.biggo.jp/podcast/d57457dd921b2e66</link>
-            <guid>https://finance.biggo.jp/podcast/d57457dd921b2e66</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ドイツの新たな世界貿易へのアプローチ｜トランポノミクス]]></title>
-            <link>https://finance.biggo.jp/podcast/c65e4fedcbabdca3</link>
-            <guid>https://finance.biggo.jp/podcast/c65e4fedcbabdca3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zoox ラスベガス空港 現地レポート]]></title>
-            <link>https://finance.biggo.jp/podcast/2397d16d41af2ae3</link>
-            <guid>https://finance.biggo.jp/podcast/2397d16d41af2ae3</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[兆単位か破綻か：新たなVCゲーム | 収益マルチプルが制御不能に | General AtlanticがIPOを視野に]]></title>
-            <link>https://finance.biggo.jp/podcast/2d7870291a11286b</link>
-            <guid>https://finance.biggo.jp/podcast/2d7870291a11286b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
