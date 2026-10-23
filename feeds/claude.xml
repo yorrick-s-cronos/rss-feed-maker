@@ -4,11 +4,17 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Thu, 22 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Claude Cowork and chat come together for Enterprise]]></title>
+            <link>https://claude.com/resources/articles/unified-claude-enterprise</link>
+            <guid>https://claude.com/resources/articles/unified-claude-enterprise</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building agents: When to fold subagents into your main agent loop]]></title>
             <link>https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop</link>
@@ -68,12 +74,6 @@
             <link>https://claude.com/resources/articles/agent-observability-on-the-claude-platform</link>
             <guid>https://claude.com/resources/articles/agent-observability-on-the-claude-platform</guid>
             <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber's CISO on building an insider threat program for AI]]></title>
-            <link>https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai</link>
-            <guid>https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

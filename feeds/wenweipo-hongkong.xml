@@ -4,11 +4,25 @@
         <title>文匯香港</title>
         <link>https://www.wenweipo.com/hongkong</link>
         <description>文匯報 - 香港新聞</description>
-        <lastBuildDate>Fri, 23 Oct 2026 14:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 16:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[教大正名十周年　陳國基：發展策略與政府願景吻合]]></title>
+            <link>https://www.wenweipo.com/a/202610/24/AP6adb8597e4b0fa89498a18be.html</link>
+            <guid>https://www.wenweipo.com/a/202610/24/AP6adb8597e4b0fa89498a18be.html</guid>
+            <pubDate>Fri, 23 Oct 2026 16:04:37 GMT</pubDate>
+            <description><![CDATA[香港教育大學昨日（23日）迎來正名十周年，逾600名政府官員、教育界及社會人士出席慶祝晚宴。政務司司長陳國基指，教大以「教育未來　多元專才」為發展策略，與政府的長遠願景十分吻合，又指教大在多個學術及可持續發展領域發揮優勢、影響力日增，相信能為香港、國家以至世界帶來長遠價值。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[屯門蝴蝶商場玻璃門突鬆脫 女途人走避不及遭砸傷頭]]></title>
+            <link>https://www.wenweipo.com/a/202610/23/AP6adb7e29e4b0fa89498a1873.html</link>
+            <guid>https://www.wenweipo.com/a/202610/23/AP6adb7e29e4b0fa89498a1873.html</guid>
+            <pubDate>Fri, 23 Oct 2026 15:32:55 GMT</pubDate>
+            <description><![CDATA[今日（23日）傍晚約6時，在屯門蝴蝶商場出入口處，一名39歲女子推門準備離開商場時，詎料玻璃大門突然鬆脫倒下，女事主走避不及當場被砸傷頭部，幸她仍然清醒，其後由救護車送往屯門醫院治療。]]></description>
+        </item>
         <item>
             <title><![CDATA[新界鄉議局一百周年慶祝晚宴今日於香港會議展覽中心舉行]]></title>
             <link>https://www.wenweipo.com/a/202610/23/AP6adb719de4b0fa89498a177f.html</link>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202610/23/AP6adb510de4b0fa89498a138b.html</guid>
             <pubDate>Fri, 23 Oct 2026 12:20:28 GMT</pubDate>
             <description><![CDATA[為慶祝中華人民共和國成立77周年、香港作家聯會成立38周年，香港作家聯會日前舉行國慶聯歡晚宴，匯聚本港文藝、教育及傳媒界代表，以文會友、共賀華誕。晚宴特別設置人文分享專場，邀請著名畫家沈平主講「追憶大舅楊振寧：物理之外的溫情」，以親人視角還原諾貝爾獎得主楊振寧鮮為人知的溫情日常與人文風骨。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[謝小華：香港是中華文明面向世界的天然橋頭堡]]></title>
-            <link>https://www.wenweipo.com/a/202610/23/AP6adb5030e4b0fa89498a1375.html</link>
-            <guid>https://www.wenweipo.com/a/202610/23/AP6adb5030e4b0fa89498a1375.html</guid>
-            <pubDate>Fri, 23 Oct 2026 12:16:47 GMT</pubDate>
-            <description><![CDATA[政制及內地事務局局長謝小華今日（10月23日）出席新界鄉議局一百周年「文化香港：中華文明傳播中的歷史擔當」研討會致辭表示，香港中西文明交融百餘年，既保存了完整的中華傳統文化根脈，亦擁有西方聽得懂的語境和思維方式。這種雙重稟賦，使香港成為中華文明面向世界、推動構建人類命運共同體的天然橋頭堡。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（有片）帶子女皇崗過關必睇！入境處：出發前家長可用「香港e-道」替子女預先登記]]></title>
-            <link>https://www.wenweipo.com/a/202610/23/AP6adb4fcae4b0fa89498a135a.html</link>
-            <guid>https://www.wenweipo.com/a/202610/23/AP6adb4fcae4b0fa89498a135a.html</guid>
-            <pubDate>Fri, 23 Oct 2026 12:15:05 GMT</pubDate>
-            <description><![CDATA[新皇崗口岸啟用至今，平日約有8.3萬人次使用，入境處今日（23日）於社交平台上載影片，提醒市民如想與子女在皇崗口岸合作查驗e-道「絲滑過關」，可在出發前透過自己的「香港e-道」App，幫持有香港身份證的7至17歲子女登記。]]></description>
         </item>
     </channel>
 </rss>
