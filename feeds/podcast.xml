@@ -10,6 +10,42 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AIアシスタント争奪戦：Muse、Grok Bot、Instinctの背後にある製品戦略、入口ビジネス、収益化の難題を読み解く]]></title>
+            <link>https://finance.biggo.jp/podcast/2c4454a155112247</link>
+            <guid>https://finance.biggo.jp/podcast/2c4454a155112247</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[コンピュート市場なしではAIスタートアップは消えゆく——サンフランシスコ・コンピュートのエヴァン・コンラッド]]></title>
+            <link>https://finance.biggo.jp/podcast/d09ec25ca0710fef</link>
+            <guid>https://finance.biggo.jp/podcast/d09ec25ca0710fef</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[テスラはなぜクルマを飛ばす必要があるのか | The Vergecast]]></title>
+            <link>https://finance.biggo.jp/podcast/c8e93659d3bae9b1</link>
+            <guid>https://finance.biggo.jp/podcast/c8e93659d3bae9b1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIエージェントは銀行システムを崩壊させ得る — イーサン・モリック氏と語る]]></title>
+            <link>https://finance.biggo.jp/podcast/7f802b301dcb281d</link>
+            <guid>https://finance.biggo.jp/podcast/7f802b301dcb281d</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSAまで巻き込まれる事態に]]></title>
+            <link>https://finance.biggo.jp/podcast/5222a99a34d4d0f8</link>
+            <guid>https://finance.biggo.jp/podcast/5222a99a34d4d0f8</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[優れたAIモデルではエンジニアリングチームは改善しない — JellyfishのNicholas Arcolano氏]]></title>
+            <link>https://finance.biggo.jp/podcast/9e4833b689b0f021</link>
+            <guid>https://finance.biggo.jp/podcast/9e4833b689b0f021</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JRE MMAショー #187 ロバート・ウィテカー出演回]]></title>
             <link>https://finance.biggo.jp/podcast/fc88fe1a743069a2</link>
             <guid>https://finance.biggo.jp/podcast/fc88fe1a743069a2</guid>
@@ -22,7 +58,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[アルバータ州住民投票結果の影響]]></title>
+            <title><![CDATA[アルバータ州、残留を選択 - 住民投票結果を解説]]></title>
             <link>https://finance.biggo.jp/podcast/c83acb3b8bd6c5f8</link>
             <guid>https://finance.biggo.jp/podcast/c83acb3b8bd6c5f8</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -40,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2045年のコンピューターチップはどうなっている？]]></title>
+            <title><![CDATA[2045年のCPUはどうなるのか？]]></title>
             <link>https://finance.biggo.jp/podcast/db135a193cccf7a0</link>
             <guid>https://finance.biggo.jp/podcast/db135a193cccf7a0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -70,12 +106,6 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AIコンピュートがなぜ長方形なのか — Erik Bernhardsson、Modal]]></title>
-            <link>https://finance.biggo.jp/podcast/9810b809a2d37935</link>
-            <guid>https://finance.biggo.jp/podcast/9810b809a2d37935</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[兆単位か破綻か：新たなVCゲーム | 収益マルチプルが制御不能に | General AtlanticがIPOを視野に]]></title>
             <link>https://finance.biggo.jp/podcast/2d7870291a11286b</link>
             <guid>https://finance.biggo.jp/podcast/2d7870291a11286b</guid>
@@ -97,36 +127,6 @@
             <title><![CDATA[30年にわたる投資生活における継続的学習とは何か]]></title>
             <link>https://finance.biggo.jp/podcast/54e955a6c74dbe70</link>
             <guid>https://finance.biggo.jp/podcast/54e955a6c74dbe70</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ]]></title>
-            <link>https://finance.biggo.jp/podcast/7dadde64c9b9c474</link>
-            <guid>https://finance.biggo.jp/podcast/7dadde64c9b9c474</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1,368件のAI障害から学ぶ評価のあり方 — New York LifeのVishal Srivastava氏とTanmay Sah氏]]></title>
-            <link>https://finance.biggo.jp/podcast/24b234417fc7a3a0</link>
-            <guid>https://finance.biggo.jp/podcast/24b234417fc7a3a0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ベンチマークが存在しないとき、AIエージェントをどう評価するか — Air CanadaのNathanael Weill氏]]></title>
-            <link>https://finance.biggo.jp/podcast/11bb371727fec2d5</link>
-            <guid>https://finance.biggo.jp/podcast/11bb371727fec2d5</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(EXCLUSIVE) President Zelenskyy: It's Time To Tell The Truth About The War! They Found 500 Bodies!]]></title>
-            <link>https://finance.biggo.jp/podcast/8e30f86297eeae15</link>
-            <guid>https://finance.biggo.jp/podcast/8e30f86297eeae15</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIの文章はなぜ今も「スロップ」に見えるのか — Louis-François Bouchard（Towards AI）]]></title>
-            <link>https://finance.biggo.jp/podcast/19dc03a1ebfbb70c</link>
-            <guid>https://finance.biggo.jp/podcast/19dc03a1ebfbb70c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
