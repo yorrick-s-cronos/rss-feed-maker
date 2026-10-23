@@ -1,8 +1,9 @@
 {
-  "lastSuccess": "2026-10-23T19:16:20.543Z",
+  "lastSuccess": "2026-10-23T22:20:23.234Z",
   "articleCount": 11,
   "knownLinks": [
     "https://claude.com/resources/articles/unified-claude-enterprise",
+    "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
     "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
     "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
     "https://claude.com/resources/articles/hcltech-joins-claude-partner-network",
@@ -11,8 +12,7 @@
     "https://www.anthropic.com/engineering/redesigning-source-control",
     "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
     "https://claude.dev/blog/solving-code-review-at-anthropic/",
-    "https://claude.com/resources/articles/code-review-is-now-generally-available",
-    "https://claude.com/resources/articles/agent-observability-on-the-claude-platform"
+    "https://claude.com/resources/articles/code-review-is-now-generally-available"
   ],
   "consecutiveErrors": 0
 }

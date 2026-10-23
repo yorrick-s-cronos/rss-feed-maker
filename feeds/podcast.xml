@@ -10,6 +10,30 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Arcaの長期ホライズン・エージェントが事業を運営する仕組み — Aman Singh, Arca]]></title>
+            <link>https://finance.biggo.jp/podcast/866d25e49f62d9b1</link>
+            <guid>https://finance.biggo.jp/podcast/866d25e49f62d9b1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[イーロンの1000億ドルAI賭博、AnthropicのClaude Duet、そしてウェブの70%に潜むPHPの脆弱性 | EP #305]]></title>
+            <link>https://finance.biggo.jp/podcast/538813728771b72c</link>
+            <guid>https://finance.biggo.jp/podcast/538813728771b72c</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エピソード200 - 2026年10月23日]]></title>
+            <link>https://finance.biggo.jp/podcast/edb77aeba8950f19</link>
+            <guid>https://finance.biggo.jp/podcast/edb77aeba8950f19</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[実際に起きたAIエージェント攻撃と、それを防げたはずの対策 — Andrey Rybka（Bloomberg）]]></title>
+            <link>https://finance.biggo.jp/podcast/6fc5e7f4d66b2825</link>
+            <guid>https://finance.biggo.jp/podcast/6fc5e7f4d66b2825</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[なぜコンピュートは今もグループチャットで取引されるのか — Jump TradingのAffaan Mustafa氏とAlejandro Soumah Fernandez氏]]></title>
             <link>https://finance.biggo.jp/podcast/4d4c8b099b0cd8cf</link>
             <guid>https://finance.biggo.jp/podcast/4d4c8b099b0cd8cf</guid>
@@ -52,7 +76,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[アマゾンCEOアンディ・ジャシー、2200億ドルのAI設備投資を語る]]></title>
+            <title><![CDATA[Amazon CEOアンディ・ジャシーが語るAI時代のインフラ]]></title>
             <link>https://finance.biggo.jp/podcast/ae34aa32c58cdda7</link>
             <guid>https://finance.biggo.jp/podcast/ae34aa32c58cdda7</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -64,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[This Is How You Should Actually Make Launch Videos]]></title>
+            <title><![CDATA[ローンチ動画はこう作るべき]]></title>
             <link>https://finance.biggo.jp/podcast/5ebe255e36934bf1</link>
             <guid>https://finance.biggo.jp/podcast/5ebe255e36934bf1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -103,30 +127,6 @@
             <title><![CDATA[インターネットが攻撃されている。次は暗号資産か？]]></title>
             <link>https://finance.biggo.jp/podcast/4fae857c9a76bd54</link>
             <guid>https://finance.biggo.jp/podcast/4fae857c9a76bd54</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ベン・ハリソン：Intappは3倍に成長——そしてAIがすべてを変えた]]></title>
-            <link>https://finance.biggo.jp/podcast/5a9564d8178468c4</link>
-            <guid>https://finance.biggo.jp/podcast/5a9564d8178468c4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cloudflare CTOのDane Knecht氏と語る、エージェント型ウェブのセキュリティ民主化]]></title>
-            <link>https://finance.biggo.jp/podcast/37cc9bde7040a6a2</link>
-            <guid>https://finance.biggo.jp/podcast/37cc9bde7040a6a2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[銀行が自前の基盤モデルを訓練して不正検知に挑む — Wells FargoのFreddy Lecue氏]]></title>
-            <link>https://finance.biggo.jp/podcast/a3ec6838226c2ad1</link>
-            <guid>https://finance.biggo.jp/podcast/a3ec6838226c2ad1</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[インテルが先行量産、TSMCは2030年待ち？High-NA EUV百万枚の裏にある大博打！]]></title>
-            <link>https://finance.biggo.jp/podcast/db4fa0a18bc51085</link>
-            <guid>https://finance.biggo.jp/podcast/db4fa0a18bc51085</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
