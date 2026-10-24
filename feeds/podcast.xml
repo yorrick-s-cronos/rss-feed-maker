@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[電子ゲノムマッピング、遺伝学におけるAI、そしてASHG 2026での研究の未来]]></title>
+            <title><![CDATA[日本の債務は、あなたが思うような危機ではない | ゲスト：Jesper Koll | グローバルマクロ | 第108回]]></title>
+            <link>https://finance.biggo.jp/podcast/f0f9c28cfae182f9</link>
+            <guid>https://finance.biggo.jp/podcast/f0f9c28cfae182f9</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASHG 2026：電子ゲノムマッピング、遺伝学におけるAI、研究の未来]]></title>
             <link>https://finance.biggo.jp/podcast/34e706eb6b949593</link>
             <guid>https://finance.biggo.jp/podcast/34e706eb6b949593</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[2つのビジネスアイデア、堀とXで見つけた最高のネタ]]></title>
             <link>https://finance.biggo.jp/podcast/2f28fecdbfb7fcf0</link>
             <guid>https://finance.biggo.jp/podcast/2f28fecdbfb7fcf0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ep212: Tim Shannon、標的タンパク質分解薬の創薬について]]></title>
-            <link>https://finance.biggo.jp/podcast/515ffa03d679796f</link>
-            <guid>https://finance.biggo.jp/podcast/515ffa03d679796f</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
