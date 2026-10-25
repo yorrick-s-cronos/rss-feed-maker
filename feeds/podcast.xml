@@ -10,7 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Apple広告とTikTok広告で月1万ドルを達成した方法]]></title>
+            <title><![CDATA[AIエンジニアは今、何をしているのか - Aparna Dhinakaran（Arize AI）]]></title>
+            <link>https://finance.biggo.jp/podcast/cce32b32ecdb8eb1</link>
+            <guid>https://finance.biggo.jp/podcast/cce32b32ecdb8eb1</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[私がどうやって作ったか：月収1万ドルのiOSアプリ]]></title>
             <link>https://finance.biggo.jp/podcast/28042db313d5f880</link>
             <guid>https://finance.biggo.jp/podcast/28042db313d5f880</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[ブラック・オクトーバー！インターネットに何が起きているのか？]]></title>
             <link>https://finance.biggo.jp/podcast/bfae928fb70e4b98</link>
             <guid>https://finance.biggo.jp/podcast/bfae928fb70e4b98</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[元Twitter CEOが語る、AIエージェントを1万倍過小評価している理由]]></title>
-            <link>https://finance.biggo.jp/podcast/aab452483229db54</link>
-            <guid>https://finance.biggo.jp/podcast/aab452483229db54</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
