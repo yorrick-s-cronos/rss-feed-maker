@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Apple広告とTikTok広告で月1万ドルを達成した方法]]></title>
+            <link>https://finance.biggo.jp/podcast/28042db313d5f880</link>
+            <guid>https://finance.biggo.jp/podcast/28042db313d5f880</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【十字路口的対談】AI時代、PhDの道で問われる10の重要課題｜李磊氏と語る：香港大学PhD、Xiaomi MiMo研究員【動画ポッドキャスト】]]></title>
             <link>https://finance.biggo.jp/podcast/545936a8fbac255f</link>
             <guid>https://finance.biggo.jp/podcast/545936a8fbac255f</guid>
@@ -28,7 +34,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[プロダクトマーケットフィットの実践的ガイド | Rob Snyder（著者、The Power of Pull）]]></title>
+            <title><![CDATA[プロダクトマーケットフィットの見つけ方（本当の話）｜Rob Snyder（著書『The Power of Pull』）]]></title>
             <link>https://finance.biggo.jp/podcast/9d9bcb8ab3d76906</link>
             <guid>https://finance.biggo.jp/podcast/9d9bcb8ab3d76906</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -121,12 +127,6 @@
             <title><![CDATA[元Twitter CEOが語る、AIエージェントを1万倍過小評価している理由]]></title>
             <link>https://finance.biggo.jp/podcast/aab452483229db54</link>
             <guid>https://finance.biggo.jp/podcast/aab452483229db54</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[「中国を抑止する手段を我々は渡された」——ティモシー・スナイダーが語るウクライナと台湾]]></title>
-            <link>https://finance.biggo.jp/podcast/0628e96e1a9c35b0</link>
-            <guid>https://finance.biggo.jp/podcast/0628e96e1a9c35b0</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
