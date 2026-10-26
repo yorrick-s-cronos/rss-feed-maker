@@ -4,11 +4,17 @@
         <title>Anthropic News</title>
         <link>https://www.anthropic.com/news</link>
         <description>News and announcements from Anthropic.</description>
-        <lastBuildDate>Thu, 22 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Anthropic files S-1 with the SEC for proposed initial public offering]]></title>
+            <link>https://www.anthropic.com/news/s1-sec</link>
+            <guid>https://www.anthropic.com/news/s1-sec</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Donating Agent Skills to the Agentic AI Foundation]]></title>
             <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
@@ -169,13 +175,6 @@
             <guid>https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Previewing the Model Hardware Standard]]></title>
-            <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-            <guid>https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
-            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.]]></description>
         </item>
     </channel>
 </rss>
