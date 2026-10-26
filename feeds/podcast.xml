@@ -10,13 +10,31 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Waymoが規模拡大、Neolixは世界展開、GMは2028年に大きく賭ける]]></title>
+            <link>https://finance.biggo.jp/podcast/52a650f94827cae2</link>
+            <guid>https://finance.biggo.jp/podcast/52a650f94827cae2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[初めてのAI評価の書き方 - SallyAnn DeLucia、Arize AI]]></title>
+            <link>https://finance.biggo.jp/podcast/9e2866d20e2eb520</link>
+            <guid>https://finance.biggo.jp/podcast/9e2866d20e2eb520</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIが跨境決済を再構築：効率、リスク管理、そしてエージェント型コマースの時代]]></title>
+            <link>https://finance.biggo.jp/podcast/10a8f6bf9ec475cd</link>
+            <guid>https://finance.biggo.jp/podcast/10a8f6bf9ec475cd</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIエンジニアは今、何をしているのか - Aparna Dhinakaran（Arize AI）]]></title>
             <link>https://finance.biggo.jp/podcast/cce32b32ecdb8eb1</link>
             <guid>https://finance.biggo.jp/podcast/cce32b32ecdb8eb1</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[私がどうやって作ったか：月収1万ドルのiOSアプリ]]></title>
+            <title><![CDATA[I Built a $10K/Month iOS App With Paid Ads]]></title>
             <link>https://finance.biggo.jp/podcast/28042db313d5f880</link>
             <guid>https://finance.biggo.jp/podcast/28042db313d5f880</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -109,24 +127,6 @@
             <title><![CDATA[ロボティクスはコーディングエージェントの100倍の規模に、推論は10兆ドル市場になる理由 | Naveen Rao]]></title>
             <link>https://finance.biggo.jp/podcast/04812b3c487666d2</link>
             <guid>https://finance.biggo.jp/podcast/04812b3c487666d2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[サウジアラビアとUAEがイエメン戦争を止められない理由 | The Economist]]></title>
-            <link>https://finance.biggo.jp/podcast/c789b8e629d4c2ec</link>
-            <guid>https://finance.biggo.jp/podcast/c789b8e629d4c2ec</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推論スタックの内側 — Together、Ollama、Luminal、SGLangが集結 | YC Paper Club]]></title>
-            <link>https://finance.biggo.jp/podcast/ef04102b765fd16c</link>
-            <guid>https://finance.biggo.jp/podcast/ef04102b765fd16c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ブラック・オクトーバー！インターネットに何が起きているのか？]]></title>
-            <link>https://finance.biggo.jp/podcast/bfae928fb70e4b98</link>
-            <guid>https://finance.biggo.jp/podcast/bfae928fb70e4b98</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

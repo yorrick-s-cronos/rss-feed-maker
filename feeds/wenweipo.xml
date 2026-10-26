@@ -4,11 +4,17 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Sun, 25 Oct 2026 20:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 01:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[銀髮族神隊友動起來！跨專業應援SEN家庭 這項「全免計劃」讓愛加倍]]></title>
+            <link>https://www.wenweipo.com/a/202610/26/AP6ade27a8e4b0fa89498a5342.html</link>
+            <guid>https://www.wenweipo.com/a/202610/26/AP6ade27a8e4b0fa89498a5342.html</guid>
+            <pubDate>Mon, 26 Oct 2026 01:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[嘴唇發紫藏健康警訊  中醫望診透視氣血與臟腑狀況]]></title>
             <link>https://www.wenweipo.com/a/202610/26/AP6ade624ae4b0fa89498a5589.html</link>
@@ -16,10 +22,10 @@
             <pubDate>Sun, 25 Oct 2026 20:10:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【食得健康】即飲蔬果昔隨身帶  一包輕鬆補充營養]]></title>
-            <link>https://www.wenweipo.com/a/202610/26/AP6ade6223e4b0fa89498a5584.html</link>
-            <guid>https://www.wenweipo.com/a/202610/26/AP6ade6223e4b0fa89498a5584.html</guid>
-            <pubDate>Sun, 25 Oct 2026 20:09:54 GMT</pubDate>
+            <title><![CDATA[快運飛濟州航班 「尿袋」冒煙灼傷乘客]]></title>
+            <link>https://www.wenweipo.com/a/202610/25/AP6addf8a6e4b0fa89498a500d.html</link>
+            <guid>https://www.wenweipo.com/a/202610/25/AP6addf8a6e4b0fa89498a500d.html</guid>
+            <pubDate>Sun, 25 Oct 2026 12:40:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中國航展明天第二輪搶票！官方提醒警惕「內部票」騙局]]></title>
@@ -44,12 +50,6 @@
             <link>https://www.wenweipo.com/a/202610/25/AP6add71cbe4b0fa89498a40e5.html</link>
             <guid>https://www.wenweipo.com/a/202610/25/AP6add71cbe4b0fa89498a40e5.html</guid>
             <pubDate>Sun, 25 Oct 2026 03:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[（有片）中學生參觀元朗捐血站　了解血液如何拯救生命]]></title>
-            <link>https://www.wenweipo.com/a/202610/25/AP6add67bbe4b0fa89498a403c.html</link>
-            <guid>https://www.wenweipo.com/a/202610/25/AP6add67bbe4b0fa89498a403c.html</guid>
-            <pubDate>Sun, 25 Oct 2026 02:21:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[首階段強積金「全自由行」今年12月推出]]></title>
