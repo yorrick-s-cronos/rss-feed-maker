@@ -4,22 +4,34 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Mon, 26 Oct 2026 14:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 20:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[「金序東方·潮啟共生」  非遺元素當代表達   國風設計綻放創新活力]]></title>
+            <link>https://www.wenweipo.com/a/202610/27/AP6adfb2afe4b0fa89498a7bb8.html</link>
+            <guid>https://www.wenweipo.com/a/202610/27/AP6adfb2afe4b0fa89498a7bb8.html</guid>
+            <pubDate>Mon, 26 Oct 2026 20:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[烏克蘭議會批准延長國家戰時狀態]]></title>
+            <link>https://www.wenweipo.com/a/202610/26/AP6adf74dfe4b0fa89498a7901.html</link>
+            <guid>https://www.wenweipo.com/a/202610/26/AP6adf74dfe4b0fa89498a7901.html</guid>
+            <pubDate>Mon, 26 Oct 2026 15:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄羅斯戰略轟炸機飛臨阿拉斯加州西海岸]]></title>
+            <link>https://www.wenweipo.com/a/202610/26/AP6adf6c7fe4b0fa89498a788d.html</link>
+            <guid>https://www.wenweipo.com/a/202610/26/AP6adf6c7fe4b0fa89498a788d.html</guid>
+            <pubDate>Mon, 26 Oct 2026 15:06:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[聯合國調查委員會：以色列在加沙持續實施種族滅絕]]></title>
             <link>https://www.wenweipo.com/a/202610/26/AP6adf5d2ae4b0fa89498a7762.html</link>
             <guid>https://www.wenweipo.com/a/202610/26/AP6adf5d2ae4b0fa89498a7762.html</guid>
             <pubDate>Mon, 26 Oct 2026 14:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[「道地綠地野營祭2026」活動開催    全方位感受「Be A Green Viber」慢活節奏]]></title>
-            <link>https://www.wenweipo.com/a/202610/26/AP6adf4bb5e4b0fa89498a75ee.html</link>
-            <guid>https://www.wenweipo.com/a/202610/26/AP6adf4bb5e4b0fa89498a75ee.html</guid>
-            <pubDate>Mon, 26 Oct 2026 12:46:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[東莞港通往泰國的首條班輪直航航線正式開通]]></title>
@@ -74,18 +86,6 @@
             <link>https://www.wenweipo.com/a/202610/26/AP6ade27a8e4b0fa89498a5342.html</link>
             <guid>https://www.wenweipo.com/a/202610/26/AP6ade27a8e4b0fa89498a5342.html</guid>
             <pubDate>Mon, 26 Oct 2026 01:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[專家解讀：海空軍協同暗語　跨軍種聯訓聯動細化戰術通信]]></title>
-            <link>https://www.wenweipo.com/a/202610/25/AP6add8b57e4b0fa89498a4551.html</link>
-            <guid>https://www.wenweipo.com/a/202610/25/AP6add8b57e4b0fa89498a4551.html</guid>
-            <pubDate>Sun, 25 Oct 2026 04:53:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我國無偵-7高空偵察　為什麼日方只能「仰望」？]]></title>
-            <link>https://www.wenweipo.com/a/202610/25/AP6add3cabe4b0fa89498a39f1.html</link>
-            <guid>https://www.wenweipo.com/a/202610/25/AP6add3cabe4b0fa89498a39f1.html</guid>
-            <pubDate>Sat, 24 Oct 2026 23:18:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
