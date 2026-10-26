@@ -10,6 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[たくさんリリースして、さらに多くを学んだ :)]]></title>
+            <link>https://finance.biggo.jp/podcast/a7f6180d1ab2dfb2</link>
+            <guid>https://finance.biggo.jp/podcast/a7f6180d1ab2dfb2</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viscient BioのKeith Murphy氏と探る、新たな治療法の発見・検証を可能にする3Dヒト組織バイオプリンティング]]></title>
+            <link>https://finance.biggo.jp/podcast/7341b1cc79f526b3</link>
+            <guid>https://finance.biggo.jp/podcast/7341b1cc79f526b3</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Waymoが規模拡大、Neolixは世界展開、GMは2028年に大きく賭ける]]></title>
             <link>https://finance.biggo.jp/podcast/52a650f94827cae2</link>
             <guid>https://finance.biggo.jp/podcast/52a650f94827cae2</guid>
@@ -34,7 +46,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I Built a $10K/Month iOS App With Paid Ads]]></title>
+            <title><![CDATA[有料広告で月1万ドルを稼ぐiOSアプリを作った話]]></title>
             <link>https://finance.biggo.jp/podcast/28042db313d5f880</link>
             <guid>https://finance.biggo.jp/podcast/28042db313d5f880</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -115,18 +127,6 @@
             <title><![CDATA[Waymoはロボタクシーの展開を加速させている。止めようとしているのは誰か？]]></title>
             <link>https://finance.biggo.jp/podcast/1a72d3ccbde592c0</link>
             <guid>https://finance.biggo.jp/podcast/1a72d3ccbde592c0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bridgewaterはいかにして1億件の文書を強みに変えたか — Sam Green & Aaron Linsky、Bridgewater]]></title>
-            <link>https://finance.biggo.jp/podcast/aeb174d07ae03947</link>
-            <guid>https://finance.biggo.jp/podcast/aeb174d07ae03947</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ロボティクスはコーディングエージェントの100倍の規模に、推論は10兆ドル市場になる理由 | Naveen Rao]]></title>
-            <link>https://finance.biggo.jp/podcast/04812b3c487666d2</link>
-            <guid>https://finance.biggo.jp/podcast/04812b3c487666d2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
