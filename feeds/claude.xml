@@ -4,11 +4,17 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Mon, 26 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Manage costs and demonstrate ROI for Claude Code on Google Cloud]]></title>
+            <link>https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud</link>
+            <guid>https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Expanding Claude for Nonprofits]]></title>
             <link>https://claude.com/resources/articles/expanding-claude-for-nonprofits</link>
@@ -68,12 +74,6 @@
             <link>https://www.anthropic.com/engineering/redesigning-source-control</link>
             <guid>https://www.anthropic.com/engineering/redesigning-source-control</guid>
             <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How an Anthropic BDR in Japan runs his day with Claude Managed Agents]]></title>
-            <link>https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day</link>
-            <guid>https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day</guid>
-            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,29 @@
         <title>Microsoft AI Blog</title>
         <link>https://microsoft.ai/blog/</link>
         <description>We make responsible AI to empower people's lives.</description>
-        <lastBuildDate>Thu, 22 Oct 2026 18:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 15:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/microsoft-ai.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis and #3 on Arena]]></title>
+            <link>https://microsoft.ai/news/mai-image-2-7-debut/</link>
+            <guid>https://microsoft.ai/news/mai-image-2-7-debut/</guid>
+            <pubDate>Tue, 27 Oct 2026 15:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAI Image 2.6 launches at No. 2 on Arena ahead of Google, Meta and xAI]]></title>
+            <link>https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/</link>
+            <guid>https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/</guid>
+            <pubDate>Tue, 27 Oct 2026 15:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAI Cyber 1.1 Flash: Sharper findings and fewer tokens inside MDASH]]></title>
+            <link>https://microsoft.ai/news/mai-cyber-1-1-flash/</link>
+            <guid>https://microsoft.ai/news/mai-cyber-1-1-flash/</guid>
+            <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building Medical Superintelligence]]></title>
             <link>https://microsoft.ai/news/building-medical-superintelligence/</link>
@@ -64,12 +82,6 @@
             <pubDate>Wed, 12 Aug 2026 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MAI-Image-2.6 launches at No. 2 on Arena ahead of Google, Meta and xAI]]></title>
-            <link>https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/</link>
-            <guid>https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/</guid>
-            <pubDate>Mon, 10 Aug 2026 22:35:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Optimizing the frontier performance curve]]></title>
             <link>https://microsoft.ai/news/optimizing-the-frontier-performance-curve/</link>
             <guid>https://microsoft.ai/news/optimizing-the-frontier-performance-curve/</guid>
@@ -116,18 +128,6 @@
             <link>https://microsoft.ai/news/microsoft-build-2026-mai-keynote-transcript/</link>
             <guid>https://microsoft.ai/news/microsoft-build-2026-mai-keynote-transcript/</guid>
             <pubDate>Tue, 02 Jun 2026 12:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing MAI-Transcribe-1.5]]></title>
-            <link>https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/</link>
-            <guid>https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/</guid>
-            <pubDate>Tue, 02 Jun 2026 09:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a hill-climbing machine: Launching seven new MAI models]]></title>
-            <link>https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/</link>
-            <guid>https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/</guid>
-            <pubDate>Tue, 02 Jun 2026 09:54:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
