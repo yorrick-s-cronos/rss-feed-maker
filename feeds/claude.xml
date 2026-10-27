@@ -16,6 +16,12 @@
             <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Claude for Financial Advisors]]></title>
+            <link>https://claude.com/resources/articles/claude-for-financial-advisors</link>
+            <guid>https://claude.com/resources/articles/claude-for-financial-advisors</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Expanding Claude for Nonprofits]]></title>
             <link>https://claude.com/resources/articles/expanding-claude-for-nonprofits</link>
             <guid>https://claude.com/resources/articles/expanding-claude-for-nonprofits</guid>
@@ -68,12 +74,6 @@
             <link>https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes</link>
             <guid>https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes</guid>
             <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redesigning source control at Anthropic]]></title>
-            <link>https://www.anthropic.com/engineering/redesigning-source-control</link>
-            <guid>https://www.anthropic.com/engineering/redesigning-source-control</guid>
-            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
