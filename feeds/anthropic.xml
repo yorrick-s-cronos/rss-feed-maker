@@ -4,11 +4,18 @@
         <title>Anthropic News</title>
         <link>https://www.anthropic.com/news</link>
         <description>News and announcements from Anthropic.</description>
-        <lastBuildDate>Tue, 27 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI for Science expands to foundations and research institutions]]></title>
+            <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
+            <guid>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</guid>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.]]></description>
+        </item>
         <item>
             <title><![CDATA[Early progress on accelerating drug development with Claude]]></title>
             <link>https://www.anthropic.com/research/early-progress-drug-development</link>
@@ -169,13 +176,6 @@
             <guid>https://www.anthropic.com/news/life-sciences-verification-program</guid>
             <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Claude Mythos and Fable 5.1]]></title>
-            <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
-            <guid>https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.]]></description>
         </item>
     </channel>
 </rss>
