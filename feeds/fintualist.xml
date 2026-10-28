@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 27 Oct 2026 20:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 20:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[De la A a la Z: cómo hacemos para que en Fintual puedan invertir desde $1.000 a $1.000 millones]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/de-la-a-a-la-z-como-hacemos-para-que-en-fintual-puedan-invertir-desde-1-000-a-1-000-millones/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/de-la-a-a-la-z-como-hacemos-para-que-en-fintual-puedan-invertir-desde-1-000-a-1-000-millones/</guid>
+            <pubDate>Tue, 27 Oct 2026 20:33:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elecciones en Brasil: ¿cómo llegamos al cuarto mandato de Lula?]]></title>
             <link>https://fintualist.com/chile/opinion/elecciones-en-brasil-como-llegamos-al-cuarto-mandato-de-lula/</link>
@@ -26,12 +32,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/anthropic-sale-a-la-bolsa-de-nuevo-se-viene-el-ipo-mas-grande-de-la-historia/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/anthropic-sale-a-la-bolsa-de-nuevo-se-viene-el-ipo-mas-grande-de-la-historia/</guid>
             <pubDate>Tue, 27 Oct 2026 00:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La moda de inversión para pagar menos impuestos en Estados Unidos: Tax Alpha]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/la-moda-de-inversion-para-pagar-menos-impuestos-en-estados-unidos-tax-alpha/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/la-moda-de-inversion-para-pagar-menos-impuestos-en-estados-unidos-tax-alpha/</guid>
-            <pubDate>Mon, 26 Oct 2026 20:55:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[El efecto manada de las AFP y qué pasó con el fondo E]]></title>

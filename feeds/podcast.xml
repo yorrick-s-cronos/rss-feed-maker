@@ -10,6 +10,12 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AIエージェントを作り直し続けて生き残ったもの — Fuad Ali（Arize AI）]]></title>
+            <link>https://finance.biggo.jp/podcast/ba92a25583dac843</link>
+            <guid>https://finance.biggo.jp/podcast/ba92a25583dac843</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ジョン、Semiconへ行く]]></title>
             <link>https://finance.biggo.jp/podcast/bb437bfb86944f5f</link>
             <guid>https://finance.biggo.jp/podcast/bb437bfb86944f5f</guid>
@@ -121,12 +127,6 @@
             <title><![CDATA[フロー研究の第一人者：極限の集中力のために脳を配線する方法]]></title>
             <link>https://finance.biggo.jp/podcast/2ad8505f65dad72a</link>
             <guid>https://finance.biggo.jp/podcast/2ad8505f65dad72a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[なぜ今なおAIエージェントをソフトウェアのように統制するのか — Tim Tyler氏（Gravitee）]]></title>
-            <link>https://finance.biggo.jp/podcast/15d71051693aad94</link>
-            <guid>https://finance.biggo.jp/podcast/15d71051693aad94</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
