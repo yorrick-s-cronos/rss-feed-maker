@@ -18,7 +18,7 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | [文匯香港](https://www.wenweipo.com/hongkong) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml) | ✅ 15 articles |
 | [Google DeepMind Blog](https://deepmind.google/discover/blog/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/deepmind-blog.xml) | ✅ 25 articles |
 | [Anthropic News](https://www.anthropic.com/news) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic.xml) | ✅ 24 articles |
-| [文匯報](https://www.wenweipo.com/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml) | ✅ 12 articles |
+| [文匯報](https://www.wenweipo.com/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml) | ✅ 13 articles |
 | [Mekong ASEAN](https://mekongasean.vn/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/mekongasean.xml) | ✅ 2 articles |
 | [blog.cloudflare.com](https://blog.cloudflare.com/tag/ai/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/cloudflare-com.xml) | ✅ 20 articles |
 | [www.aihero.dev](https://www.aihero.dev/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/aihero-dev.xml) | ✅ 50 articles |
