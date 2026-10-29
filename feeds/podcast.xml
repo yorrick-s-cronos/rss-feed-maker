@@ -10,13 +10,49 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[フランクリン・テンプルトンCEOが語るSpaceX、Anthropic、循環取引、そして市場の現状]]></title>
+            <title><![CDATA[米経済、力強い消費と投資で1年ぶりの高成長]]></title>
+            <link>https://finance.biggo.jp/podcast/b866479309f1bd84</link>
+            <guid>https://finance.biggo.jp/podcast/b866479309f1bd84</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[なぜ人間はAIが書くコードに追いつけないのか——ターリク・シャウカット（Sonar）]]></title>
+            <link>https://finance.biggo.jp/podcast/b6f476ca83e9fb61</link>
+            <guid>https://finance.biggo.jp/podcast/b6f476ca83e9fb61</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ジートゥ・パテル：AI時代の製品づくり]]></title>
+            <link>https://finance.biggo.jp/podcast/1456391017486ffa</link>
+            <guid>https://finance.biggo.jp/podcast/1456391017486ffa</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[先週末のESMOでのデータ発表を受け、Tango TherapeuticsはPRMT5をRAS阻害薬に加えることが、現在の膵臓がん治療革命（そしてその先）における「次の章」になると考えている]]></title>
+            <link>https://finance.biggo.jp/podcast/9273813bbc089b88</link>
+            <guid>https://finance.biggo.jp/podcast/9273813bbc089b88</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T3 Codeにやられた]]></title>
+            <link>https://finance.biggo.jp/podcast/fc37ed5cc8193fef</link>
+            <guid>https://finance.biggo.jp/podcast/fc37ed5cc8193fef</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Rogan Experience #2572 - Colum Tyrrell]]></title>
+            <link>https://finance.biggo.jp/podcast/c66a2d75cb6d5798</link>
+            <guid>https://finance.biggo.jp/podcast/c66a2d75cb6d5798</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1.8兆ドル規模のFranklin Templeton CEOが循環取引、SpaceX、Anthropic、市場環境について語る]]></title>
             <link>https://finance.biggo.jp/podcast/9e5e5fb0d6ae498b</link>
             <guid>https://finance.biggo.jp/podcast/9e5e5fb0d6ae498b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anthropic Files S1 Ahead of $2TRN IPO | Instinct's Rumoured $30BN Fundraise]]></title>
+            <title><![CDATA[AnthropicがS1を提出 | Microsoftが27,000人削減、Metaは950億ドルの設備投資のため株式市場を活用]]></title>
             <link>https://finance.biggo.jp/podcast/56aa7ef5be9deed2</link>
             <guid>https://finance.biggo.jp/podcast/56aa7ef5be9deed2</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -34,7 +70,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why a New Generation of Founders Is Taking On Entire Industries]]></title>
+            <title><![CDATA[次のSpaceXやTeslaをどう築くか]]></title>
             <link>https://finance.biggo.jp/podcast/8d45d7d40f6c6120</link>
             <guid>https://finance.biggo.jp/podcast/8d45d7d40f6c6120</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -91,42 +127,6 @@
             <title><![CDATA[たった1行の変更がスタック全体を壊す理由 — Cole Gannaway、Qodo]]></title>
             <link>https://finance.biggo.jp/podcast/b472b540b7e395a6</link>
             <guid>https://finance.biggo.jp/podcast/b472b540b7e395a6</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIで優れたアートは作れるのか？——フレッド・グレイバー氏と語る]]></title>
-            <link>https://finance.biggo.jp/podcast/31dc64388b2bb3be</link>
-            <guid>https://finance.biggo.jp/podcast/31dc64388b2bb3be</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E257｜Vitalikとの対話：AI安全の背後にある哲学的思考、効果的利他主義はシリコンバレーをどう変えたか]]></title>
-            <link>https://finance.biggo.jp/podcast/363cdf133b10a89b</link>
-            <guid>https://finance.biggo.jp/podcast/363cdf133b10a89b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthropicはいかにして1日3万件のコード変更をマージするのか——Manish Kapur（Sonar）＆Addy Osmani（Anthropic）]]></title>
-            <link>https://finance.biggo.jp/podcast/9b75a4899389745c</link>
-            <guid>https://finance.biggo.jp/podcast/9b75a4899389745c</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bloomberg Businessweek Daily：AlphabetとMSFTの決算（ポッドキャスト）]]></title>
-            <link>https://finance.biggo.jp/podcast/606cc6788cad8e2f</link>
-            <guid>https://finance.biggo.jp/podcast/606cc6788cad8e2f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIが現場の会話を実行可能なインサイトに変える方法（スポンサード）]]></title>
-            <link>https://finance.biggo.jp/podcast/313d124119f443c4</link>
-            <guid>https://finance.biggo.jp/podcast/313d124119f443c4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腎臓遺伝学を活用して臨床試験デザインを強化する（スポンサード）]]></title>
-            <link>https://finance.biggo.jp/podcast/cb4b1751cf7fb572</link>
-            <guid>https://finance.biggo.jp/podcast/cb4b1751cf7fb572</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>
