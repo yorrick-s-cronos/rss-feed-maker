@@ -14,7 +14,7 @@
             <link>https://github.com/openclaw/openclaw/releases/tag/v2026.9.36</link>
             <guid>https://github.com/openclaw/openclaw/releases/tag/v2026.9.36</guid>
             <pubDate>Thu, 29 Oct 2026 20:19:38 GMT</pubDate>
-            <description><![CDATA[<p>This is a gateway-only <code>extended-stable</code> release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and performance fixes, and features like new model support. The latest version of OpenClaw at the time of this release is <a href="https://github.com/openclaw/openclaw/releases#release-v2026.10.8">2026.10.8</a></p>
+            <description><![CDATA[<p>This is a gateway-only <code>extended-stable</code> release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and performance fixes, and features like new model support. The latest version of OpenClaw at the time of this release is <a href="https://github.com/openclaw/openclaw/releases#release-v2026.10.9">2026.10.9</a></p>
 <h2>2026.9.36</h2>
 <h3>Highlights</h3>
 <ul>
@@ -88,7 +88,7 @@
 <li>npm Telegram beta E2E: not supplied</li>
 </ul>
 ]]></description>
-            <content:encoded><![CDATA[<p>This is a gateway-only <code>extended-stable</code> release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and performance fixes, and features like new model support. The latest version of OpenClaw at the time of this release is <a href="https://github.com/openclaw/openclaw/releases#release-v2026.10.8">2026.10.8</a></p>
+            <content:encoded><![CDATA[<p>This is a gateway-only <code>extended-stable</code> release, which is our current equivalent to LTS. This release is OpenClaw from the end of September 2026, plus critical security updates, reliability and performance fixes, and features like new model support. The latest version of OpenClaw at the time of this release is <a href="https://github.com/openclaw/openclaw/releases#release-v2026.10.9">2026.10.9</a></p>
 <h2>2026.9.36</h2>
 <h3>Highlights</h3>
 <ul>
