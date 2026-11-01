@@ -4,11 +4,47 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Sun, 01 Nov 2026 04:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 12:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[歷來最暖十月│天文台：三項平均氣溫均破歷來十月最高紀錄]]></title>
+            <link>https://www.wenweipo.com/a/202611/01/AP6ae735fee4b0fa89498b642e.html</link>
+            <guid>https://www.wenweipo.com/a/202611/01/AP6ae735fee4b0fa89498b642e.html</guid>
+            <pubDate>Sun, 01 Nov 2026 12:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[抬頭看！殲-35A、殲-20、殲-10C都來了]]></title>
+            <link>https://www.wenweipo.com/a/202611/01/AP6ae730a9e4b0fa89498b63c4.html</link>
+            <guid>https://www.wenweipo.com/a/202611/01/AP6ae730a9e4b0fa89498b63c4.html</guid>
+            <pubDate>Sun, 01 Nov 2026 12:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[（有片）三度赴約深圳讀書月　香港以「功夫」為媒搭建雙城文脈橋]]></title>
+            <link>https://www.wenweipo.com/a/202611/01/AP6ae72e6ee4b0fa89498b63a6.html</link>
+            <guid>https://www.wenweipo.com/a/202611/01/AP6ae72e6ee4b0fa89498b63a6.html</guid>
+            <pubDate>Sun, 01 Nov 2026 12:19:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[「利刃-2026」陸軍反恐聯合訓練進入實裝實操階段]]></title>
+            <link>https://www.wenweipo.com/a/202611/01/AP6ae71e39e4b0fa89498b6218.html</link>
+            <guid>https://www.wenweipo.com/a/202611/01/AP6ae71e39e4b0fa89498b6218.html</guid>
+            <pubDate>Sun, 01 Nov 2026 11:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[濱崎真緒已清醒不再評論 經理人為責罵店方負責人致歉]]></title>
+            <link>https://www.wenweipo.com/a/202611/01/AP6ae71865e4b0fa89498b6194.html</link>
+            <guid>https://www.wenweipo.com/a/202611/01/AP6ae71865e4b0fa89498b6194.html</guid>
+            <pubDate>Sun, 01 Nov 2026 10:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大角咀廟會今日開鑼　近千名表演者沿街演繹多元民族文化]]></title>
+            <link>https://www.wenweipo.com/a/202611/01/AP6ae6fd07e4b0fa89498b5ec1.html</link>
+            <guid>https://www.wenweipo.com/a/202611/01/AP6ae6fd07e4b0fa89498b5ec1.html</guid>
+            <pubDate>Sun, 01 Nov 2026 08:49:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[李家超出席童軍大會操　寄語青年胸懷家國放眼世界]]></title>
             <link>https://www.wenweipo.com/a/202611/01/AP6ae6c6d4e4b0fa89498b57ba.html</link>
@@ -28,46 +64,16 @@
             <pubDate>Sun, 01 Nov 2026 04:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[（有片）殲-20首次公開亮相10周年　盤點威龍高光時刻！]]></title>
-            <link>https://www.wenweipo.com/a/202611/01/AP6ae6a2d4e4b0fa89498b5246.html</link>
-            <guid>https://www.wenweipo.com/a/202611/01/AP6ae6a2d4e4b0fa89498b5246.html</guid>
-            <pubDate>Sun, 01 Nov 2026 02:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[博物館節開鑼：逾60節目說「香港故事」　三大主題裝置重溫童年回憶！]]></title>
-            <link>https://www.wenweipo.com/a/202611/01/AP6ae68bcae4b0fa89498b4ea5.html</link>
-            <guid>https://www.wenweipo.com/a/202611/01/AP6ae68bcae4b0fa89498b4ea5.html</guid>
-            <pubDate>Sun, 01 Nov 2026 00:46:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[深圳灣加時通關有效分流　盛事周末新皇崗15分鐘過關]]></title>
             <link>https://www.wenweipo.com/a/202611/01/AP6ae68850e4b0fa89498b4e59.html</link>
             <guid>https://www.wenweipo.com/a/202611/01/AP6ae68850e4b0fa89498b4e59.html</guid>
             <pubDate>Sun, 01 Nov 2026 00:31:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[香港經濟增長5年來最強　陳茂波料全年GDP再上調]]></title>
-            <link>https://www.wenweipo.com/a/202611/01/AP6ae6833de4b0fa89498b4d37.html</link>
-            <guid>https://www.wenweipo.com/a/202611/01/AP6ae6833de4b0fa89498b4d37.html</guid>
-            <pubDate>Sun, 01 Nov 2026 00:09:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[首屆粵港澳大灣區十大科技成果新聞揭曉]]></title>
             <link>https://www.wenweipo.com/a/202610/31/AP6ae6040de4b0fa89498b450a.html</link>
             <guid>https://www.wenweipo.com/a/202610/31/AP6ae6040de4b0fa89498b450a.html</guid>
             <pubDate>Sat, 31 Oct 2026 15:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港優秀藝文節目和展覽亮相第六屆「粵港澳大灣區文化藝術節」]]></title>
-            <link>https://www.wenweipo.com/a/202610/31/AP6ae603dce4b0fa89498b4508.html</link>
-            <guid>https://www.wenweipo.com/a/202610/31/AP6ae603dce4b0fa89498b4508.html</guid>
-            <pubDate>Sat, 31 Oct 2026 15:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拉夫羅夫：烏方破壞會談氛圍 俄美根本問題未解]]></title>
-            <link>https://www.wenweipo.com/a/202610/31/AP6ae5c45ae4b0fa89498b3e62.html</link>
-            <guid>https://www.wenweipo.com/a/202610/31/AP6ae5c45ae4b0fa89498b3e62.html</guid>
-            <pubDate>Sat, 31 Oct 2026 10:35:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[唔做功課隨時白行一趟！福田新超巿開業大戰 領展中心城小象 KK ONE沃爾瑪邊間最好逛？]]></title>
