@@ -4,11 +4,18 @@
         <title>文匯香港</title>
         <link>https://www.wenweipo.com/hongkong</link>
         <description>文匯報 - 香港新聞</description>
-        <lastBuildDate>Sat, 31 Oct 2026 15:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 23:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[北部都會區首辦馬拉松　1.5萬人開跑]]></title>
+            <link>https://www.wenweipo.com/a/202611/01/AP6ae67a39e4b0fa89498b4bfa.html</link>
+            <guid>https://www.wenweipo.com/a/202611/01/AP6ae67a39e4b0fa89498b4bfa.html</guid>
+            <pubDate>Sat, 31 Oct 2026 23:31:03 GMT</pubDate>
+            <description><![CDATA[北部都會區今日（1日）首度舉辦馬拉松，設全馬、半馬、10公里及1600米賽事，約有15000人參加。]]></description>
+        </item>
         <item>
             <title><![CDATA[香港優秀藝文節目和展覽亮相第六屆「粵港澳大灣區文化藝術節」]]></title>
             <link>https://www.wenweipo.com/a/202610/31/AP6ae603dce4b0fa89498b4508.html</link>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202610/31/AP6ae5caf5e4b0fa89498b3f48.html</guid>
             <pubDate>Sat, 31 Oct 2026 11:03:15 GMT</pubDate>
             <description><![CDATA[民政及青年事務局（民青局）局長麥美娟，今日（10月31日）下午出席活動後會見傳媒時表示，「行政長官前日已經代表特區政府向廣大市民和宏福苑大火中受影響的災民道歉。我作為問責團隊的一員，亦衷心向宏福苑受影響的災民和社會道歉。」]]></description>
-        </item>
-        <item>
-            <title><![CDATA[警方無人機搜救建功 獲救行山客讚揚高效感謝前線人員]]></title>
-            <link>https://www.wenweipo.com/a/202610/31/AP6ae5ca62e4b0fa89498b3f44.html</link>
-            <guid>https://www.wenweipo.com/a/202610/31/AP6ae5ca62e4b0fa89498b3f44.html</guid>
-            <pubDate>Sat, 31 Oct 2026 11:00:48 GMT</pubDate>
-            <description><![CDATA[上周六（24日），警方在大埔八仙嶺郊野公園，利用無人機處理一宗山嶺迷途案件，最後成功尋獲一名41歲外籍男子。有參與搜索的大埔分區鄉村巡邏隊警員張君華透露，此次迅速救援的關鍵，全賴無人機及其熱成像功能，在空中搜索時發揮功用，大大提升搜救效率，最終於一小時內完成救援任務。]]></description>
         </item>
     </channel>
 </rss>
