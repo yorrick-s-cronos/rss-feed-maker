@@ -4,11 +4,17 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Sun, 01 Nov 2026 12:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 22:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[蓮塘口岸　超1億人次！]]></title>
+            <link>https://www.wenweipo.com/a/202611/02/AP6ae7c203e4b0fa89498b6ca7.html</link>
+            <guid>https://www.wenweipo.com/a/202611/02/AP6ae7c203e4b0fa89498b6ca7.html</guid>
+            <pubDate>Sun, 01 Nov 2026 22:49:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[歷來最暖十月│天文台：三項平均氣溫均破歷來十月最高紀錄]]></title>
             <link>https://www.wenweipo.com/a/202611/01/AP6ae735fee4b0fa89498b642e.html</link>
@@ -68,12 +74,6 @@
             <link>https://www.wenweipo.com/a/202611/01/AP6ae68850e4b0fa89498b4e59.html</link>
             <guid>https://www.wenweipo.com/a/202611/01/AP6ae68850e4b0fa89498b4e59.html</guid>
             <pubDate>Sun, 01 Nov 2026 00:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[首屆粵港澳大灣區十大科技成果新聞揭曉]]></title>
-            <link>https://www.wenweipo.com/a/202610/31/AP6ae6040de4b0fa89498b450a.html</link>
-            <guid>https://www.wenweipo.com/a/202610/31/AP6ae6040de4b0fa89498b450a.html</guid>
-            <pubDate>Sat, 31 Oct 2026 15:06:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[唔做功課隨時白行一趟！福田新超巿開業大戰 領展中心城小象 KK ONE沃爾瑪邊間最好逛？]]></title>
