@@ -4,11 +4,17 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Mon, 02 Nov 2026 10:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 16:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[(有片)走進東深調度中心 看智慧系統如何把關供港水]]></title>
+            <link>https://www.wenweipo.com/a/202611/03/AP6ae87d9ee4b0fa89498b8b49.html</link>
+            <guid>https://www.wenweipo.com/a/202611/03/AP6ae87d9ee4b0fa89498b8b49.html</guid>
+            <pubDate>Mon, 02 Nov 2026 16:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[11月香港美食月　全港逾400間商戶推限定美食及餐飲優惠]]></title>
             <link>https://www.wenweipo.com/a/202611/02/AP6ae8677de4b0fa89498b892e.html</link>
@@ -56,12 +62,6 @@
             <link>https://www.wenweipo.com/a/202611/02/AP6ae72711e4b0fa89498b630c.html</link>
             <guid>https://www.wenweipo.com/a/202611/02/AP6ae72711e4b0fa89498b630c.html</guid>
             <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[剛剛過去的周末，114.5萬人次！深圳邊檢再刷新單日歷史紀錄]]></title>
-            <link>https://www.wenweipo.com/a/202611/02/AP6ae8042fe4b0fa89498b7952.html</link>
-            <guid>https://www.wenweipo.com/a/202611/02/AP6ae8042fe4b0fa89498b7952.html</guid>
-            <pubDate>Mon, 02 Nov 2026 03:31:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[畫面震撼！中部戰區空軍發布網宣片《何以神威》]]></title>
