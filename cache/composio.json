@@ -1,9 +1,9 @@
 {
-  "lastSuccess": "2026-11-03T06:51:28.209Z",
+  "lastSuccess": "2026-11-03T15:11:39.836Z",
   "articleCount": 3,
   "knownLinks": [
+    "https://composio.dev/blog/introducing-composio-firewall",
     "https://composio.dev/blog/composio-instant",
-    "https://composio.dev/blog/introducing-composio-shared-connections",
     "https://composio.dev/blog/building-a-daily-family-newspaper"
   ],
   "consecutiveErrors": 0
