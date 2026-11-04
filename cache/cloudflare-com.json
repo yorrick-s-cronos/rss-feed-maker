@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-11-04T09:17:16.780Z",
+  "lastSuccess": "2026-11-04T17:59:27.862Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://blog.cloudflare.com/personal-agents-visibility-control/",
     "https://blog.cloudflare.com/webmcp-commerce/",
     "https://blog.cloudflare.com/obsessive-inference-optimization/",
     "https://blog.cloudflare.com/clairic-extraction-model/",
@@ -20,8 +21,7 @@
     "https://blog.cloudflare.com/monetization-gateway-beta/",
     "https://blog.cloudflare.com/pay-per-use/",
     "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
-    "https://blog.cloudflare.com/faster-agent-sandboxes/",
-    "https://blog.cloudflare.com/agentic-web/"
+    "https://blog.cloudflare.com/faster-agent-sandboxes/"
   ],
   "consecutiveErrors": 0
 }
