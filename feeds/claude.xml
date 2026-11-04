@@ -4,11 +4,17 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Mon, 02 Nov 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New agents and products for security, productivity, and creative work on Claude Marketplace]]></title>
+            <link>https://claude.com/resources/articles/new-agents-and-products-claude-marketplace</link>
+            <guid>https://claude.com/resources/articles/new-agents-and-products-claude-marketplace</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Make long-running agents faster with message threads]]></title>
             <link>https://claude.com/resources/articles/message-threads</link>
@@ -67,12 +73,6 @@
             <title><![CDATA[Building agents: When to fold subagents into your main agent loop]]></title>
             <link>https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop</link>
             <guid>https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LLMs are making formal software verification feasible at a much larger scale]]></title>
-            <link>https://www.anthropic.com/research/formal-verification</link>
-            <guid>https://www.anthropic.com/research/formal-verification</guid>
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

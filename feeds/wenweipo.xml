@@ -4,11 +4,17 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Wed, 04 Nov 2026 15:59:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 23:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[機場旅客鞋內藏60萬元可卡因被捕]]></title>
+            <link>https://www.wenweipo.com/a/202611/05/AP6aebbe0be4b028ec0192937b.html</link>
+            <guid>https://www.wenweipo.com/a/202611/05/AP6aebbe0be4b028ec0192937b.html</guid>
+            <pubDate>Wed, 04 Nov 2026 23:21:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[（多圖）火光四射！直擊野外實彈射擊高燃現場]]></title>
             <link>https://www.wenweipo.com/a/202611/04/AP6aeb5670e4b028ec01928de0.html</link>
@@ -50,12 +56,6 @@
             <link>https://www.wenweipo.com/a/202611/04/AP6aea9e60e4b0fa89498bc864.html</link>
             <guid>https://www.wenweipo.com/a/202611/04/AP6aea9e60e4b0fa89498bc864.html</guid>
             <pubDate>Wed, 04 Nov 2026 02:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港故宮上新展！187件文物還原清宮一年四季宮廷日常]]></title>
-            <link>https://www.wenweipo.com/a/202611/04/AP6aea8393e4b0fa89498bc3b0.html</link>
-            <guid>https://www.wenweipo.com/a/202611/04/AP6aea8393e4b0fa89498bc3b0.html</guid>
-            <pubDate>Wed, 04 Nov 2026 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[伊朗總參謀長闡述實現地區可持續和平的五項原則]]></title>
