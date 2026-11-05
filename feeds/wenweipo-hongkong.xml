@@ -4,11 +4,18 @@
         <title>文匯香港</title>
         <link>https://www.wenweipo.com/hongkong</link>
         <description>文匯報 - 香港新聞</description>
-        <lastBuildDate>Thu, 05 Nov 2026 15:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 15:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[香港特區立法會堅定支持法庭依法對「黃之鋒串謀勾結案」的判刑]]></title>
+            <link>https://www.wenweipo.com/a/202611/05/AP6aeca48de4b028ec0192be93.html</link>
+            <guid>https://www.wenweipo.com/a/202611/05/AP6aeca48de4b028ec0192be93.html</guid>
+            <pubDate>Thu, 05 Nov 2026 15:45:16 GMT</pubDate>
+            <description><![CDATA[香港特別行政區（特區）立法會發言人今天（11月5日）表示，堅定支持高等法院原訟法庭依法就黃之鋒「串謀勾結外國或者境外勢力危害國家安全罪」作出的判刑。判刑充分彰顯法治和公義，體現了在香港國安法下任何企圖危害國家安全之徒都必被依法嚴懲。]]></description>
+        </item>
         <item>
             <title><![CDATA[國全處拘捕一名男子 涉輸入及出售煽動書籍]]></title>
             <link>https://www.wenweipo.com/a/202611/05/AP6aec9bf2e4b028ec0192bd5e.html</link>
@@ -106,21 +113,6 @@
             <guid>https://www.wenweipo.com/a/202611/05/AP6aec75bae4b028ec0192b84e.html</guid>
             <pubDate>Thu, 05 Nov 2026 12:25:28 GMT</pubDate>
             <description><![CDATA[川酒全球行（香港站）推介交流會今日在香港會議展覽中心舉行，四川省貿促會率15家企業亮相，集中展示川酒品質實力、品牌魅力與創新活力。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（有片）天下觀察 | 一場假面試，怎麼令幣安被偷走63億美元？]]></title>
-            <link>https://www.wenweipo.com/a/202611/05/AP6aec72cbe4b028ec0192b7ba.html</link>
-            <guid>https://www.wenweipo.com/a/202611/05/AP6aec72cbe4b028ec0192b7ba.html</guid>
-            <pubDate>Thu, 05 Nov 2026 12:12:57 GMT</pubDate>
-            <description><![CDATA[63億美元，竟然在一個小時裏被盜？
-
-10月29號，幣安——全球最大的加密貨幣交易所——出事兒了。
-
-出事的是它的熱錢包。你可以把「熱錢包」理解成交易所的「前台收銀台」：用戶隨時可能來存錢、取錢，所以這個錢包必須一直連着網，方便隨時動，放的都是隨時要動的「活錢」，和超市收銀台一樣，是駭客（強盜）最容易的得手的目標。
-
-美東時間10月29日下午4點起，攻擊開始了，持續約四小時，其中核心轉賬集中在短短幾十分鐘內，「前台收銀台」在多條不同的區塊鏈上同時失守，包括以太坊、Bitcoin及Tron等，累計流出接近63億美元。這是加密貨幣歷史上規模最大的盜竊案，沒有之一。
-
-FBI認定，這次幕後黑手是與朝鮮有關聯的黑客組織。但朝方否認了這一說法。這場數字時代的大劫案到底是怎麼回事？]]></description>
         </item>
     </channel>
 </rss>
