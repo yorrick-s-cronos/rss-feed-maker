@@ -4,7 +4,7 @@
         <title>www.aihero.dev</title>
         <link>https://www.aihero.dev/</link>
         <description>AI Hero - AI Engineering for Curious Professional Developers</description>
-        <lastBuildDate>Fri, 06 Nov 2026 01:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 04:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[AI SDK v6 Crash Course]]></title>
             <link>https://www.aihero.dev/workshops/ai-sdk-v6-crash-course</link>
             <guid>https://www.aihero.dev/workshops/ai-sdk-v6-crash-course</guid>
-            <pubDate>Fri, 06 Nov 2026 01:05:13 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2026 04:07:32 GMT</pubDate>
             <description><![CDATA[Here's how *you* become an AI developer — fast]]></description>
             <content:encoded><![CDATA[Here's how *you* become an AI developer — fast]]></content:encoded>
         </item>
