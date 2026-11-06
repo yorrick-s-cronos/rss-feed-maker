@@ -4,11 +4,18 @@
         <title>文匯香港</title>
         <link>https://www.wenweipo.com/hongkong</link>
         <description>文匯報 - 香港新聞</description>
-        <lastBuildDate>Fri, 06 Nov 2026 16:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 23:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[葉玉如獲教科文組織國際生命科學研究獎]]></title>
+            <link>https://www.wenweipo.com/a/202611/07/AP6aee5c43e4b028ec0192eb35.html</link>
+            <guid>https://www.wenweipo.com/a/202611/07/AP6aee5c43e4b028ec0192eb35.html</guid>
+            <pubDate>Fri, 06 Nov 2026 23:01:21 GMT</pubDate>
+            <description><![CDATA[當地時間6日下午，第10屆「聯合國教科文組織-赤道幾內亞國際生命科學研究獎」頒獎儀式在聯合國教科文組織巴黎總部舉行。香港科技大學校長、中國科學院院士葉玉如教授獲獎，係第6位獲得該獎項的中國科學家。]]></description>
+        </item>
         <item>
             <title><![CDATA[香港特區立法會強烈譴責和反對外部勢力詆毀和抹黑法庭就「黃之鋒串謀勾結案」判刑]]></title>
             <link>https://www.wenweipo.com/a/202611/07/AP6aedfef2e4b028ec0192e6de.html</link>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202611/06/AP6aedad8ee4b028ec0192de0a.html</guid>
             <pubDate>Fri, 06 Nov 2026 10:35:56 GMT</pubDate>
             <description><![CDATA[人工智能（AI）技術日新月異，甚至已能解答極高難度的數學猜想，引發大眾對學習數學價值的探討。嶺南大學正積極籌劃於數據科學學院成立「數學學部」，以推動數學與AI的深度結合。嶺大工業數據科學學部講座教授Jean-Michel Morel今日（6日）強調，AI並不會取代數學，反而會進一步提升其重要性，並為數學家創造前所未有的就業機會。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[澳洲潔淨科技企業ClearVue在港設立全球研發基地　以拓展亞洲業務]]></title>
-            <link>https://www.wenweipo.com/a/202611/06/AP6aeda6dbe4b028ec0192dd38.html</link>
-            <guid>https://www.wenweipo.com/a/202611/06/AP6aeda6dbe4b028ec0192dd38.html</guid>
-            <pubDate>Fri, 06 Nov 2026 10:07:21 GMT</pubDate>
-            <description><![CDATA[​投資推廣署今日（6日）宣布，澳洲潔淨科技企業ClearVue Technologies Limited（ClearVue）在香港設立全新的全球研發基地。]]></description>
         </item>
     </channel>
 </rss>
