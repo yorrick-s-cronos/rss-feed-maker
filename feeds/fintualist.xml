@@ -4,22 +4,22 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Thu, 05 Nov 2026 20:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 20:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[¿La estrategia de inversión óptima? Lo que nos dice la evidencia]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/la-estrategia-de-inversion-optima-lo-que-nos-dice-la-evidencia-copy/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/la-estrategia-de-inversion-optima-lo-que-nos-dice-la-evidencia-copy/</guid>
+            <pubDate>Thu, 05 Nov 2026 20:55:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[¿Pérdidas de corto plazo?]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/perdidas-de-corto-plazo/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/perdidas-de-corto-plazo/</guid>
             <pubDate>Thu, 05 Nov 2026 20:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[📍 Mercados en vivo - Ajuste post elecciones]]></title>
-            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
-            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
-            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La ola demócrata le quitó el Congreso a Trump]]></title>
