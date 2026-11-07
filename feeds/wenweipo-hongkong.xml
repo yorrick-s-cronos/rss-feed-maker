@@ -4,11 +4,32 @@
         <title>文匯香港</title>
         <link>https://www.wenweipo.com/hongkong</link>
         <description>文匯報 - 香港新聞</description>
-        <lastBuildDate>Fri, 06 Nov 2026 23:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 02:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[北都大學城100億元貸款額爭取加碼　新田項目最快明年底推出]]></title>
+            <link>https://www.wenweipo.com/a/202611/07/AP6aee8b06e4b028ec0192f242.html</link>
+            <guid>https://www.wenweipo.com/a/202611/07/AP6aee8b06e4b028ec0192f242.html</guid>
+            <pubDate>Sat, 07 Nov 2026 02:20:53 GMT</pubDate>
+            <description><![CDATA[北都大學城是香港北部都會區推動產學研協同，以及教育、科技、人才一體化發展的焦點，其中的洪水橋大學城三幅共26公頃土地已率先推出供申請，在12月底截止，預料明年初公布進駐院校。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[專挑高齡長者樓宇下手！涉黑圍標集團狂攬億元維修工程　66人被捕]]></title>
+            <link>https://www.wenweipo.com/a/202611/07/AP6aee7717e4b028ec0192efa2.html</link>
+            <guid>https://www.wenweipo.com/a/202611/07/AP6aee7717e4b028ec0192efa2.html</guid>
+            <pubDate>Sat, 07 Nov 2026 00:55:50 GMT</pubDate>
+            <description><![CDATA[調查顯示，該集團專挑樓齡高、長者多的樓宇入手，涉嫌透過圍標、賄賂、偽造文書、恐嚇、勒索等非法行為，獲得12份位於全港多區樓宇和屋苑的工程合約，工程總額約港幣一億元。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[「香港網絡安全攻防演練—以攻築防2026」舉行　提升網絡安全防護及韌性]]></title>
+            <link>https://www.wenweipo.com/a/202611/07/AP6aed8e95e4b028ec0192d9c7.html</link>
+            <guid>https://www.wenweipo.com/a/202611/07/AP6aed8e95e4b028ec0192d9c7.html</guid>
+            <pubDate>Sat, 07 Nov 2026 00:30:00 GMT</pubDate>
+            <description><![CDATA[「香港網絡安全攻防演練—以攻築防2026」自10月29日起一連三日展開，透過模擬真實網絡威脅場景，測試參與機構的防禦部署及應變能力。]]></description>
+        </item>
         <item>
             <title><![CDATA[葉玉如獲教科文組織國際生命科學研究獎]]></title>
             <link>https://www.wenweipo.com/a/202611/07/AP6aee5c43e4b028ec0192eb35.html</link>
@@ -92,27 +113,6 @@
             <guid>https://www.wenweipo.com/a/202611/06/AP6aedbdd2e4b028ec0192e037.html</guid>
             <pubDate>Fri, 06 Nov 2026 11:45:21 GMT</pubDate>
             <description><![CDATA[香港金融科技周×StartmeupHK 2026今日（6日）圓滿結束。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聯合特遣隊搗破樓宇維修圍標集團　拘捕28人阻截9千萬元涉案合約]]></title>
-            <link>https://www.wenweipo.com/a/202611/06/AP6aedb9a8e4b028ec0192df72.html</link>
-            <guid>https://www.wenweipo.com/a/202611/06/AP6aedb9a8e4b028ec0192df72.html</guid>
-            <pubDate>Fri, 06 Nov 2026 11:27:34 GMT</pubDate>
-            <description><![CDATA[打擊樓宇維修工程圍標聯合特遣隊今日就首個聯合行動舉行記者會。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lenovo斥234萬資助聖方濟各大學 研發「敘事AI」建24/7心理健康支援網絡]]></title>
-            <link>https://www.wenweipo.com/a/202611/06/AP6aedb404e4b028ec0192deb7.html</link>
-            <guid>https://www.wenweipo.com/a/202611/06/AP6aedb404e4b028ec0192deb7.html</guid>
-            <pubDate>Fri, 06 Nov 2026 11:03:31 GMT</pubDate>
-            <description><![CDATA[Lenovo與聖方濟各大學宣布展開為期兩年的合作計劃，由Lenovo提供234萬港元資助，結合人工智能運算技術與大學的臨床及社會科學研究，共同研發敘事人工智能心理健康支援平台，旨在建立全天候、去標籤化的線上及校園支援網絡。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[嶺大籌設「數學學部」 國際知名學者Morel教授：AI發展將為數學家創造更多就業機會]]></title>
-            <link>https://www.wenweipo.com/a/202611/06/AP6aedad8ee4b028ec0192de0a.html</link>
-            <guid>https://www.wenweipo.com/a/202611/06/AP6aedad8ee4b028ec0192de0a.html</guid>
-            <pubDate>Fri, 06 Nov 2026 10:35:56 GMT</pubDate>
-            <description><![CDATA[人工智能（AI）技術日新月異，甚至已能解答極高難度的數學猜想，引發大眾對學習數學價值的探討。嶺南大學正積極籌劃於數據科學學院成立「數學學部」，以推動數學與AI的深度結合。嶺大工業數據科學學部講座教授Jean-Michel Morel今日（6日）強調，AI並不會取代數學，反而會進一步提升其重要性，並為數學家創造前所未有的就業機會。]]></description>
         </item>
     </channel>
 </rss>
