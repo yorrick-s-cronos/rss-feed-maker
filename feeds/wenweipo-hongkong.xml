@@ -4,11 +4,18 @@
         <title>文匯香港</title>
         <link>https://www.wenweipo.com/hongkong</link>
         <description>文匯報 - 香港新聞</description>
-        <lastBuildDate>Sat, 07 Nov 2026 14:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 00:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[護航「留學香港」！直資校住宿守則出爐　違規營辦方將除名]]></title>
+            <link>https://www.wenweipo.com/a/202611/08/AP6aefc1cbe4b028ec01930e0b.html</link>
+            <guid>https://www.wenweipo.com/a/202611/08/AP6aefc1cbe4b028ec01930e0b.html</guid>
+            <pubDate>Sun, 08 Nov 2026 00:26:49 GMT</pubDate>
+            <description><![CDATA[因應年紀較輕的中小學生來港讀書的住宿規範問題，香港直資學校議會制定的《學生住宿設施營運實務守則》昨日正式出爐，針對宿舍收費、環境衞生、設施配套及學生日常起居飲食與活動等訂立嚴格標準，違規營辦方可被除名並公告所有直資校，藉以監督校外學生宿舍的質素。]]></description>
+        </item>
         <item>
             <title><![CDATA[（有片）張頌文旋風式來港出席青年發展高峰論壇 以自身經歷勉勵青年「把職業變成事業才會開心」]]></title>
             <link>https://www.wenweipo.com/a/202611/07/AP6aef331fe4b028ec01930653.html</link>
@@ -106,13 +113,6 @@
             <guid>https://www.wenweipo.com/a/202611/07/AP6aeeed7ce4b028ec0192ff52.html</guid>
             <pubDate>Sat, 07 Nov 2026 09:20:59 GMT</pubDate>
             <description><![CDATA[今日（7日）下午約3時半，一輛私家車沿荃灣路往屯門方向行駛，當駛至近荃灣西站對開天橋路段，車輛突然起火冒煙，司機慌忙停車，並且報警求助。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(有片) 慈雲山六旬客錯過站點要求途中落車 涉踢毀車門及推跌九巴車長被捕]]></title>
-            <link>https://www.wenweipo.com/a/202611/07/AP6aeee21ae4b028ec0192fdfc.html</link>
-            <guid>https://www.wenweipo.com/a/202611/07/AP6aeee21ae4b028ec0192fdfc.html</guid>
-            <pubDate>Sat, 07 Nov 2026 08:32:25 GMT</pubDate>
-            <description><![CDATA[昨日（6日）傍晚6時40分，一名男乘客乘搭九巴2P路線巴士，當巴士駛至慈雲山邨中央遊樂場巴士站時，由於錯過落車站點，於是要求車長在巴士行駛期間讓其落車，但被車長拒絕。]]></description>
         </item>
     </channel>
 </rss>
