@@ -16,13 +16,49 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ハッピーパスの外側をエンジニアリングするエージェンシー——Matthew Jewkes、Standard Cybernetics]]></title>
+            <link>https://finance.biggo.jp/podcast/f217e80daf0eca3e</link>
+            <guid>https://finance.biggo.jp/podcast/f217e80daf0eca3e</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[エージェントに3週間コードベースをリファクタリングさせ、その後コードを読んだ話 — 金沢慶二（Microsoft）]]></title>
+            <link>https://finance.biggo.jp/podcast/6a4fbc47d035ad5a</link>
+            <guid>https://finance.biggo.jp/podcast/6a4fbc47d035ad5a</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIの完全自動化が本番環境で失敗する理由 | Angela McNea]]></title>
+            <link>https://finance.biggo.jp/podcast/420df193dc880e02</link>
+            <guid>https://finance.biggo.jp/podcast/420df193dc880e02</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【AIエンジニア100万人記念特集】スタンフォード大学はいかにしてAIネイティブなエンジニアリングを教えるのか — Mihail Eric、Monaco]]></title>
+            <link>https://finance.biggo.jp/podcast/0cc0927480976851</link>
+            <guid>https://finance.biggo.jp/podcast/0cc0927480976851</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[トップ企業がAIコーディングで実践する違いとは - McKinseyのMartin Harrysson氏とPrakhar Dixit氏]]></title>
+            <link>https://finance.biggo.jp/podcast/377cd33730a57e22</link>
+            <guid>https://finance.biggo.jp/podcast/377cd33730a57e22</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rampは顧客より先にAI簿記エージェントをどうテストするのか - RampのRyan Stevens氏]]></title>
+            <link>https://finance.biggo.jp/podcast/5c7848f1c7235008</link>
+            <guid>https://finance.biggo.jp/podcast/5c7848f1c7235008</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[フロンティアAIモデルは文章作成能力が悪化している | Ben Hylak]]></title>
             <link>https://finance.biggo.jp/podcast/9ede092a7f17000b</link>
             <guid>https://finance.biggo.jp/podcast/9ede092a7f17000b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[30個のアプリで100万ドルを稼いだ方法]]></title>
+            <title><![CDATA[30個のマイクロアプリを作って100万ドルを稼いだ方法]]></title>
             <link>https://finance.biggo.jp/podcast/97ace21e5b96f04c</link>
             <guid>https://finance.biggo.jp/podcast/97ace21e5b96f04c</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -52,7 +88,7 @@
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[なぜPMが再び価値を持つのか | Tulsee Doshi（Geminiプロダクト責任者）]]></title>
+            <title><![CDATA[フロンティアモデル構築に本当に必要なもの | Tulsee Doshi（Geminiプロダクト責任者）]]></title>
             <link>https://finance.biggo.jp/podcast/9f6fc7f8449c031b</link>
             <guid>https://finance.biggo.jp/podcast/9f6fc7f8449c031b</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
@@ -91,42 +127,6 @@
             <title><![CDATA[コーディングエージェントは自らのミスを取り消せない — Tanmay Sah & Dolly Sah]]></title>
             <link>https://finance.biggo.jp/podcast/e27e547a011be871</link>
             <guid>https://finance.biggo.jp/podcast/e27e547a011be871</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自社の「モデル」を持たない企業に、エージェントがそれを構築できる — ジョアン・ヴェンツェル（シタデル・セキュリティーズ）]]></title>
-            <link>https://finance.biggo.jp/podcast/564f73bd9da01a49</link>
-            <guid>https://finance.biggo.jp/podcast/564f73bd9da01a49</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TWiV 1373: デング熱への挑戦とRIG-Iを騙すインフルエンザ]]></title>
-            <link>https://finance.biggo.jp/podcast/e68aef77123a1c58</link>
-            <guid>https://finance.biggo.jp/podcast/e68aef77123a1c58</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エージェント時代に向けたGitHubの再構築 — Microsoft CoreAI担当EVP ジェイ・パリク]]></title>
-            <link>https://finance.biggo.jp/podcast/c65784af0a307582</link>
-            <guid>https://finance.biggo.jp/podcast/c65784af0a307582</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[岡部恭英さんが考える「Jリーグ」そして「日本スポーツビジネス」を変えていくヒントとは]]></title>
-            <link>https://finance.biggo.jp/podcast/44bf7ccf2f2def9d</link>
-            <guid>https://finance.biggo.jp/podcast/44bf7ccf2f2def9d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[カリフォルニア州の支出は2019年以降72%増加 | Joshua Rauh]]></title>
-            <link>https://finance.biggo.jp/podcast/65782d7bd702f60d</link>
-            <guid>https://finance.biggo.jp/podcast/65782d7bd702f60d</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI:AM：これが我々の望むAIなのか？ 加速する開発、AIによる選挙予測、GPU取引、AIネイティブVC]]></title>
-            <link>https://finance.biggo.jp/podcast/1d04a25c7afa344e</link>
-            <guid>https://finance.biggo.jp/podcast/1d04a25c7afa344e</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
         </item>
     </channel>

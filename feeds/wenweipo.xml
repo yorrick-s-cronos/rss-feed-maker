@@ -4,40 +4,52 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Sun, 08 Nov 2026 22:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 04:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[香港今起漸凍　明早市區最低16度]]></title>
-            <link>https://www.wenweipo.com/a/202611/09/AP6af0fe77e4b028ec019330f1.html</link>
-            <guid>https://www.wenweipo.com/a/202611/09/AP6af0fe77e4b028ec019330f1.html</guid>
-            <pubDate>Sun, 08 Nov 2026 22:57:56 GMT</pubDate>
+            <title><![CDATA[以生動影像迎APEC盛會　深圳攝影作品年度展開幕]]></title>
+            <link>https://www.wenweipo.com/a/202611/09/AP6af1483be4b028ec01933cd6.html</link>
+            <guid>https://www.wenweipo.com/a/202611/09/AP6af1483be4b028ec01933cd6.html</guid>
+            <pubDate>Mon, 09 Nov 2026 04:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一盅兩件輸畀一飯兩餸？酒樓推兩餸飯爭食 最平30蚊搶客求生]]></title>
+            <link>https://www.wenweipo.com/a/202611/09/AP6af06474e4b028ec019326e0.html</link>
+            <guid>https://www.wenweipo.com/a/202611/09/AP6af06474e4b028ec019326e0.html</guid>
+            <pubDate>Mon, 09 Nov 2026 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[APEC氛圍拉滿！遊客扎堆深圳「手擼」科技潮品]]></title>
+            <link>https://www.wenweipo.com/a/202611/09/AP6af13e38e4b028ec01933b32.html</link>
+            <guid>https://www.wenweipo.com/a/202611/09/AP6af13e38e4b028ec01933b32.html</guid>
+            <pubDate>Mon, 09 Nov 2026 03:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[陳茂波：區域經濟聯繫日益緊密　對跨境可信財務資訊的需求大幅上升]]></title>
+            <link>https://www.wenweipo.com/a/202611/09/AP6af13da2e4b028ec01933b0b.html</link>
+            <guid>https://www.wenweipo.com/a/202611/09/AP6af13da2e4b028ec01933b0b.html</guid>
+            <pubDate>Mon, 09 Nov 2026 03:27:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上周三北角六食環外判車撞過路婦 傷者留醫近4日不治]]></title>
+            <link>https://www.wenweipo.com/a/202611/09/AP6af13080e4b028ec01933844.html</link>
+            <guid>https://www.wenweipo.com/a/202611/09/AP6af13080e4b028ec01933844.html</guid>
+            <pubDate>Mon, 09 Nov 2026 02:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[何文田站今早列車設備故障致行車時間延長　觀塘綫列車服務現陸續恢復正常]]></title>
+            <link>https://www.wenweipo.com/a/202611/09/AP6af11dc6e4b028ec01933549.html</link>
+            <guid>https://www.wenweipo.com/a/202611/09/AP6af11dc6e4b028ec01933549.html</guid>
+            <pubDate>Mon, 09 Nov 2026 01:11:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[（有片）我在灣區讀懂中國 | 印度創業者扎根深圳近二十載 親歷城市科幻式騰飛]]></title>
             <link>https://www.wenweipo.com/a/202611/08/AP6af041c4e4b028ec01932253.html</link>
             <guid>https://www.wenweipo.com/a/202611/08/AP6af041c4e4b028ec01932253.html</guid>
             <pubDate>Sun, 08 Nov 2026 09:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新清水灣道私家車自炒掃水馬 27歲司機受傷送院]]></title>
-            <link>https://www.wenweipo.com/a/202611/08/AP6af00e67e4b028ec01931939.html</link>
-            <guid>https://www.wenweipo.com/a/202611/08/AP6af00e67e4b028ec01931939.html</guid>
-            <pubDate>Sun, 08 Nov 2026 05:53:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(有片) 警搗流浮山過渡性房屋毒品倉 拘無業男檢值800萬K仔]]></title>
-            <link>https://www.wenweipo.com/a/202611/08/AP6af00a7fe4b028ec019318e9.html</link>
-            <guid>https://www.wenweipo.com/a/202611/08/AP6af00a7fe4b028ec019318e9.html</guid>
-            <pubDate>Sun, 08 Nov 2026 05:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[突破5000萬人次！深圳灣口岸出入境人員創歷史新高]]></title>
-            <link>https://www.wenweipo.com/a/202611/08/AP6af007b8e4b028ec019318ac.html</link>
-            <guid>https://www.wenweipo.com/a/202611/08/AP6af007b8e4b028ec019318ac.html</guid>
-            <pubDate>Sun, 08 Nov 2026 05:25:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[（有片）葵廣爆紅燒賣$10/6粒！憑什麼1小時狂賣千粒？慳妹帶你排隊試真啲]]></title>
@@ -52,22 +64,10 @@
             <pubDate>Sun, 08 Nov 2026 02:16:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[M+博物館五周年慶典 今免費入場毋須預約]]></title>
-            <link>https://www.wenweipo.com/a/202611/08/AP6aefd678e4b028ec01931113.html</link>
-            <guid>https://www.wenweipo.com/a/202611/08/AP6aefd678e4b028ec01931113.html</guid>
-            <pubDate>Sun, 08 Nov 2026 01:55:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[福建艦+四川艦會怎樣？專家提出兩種模式→]]></title>
             <link>https://www.wenweipo.com/a/202611/08/AP6aefc921e4b028ec01930f18.html</link>
             <guid>https://www.wenweipo.com/a/202611/08/AP6aefc921e4b028ec01930f18.html</guid>
             <pubDate>Sun, 08 Nov 2026 00:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[陳恒鑌前海自拍感受APEC氛圍　盼深港攜手展灣區風采]]></title>
-            <link>https://www.wenweipo.com/a/202611/07/AP6aef343de4b028ec0193065a.html</link>
-            <guid>https://www.wenweipo.com/a/202611/07/AP6aef343de4b028ec0193065a.html</guid>
-            <pubDate>Sat, 07 Nov 2026 14:22:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[（有片）日本民眾冒雨集會 反對日本政府擴軍修憲]]></title>
@@ -80,14 +80,6 @@
             <link>https://www.wenweipo.com/a/202611/07/AP6aec7d3ce4b028ec0192b99f.html</link>
             <guid>https://www.wenweipo.com/a/202611/07/AP6aec7d3ce4b028ec0192b99f.html</guid>
             <pubDate>Sat, 07 Nov 2026 01:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一站式食玩嘆24小時
-盤點深圳三大高CP值豪華水療
-人均¥3xx 任食雪糕水果+按摩+餐膳]]></title>
-            <link>https://www.wenweipo.com/a/202611/06/AP6aec7443e4b028ec0192b800.html</link>
-            <guid>https://www.wenweipo.com/a/202611/06/AP6aec7443e4b028ec0192b800.html</guid>
-            <pubDate>Fri, 06 Nov 2026 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
