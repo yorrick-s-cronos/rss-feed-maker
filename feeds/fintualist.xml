@@ -4,11 +4,23 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Thu, 05 Nov 2026 20:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 14:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[🎙️Cómo reacciona el mercado al affaire del CEO de NVIDIA con supuesta espía de China]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/como-reacciona-el-mercado-a-la-polemica-del-affaire-del-ceo-de-nvidia-con-supuesta-espia-de-china/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/como-reacciona-el-mercado-a-la-polemica-del-affaire-del-ceo-de-nvidia-con-supuesta-espia-de-china/</guid>
+            <pubDate>Mon, 09 Nov 2026 14:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[📍 Mercados en vivo - Ajuste post elecciones]]></title>
+            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
+            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
+            <pubDate>Thu, 05 Nov 2026 22:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[¿La estrategia de inversión óptima? Lo que nos dice la evidencia]]></title>
             <link>https://fintualist.com/chile/educacion-financiera/la-estrategia-de-inversion-optima-lo-que-nos-dice-la-evidencia-copy/</link>
@@ -116,18 +128,6 @@
             <link>https://fintualist.com/mexico/educacion-financiera/te-explicamos-que-hacen-los-ganadores-del-premio-nobel-de-economia-2026-mx/</link>
             <guid>https://fintualist.com/mexico/educacion-financiera/te-explicamos-que-hacen-los-ganadores-del-premio-nobel-de-economia-2026-mx/</guid>
             <pubDate>Wed, 14 Oct 2026 22:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Te explicamos qué hacen los ganadores del "premio Nobel de Economía" 2026]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/te-explicamos-que-hacen-los-ganadores-del-premio-nobel-de-economia-2026/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/te-explicamos-que-hacen-los-ganadores-del-premio-nobel-de-economia-2026/</guid>
-            <pubDate>Wed, 14 Oct 2026 22:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[¿El futuro es hoy, oíste viejo? Los derivados y cómo los usamos en Fintual]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/el-futuro-es-hoy-oiste-viejo-los-derivados-y-como-los-usamos-en-fintual/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/el-futuro-es-hoy-oiste-viejo-los-derivados-y-como-los-usamos-en-fintual/</guid>
-            <pubDate>Tue, 13 Oct 2026 17:55:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
