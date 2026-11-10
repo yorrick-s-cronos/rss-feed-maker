@@ -4,11 +4,41 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Fri, 06 Nov 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JPMorganChase expands Claude Code to more employees across the firm]]></title>
+            <link>https://claude.com/resources/articles/jpmorganchase-expands-claude-code</link>
+            <guid>https://claude.com/resources/articles/jpmorganchase-expands-claude-code</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claude Fable 5.2 and Mythos 5.2]]></title>
+            <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+            <guid>https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claude can design electronic prototypes from start to finish]]></title>
+            <link>https://www.anthropic.com/research/claude-electronics-design</link>
+            <guid>https://www.anthropic.com/research/claude-electronics-design</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Safely scaling multi-agent teams with Claude Fable 5.2]]></title>
+            <link>https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/</link>
+            <guid>https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which Claude model should you build with?]]></title>
+            <link>https://claude.dev/blog/which-claude-model-should-you-build-with/</link>
+            <guid>https://claude.dev/blog/which-claude-model-should-you-build-with/</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The components of agent memory]]></title>
             <link>https://www.anthropic.com/research/components-of-agent-memory</link>
@@ -44,36 +74,6 @@
             <link>https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets</link>
             <guid>https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets</guid>
             <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDC brings Quanta into Claude and adopts Claude across the company]]></title>
-            <link>https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company</link>
-            <guid>https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company</guid>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing artifacts for legal work]]></title>
-            <link>https://claude.com/resources/articles/introducing-artifacts-for-legal-work</link>
-            <guid>https://claude.com/resources/articles/introducing-artifacts-for-legal-work</guid>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manage costs and demonstrate ROI for Claude Code on Google Cloud]]></title>
-            <link>https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud</link>
-            <guid>https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud</guid>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude for Financial Advisors]]></title>
-            <link>https://claude.com/resources/articles/claude-for-financial-advisors</link>
-            <guid>https://claude.com/resources/articles/claude-for-financial-advisors</guid>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expanding Claude for Nonprofits]]></title>
-            <link>https://claude.com/resources/articles/expanding-claude-for-nonprofits</link>
-            <guid>https://claude.com/resources/articles/expanding-claude-for-nonprofits</guid>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
