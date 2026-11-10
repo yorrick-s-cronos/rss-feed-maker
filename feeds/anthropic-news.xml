@@ -4,11 +4,18 @@
         <title>Anthropic Newsroom</title>
         <link>https://www.anthropic.com/news</link>
         <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-        <lastBuildDate>Mon, 09 Nov 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/anthropic-news.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Anthropic launches roadshow for proposed initial public offering]]></title>
+            <link>https://www.anthropic.com/news/roadshow-launch</link>
+            <guid>https://www.anthropic.com/news/roadshow-launch</guid>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.]]></description>
+        </item>
         <item>
             <title><![CDATA[Introducing Claude Fable 5.2 and Claude Mythos 5.2]]></title>
             <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
@@ -169,13 +176,6 @@
             <guid>https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Introducing the Life Sciences Verification Program]]></title>
-            <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-            <guid>https://www.anthropic.com/news/life-sciences-verification-program</guid>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.]]></description>
         </item>
     </channel>
 </rss>
