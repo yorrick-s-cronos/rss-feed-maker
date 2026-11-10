@@ -1,8 +1,9 @@
 {
-  "lastSuccess": "2026-11-10T17:52:35.359Z",
+  "lastSuccess": "2026-11-10T23:24:51.728Z",
   "articleCount": 11,
   "knownLinks": [
     "https://claude.com/resources/articles/interactive-connectors-full-tool",
+    "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
     "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
     "https://claude.com/resources/articles/sheets-whiteboards-data",
     "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
@@ -11,8 +12,7 @@
     "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
     "https://claude.dev/blog/which-claude-model-should-you-build-with/",
     "https://www.anthropic.com/research/components-of-agent-memory",
-    "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
-    "https://claude.com/resources/articles/claude-enterprise-security-updates"
+    "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
   ],
   "consecutiveErrors": 0
 }

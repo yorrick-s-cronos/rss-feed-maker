@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 10 Nov 2026 16:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 16:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Empezó el "Roadshow" de la salida de Anthropic a la bolsa: ¿qué puedes esperar?]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/empezo-el-roadshow-de-la-salida-de-anthropic-a-la-bolsa-que-puedes-esperar/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/empezo-el-roadshow-de-la-salida-de-anthropic-a-la-bolsa-que-puedes-esperar/</guid>
+            <pubDate>Tue, 10 Nov 2026 16:49:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Riesgo que no se mide, tragedia que no se anticipa]]></title>
             <link>https://fintualist.com/chile/opinion/riesgo-que-no-se-mide-tragedia-que-no-se-anticipa/</link>
@@ -16,34 +22,40 @@
             <pubDate>Tue, 10 Nov 2026 16:49:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[📍 Mercados en vivo - La sorpresa de inflación en EE. UU.]]></title>
-            <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
-            <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
-            <pubDate>Tue, 10 Nov 2026 15:00:00 GMT</pubDate>
+            <title><![CDATA[La verdadera personalidad de Risky Norris]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/la-verdadera-personalidad-de-risky-norris/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/la-verdadera-personalidad-de-risky-norris/</guid>
+            <pubDate>Tue, 10 Nov 2026 15:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[El legado de Sebastián Lelio: ¿qué deja el director más allá de sus películas?]]></title>
-            <link>https://fintualist.com/chile/cultura/cine-series/el-legado-de-sebastian-lelio-que-deja-el-director-mas-alla-de-sus-peliculas/</link>
-            <guid>https://fintualist.com/chile/cultura/cine-series/el-legado-de-sebastian-lelio-que-deja-el-director-mas-alla-de-sus-peliculas/</guid>
-            <pubDate>Tue, 10 Nov 2026 13:40:00 GMT</pubDate>
+            <title><![CDATA[La ola demócrata le quitó el Congreso a Trump]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/la-ola-democrata-le-quito-el-congreso-a-trump/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/la-ola-democrata-le-quito-el-congreso-a-trump/</guid>
+            <pubDate>Tue, 10 Nov 2026 15:21:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Artista de la semana | Giorgio Morandi]]></title>
-            <link>https://fintualist.com/chile/cultura/artista-de-la-semana-giorgio-morandi/</link>
-            <guid>https://fintualist.com/chile/cultura/artista-de-la-semana-giorgio-morandi/</guid>
-            <pubDate>Mon, 09 Nov 2026 17:16:00 GMT</pubDate>
+            <title><![CDATA[📍 Mercados en vivo - La sorpresa de inflación en EE.UU.]]></title>
+            <link>https://fintualist.com/mexico/economia/mercados/actualizacion-mercado-mx/</link>
+            <guid>https://fintualist.com/mexico/economia/mercados/actualizacion-mercado-mx/</guid>
+            <pubDate>Mon, 09 Nov 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[¿La estrategia de inversión óptima? Lo que nos dice la evidencia]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/la-estrategia-de-inversion-optima-lo-que-nos-dice-la-evidencia-copy/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/la-estrategia-de-inversion-optima-lo-que-nos-dice-la-evidencia-copy/</guid>
+            <pubDate>Thu, 05 Nov 2026 20:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[¿Pérdidas de corto plazo?]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/perdidas-de-corto-plazo/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/perdidas-de-corto-plazo/</guid>
+            <pubDate>Thu, 05 Nov 2026 20:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La ola demócrata le quitó el Congreso a Trump]]></title>
             <link>https://fintualist.com/mexico/educacion-financiera/la-ola-democrata-le-quito-el-congreso-a-trump-2/</link>
             <guid>https://fintualist.com/mexico/educacion-financiera/la-ola-democrata-le-quito-el-congreso-a-trump-2/</guid>
             <pubDate>Wed, 04 Nov 2026 22:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La ola demócrata le quitó el Congreso a Trump]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/la-ola-democrata-le-quito-el-congreso-a-trump/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/la-ola-democrata-le-quito-el-congreso-a-trump/</guid>
-            <pubDate>Wed, 04 Nov 2026 20:21:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Las midterm elections y cuánto poder tendrá Trump los próximos dos años]]></title>
@@ -116,18 +128,6 @@
             <link>https://fintualist.com/chile/educacion-financiera/el-efecto-manada-de-las-afp-y-que-paso-con-el-fondo-e/</link>
             <guid>https://fintualist.com/chile/educacion-financiera/el-efecto-manada-de-las-afp-y-que-paso-con-el-fondo-e/</guid>
             <pubDate>Tue, 20 Oct 2026 11:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gana $30,000 en tu PPR en nuestro Fintual Update]]></title>
-            <link>https://fintualist.com/mexico/educacion-financiera/gana-30-000-en-tu-ppr-en-nuestro-fintual-update/</link>
-            <guid>https://fintualist.com/mexico/educacion-financiera/gana-30-000-en-tu-ppr-en-nuestro-fintual-update/</guid>
-            <pubDate>Tue, 20 Oct 2026 09:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cómo le fue a Fintual en el ranking de rentabilidad de la CMF]]></title>
-            <link>https://fintualist.com/chile/educacion-financiera/como-le-fue-a-fintual-en-el-ranking-de-rentabilidad-de-la-cmf/</link>
-            <guid>https://fintualist.com/chile/educacion-financiera/como-le-fue-a-fintual-en-el-ranking-de-rentabilidad-de-la-cmf/</guid>
-            <pubDate>Mon, 19 Oct 2026 15:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
