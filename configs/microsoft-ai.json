@@ -8,11 +8,17 @@
     "author": "Microsoft AI"
   },
   "selectors": {
-    "articleList": "scroll-object",
-    "title": "h2",
+    "articleList": "article[data-news-card]",
+    "title": "h2 a",
+    "date": "time",
+    "description": null,
     "link": {
-      "source": "attr:href"
+      "source": "attr:href",
+      "prefix": "https://microsoft.ai"
     }
   },
-  "createdAt": "2026-07-28T13:28:58.513Z"
+  "parserMode": "css",
+  "dateFormat": "MMMM d, yyyy",
+  "createdAt": "2026-07-28T13:28:58.513Z",
+  "lastHealed": "2026-11-11T22:02:21.880Z"
 }
