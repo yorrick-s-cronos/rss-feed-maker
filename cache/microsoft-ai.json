@@ -23,5 +23,6 @@
     "https://microsoft.ai/news/our-values-in-operation-health/",
     "https://microsoft.ai/news/microsoft-build-2026-mai-keynote-transcript/"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "No articles parsed"
 }
