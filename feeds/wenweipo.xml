@@ -4,11 +4,35 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Thu, 12 Nov 2026 23:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 04:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[深圳兩大新鮮零食店攻略   皇庭廣場大口獸   萬象食家金粒門    地板價搶客？]]></title>
+            <link>https://www.wenweipo.com/a/202611/13/AP6af5991ae4b028ec0193a784.html</link>
+            <guid>https://www.wenweipo.com/a/202611/13/AP6af5991ae4b028ec0193a784.html</guid>
+            <pubDate>Fri, 13 Nov 2026 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[隨便搵間就入去？平價速剪店告別「求其」 鬥快仲鬥高質]]></title>
+            <link>https://www.wenweipo.com/a/202611/13/AP6af5a9cce4b028ec0193a984.html</link>
+            <guid>https://www.wenweipo.com/a/202611/13/AP6af5a9cce4b028ec0193a984.html</guid>
+            <pubDate>Fri, 13 Nov 2026 03:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[定了！2027鄉郊一般選舉日期刊憲]]></title>
+            <link>https://www.wenweipo.com/a/202611/13/AP6af674a0e4b028ec0193bb5d.html</link>
+            <guid>https://www.wenweipo.com/a/202611/13/AP6af674a0e4b028ec0193bb5d.html</guid>
+            <pubDate>Fri, 13 Nov 2026 02:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[謝展寰：繼續協助工程業界將綠色解決方案輸出至新興市場]]></title>
+            <link>https://www.wenweipo.com/a/202611/13/AP6af672cce4b028ec0193bb32.html</link>
+            <guid>https://www.wenweipo.com/a/202611/13/AP6af672cce4b028ec0193bb32.html</guid>
+            <pubDate>Fri, 13 Nov 2026 02:15:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[今日刊憲！教師執業證明擬三年一續　國安罪行定罪者永久釘牌]]></title>
             <link>https://www.wenweipo.com/a/202611/13/AP6af64f44e4b028ec0193b5b2.html</link>
@@ -46,12 +70,6 @@
             <pubDate>Thu, 12 Nov 2026 11:16:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[長者着數優惠預告  點心喺屋企慢慢嘆！]]></title>
-            <link>https://www.wenweipo.com/a/202611/12/AP6af5782ce4b028ec0193a3ba.html</link>
-            <guid>https://www.wenweipo.com/a/202611/12/AP6af5782ce4b028ec0193a3ba.html</guid>
-            <pubDate>Thu, 12 Nov 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[灣區城際網拓展　珠江西岸新線擬延至珠海澳門]]></title>
             <link>https://www.wenweipo.com/a/202611/12/AP6af582a7e4b028ec0193a4fa.html</link>
             <guid>https://www.wenweipo.com/a/202611/12/AP6af582a7e4b028ec0193a4fa.html</guid>
@@ -68,18 +86,6 @@
             <link>https://www.wenweipo.com/a/202611/12/AP6af535cbe4b028ec01939c29.html</link>
             <guid>https://www.wenweipo.com/a/202611/12/AP6af535cbe4b028ec01939c29.html</guid>
             <pubDate>Thu, 12 Nov 2026 03:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天文台：今早大部分地區的氣溫較昨日高四至六度]]></title>
-            <link>https://www.wenweipo.com/a/202611/12/AP6af519e1e4b028ec01939822.html</link>
-            <guid>https://www.wenweipo.com/a/202611/12/AP6af519e1e4b028ec01939822.html</guid>
-            <pubDate>Thu, 12 Nov 2026 01:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挑戰便利店自製Cocktail！低至$55打造港式特調 Chill爆西九海濱微醺夜]]></title>
-            <link>https://www.wenweipo.com/a/202611/11/AP6af3dda0e4b028ec01937acf.html</link>
-            <guid>https://www.wenweipo.com/a/202611/11/AP6af3dda0e4b028ec01937acf.html</guid>
-            <pubDate>Wed, 11 Nov 2026 04:00:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
