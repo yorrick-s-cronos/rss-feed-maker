@@ -10,124 +10,25 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[デジタルツイン：臨床エビデンス戦略の進展（スポンサード）]]></title>
-            <link>https://finance.biggo.jp/podcast/b97a6bef604b1c74</link>
-            <guid>https://finance.biggo.jp/podcast/b97a6bef604b1c74</guid>
+            <title><![CDATA[ジェンスン・フアン抜きでエヌビディアは成長できるのか、最も損をするのは誰か？]]></title>
+            <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14-urgent</link>
+            <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14-urgent</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+            <description><![CDATA[ジェンスン・フアン氏が退任した今、彼抜きでエヌビディアはその勢いを保てるのか、そして最終的に苦しむのは誰なのか。企業か、アメリカか、それとも中国か。]]></description>
         </item>
         <item>
-            <title><![CDATA[Higher Prices, Smaller Margins: Restaurants are Feeling the Squeeze]]></title>
-            <link>https://finance.biggo.jp/podcast/dabbe6e2f1048f66</link>
-            <guid>https://finance.biggo.jp/podcast/dabbe6e2f1048f66</guid>
+            <title><![CDATA[AIはサイバー攻撃者に優位性を与えているのか、防御側は追いつけるのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-13</link>
+            <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-13</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+            <description><![CDATA[AIがサイバー攻撃者にもたらす新たな優位性は、今年大手銀行を破綻させるほど大きいのか、それとも同じツールを自分たちのソフトウェアに向けることで、ついに安全になるのか？]]></description>
         </item>
         <item>
-            <title><![CDATA[超知能の未来と子どもの安全をどう守るか | KMP 第61回]]></title>
-            <link>https://finance.biggo.jp/podcast/edec9bb621107f6e</link>
-            <guid>https://finance.biggo.jp/podcast/edec9bb621107f6e</guid>
+            <title><![CDATA[AIによるハッキングは一時的な危機か、それとも長く続くのか]]></title>
+            <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-10-29</link>
+            <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-10-29</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[He Defended the Government. DOGE Fired Him. — With Michael Lewis]]></title>
-            <link>https://finance.biggo.jp/podcast/b7c415a47e06dbd0</link>
-            <guid>https://finance.biggo.jp/podcast/b7c415a47e06dbd0</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[エヌビディアとAI業界、フアンなき未来の可能性に直面]]></title>
-            <link>https://finance.biggo.jp/podcast/66bdd7dd45e355b2</link>
-            <guid>https://finance.biggo.jp/podcast/66bdd7dd45e355b2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジョー・ローガン・エクスペリエンス #2580 - ケネス・ラコバラ]]></title>
-            <link>https://finance.biggo.jp/podcast/7e47287832550581</link>
-            <guid>https://finance.biggo.jp/podcast/7e47287832550581</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジェンスン・フアン辞任、そしてHomeViewレビュー | The Vergecast]]></title>
-            <link>https://finance.biggo.jp/podcast/d8667f1d44108916</link>
-            <guid>https://finance.biggo.jp/podcast/d8667f1d44108916</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIが直面するアメリカの「新世界」：暴落、規制、政治闘争、データセンターはどこへ向かうのか？【101動画ポッドキャスト】]]></title>
-            <link>https://finance.biggo.jp/podcast/700195a42655a909</link>
-            <guid>https://finance.biggo.jp/podcast/700195a42655a909</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[セリーナ・ウィリアムズを強くした嘘 | ニール・エヤル]]></title>
-            <link>https://finance.biggo.jp/podcast/38bb4e2e66e2c01b</link>
-            <guid>https://finance.biggo.jp/podcast/38bb4e2e66e2c01b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジェンスン・フアンが退場——そしてこれが中国にとって裏目に出る可能性 | Decoder]]></title>
-            <link>https://finance.biggo.jp/podcast/abc4ace514f7d45b</link>
-            <guid>https://finance.biggo.jp/podcast/abc4ace514f7d45b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[元SpaceX PM：なぜ3ヶ月でStarlinkを去ったのか]]></title>
-            <link>https://finance.biggo.jp/podcast/89a4cf88eb009839</link>
-            <guid>https://finance.biggo.jp/podcast/89a4cf88eb009839</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[フロンティアAIラボはなぜ破綻しうるのか｜Ege Erdil]]></title>
-            <link>https://finance.biggo.jp/podcast/990deb34a33830e2</link>
-            <guid>https://finance.biggo.jp/podcast/990deb34a33830e2</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Incredible Flying Computer]]></title>
-            <link>https://finance.biggo.jp/podcast/96baca44568a645b</link>
-            <guid>https://finance.biggo.jp/podcast/96baca44568a645b</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[最高のビジネスチャンス、消費者トレンド＆勝ち筋製品 | ケント・ヨシムラ | FO587 ラジ・シャマニ]]></title>
-            <link>https://finance.biggo.jp/podcast/69a4eba3956ef805</link>
-            <guid>https://finance.biggo.jp/podcast/69a4eba3956ef805</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biolinq、血糖値・アナライト検出の新章に向けた新型マイクロセンサー技術を発表]]></title>
-            <link>https://finance.biggo.jp/podcast/1adbc4ec42a57ecc</link>
-            <guid>https://finance.biggo.jp/podcast/1adbc4ec42a57ecc</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ジェンスン・フアン調査 | NASDAQが24時間で2.5兆ドルを失う | Anthropicが1.4兆ドルのIPO評価額を目指す]]></title>
-            <link>https://finance.biggo.jp/podcast/83013ef8d443bce4</link>
-            <guid>https://finance.biggo.jp/podcast/83013ef8d443bce4</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAIとAnthropicがゲーム制作の担い手をどう変えるか]]></title>
-            <link>https://finance.biggo.jp/podcast/a5a5ac3e50885aaf</link>
-            <guid>https://finance.biggo.jp/podcast/a5a5ac3e50885aaf</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ロボット向けワールドモデルで中国が先行 | Anastasis Germanidis]]></title>
-            <link>https://finance.biggo.jp/podcast/b2e61f8759e7442f</link>
-            <guid>https://finance.biggo.jp/podcast/b2e61f8759e7442f</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ベンチマーク・ブレックファスト 2026年11月12日：AnthropicのIPO、危機に瀕するエヌビディア、中間選挙、そして600億ドルのVC資金]]></title>
-            <link>https://finance.biggo.jp/podcast/31d3f3149c3bb44a</link>
-            <guid>https://finance.biggo.jp/podcast/31d3f3149c3bb44a</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[アン・アップルバウムが語る、クレプトクラシーとは何か、そしてアメリカがいかにしてそこへ滑り込むか]]></title>
-            <link>https://finance.biggo.jp/podcast/50d0dfb5f0a42db8</link>
-            <guid>https://finance.biggo.jp/podcast/50d0dfb5f0a42db8</guid>
-            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+            <description><![CDATA[AIによってソフトウェアの脆弱性の発見と悪用が安価になった今、これは短く厳しいパッチ対応の逼迫なのか、それとも防御側が追いつけない長期的な軍拡競争の始まりなのか。]]></description>
         </item>
     </channel>
 </rss>

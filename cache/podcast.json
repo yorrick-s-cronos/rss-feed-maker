@@ -1,28 +1,10 @@
 {
-  "lastSuccess": "2026-11-13T01:06:11.700Z",
-  "articleCount": 20,
+  "lastSuccess": "2026-11-14T11:30:12.792Z",
+  "articleCount": 3,
   "knownLinks": [
-    "https://finance.biggo.jp/podcast/b97a6bef604b1c74",
-    "https://finance.biggo.jp/podcast/dabbe6e2f1048f66",
-    "https://finance.biggo.jp/podcast/edec9bb621107f6e",
-    "https://finance.biggo.jp/podcast/b7c415a47e06dbd0",
-    "https://finance.biggo.jp/podcast/66bdd7dd45e355b2",
-    "https://finance.biggo.jp/podcast/7e47287832550581",
-    "https://finance.biggo.jp/podcast/d8667f1d44108916",
-    "https://finance.biggo.jp/podcast/700195a42655a909",
-    "https://finance.biggo.jp/podcast/38bb4e2e66e2c01b",
-    "https://finance.biggo.jp/podcast/abc4ace514f7d45b",
-    "https://finance.biggo.jp/podcast/89a4cf88eb009839",
-    "https://finance.biggo.jp/podcast/990deb34a33830e2",
-    "https://finance.biggo.jp/podcast/96baca44568a645b",
-    "https://finance.biggo.jp/podcast/69a4eba3956ef805",
-    "https://finance.biggo.jp/podcast/1adbc4ec42a57ecc",
-    "https://finance.biggo.jp/podcast/83013ef8d443bce4",
-    "https://finance.biggo.jp/podcast/a5a5ac3e50885aaf",
-    "https://finance.biggo.jp/podcast/b2e61f8759e7442f",
-    "https://finance.biggo.jp/podcast/31d3f3149c3bb44a",
-    "https://finance.biggo.jp/podcast/50d0dfb5f0a42db8"
+    "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14-urgent",
+    "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-13",
+    "https://finance.biggo.jp/podcast/show/frontline-tech-2026-10-29"
   ],
-  "consecutiveErrors": 4,
-  "lastError": "No articles parsed"
+  "consecutiveErrors": 0
 }
