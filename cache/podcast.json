@@ -6,5 +6,6 @@
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-13",
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-10-29"
   ],
-  "consecutiveErrors": 0
+  "consecutiveErrors": 1,
+  "lastError": "No articles parsed"
 }
