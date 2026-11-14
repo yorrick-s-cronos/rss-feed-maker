@@ -8,12 +8,16 @@
     "author": "BigGo"
   },
   "selectors": {
-    "articleList": ".PodcastList_episodesList__MZXIN .PodcastList_episodeCard__1sZNS",
-    "title": ".PodcastList_title__qSxrB",
+    "articleList": "a[href^='/podcast/show/']",
+    "title": "h2",
+    "date": "time",
+    "description": "p",
     "link": {
       "source": "attr:href",
       "prefix": "https://finance.biggo.jp"
     }
   },
-  "createdAt": "2026-05-20T17:27:51.797Z"
+  "parserMode": "css",
+  "createdAt": "2026-05-20T17:27:51.797Z",
+  "lastHealed": "2026-11-14T03:20:19.539Z"
 }
