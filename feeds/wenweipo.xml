@@ -4,11 +4,17 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Sun, 15 Nov 2026 10:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 11:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[給現代人的童話：由維園手作到夜光巡遊 記者帶你現場體驗！]]></title>
+            <link>https://www.wenweipo.com/a/202611/15/AP6af9997ae4b028ec01940b4f.html</link>
+            <guid>https://www.wenweipo.com/a/202611/15/AP6af9997ae4b028ec01940b4f.html</guid>
+            <pubDate>Sun, 15 Nov 2026 11:37:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[深圳鐵路秋假客流堪比春運！深圳北站單日發送旅客超34萬人次]]></title>
             <link>https://www.wenweipo.com/a/202611/15/AP6af98d93e4b028ec01940a62.html</link>

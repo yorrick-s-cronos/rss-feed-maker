@@ -10,6 +10,13 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AnthropicのIPOは上昇するのか、AIトレードにそれは必要なのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-15</link>
+            <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-15</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+            <description><![CDATA[Anthropicの株が取引を開始したら公開価格から上昇するのか、そして広範なAIトレードは今この上場に依存しているのか。]]></description>
+        </item>
+        <item>
             <title><![CDATA[ベンチャー資金は、ごく少数のファンドと企業に集中しているのか？]]></title>
             <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14</link>
             <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14</guid>
