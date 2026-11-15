@@ -14,7 +14,7 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 |------|------|--------|
 | [Composio Blog](https://composio.dev/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/composio.xml) | ✅ 3 articles |
 | [HumanLayer Blog](https://www.humanlayer.dev/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/humanlayer.xml) | ✅ 13 articles |
-| [Podcast AI要約｜投資・金融番組のポイント整理 — BigGo ファイナンス](https://finance.biggo.jp/podcast) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml) | ✅ 3 articles |
+| [Podcast AI要約｜投資・金融番組のポイント整理 — BigGo ファイナンス](https://finance.biggo.jp/podcast) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml) | ✅ 4 articles |
 | [Paul Graham Essays](https://www.paulgraham.com/articles.html) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/paul-graham.xml) | ✅ 20 articles |
 | [www.aihero.dev](https://www.aihero.dev/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/aihero-dev.xml) | ✅ 50 articles |
 | [Stability AI News](https://stability.ai/news) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/stability-ai.xml) | ✅ 20 articles |
@@ -48,7 +48,7 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | Project | Feed | Status |
 |---------|------|--------|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/openclaw-releases.xml) | ✅ 50 releases |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/hermes-agent-releases.xml) | ✅ 48 releases |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/hermes-agent-releases.xml) | ✅ 47 releases |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude-code-releases.xml) | ✅ 50 releases |
 <!-- FEEDS_TABLE_END -->
 

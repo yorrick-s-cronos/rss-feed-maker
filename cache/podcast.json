@@ -1,11 +1,11 @@
 {
-  "lastSuccess": "2026-11-14T11:30:12.792Z",
-  "articleCount": 3,
+  "lastSuccess": "2026-11-15T10:57:42.994Z",
+  "articleCount": 4,
   "knownLinks": [
+    "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14",
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14-urgent",
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-13",
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-10-29"
   ],
-  "consecutiveErrors": 3,
-  "lastError": "No articles parsed"
+  "consecutiveErrors": 0
 }

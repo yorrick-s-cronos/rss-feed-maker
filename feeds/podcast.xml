@@ -10,11 +10,18 @@
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ジェンスン・フアン抜きでエヌビディアは成長できるのか、最も損をするのは誰か？]]></title>
+            <title><![CDATA[ベンチャー資金は、ごく少数のファンドと企業に集中しているのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14</link>
+            <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14</guid>
+            <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
+            <description><![CDATA[最大手のベンチャーファンドがより速く資金を集め、より大きく賭けるようになる中で、資金はごく少数のファンドとごく少数の企業に集中しているのか。そうなったとき、誰が圧迫されるのか。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ジェンスン・フアン氏を追い出すことは、エヌビディアが失うものに見合ったのか？]]></title>
             <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14-urgent</link>
             <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14-urgent</guid>
             <pubDate>Wed, 20 May 2026 17:27:51 GMT</pubDate>
-            <description><![CDATA[ジェンスン・フアン氏が退任した今、彼抜きでエヌビディアはその勢いを保てるのか、そして最終的に苦しむのは誰なのか。企業か、アメリカか、それとも中国か。]]></description>
+            <description><![CDATA[何も証明されていない段階で、エヌビディアの取締役会がジェンスン・フアン氏を追い出したのは正しかったのか。そして、エヌビディアと、同社に依存するアメリカのAI業界は、彼なしでやっていけるのか。]]></description>
         </item>
         <item>
             <title><![CDATA[AIはサイバー攻撃者に優位性を与えているのか、防御側は追いつけるのか？]]></title>
