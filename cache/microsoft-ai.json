@@ -1,11 +1,15 @@
 {
-  "lastSuccess": "2026-11-17T14:27:54.962Z",
-  "articleCount": 4,
+  "lastSuccess": "2026-11-17T22:54:22.998Z",
+  "articleCount": 8,
   "knownLinks": [
-    "https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/",
-    "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/",
-    "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-    "https://microsoft.ai/news/optimizing-the-frontier-performance-curve/"
+    "https://microsoft.ai/news/introducing-mai-licensed-weights/",
+    "https://microsoft.ai/news/introducing-mai-image-2-7/",
+    "https://microsoft.ai/news/introducing-mai-realtime-1/",
+    "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "https://microsoft.ai/news/introducing-mai-cyber-2-flash/",
+    "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/",
+    "https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/"
   ],
   "consecutiveErrors": 0
 }

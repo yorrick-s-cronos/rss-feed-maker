@@ -4,11 +4,17 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Fri, 13 Nov 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Linked billing on the Claude Platform]]></title>
+            <link>https://claude.com/resources/articles/linked-billing-on-claude-platform</link>
+            <guid>https://claude.com/resources/articles/linked-billing-on-claude-platform</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building always-on agents]]></title>
             <link>https://claude.com/resources/articles/building-always-on-agents</link>
@@ -67,12 +73,6 @@
             <title><![CDATA[More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors]]></title>
             <link>https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors</link>
             <guid>https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Claude Whiteboards, Claude Sheets, and Claude Data]]></title>
-            <link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
-            <guid>https://claude.com/resources/articles/sheets-whiteboards-data</guid>
             <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

@@ -4,11 +4,18 @@
         <title>Podcast AI要約｜投資・金融番組のポイント整理 — BigGo ファイナンス</title>
         <link>https://finance.biggo.jp/podcast</link>
         <description>人気の金融 Podcast を AI 要約で効率的にチェック。各エピソードの重要ポイント、市場分析、投資インサイトを素早く把握。</description>
-        <lastBuildDate>Sun, 15 Nov 2026 15:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 15:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AIは本当に数年以内に人類を支配し得るのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-17</link>
+            <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-17</guid>
+            <pubDate>Tue, 17 Nov 2026 15:17:36 GMT</pubDate>
+            <description><![CDATA[AIシステムが、自分たちのロボットを持たない場合でも、数年以内に人類を支配したり無力化したりする現実的な可能性はあるのでしょうか？]]></description>
+        </item>
         <item>
             <title><![CDATA[AnthropicのIPOは上昇するのか、AIトレードにそれは必要なのか？]]></title>
             <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-15</link>
