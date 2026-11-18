@@ -4,11 +4,18 @@
         <title>Podcast AI要約｜投資・金融番組のポイント整理 — BigGo ファイナンス</title>
         <link>https://finance.biggo.jp/podcast</link>
         <description>人気の金融 Podcast を AI 要約で効率的にチェック。各エピソードの重要ポイント、市場分析、投資インサイトを素早く把握。</description>
-        <lastBuildDate>Tue, 17 Nov 2026 15:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 15:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[エヌビディアとそのAIマネーマシンは、ジェンスン・フアン氏なしで生き残れるのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-18</link>
+            <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-18</guid>
+            <pubDate>Wed, 18 Nov 2026 15:32:04 GMT</pubDate>
+            <description><![CDATA[エヌビディアと、同社がAI業界に注ぎ込んできた資金は、ジェンスン・フアン氏なしで持ちこたえられるのか？]]></description>
+        </item>
         <item>
             <title><![CDATA[AIは本当に数年以内に人類を支配し得るのか？]]></title>
             <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-17</link>

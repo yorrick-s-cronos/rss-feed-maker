@@ -16,6 +16,18 @@
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Using a "chaos loop" to harden the Claude Docs launch: 60 server errors across billions of requests]]></title>
+            <link>https://claude.dev/blog/chaos-loop-claude-docs-launch/</link>
+            <guid>https://claude.dev/blog/chaos-loop-claude-docs-launch/</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Claude Code team thinks about verification]]></title>
+            <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
+            <guid>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</guid>
+            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building always-on agents]]></title>
             <link>https://claude.com/resources/articles/building-always-on-agents</link>
             <guid>https://claude.com/resources/articles/building-always-on-agents</guid>
@@ -61,18 +73,6 @@
             <title><![CDATA[Your apps can now open in Claude, and Claude can work in them]]></title>
             <link>https://claude.com/resources/articles/interactive-connectors-full-tool</link>
             <guid>https://claude.com/resources/articles/interactive-connectors-full-tool</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Curative is building a national provider network with agents on Claude]]></title>
-            <link>https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude</link>
-            <guid>https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors]]></title>
-            <link>https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors</link>
-            <guid>https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors</guid>
             <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

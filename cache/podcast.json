@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-11-18T04:25:14.220Z",
-  "articleCount": 6,
+  "lastSuccess": "2026-11-18T21:58:40.782Z",
+  "articleCount": 7,
   "knownLinks": [
+    "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-18",
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-17",
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-15",
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-14",
@@ -9,6 +10,5 @@
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-13",
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-10-29"
   ],
-  "consecutiveErrors": 1,
-  "lastError": "Failed to fetch https://finance.biggo.jp/podcast: HTTP 429 Too Many Requests"
+  "consecutiveErrors": 0
 }
