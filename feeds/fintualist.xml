@@ -4,11 +4,17 @@
         <title>El Fintualist</title>
         <link>https://fintualist.com/chile/</link>
         <description>En Fintualist te contamos cada semana noticias interesantes e historias sobre economía, política, inversiones, ciencia, tecnología y finanzas.</description>
-        <lastBuildDate>Tue, 17 Nov 2026 19:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 22:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>es</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/fintualist.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cómo Anthropic busca convencer a los inversionistas]]></title>
+            <link>https://fintualist.com/chile/educacion-financiera/las-ultimas-novedades-de-anthropic-para-convencerte-de-que-compres-la-accion/</link>
+            <guid>https://fintualist.com/chile/educacion-financiera/las-ultimas-novedades-de-anthropic-para-convencerte-de-que-compres-la-accion/</guid>
+            <pubDate>Tue, 17 Nov 2026 22:24:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[¿Podemos abrazar el no-determinismo de la IA?]]></title>
             <link>https://fintualist.com/chile/ciencia/podemos-abrazar-el-no-determinismo-de-la-ia/</link>
@@ -26,12 +32,6 @@
             <link>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</link>
             <guid>https://fintualist.com/chile/economia/mercados/actualizacion-mercado-cl/</guid>
             <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[El esperado estreno de Caballo Salvaje Nueve, otro triunfo melancólico para McDonagh y Chile]]></title>
-            <link>https://fintualist.com/chile/cultura/cine-series/el-esperado-estreno-de-caballo-salvaje-nueve-otro-triunfo-melancolico-para-mcdonagh-y-chile/</link>
-            <guid>https://fintualist.com/chile/cultura/cine-series/el-esperado-estreno-de-caballo-salvaje-nueve-otro-triunfo-melancolico-para-mcdonagh-y-chile/</guid>
-            <pubDate>Tue, 17 Nov 2026 13:55:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Por qué contratar una espía para enamorar al CEO de Nvidia? La Guerra Fría de los semiconductores]]></title>
