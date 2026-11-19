@@ -1,5 +1,5 @@
 {
-  "lastSuccess": "2026-11-19T03:31:44.554Z",
+  "lastSuccess": "2026-11-19T21:38:24.716Z",
   "articleCount": 7,
   "knownLinks": [
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-18",
@@ -10,6 +10,5 @@
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-13",
     "https://finance.biggo.jp/podcast/show/frontline-tech-2026-10-29"
   ],
-  "consecutiveErrors": 1,
-  "lastError": "Failed to fetch https://finance.biggo.jp/podcast: The operation was aborted."
+  "consecutiveErrors": 0
 }
