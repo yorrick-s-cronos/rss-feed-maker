@@ -4,11 +4,18 @@
         <title>Podcast AI要約｜投資・金融番組のポイント整理 — BigGo ファイナンス</title>
         <link>https://finance.biggo.jp/podcast</link>
         <description>人気の金融 Podcast を AI 要約で効率的にチェック。各エピソードの重要ポイント、市場分析、投資インサイトを素早く把握。</description>
-        <lastBuildDate>Wed, 18 Nov 2026 15:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 15:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[アンソロピックは、新規上場がつけた1兆ドル規模の価格に見合うのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-20</link>
+            <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-20</guid>
+            <pubDate>Fri, 20 Nov 2026 15:24:59 GMT</pubDate>
+            <description><![CDATA[アンソロピックの成長は1兆ドル超の評価額を正当化するのか、そして新規上場は成功だったのか？]]></description>
+        </item>
         <item>
             <title><![CDATA[エヌビディアとそのAIマネーマシンは、ジェンスン・フアン氏なしで生き残れるのか？]]></title>
             <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-18</link>
