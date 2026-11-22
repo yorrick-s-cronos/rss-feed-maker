@@ -4,11 +4,18 @@
         <title>Podcast AI要約｜投資・金融番組のポイント整理 — BigGo ファイナンス</title>
         <link>https://finance.biggo.jp/podcast</link>
         <description>人気の金融 Podcast を AI 要約で効率的にチェック。各エピソードの重要ポイント、市場分析、投資インサイトを素早く把握。</description>
-        <lastBuildDate>Sat, 21 Nov 2026 15:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 15:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>ja</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AIへの巨額投資はいつか報われるのか？]]></title>
+            <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-22</link>
+            <guid>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-22</guid>
+            <pubDate>Sun, 22 Nov 2026 15:47:39 GMT</pubDate>
+            <description><![CDATA[AIチップやデータセンターに注ぎ込まれる巨額の資金は元が取れるのか、そしてAI株はそれを前提にした価格になっているのか。]]></description>
+        </item>
         <item>
             <title><![CDATA[中間選挙の反発は、アメリカのAIデータセンター建設ブームを本当に減速させるのか？]]></title>
             <link>https://finance.biggo.jp/podcast/show/frontline-tech-2026-11-21</link>
