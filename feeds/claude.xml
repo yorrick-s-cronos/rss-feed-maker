@@ -4,11 +4,35 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Tue, 17 Nov 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KPMG's Todd Lohr on AI when your data is also your clients' data]]></title>
+            <link>https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data</link>
+            <guid>https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zero data retention with Enterprise Frontier Safeguards is now in beta]]></title>
+            <link>https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards</link>
+            <guid>https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The enterprise guide to securing coding agents]]></title>
+            <link>https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</link>
+            <guid>https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Claude Ship]]></title>
+            <link>https://claude.com/resources/articles/introducing-claude-ship</link>
+            <guid>https://claude.com/resources/articles/introducing-claude-ship</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Linked billing on the Claude Platform]]></title>
             <link>https://claude.com/resources/articles/linked-billing-on-claude-platform</link>
@@ -28,6 +52,12 @@
             <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Building strong safety evaluations]]></title>
+            <link>https://www.anthropic.com/research/building-strong-safety-evaluations</link>
+            <guid>https://www.anthropic.com/research/building-strong-safety-evaluations</guid>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building always-on agents]]></title>
             <link>https://claude.com/resources/articles/building-always-on-agents</link>
             <guid>https://claude.com/resources/articles/building-always-on-agents</guid>
@@ -44,36 +74,6 @@
             <link>https://claude.com/resources/articles/self-hosted-claude-managed-agents</link>
             <guid>https://claude.com/resources/articles/self-hosted-claude-managed-agents</guid>
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[J. Crew brings its signature approach to styling to life with Claude]]></title>
-            <link>https://claude.com/resources/articles/j-crew-style-advisor-with-claude</link>
-            <guid>https://claude.com/resources/articles/j-crew-style-advisor-with-claude</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Claude for Manufacturing]]></title>
-            <link>https://claude.com/resources/articles/claude-for-manufacturing</link>
-            <guid>https://claude.com/resources/articles/claude-for-manufacturing</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Claude Meetings]]></title>
-            <link>https://claude.com/resources/articles/claude-meetings</link>
-            <guid>https://claude.com/resources/articles/claude-meetings</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Claude Opus 5.5 as your daily driver for knowledge work]]></title>
-            <link>https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work</link>
-            <guid>https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your apps can now open in Claude, and Claude can work in them]]></title>
-            <link>https://claude.com/resources/articles/interactive-connectors-full-tool</link>
-            <guid>https://claude.com/resources/articles/interactive-connectors-full-tool</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
