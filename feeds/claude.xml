@@ -4,11 +4,23 @@
         <title>Claude Blog</title>
         <link>https://claude.com/blog</link>
         <description>Product news and best practices for teams building with Claude.</description>
-        <lastBuildDate>Mon, 23 Nov 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>en</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/claude.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Turn artifacts into Mac and Windows apps]]></title>
+            <link>https://claude.com/resources/articles/install-as-app</link>
+            <guid>https://claude.com/resources/articles/install-as-app</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MCP servers can now ship skills, run tasks, and more with Claude]]></title>
+            <link>https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</link>
+            <guid>https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KPMG's Todd Lohr on AI when your data is also your clients' data]]></title>
             <link>https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data</link>
@@ -62,18 +74,6 @@
             <link>https://claude.com/resources/articles/building-always-on-agents</link>
             <guid>https://claude.com/resources/articles/building-always-on-agents</guid>
             <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Claude Tag guide for startups]]></title>
-            <link>https://claude.com/resources/articles/claude-tag-guide-for-startups</link>
-            <guid>https://claude.com/resources/articles/claude-tag-guide-for-startups</guid>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Operate Claude Managed Agents inside your security perimeter]]></title>
-            <link>https://claude.com/resources/articles/self-hosted-claude-managed-agents</link>
-            <guid>https://claude.com/resources/articles/self-hosted-claude-managed-agents</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
