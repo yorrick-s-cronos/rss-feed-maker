@@ -25,7 +25,7 @@ Many popular tech blogs don't offer RSS feeds. This project uses AI to analyze b
 | [Groq News](https://groq.com/news/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/groq-news.xml) | ✅ 40 articles |
 | [Microsoft AI Blog](https://microsoft.ai/blog/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/microsoft-ai.xml) | ✅ 8 articles |
 | [Paul Graham Essays](https://www.paulgraham.com/articles.html) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/paul-graham.xml) | ✅ 20 articles |
-| [Composio Blog](https://composio.dev/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/composio.xml) | ✅ 3 articles |
+| [Composio Blog](https://composio.dev/blog) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/composio.xml) | ✅ 6 articles |
 | [Essays](https://www.paulgraham.com/articles.html) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/paulgraham.xml) | ✅ 20 articles |
 | [Aleph Alpha Blog](https://aleph-alpha.com/en/blog/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/aleph-alpha.xml) | ✅ 10 articles |
 | [文匯報](https://www.wenweipo.com/) | [Subscribe](https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml) | ✅ 13 articles |

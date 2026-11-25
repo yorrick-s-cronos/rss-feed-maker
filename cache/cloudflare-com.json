@@ -1,7 +1,8 @@
 {
-  "lastSuccess": "2026-11-25T14:36:08.578Z",
+  "lastSuccess": "2026-11-25T23:40:54.646Z",
   "articleCount": 20,
   "knownLinks": [
+    "https://blog.cloudflare.com/search-for-agents/",
     "https://blog.cloudflare.com/open-clairic/",
     "https://blog.cloudflare.com/kitesurf-open-source/",
     "https://blog.cloudflare.com/trusted-agent-delegation/",
@@ -20,8 +21,7 @@
     "https://blog.cloudflare.com/managed-cloudflare-os/",
     "https://blog.cloudflare.com/ai-search-ga/",
     "https://blog.cloudflare.com/auto-router/",
-    "https://blog.cloudflare.com/simplifying-domains/",
-    "https://blog.cloudflare.com/monetization-gateway-beta/"
+    "https://blog.cloudflare.com/simplifying-domains/"
   ],
   "consecutiveErrors": 0
 }

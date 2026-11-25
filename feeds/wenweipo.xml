@@ -4,11 +4,29 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Wed, 25 Nov 2026 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 23:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[港鐵天水圍站故障工程車已駛離行車線　屯馬綫逐步回復正常]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b076f9ae4b028ec0195a218.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b076f9ae4b028ec0195a218.html</guid>
+            <pubDate>Wed, 25 Nov 2026 23:30:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美媒：美政府正重新考慮或將伊朗高層列為打擊目標]]></title>
+            <link>https://www.wenweipo.com/a/202611/25/AP6b06f41ae4b028ec01959b60.html</link>
+            <guid>https://www.wenweipo.com/a/202611/25/AP6b06f41ae4b028ec01959b60.html</guid>
+            <pubDate>Wed, 25 Nov 2026 14:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美軍開始在日本沖繩常態部署新型戰鬥機]]></title>
+            <link>https://www.wenweipo.com/a/202611/25/AP6b06f22fe4b028ec01959a97.html</link>
+            <guid>https://www.wenweipo.com/a/202611/25/AP6b06f22fe4b028ec01959a97.html</guid>
+            <pubDate>Wed, 25 Nov 2026 14:35:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[神二十四發射電力「心臟」灣區造　護航中國航天廿餘載]]></title>
             <link>https://www.wenweipo.com/a/202611/25/AP6b06eda3e4b028ec019599b8.html</link>
@@ -32,12 +50,6 @@
             <link>https://www.wenweipo.com/a/202611/25/AP6b06e16ae4b028ec01959893.html</link>
             <guid>https://www.wenweipo.com/a/202611/25/AP6b06e16ae4b028ec01959893.html</guid>
             <pubDate>Wed, 25 Nov 2026 13:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[32歲女子FB放售800元貓糧 撳入假買家連結失逾56萬元]]></title>
-            <link>https://www.wenweipo.com/a/202611/25/AP6b06b967e4b028ec0195935b.html</link>
-            <guid>https://www.wenweipo.com/a/202611/25/AP6b06b967e4b028ec0195935b.html</guid>
-            <pubDate>Wed, 25 Nov 2026 10:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[行政長官探訪宏福苑火災受影響居民]]></title>
@@ -74,18 +86,6 @@
             <link>https://www.wenweipo.com/a/202611/23/AP6b03f1f4e4b028ec019546ec.html</link>
             <guid>https://www.wenweipo.com/a/202611/23/AP6b03f1f4e4b028ec019546ec.html</guid>
             <pubDate>Mon, 23 Nov 2026 07:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[神秘萬噸大驅將亮相珠海　預約攻略請收好！]]></title>
-            <link>https://www.wenweipo.com/a/202611/23/AP6b03ec01e4b028ec01954648.html</link>
-            <guid>https://www.wenweipo.com/a/202611/23/AP6b03ec01e4b028ec01954648.html</guid>
-            <pubDate>Mon, 23 Nov 2026 07:32:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[神秘萬噸大驅　珠海見！]]></title>
-            <link>https://www.wenweipo.com/a/202611/23/AP6b03d1f2e4b028ec0195435a.html</link>
-            <guid>https://www.wenweipo.com/a/202611/23/AP6b03d1f2e4b028ec0195435a.html</guid>
-            <pubDate>Mon, 23 Nov 2026 05:41:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
