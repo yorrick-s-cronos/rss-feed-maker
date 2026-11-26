@@ -4,46 +4,70 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Wed, 25 Nov 2026 23:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 08:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[（有片）首次展示！中國航展亮點搶先看]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b07ec24e4b028ec0195b2b2.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b07ec24e4b028ec0195b2b2.html</guid>
+            <pubDate>Thu, 26 Nov 2026 08:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1蚊掃貨咁抵？IKEA黑五激減低至4折]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b07ebebe4b028ec0195b2ae.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b07ebebe4b028ec0195b2ae.html</guid>
+            <pubDate>Thu, 26 Nov 2026 08:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[殲-20A、運-20B將首次亮相中國航展]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b07eb10e4b028ec0195b295.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b07eb10e4b028ec0195b295.html</guid>
+            <pubDate>Thu, 26 Nov 2026 08:17:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[國防部督促日方全面加快日遺化武處置進程]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b07e82de4b028ec0195b210.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b07e82de4b028ec0195b210.html</guid>
+            <pubDate>Thu, 26 Nov 2026 08:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[（有片）空軍33型主戰裝備參加中國航展]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b07e2e6e4b028ec0195b17b.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b07e2e6e4b028ec0195b17b.html</guid>
+            <pubDate>Thu, 26 Nov 2026 07:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中交路建北方公司科創雲廊項目 深耕廉潔文化建設]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b07d6dee4b028ec0195afdb.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b07d6dee4b028ec0195afdb.html</guid>
+            <pubDate>Thu, 26 Nov 2026 06:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今期「港」乜嘢｜中醫兩大奇病你聽過未！手臂生人面似「佛地魔」 心痛隨時痛死人！]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b06e27ce4b028ec019598c8.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b06e27ce4b028ec019598c8.html</guid>
+            <pubDate>Thu, 26 Nov 2026 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎明出道40年首次鄭州開唱　幫歌迷找回青蔥歲月回憶]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b07a6d3e4b028ec0195aa5b.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b07a6d3e4b028ec0195aa5b.html</guid>
+            <pubDate>Thu, 26 Nov 2026 03:26:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[（有片）粵港澳大灣區首個變速抽蓄工程輸水系統完工]]></title>
+            <link>https://www.wenweipo.com/a/202611/26/AP6b0784f0e4b028ec0195a4c5.html</link>
+            <guid>https://www.wenweipo.com/a/202611/26/AP6b0784f0e4b028ec0195a4c5.html</guid>
+            <pubDate>Thu, 26 Nov 2026 01:01:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[港鐵天水圍站故障工程車已駛離行車線　屯馬綫逐步回復正常]]></title>
             <link>https://www.wenweipo.com/a/202611/26/AP6b076f9ae4b028ec0195a218.html</link>
             <guid>https://www.wenweipo.com/a/202611/26/AP6b076f9ae4b028ec0195a218.html</guid>
             <pubDate>Wed, 25 Nov 2026 23:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美媒：美政府正重新考慮或將伊朗高層列為打擊目標]]></title>
-            <link>https://www.wenweipo.com/a/202611/25/AP6b06f41ae4b028ec01959b60.html</link>
-            <guid>https://www.wenweipo.com/a/202611/25/AP6b06f41ae4b028ec01959b60.html</guid>
-            <pubDate>Wed, 25 Nov 2026 14:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美軍開始在日本沖繩常態部署新型戰鬥機]]></title>
-            <link>https://www.wenweipo.com/a/202611/25/AP6b06f22fe4b028ec01959a97.html</link>
-            <guid>https://www.wenweipo.com/a/202611/25/AP6b06f22fe4b028ec01959a97.html</guid>
-            <pubDate>Wed, 25 Nov 2026 14:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[神二十四發射電力「心臟」灣區造　護航中國航天廿餘載]]></title>
-            <link>https://www.wenweipo.com/a/202611/25/AP6b06eda3e4b028ec019599b8.html</link>
-            <guid>https://www.wenweipo.com/a/202611/25/AP6b06eda3e4b028ec019599b8.html</guid>
-            <pubDate>Wed, 25 Nov 2026 14:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中國航展迎來首批境外參展物資]]></title>
-            <link>https://www.wenweipo.com/a/202611/25/AP6b06e9a5e4b028ec01959968.html</link>
-            <guid>https://www.wenweipo.com/a/202611/25/AP6b06e9a5e4b028ec01959968.html</guid>
-            <pubDate>Wed, 25 Nov 2026 13:59:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[騎手詩人王計兵深圳開講：於奔波日常書寫生活詩意]]></title>
-            <link>https://www.wenweipo.com/a/202611/25/AP6b06e90fe4b028ec0195995e.html</link>
-            <guid>https://www.wenweipo.com/a/202611/25/AP6b06e90fe4b028ec0195995e.html</guid>
-            <pubDate>Wed, 25 Nov 2026 13:56:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[（有片）「我仲係大埔人」：從過渡屋到新居　一位宏福苑居民的回「家」路]]></title>
@@ -52,40 +76,10 @@
             <pubDate>Wed, 25 Nov 2026 13:23:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[行政長官探訪宏福苑火災受影響居民]]></title>
-            <link>https://www.wenweipo.com/a/202611/25/AP6b06ad1de4b028ec019591e6.html</link>
-            <guid>https://www.wenweipo.com/a/202611/25/AP6b06ad1de4b028ec019591e6.html</guid>
-            <pubDate>Wed, 25 Nov 2026 09:40:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[羅淑佩：盛事帶動訪港旅客升　料全年相關總消費達2380億元]]></title>
-            <link>https://www.wenweipo.com/a/202611/25/AP6b0673cfe4b028ec01958a1c.html</link>
-            <guid>https://www.wenweipo.com/a/202611/25/AP6b0673cfe4b028ec01958a1c.html</guid>
-            <pubDate>Wed, 25 Nov 2026 05:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[熱話「港」唔停│飲茶叩手禮原來有分級？單指、雙指、握拳各有含意 網民驚覺敲錯多年]]></title>
-            <link>https://www.wenweipo.com/a/202611/25/AP6b0670d3e4b028ec019589d4.html</link>
-            <guid>https://www.wenweipo.com/a/202611/25/AP6b0670d3e4b028ec019589d4.html</guid>
-            <pubDate>Wed, 25 Nov 2026 05:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[今期「港」乜嘢 │ 「美食沙漠」搵食艱難？港式兩餸飯＋韓式好滋味 $45起攻陷科大 韓國生都話正]]></title>
             <link>https://www.wenweipo.com/a/202611/25/AP6b05a812e4b028ec0195742e.html</link>
             <guid>https://www.wenweipo.com/a/202611/25/AP6b05a812e4b028ec0195742e.html</guid>
             <pubDate>Wed, 25 Nov 2026 02:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今期「港」乜嘢 │ 冬日泡湯養生  最快1.5小時直達  解鎖廣東三大隱世溫泉]]></title>
-            <link>https://www.wenweipo.com/a/202611/24/AP6b04257ee4b028ec01954ce0.html</link>
-            <guid>https://www.wenweipo.com/a/202611/24/AP6b04257ee4b028ec01954ce0.html</guid>
-            <pubDate>Tue, 24 Nov 2026 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中國航展｜第六輪放票基本售罄　搶票火爆程度超過往屆]]></title>
-            <link>https://www.wenweipo.com/a/202611/23/AP6b03f1f4e4b028ec019546ec.html</link>
-            <guid>https://www.wenweipo.com/a/202611/23/AP6b03f1f4e4b028ec019546ec.html</guid>
-            <pubDate>Mon, 23 Nov 2026 07:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
