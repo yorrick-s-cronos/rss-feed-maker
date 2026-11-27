@@ -4,28 +4,40 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Fri, 27 Nov 2026 09:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 15:00:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[粵產片《二十四味》廣州首映　新科金馬影后袁澧林內地人氣高]]></title>
-            <link>https://www.wenweipo.com/a/202611/27/AP6b094cdde4b028ec0195d47a.html</link>
-            <guid>https://www.wenweipo.com/a/202611/27/AP6b094cdde4b028ec0195d47a.html</guid>
-            <pubDate>Fri, 27 Nov 2026 09:26:52 GMT</pubDate>
+            <title><![CDATA[古今同台 首落鵬城　典亞藝博·深圳2026正式開幕]]></title>
+            <link>https://www.wenweipo.com/a/202611/27/AP6b099b22e4b028ec0195db46.html</link>
+            <guid>https://www.wenweipo.com/a/202611/27/AP6b099b22e4b028ec0195db46.html</guid>
+            <pubDate>Fri, 27 Nov 2026 15:00:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[首次招生！香港城大（東莞）首辦智能半導體製造碩士課程]]></title>
-            <link>https://www.wenweipo.com/a/202611/27/AP6b094a07e4b028ec0195d3e2.html</link>
-            <guid>https://www.wenweipo.com/a/202611/27/AP6b094a07e4b028ec0195d3e2.html</guid>
-            <pubDate>Fri, 27 Nov 2026 09:14:45 GMT</pubDate>
+            <title><![CDATA[（有片）APEC出圈科創好物集結高交會：輕量化創新講好深圳新質生產力故事]]></title>
+            <link>https://www.wenweipo.com/a/202611/27/AP6b0997c8e4b028ec0195db05.html</link>
+            <guid>https://www.wenweipo.com/a/202611/27/AP6b0997c8e4b028ec0195db05.html</guid>
+            <pubDate>Fri, 27 Nov 2026 14:46:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中國技術交易所（深圳）中心落地　破解中國技術出海估值困境]]></title>
-            <link>https://www.wenweipo.com/a/202611/27/AP6b094712e4b028ec0195d3a0.html</link>
-            <guid>https://www.wenweipo.com/a/202611/27/AP6b094712e4b028ec0195d3a0.html</guid>
-            <pubDate>Fri, 27 Nov 2026 09:02:08 GMT</pubDate>
+            <title><![CDATA[（有片）底層技術研發到產業應用　高交會福田館展現AI創新全鏈條]]></title>
+            <link>https://www.wenweipo.com/a/202611/27/AP6b099458e4b028ec0195da95.html</link>
+            <guid>https://www.wenweipo.com/a/202611/27/AP6b099458e4b028ec0195da95.html</guid>
+            <pubDate>Fri, 27 Nov 2026 14:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中國航展｜專家：「戰神」轟-6K再度亮相　兼具多重意義]]></title>
+            <link>https://www.wenweipo.com/a/202611/27/AP6b09739ae4b028ec0195d799.html</link>
+            <guid>https://www.wenweipo.com/a/202611/27/AP6b09739ae4b028ec0195d799.html</guid>
+            <pubDate>Fri, 27 Nov 2026 12:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(有片) 啟德SOGO變身魔雪奇緣世界 聖誕打卡熱爆]]></title>
+            <link>https://www.wenweipo.com/a/202611/27/AP6b096c3ce4b028ec0195d717.html</link>
+            <guid>https://www.wenweipo.com/a/202611/27/AP6b096c3ce4b028ec0195d717.html</guid>
+            <pubDate>Fri, 27 Nov 2026 11:40:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[直‑20T首秀珠海！陸軍將亮相第十六屆中國航展　多個亮點搶先看]]></title>
@@ -58,22 +70,10 @@
             <pubDate>Fri, 27 Nov 2026 02:54:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[網約車「人牌」下周一開始接受申請　不設上限]]></title>
-            <link>https://www.wenweipo.com/a/202611/27/AP6b08c9ebe4b028ec0195c494.html</link>
-            <guid>https://www.wenweipo.com/a/202611/27/AP6b08c9ebe4b028ec0195c494.html</guid>
-            <pubDate>Fri, 27 Nov 2026 00:08:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[（有片）超近距離拍攝殲-15夜間加油，霸氣場面+1]]></title>
             <link>https://www.wenweipo.com/a/202611/26/AP6b07f80be4b028ec0195b429.html</link>
             <guid>https://www.wenweipo.com/a/202611/26/AP6b07f80be4b028ec0195b429.html</guid>
             <pubDate>Thu, 26 Nov 2026 09:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[國防部：日本沒有資格在南海問題上說三道四]]></title>
-            <link>https://www.wenweipo.com/a/202611/26/AP6b07f159e4b028ec0195b366.html</link>
-            <guid>https://www.wenweipo.com/a/202611/26/AP6b07f159e4b028ec0195b366.html</guid>
-            <pubDate>Thu, 26 Nov 2026 08:44:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[今期「港」乜嘢｜中醫兩大奇病你聽過未！手臂生人面似「佛地魔」 心痛隨時痛死人！]]></title>
