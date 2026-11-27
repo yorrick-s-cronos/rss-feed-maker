@@ -4,11 +4,25 @@
         <title>文匯香港</title>
         <link>https://www.wenweipo.com/hongkong</link>
         <description>文匯報 - 香港新聞</description>
-        <lastBuildDate>Thu, 26 Nov 2026 16:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 01:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo-hongkong.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[滲水辦不處理公共地方滲漏？業主多部門跑斷腿]]></title>
+            <link>https://www.wenweipo.com/a/202611/27/AP6b08da84e4b028ec0195c628.html</link>
+            <guid>https://www.wenweipo.com/a/202611/27/AP6b08da84e4b028ec0195c628.html</guid>
+            <pubDate>Fri, 27 Nov 2026 01:18:58 GMT</pubDate>
+            <description><![CDATA[滲水問題之所以磨人，除了技術上的源頭追溯困難之外，更大的難點在於其錯綜複雜的權責關係。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[（有片）港生跟警隊「傳承計劃」漫遊沙頭角與荔枝窩　感受歷史文化保育]]></title>
+            <link>https://www.wenweipo.com/a/202611/27/AP6b081c76e4b028ec0195b7b4.html</link>
+            <guid>https://www.wenweipo.com/a/202611/27/AP6b081c76e4b028ec0195b7b4.html</guid>
+            <pubDate>Fri, 27 Nov 2026 01:00:00 GMT</pubDate>
+            <description><![CDATA[日前，來自多間中小學的約30位學生同老師，在警隊「傳承大使」帶領下，走進位於香港與深圳邊境的沙頭角、荔枝窩。]]></description>
+        </item>
         <item>
             <title><![CDATA[港女聲稱「特區護照缺頁」被遣返  涉非法改動護照與男友同被捕]]></title>
             <link>https://www.wenweipo.com/a/202611/27/AP6b085dc6e4b028ec0195bdf0.html</link>
@@ -99,20 +113,6 @@
             <guid>https://www.wenweipo.com/a/202611/26/AP6b07fe19e4b028ec0195b50f.html</guid>
             <pubDate>Thu, 26 Nov 2026 09:38:32 GMT</pubDate>
             <description><![CDATA[油尖警區刑事部，因應區內非法賣淫情況展開深入調查，經探員情報搜集，掌握一個活躍於區內的非法賣淫集團。警方表示，該集團背後有黑社會操控，在區內有3個場所，場所均招攬東南亞地區的女性來港從事非法賣淫活動。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特色親子煮麵活動  獅小冀育學生服務精神]]></title>
-            <link>https://www.wenweipo.com/a/202611/26/AP6b07fd16e4b028ec0195b4f7.html</link>
-            <guid>https://www.wenweipo.com/a/202611/26/AP6b07fd16e4b028ec0195b4f7.html</guid>
-            <pubDate>Thu, 26 Nov 2026 09:34:11 GMT</pubDate>
-            <description><![CDATA[11月14日星期六，獅子會何德心小學舉辦了一場別具意義的跨代共融活動《跨代共融一麵呈》，20多組學校親子義工在莆田餐飲的大廚指導下，為到場的長者親自烹煮傳統菜式海鮮滷麵。學校副校監莊紹嘉博士亦到場親身為親子義工打氣。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[獅小英文校本課程   寓學習於樂]]></title>
-            <link>https://www.wenweipo.com/a/202611/26/AP6b07f760e4b028ec0195b424.html</link>
-            <guid>https://www.wenweipo.com/a/202611/26/AP6b07f760e4b028ec0195b424.html</guid>
-            <pubDate>Thu, 26 Nov 2026 09:09:50 GMT</pubDate>
-            <description><![CDATA[獅子會何德心小學多年來，在辦學團體獅子會教育基金的大力支持下積極發展英文科校本課程，成效顯著。課程融入圖書教學、遊戲化學習及體驗活動，讓學生不只在圖書及教科書中學英文，更透過遊戲及跨學科活動應用英文，學習成效大大提升。]]></description>
         </item>
     </channel>
 </rss>
