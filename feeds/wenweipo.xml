@@ -4,11 +4,41 @@
         <title>文匯報</title>
         <link>https://www.wenweipo.com/</link>
         <description>文匯報 - 香港文匯網</description>
-        <lastBuildDate>Fri, 27 Nov 2026 15:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 02:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ai-rss-feeds (https://github.com/yorrick-s-cronos/rss-feed-maker)</generator>
         <language>zh</language>
         <atom:link href="https://raw.githubusercontent.com/yorrick-s-cronos/rss-feed-maker/main/feeds/wenweipo.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[（有片）現役主戰裝備集中亮相！中國航展陸軍超燃視頻來襲]]></title>
+            <link>https://www.wenweipo.com/a/202611/28/AP6b0a3a9ce4b028ec0195e683.html</link>
+            <guid>https://www.wenweipo.com/a/202611/28/AP6b0a3a9ce4b028ec0195e683.html</guid>
+            <pubDate>Sat, 28 Nov 2026 02:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一日完成5人兩周工作量　港人北上自創品牌用AI提效]]></title>
+            <link>https://www.wenweipo.com/a/202611/28/AP6b0a3685e4b028ec0195e5bc.html</link>
+            <guid>https://www.wenweipo.com/a/202611/28/AP6b0a3685e4b028ec0195e5bc.html</guid>
+            <pubDate>Sat, 28 Nov 2026 02:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[陳茂波率領代表團與荷蘭金融及創科界交流]]></title>
+            <link>https://www.wenweipo.com/a/202611/28/AP6b0a2c5ae4b028ec0195e4cf.html</link>
+            <guid>https://www.wenweipo.com/a/202611/28/AP6b0a2c5ae4b028ec0195e4cf.html</guid>
+            <pubDate>Sat, 28 Nov 2026 01:20:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[集中展出六類24型現役裝備　陸軍珠海航展「五大看點」]]></title>
+            <link>https://www.wenweipo.com/a/202611/28/AP6b0a239de4b028ec0195e37e.html</link>
+            <guid>https://www.wenweipo.com/a/202611/28/AP6b0a239de4b028ec0195e37e.html</guid>
+            <pubDate>Sat, 28 Nov 2026 00:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(有片) 樓上漏水如落雨　舊樓滲水兩年　業主：非常無奈]]></title>
+            <link>https://www.wenweipo.com/a/202611/28/AP6b098595e4b028ec0195d950.html</link>
+            <guid>https://www.wenweipo.com/a/202611/28/AP6b098595e4b028ec0195d950.html</guid>
+            <pubDate>Fri, 27 Nov 2026 16:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[古今同台 首落鵬城　典亞藝博·深圳2026正式開幕]]></title>
             <link>https://www.wenweipo.com/a/202611/27/AP6b099b22e4b028ec0195db46.html</link>
@@ -20,12 +50,6 @@
             <link>https://www.wenweipo.com/a/202611/27/AP6b0997c8e4b028ec0195db05.html</link>
             <guid>https://www.wenweipo.com/a/202611/27/AP6b0997c8e4b028ec0195db05.html</guid>
             <pubDate>Fri, 27 Nov 2026 14:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[（有片）底層技術研發到產業應用　高交會福田館展現AI創新全鏈條]]></title>
-            <link>https://www.wenweipo.com/a/202611/27/AP6b099458e4b028ec0195da95.html</link>
-            <guid>https://www.wenweipo.com/a/202611/27/AP6b099458e4b028ec0195da95.html</guid>
-            <pubDate>Fri, 27 Nov 2026 14:31:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中國航展｜專家：「戰神」轟-6K再度亮相　兼具多重意義]]></title>
@@ -40,40 +64,16 @@
             <pubDate>Fri, 27 Nov 2026 11:40:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[直‑20T首秀珠海！陸軍將亮相第十六屆中國航展　多個亮點搶先看]]></title>
-            <link>https://www.wenweipo.com/a/202611/27/AP6b09267be4b028ec0195cfd9.html</link>
-            <guid>https://www.wenweipo.com/a/202611/27/AP6b09267be4b028ec0195cfd9.html</guid>
-            <pubDate>Fri, 27 Nov 2026 06:43:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[今期「港」乜嘢 │ 前海博物館快閃遊攻略 賞國寶睇聖誕裝飾  20分鐘直達壹方城]]></title>
             <link>https://www.wenweipo.com/a/202611/27/AP6b080585e4b028ec0195b580.html</link>
             <guid>https://www.wenweipo.com/a/202611/27/AP6b080585e4b028ec0195b580.html</guid>
             <pubDate>Fri, 27 Nov 2026 04:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中九龍繞道九龍灣段下月６日早上7時開通　劃一收費8元]]></title>
-            <link>https://www.wenweipo.com/a/202611/27/AP6b08f8f8e4b028ec0195ca7d.html</link>
-            <guid>https://www.wenweipo.com/a/202611/27/AP6b08f8f8e4b028ec0195ca7d.html</guid>
-            <pubDate>Fri, 27 Nov 2026 03:28:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[今期「港」乜嘢丨大閘蟹放題平價戰！66折快閃＋加$100無限任食＋罕見白玉蟹  平靚正嘆蟹趁呢轉]]></title>
             <link>https://www.wenweipo.com/a/202611/27/AP6b081ffce4b028ec0195b874.html</link>
             <guid>https://www.wenweipo.com/a/202611/27/AP6b081ffce4b028ec0195b874.html</guid>
             <pubDate>Fri, 27 Nov 2026 03:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[數碼平台工作者補償條例草案刊憲　下月初交立法會首讀二讀]]></title>
-            <link>https://www.wenweipo.com/a/202611/27/AP6b08f0e6e4b028ec0195c8e8.html</link>
-            <guid>https://www.wenweipo.com/a/202611/27/AP6b08f0e6e4b028ec0195c8e8.html</guid>
-            <pubDate>Fri, 27 Nov 2026 02:54:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[（有片）超近距離拍攝殲-15夜間加油，霸氣場面+1]]></title>
-            <link>https://www.wenweipo.com/a/202611/26/AP6b07f80be4b028ec0195b429.html</link>
-            <guid>https://www.wenweipo.com/a/202611/26/AP6b07f80be4b028ec0195b429.html</guid>
-            <pubDate>Thu, 26 Nov 2026 09:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[今期「港」乜嘢｜中醫兩大奇病你聽過未！手臂生人面似「佛地魔」 心痛隨時痛死人！]]></title>
